@@ -1,0 +1,1164 @@
+{
+    "Districts": {
+        "Troy School District": {
+            "Niche": "https://www.niche.com/k12/d/troy-school-district-id/",
+            "Data": {
+                "Website": "https://www.sd287.k12.id.us/",
+                "Phone": "(208) 835-3791",
+                "Address": "102 WEST 5TH STREET, PO BOX 280TROY, ID 83871",
+                "Students": "298",
+                "Free or Reduced Lunch": "26.7%"
+            }
+        },
+        "Nezperce Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/nezperce-joint-school-district-id/",
+            "Data": {
+                "Website": "https://sites.google.com/nezpercesd.us/school",
+                "Phone": "(208) 937-2551",
+                "Address": "615 2ND AVENUENEZPERCE, ID 83543",
+                "Students": "157",
+                "Free or Reduced Lunch": "51.4%"
+            }
+        },
+        "McCall-Donnelly School District": {
+            "Niche": "https://www.niche.com/k12/d/mccall-donnelly-school-district-id/",
+            "Data": {
+                "Website": "https://www.mdsd.org/",
+                "Phone": "(208) 634-2161",
+                "Address": "120 IDAHO STREETMCCALL, ID 83638",
+                "Students": "1,340",
+                "Free or Reduced Lunch": "36.3%"
+            }
+        },
+        "Boise Independent School District": {
+            "Niche": "https://www.niche.com/k12/d/boise-independent-school-district-id/",
+            "Data": {
+                "Website": "https://www.boiseschools.org/",
+                "Phone": "(208) 338-3400",
+                "Address": "8169 WEST VICTORY ROADBOISE, ID 83709",
+                "Students": "23,270",
+                "Free or Reduced Lunch": "41.8%"
+            }
+        },
+        "Rockland School District": {
+            "Niche": "https://www.niche.com/k12/d/rockland-school-district-id/",
+            "Data": {
+                "Website": "https://rbulldogs.org/",
+                "Phone": "(208) 548-2221",
+                "Address": "321 EAST CENTER STREETROCKLAND, ID 83271",
+                "Students": "178",
+                "Free or Reduced Lunch": "38.7%"
+            }
+        },
+        "Moscow School District": {
+            "Niche": "https://www.niche.com/k12/d/moscow-school-district-id/",
+            "Data": {
+                "Website": "https://www.msd281.org/",
+                "Phone": "(208) 882-1120",
+                "Address": "650 NORTH CLEVELANDMOSCOW, ID 83843",
+                "Students": "2,349",
+                "Free or Reduced Lunch": "31.5%"
+            }
+        },
+        "Whitepine Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/whitepine-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.sd288.org/",
+                "Phone": "(208) 877-1408",
+                "Address": "502 FIRST AVENUEDEARY, ID 83823",
+                "Students": "196",
+                "Free or Reduced Lunch": "40.5%"
+            }
+        },
+        "Cottonwood Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/cottonwood-joint-school-district-id/",
+            "Data": {
+                "Website": "https://sd242.org/",
+                "Phone": "(208) 962-3971",
+                "Address": "1916 EAST STREETCOTTONWOOD, ID 83522",
+                "Students": "436",
+                "Free or Reduced Lunch": "36.5%"
+            }
+        },
+        "West Ada School District": {
+            "Niche": "https://www.niche.com/k12/d/west-ada-school-district-id/",
+            "Data": {
+                "Website": "https://www.westada.org",
+                "Phone": "(208) 855-4500",
+                "Address": "1303 EAST CENTRAL DRIVEMERIDIAN, ID 83642",
+                "Students": "39,332",
+                "Free or Reduced Lunch": "26.3%"
+            }
+        },
+        "Salmon River Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/salmon-river-joint-school-district-id/",
+            "Data": {
+                "Website": "https://jsd243.org/",
+                "Phone": "(208) 630-6055",
+                "Address": "711 ACE'S PLACE ROADRIGGINS, ID 83549",
+                "Students": "141",
+                "Free or Reduced Lunch": "64.5%"
+            }
+        },
+        "West Side Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/west-side-joint-school-district-id/",
+            "Data": {
+                "Website": "https://westside202.org/",
+                "Phone": "(208) 747-3502",
+                "Address": "626 NORTH WEST SIDE HIGHWAYDAYTON, ID 83232",
+                "Students": "842",
+                "Free or Reduced Lunch": "43.2%"
+            }
+        },
+        "Blaine County School District": {
+            "Niche": "https://www.niche.com/k12/d/blaine-county-school-district-id/",
+            "Data": {
+                "Website": "https://www.blaineschools.org/",
+                "Phone": "(208) 578-5000",
+                "Address": "118 WEST BULLION STREETHAILEY, ID 83333",
+                "Students": "3,247",
+                "Free or Reduced Lunch": "38.6%"
+            }
+        },
+        "Parma School District": {
+            "Niche": "https://www.niche.com/k12/d/parma-school-district-id/",
+            "Data": {
+                "Website": "https://www.parmaschools.org/",
+                "Phone": "(208) 722-4069",
+                "Address": "805 EAST MCCONNELLPARMA, ID 83660",
+                "Students": "1,014",
+                "Free or Reduced Lunch": "60.5%"
+            }
+        },
+        "Genesee Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/genesee-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.sd282.org/",
+                "Phone": "(208) 285-1161",
+                "Address": "330 WEST ASH STREETGENESEE, ID 83832",
+                "Students": "307",
+                "Free or Reduced Lunch": "18.8%"
+            }
+        },
+        "Pocatello School District": {
+            "Niche": "https://www.niche.com/k12/d/pocatello-school-district-id/",
+            "Data": {
+                "Website": "https://www.sd25.us/",
+                "Phone": "(208) 232-3563",
+                "Address": "3115 POLE LINE ROADPOCATELLO, ID 83201",
+                "Students": "11,996",
+                "Free or Reduced Lunch": "48.1%"
+            }
+        },
+        "Grace Joint School District #148": {
+            "Niche": "https://www.niche.com/k12/d/grace-joint-school-district-148-id/",
+            "Data": {
+                "Website": "https://www.sd148.org/",
+                "Phone": "(208) 425-3984",
+                "Address": "605 SOUTH 4TH WESTGRACE, ID 83241",
+                "Students": "527",
+                "Free or Reduced Lunch": "48.6%"
+            }
+        },
+        "Sugar-Salem Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/sugar-salem-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.sugarsalem.org/",
+                "Phone": "(208) 356-8802",
+                "Address": "105 WEST CENTER STREETSUGAR CITY, ID 83448",
+                "Students": "1,609",
+                "Free or Reduced Lunch": "41.8%"
+            }
+        },
+        "South Lemhi School District": {
+            "Niche": "https://www.niche.com/k12/d/south-lemhi-school-district-id/",
+            "Data": {
+                "Website": "https://www.leadoreschool.org/",
+                "Phone": "(208) 768-2441",
+                "Address": "111 SOUTH THIRD STREETLEADORE, ID 83464",
+                "Students": "119",
+                "Free or Reduced Lunch": "52.9%"
+            }
+        },
+        "Coeur d'Alene School District": {
+            "Niche": "https://www.niche.com/k12/d/coeur-dalene-school-district-id/",
+            "Data": {
+                "Website": "https://www.cdaschools.org/",
+                "Phone": "(208) 664-8241",
+                "Address": "1400 N NORTHWOOD CENTER COURTCOEUR D'ALENE, ID 83814",
+                "Students": "10,172",
+                "Free or Reduced Lunch": "39.3%"
+            }
+        },
+        "Madison School District": {
+            "Niche": "https://www.niche.com/k12/d/madison-school-district-id/",
+            "Data": {
+                "Website": "https://www.msd321.com/",
+                "Phone": "(208) 359-3300",
+                "Address": "60 WEST MAINREXBURG, ID 83440",
+                "Students": "5,765",
+                "Free or Reduced Lunch": "36.4%"
+            }
+        },
+        "Garden Valley School District": {
+            "Niche": "https://www.niche.com/k12/d/garden-valley-school-district-id/",
+            "Data": {
+                "Website": "https://www.gvsd.net/",
+                "Phone": "(208) 462-3756",
+                "Address": "1053 BANKS LOWMAN RDGARDEN VALLEY, ID 83622",
+                "Students": "294",
+                "Free or Reduced Lunch": "52.5%"
+            }
+        },
+        "Murtaugh Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/murtaugh-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.murtaugh.k12.id.us/",
+                "Phone": "(208) 432-5451",
+                "Address": "500 WEST BOYD STREETMURTAUGH, ID 83344",
+                "Students": "389",
+                "Free or Reduced Lunch": "72.3%"
+            }
+        },
+        "Lakeland School District": {
+            "Niche": "https://www.niche.com/k12/d/lakeland-school-district-id/",
+            "Data": {
+                "Website": "https://www.sd272.org/",
+                "Phone": "(208) 687-0431",
+                "Address": "15506 NORTH WASHINGTON STREETRATHDRUM, ID 83858",
+                "Students": "4,648",
+                "Free or Reduced Lunch": "42.6%"
+            }
+        },
+        "Lake Pend Oreille School District": {
+            "Niche": "https://www.niche.com/k12/d/lake-pend-oreille-school-district-id/",
+            "Data": {
+                "Website": "https://www.lposd.org/",
+                "Phone": "(208) 263-2184",
+                "Address": "920 TRIANGLE DRIVEPONDERAY, ID 83852",
+                "Students": "3,749",
+                "Free or Reduced Lunch": "42.6%"
+            }
+        },
+        "Meadows Valley School District": {
+            "Niche": "https://www.niche.com/k12/d/meadows-valley-school-district-id/",
+            "Data": {
+                "Website": "https://mvsd11.org/",
+                "Phone": "(208) 347-2411",
+                "Address": "500 NORTH MILLER AVENUENEW MEADOWS, ID 83654",
+                "Students": "153",
+                "Free or Reduced Lunch": "64.8%"
+            }
+        },
+        "Fremont County Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/fremont-county-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.sd215.net/",
+                "Phone": "(208) 624-7542",
+                "Address": "945 WEST 1ST NORTHST ANTHONY, ID 83445",
+                "Students": "2,215",
+                "Free or Reduced Lunch": "52%"
+            }
+        },
+        "Marsh Valley Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/marsh-valley-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.mvsd21.org/",
+                "Phone": "(208) 254-3306",
+                "Address": "40 SCHOOL STREETARIMO, ID 83214",
+                "Students": "1,250",
+                "Free or Reduced Lunch": "39.3%"
+            }
+        },
+        "Vallivue School District": {
+            "Niche": "https://www.niche.com/k12/d/vallivue-school-district-id/",
+            "Data": {
+                "Website": "https://www.vallivue.org/",
+                "Phone": "(208) 454-0445",
+                "Address": "5207 SOUTH MONTANA AVENUECALDWELL, ID 83607",
+                "Students": "9,653",
+                "Free or Reduced Lunch": "61.5%"
+            }
+        },
+        "Middleton School District": {
+            "Niche": "https://www.niche.com/k12/d/middleton-school-district-id/",
+            "Data": {
+                "Website": "https://www.msd134.org/",
+                "Phone": "(208) 585-3027",
+                "Address": "5 SOUTH VIKING AVENUEMIDDLETON, ID 83644",
+                "Students": "4,138",
+                "Free or Reduced Lunch": "46.4%"
+            }
+        },
+        "West Jefferson School District": {
+            "Niche": "https://www.niche.com/k12/d/west-jefferson-school-district-id/",
+            "Data": {
+                "Website": "https://www.wjsd.org/",
+                "Phone": "(208) 663-4542",
+                "Address": "1256 EAST 1500 NORTHTERRETON, ID 83450",
+                "Students": "619",
+                "Free or Reduced Lunch": "52.2%"
+            }
+        },
+        "Horseshoe Bend School District": {
+            "Niche": "https://www.niche.com/k12/d/horseshoe-bend-school-district-id/",
+            "Data": {
+                "Website": "https://www.hsbschools.org/",
+                "Phone": "(208) 793-2225",
+                "Address": "398 SCHOOL DRIVEHORSESHOE BEND, ID 83629",
+                "Students": "257",
+                "Free or Reduced Lunch": "43.8%"
+            }
+        },
+        "Kootenai School District": {
+            "Niche": "https://www.niche.com/k12/d/kootenai-school-district-id/",
+            "Data": {
+                "Website": "https://www.sd274.com/",
+                "Phone": "(208) 689-3631",
+                "Address": "13030 EAST OGARA ROADHARRISON, ID 83833",
+                "Students": "184",
+                "Free or Reduced Lunch": "48.3%"
+            }
+        },
+        "Valley School District": {
+            "Niche": "https://www.niche.com/k12/d/valley-school-district-id/",
+            "Data": {
+                "Website": "https://www.valley262.org/",
+                "Phone": "(208) 829-5333",
+                "Address": "882 VALLEY ROAD SOUTHHAZELTON, ID 83335",
+                "Students": "551",
+                "Free or Reduced Lunch": "65.2%"
+            }
+        },
+        "Weiser School District": {
+            "Niche": "https://www.niche.com/k12/d/weiser-school-district-id/",
+            "Data": {
+                "Website": "https://www.weiserschools.org/",
+                "Phone": "(208) 414-0616",
+                "Address": "925 PIONEER ROADWEISER, ID 83672",
+                "Students": "1,492",
+                "Free or Reduced Lunch": "54.1%"
+            }
+        },
+        "Melba Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/melba-joint-school-district-id/",
+            "Data": {
+                "Website": "https://msd136.org/",
+                "Phone": "(208) 495-1141",
+                "Address": "511 BROADWAY AVENUEMELBA, ID 83641",
+                "Students": "854",
+                "Free or Reduced Lunch": "48.4%"
+            }
+        },
+        "Marsing Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/marsing-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.marsingschools.org/",
+                "Phone": "(208) 896-4111",
+                "Address": "209 8TH AVENUE WESTMARSING, ID 83639",
+                "Students": "867",
+                "Free or Reduced Lunch": "68.4%"
+            }
+        },
+        "Wallace School District": {
+            "Niche": "https://www.niche.com/k12/d/wallace-school-district-id/",
+            "Data": {
+                "Website": "https://www.wsd393.org/",
+                "Phone": "(208) 753-4515",
+                "Address": "501 WESTERN AVENUESILVERTON, ID 83867",
+                "Students": "526",
+                "Free or Reduced Lunch": "50.4%"
+            }
+        },
+        "Basin School District": {
+            "Niche": "https://www.niche.com/k12/d/basin-school-district-id/",
+            "Data": {
+                "Website": "https://basinschools.net/",
+                "Phone": "(208) 392-4183",
+                "Address": "100 CENTERVILLE ROADIDAHO CITY, ID 83631",
+                "Students": "366",
+                "Free or Reduced Lunch": "40.5%"
+            }
+        },
+        "New Plymouth School District": {
+            "Niche": "https://www.niche.com/k12/d/new-plymouth-school-district-id/",
+            "Data": {
+                "Website": "https://www.npschools.us/",
+                "Phone": "(208) 278-5740",
+                "Address": "103 SE AVENUENEW PLYMOUTH, ID 83655",
+                "Students": "976",
+                "Free or Reduced Lunch": "44.1%"
+            }
+        },
+        "Fruitland School District": {
+            "Niche": "https://www.niche.com/k12/d/fruitland-school-district-id/",
+            "Data": {
+                "Website": "https://fruitlandschools.org/",
+                "Phone": "(208) 452-3595",
+                "Address": "401 IOWA AVENUEFRUITLAND, ID 83619",
+                "Students": "1,629",
+                "Free or Reduced Lunch": "43.7%"
+            }
+        },
+        "Kimberly School District": {
+            "Niche": "https://www.niche.com/k12/d/kimberly-school-district-id/",
+            "Data": {
+                "Website": "https://www.kimberly.edu/",
+                "Phone": "(208) 423-4170",
+                "Address": "141 CENTER STREET WESTKIMBERLY, ID 83341",
+                "Students": "2,072",
+                "Free or Reduced Lunch": "33.1%"
+            }
+        },
+        "Post Falls School District": {
+            "Niche": "https://www.niche.com/k12/d/post-falls-school-district-id/",
+            "Data": {
+                "Website": "https://www.pfsd.com/",
+                "Phone": "(208) 773-1658",
+                "Address": "206 WEST MULLAN AVENUEPOST FALLS, ID 83877",
+                "Students": "6,154",
+                "Free or Reduced Lunch": "45.8%"
+            }
+        },
+        "Twin Falls School District": {
+            "Niche": "https://www.niche.com/k12/d/twin-falls-school-district-id/",
+            "Data": {
+                "Website": "https://www.tfsd.org/",
+                "Phone": "(208) 733-6900",
+                "Address": "201 MAIN AVENUE WESTTWIN FALLS, ID 83301",
+                "Students": "9,399",
+                "Free or Reduced Lunch": "51.9%"
+            }
+        },
+        "St. Maries Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/st-maries-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.sd41.org/",
+                "Phone": "(208) 245-2579",
+                "Address": "720 MAIN AVENUEST MARIES, ID 83861",
+                "Students": "928",
+                "Free or Reduced Lunch": "52.2%"
+            }
+        },
+        "Midvale School District": {
+            "Niche": "https://www.niche.com/k12/d/midvale-school-district-id/",
+            "Data": {
+                "Website": "http://www.midvaleschools.org/",
+                "Phone": "(208) 355-2678",
+                "Address": "56 NORTH SCHOOL ROADMIDVALE, ID 83645",
+                "Students": "136",
+                "Free or Reduced Lunch": "59%"
+            }
+        },
+        "Snake River School District": {
+            "Niche": "https://www.niche.com/k12/d/snake-river-school-district-id/",
+            "Data": {
+                "Website": "https://snakeriver.org/",
+                "Phone": "(208) 684-3001",
+                "Address": "103 SOUTH 900 WESTBLACKFOOT, ID 83221",
+                "Students": "2,822",
+                "Free or Reduced Lunch": "42.2%"
+            }
+        },
+        "Bonneville Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/bonneville-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.d93schools.org/",
+                "Phone": "(208) 525-4400",
+                "Address": "3497 NORTH AMMON ROADIDAHO FALLS, ID 83401",
+                "Students": "13,485",
+                "Free or Reduced Lunch": "40.8%"
+            }
+        },
+        "Lewiston Independent School District": {
+            "Niche": "https://www.niche.com/k12/d/lewiston-independent-school-district-id/",
+            "Data": {
+                "Website": "https://www.lewistonschools.net/",
+                "Phone": "(208) 748-3000",
+                "Address": "3317 12TH STREETLEWISTON, ID 83501",
+                "Students": "4,734",
+                "Free or Reduced Lunch": "34.3%"
+            }
+        },
+        "Idaho Bureau of Educational Services for the Deaf & the Blind": {
+            "Niche": "https://www.niche.com/k12/d/idaho-bureau-of-educational-services-for-the-deaf-and-the-blind-id/",
+            "Data": {
+                "Website": "https://www.iesdb.org",
+                "Phone": "(208) 934-4457",
+                "Address": "1450 MAIN STREETGOODING, ID 83330",
+                "Students": "111",
+                "Free or Reduced Lunch": "73%"
+            }
+        },
+        "Hagerman Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/hagerman-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.hjsd.org/",
+                "Phone": "(208) 837-4777",
+                "Address": "324 NORTH 2ND AVENUEHAGERMAN, ID 83332",
+                "Students": "369",
+                "Free or Reduced Lunch": "60.4%"
+            }
+        },
+        "Ririe Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/ririe-joint-school-district-id/",
+            "Data": {
+                "Website": "https://sites.google.com/ririe252.org/ririeschooldistrict252/home",
+                "Phone": "(208) 538-7482",
+                "Address": "260 1ST WESTRIRIE, ID 83443",
+                "Students": "725",
+                "Free or Reduced Lunch": "40.4%"
+            }
+        },
+        "Dietrich School District": {
+            "Niche": "https://www.niche.com/k12/d/dietrich-school-district-id/",
+            "Data": {
+                "Website": "https://district.dietrichschools.org/",
+                "Phone": "(208) 544-2158",
+                "Address": "406 NORTH PARK STREETDIETRICH, ID 83324",
+                "Students": "211",
+                "Free or Reduced Lunch": "63.6%"
+            }
+        },
+        "Notus School District": {
+            "Niche": "https://www.niche.com/k12/d/notus-school-district-id/",
+            "Data": {
+                "Website": "https://www.notusschools.org/",
+                "Phone": "(208) 459-7442",
+                "Address": "25260 NOTUS ROADCALDWELL, ID 83607",
+                "Students": "314",
+                "Free or Reduced Lunch": "55.5%"
+            }
+        },
+        "Bliss Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/bliss-joint-school-district-id/",
+            "Data": {
+                "Website": "https://bliss234.org/",
+                "Phone": "(208) 352-4447",
+                "Address": "EAST MAIN STREETBLISS, ID 83314",
+                "Students": "105",
+                "Free or Reduced Lunch": "82.9%"
+            }
+        },
+        "Castleford School District": {
+            "Niche": "https://www.niche.com/k12/d/castleford-school-district-id/",
+            "Data": {
+                "Website": "https://castlefordschools.wordpress.com/",
+                "Phone": "(208) 537-6511",
+                "Address": "500 MAIN STREETCASTLEFORD, ID 83321",
+                "Students": "305",
+                "Free or Reduced Lunch": "58%"
+            }
+        },
+        "Mullan School District": {
+            "Niche": "https://www.niche.com/k12/d/mullan-school-district-id/",
+            "Data": {
+                "Website": "http://www.mullanschools.com",
+                "Phone": "(208) 744-1118",
+                "Address": "345 PARK AVENUEMULLAN, ID 83846",
+                "Students": "95",
+                "Free or Reduced Lunch": "48.5%"
+            }
+        },
+        "American Falls Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/american-falls-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.sd381.k12.id.us/",
+                "Phone": "(208) 226-5173",
+                "Address": "827 FORT HALL AVENUEAMERICAN FALLS, ID 83211",
+                "Students": "1,589",
+                "Free or Reduced Lunch": "69.1%"
+            }
+        },
+        "Hansen School District": {
+            "Niche": "https://www.niche.com/k12/d/hansen-school-district-id/",
+            "Data": {
+                "Website": "https://www.hansenschools.org/",
+                "Phone": "(208) 423-6387",
+                "Address": "550 MAIN STREETHANSEN, ID 83334",
+                "Students": "347",
+                "Free or Reduced Lunch": "72.4%"
+            }
+        },
+        "Bear Lake County School District": {
+            "Niche": "https://www.niche.com/k12/d/bear-lake-county-school-district-id/",
+            "Data": {
+                "Website": "https://www.blsd.net/",
+                "Phone": "(208) 945-2891",
+                "Address": "39 FIELDING STREETPARIS, ID 83261",
+                "Students": "1,441",
+                "Free or Reduced Lunch": "47%"
+            }
+        },
+        "North Gem School District": {
+            "Niche": "https://www.niche.com/k12/d/north-gem-school-district-id/",
+            "Data": {
+                "Website": "https://www.sd149.com/",
+                "Phone": "(208) 648-7848",
+                "Address": "360 SOUTH MAIN STREETBANCROFT, ID 83217",
+                "Students": "131",
+                "Free or Reduced Lunch": "39.5%"
+            }
+        },
+        "Idaho Falls School District": {
+            "Niche": "https://www.niche.com/k12/d/idaho-falls-school-district-id/",
+            "Data": {
+                "Website": "https://www.ifschools.org/",
+                "Phone": "(208) 525-7500",
+                "Address": "690 JOHN ADAMS PARKWAYIDAHO FALLS, ID 83401",
+                "Students": "10,188",
+                "Free or Reduced Lunch": "48.5%"
+            }
+        },
+        "Cassia County Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/cassia-county-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.cassiaschools.org",
+                "Phone": "(208) 878-6600",
+                "Address": "3650 OVERLAND AVENUEBURLEY, ID 83318",
+                "Students": "5,532",
+                "Free or Reduced Lunch": "55.3%"
+            }
+        },
+        "Cambridge Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/cambridge-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.cambridge432.org",
+                "Phone": "(208) 257-3321",
+                "Address": "40 NORTH 4TH STREETCAMBRIDGE, ID 83610",
+                "Students": "176",
+                "Free or Reduced Lunch": "58.5%"
+            }
+        },
+        "Jefferson County Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/jefferson-county-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.jeffersonsd251.org/",
+                "Phone": "(208) 745-6693",
+                "Address": "3850 E 300 NRIGBY, ID 83442",
+                "Students": "6,573",
+                "Free or Reduced Lunch": "39.1%"
+            }
+        },
+        "Teton County School District": {
+            "Niche": "https://www.niche.com/k12/d/teton-county-school-district-id/",
+            "Data": {
+                "Website": "https://tsd401.org/",
+                "Phone": "(208) 354-2207",
+                "Address": "210 NORTH MAINDRIGGS, ID 83422",
+                "Students": "1,853",
+                "Free or Reduced Lunch": "38%"
+            }
+        },
+        "Richfield School District": {
+            "Niche": "https://www.niche.com/k12/d/richfield-school-district-id/",
+            "Data": {
+                "Website": "https://www.richfieldsd.org/",
+                "Phone": "(208) 487-2790",
+                "Address": "555 NORTH TIGER DRIVERICHFIELD, ID 83349",
+                "Students": "191",
+                "Free or Reduced Lunch": "66.4%"
+            }
+        },
+        "Shelley Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/shelley-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.shelleyschools.org/",
+                "Phone": "(208) 357-3411",
+                "Address": "545 SEMINARY AVENUESHELLEY, ID 83274",
+                "Students": "2,440",
+                "Free or Reduced Lunch": "42.7%"
+            }
+        },
+        "Mackay Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/mackay-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.mackayschools.org/",
+                "Phone": "(208) 588-2896",
+                "Address": "400 EAST SPRUCE STREETMACKAY, ID 83251",
+                "Students": "242",
+                "Free or Reduced Lunch": "46.1%"
+            }
+        },
+        "Highland Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/highland-joint-school-district-id/",
+            "Data": {
+                "Website": "http://www.sd305.org/",
+                "Phone": "(208) 924-5211",
+                "Address": "112 BOULEVARDCRAIGMONT, ID 83523",
+                "Students": "173",
+                "Free or Reduced Lunch": "50.6%"
+            }
+        },
+        "Filer School District": {
+            "Niche": "https://www.niche.com/k12/d/filer-school-district-id/",
+            "Data": {
+                "Website": "http://www.filer.k12.id.us/",
+                "Phone": "(208) 326-5981",
+                "Address": "700 B STEVENS AVENUEFILER, ID 83328",
+                "Students": "1,605",
+                "Free or Reduced Lunch": "42.7%"
+            }
+        },
+        "Firth School District": {
+            "Niche": "https://www.niche.com/k12/d/firth-school-district-id/",
+            "Data": {
+                "Website": "https://sites.google.com/d59.k12.id.us/fsd/our-district",
+                "Phone": "(208) 346-6815",
+                "Address": "319 LINCOLN STREETFIRTH, ID 83236",
+                "Students": "870",
+                "Free or Reduced Lunch": "43.7%"
+            }
+        },
+        "Nampa School District": {
+            "Niche": "https://www.niche.com/k12/d/nampa-school-district-id/",
+            "Data": {
+                "Website": "https://www.nsd131.org",
+                "Phone": "(208) 468-4600",
+                "Address": "619 SOUTH CANYON STREETNAMPA, ID 83686",
+                "Students": "13,642",
+                "Free or Reduced Lunch": "59.2%"
+            }
+        },
+        "Blackfoot School District": {
+            "Niche": "https://www.niche.com/k12/d/blackfoot-school-district-id/",
+            "Data": {
+                "Website": "https://www.d55.k12.id.us/",
+                "Phone": "(208) 785-8800",
+                "Address": "270 EAST BRIDGE STREETBLACKFOOT, ID 83221",
+                "Students": "3,952",
+                "Free or Reduced Lunch": "54.6%"
+            }
+        },
+        "Kendrick Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/kendrick-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.dist283.org/",
+                "Phone": "(208) 289-4211",
+                "Address": "202 BEAR CREEK ROADKENDRICK, ID 83537",
+                "Students": "254",
+                "Free or Reduced Lunch": "42.9%"
+            }
+        },
+        "Council School District": {
+            "Niche": "https://www.niche.com/k12/d/council-school-district-id/",
+            "Data": {
+                "Website": "https://www.csd13.org",
+                "Phone": "(208) 253-4217",
+                "Address": "101 EAST BLEEKER AVENUECOUNCIL, ID 83612",
+                "Students": "327",
+                "Free or Reduced Lunch": "55.9%"
+            }
+        },
+        "Culdesac Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/culdesac-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.culsch.org/",
+                "Phone": "(208) 843-5413",
+                "Address": "600 CULDESAC AVENUECULDESAC, ID 83524",
+                "Students": "116",
+                "Free or Reduced Lunch": "69.7%"
+            }
+        },
+        "McCurtain Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/mccurtain-public-schools-ok/",
+            "Data": {
+                "Website": "http://www.mccurtain.k12.ok.us",
+                "Phone": "(918) 945-7237",
+                "Address": "HWY 26 & COLE STREETMCCURTAIN, OK 74944",
+                "Students": "240",
+                "Free or Reduced Lunch": "71.6%"
+            }
+        },
+        "Clark County School District": {
+            "Niche": "https://www.niche.com/k12/d/clark-county-school-district-id/",
+            "Data": {
+                "Website": "https://www.clarkcountyschools161.org/",
+                "Phone": "(208) 374-5215",
+                "Address": "137 WEST 2ND SOUTHDUBOIS, ID 83423",
+                "Students": "121",
+                "Free or Reduced Lunch": "79.4%"
+            }
+        },
+        "Mountain Home School District": {
+            "Niche": "https://www.niche.com/k12/d/mountain-home-school-district-id/",
+            "Data": {
+                "Website": "https://www.mtnhomesd.org/",
+                "Phone": "(208) 587-2580",
+                "Address": "470 NORTH 3RD EASTMOUNTAIN HOME, ID 83647",
+                "Students": "3,715",
+                "Free or Reduced Lunch": "49%"
+            }
+        },
+        "Kamiah Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/kamiah-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.kamiah.org/",
+                "Phone": "(208) 935-2991",
+                "Address": "1102 HILL STREETKAMIAH, ID 83536",
+                "Students": "402",
+                "Free or Reduced Lunch": "65.6%"
+            }
+        },
+        "Soda Springs Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/soda-springs-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.sodaschools.org/",
+                "Phone": "(208) 547-3371",
+                "Address": "250 EAST 2ND SOUTHSODA SPRINGS, ID 83276",
+                "Students": "922",
+                "Free or Reduced Lunch": "33.1%"
+            }
+        },
+        "Idaho Virtual Academy": {
+            "Niche": "https://www.niche.com/k12/d/idaho-virtual-academy-id/",
+            "Data": {
+                "Website": "https://idva.k12.com/",
+                "Phone": "(208) 322-3559",
+                "Address": "1965 SOUTH EAGLE ROAD SUITE 1MERIDIAN, ID 83642",
+                "Students": "2,135",
+                "Free or Reduced Lunch": "56.4%"
+            }
+        },
+        "Camas County School District": {
+            "Niche": "https://www.niche.com/k12/d/camas-county-school-district-id/",
+            "Data": {
+                "Website": "https://www.camascountyschools.org/",
+                "Phone": "(208) 764-2625",
+                "Address": "610 SOLDIER ROADFAIRFIELD, ID 83327",
+                "Students": "178",
+                "Free or Reduced Lunch": "40.3%"
+            }
+        },
+        "Kellogg Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/kellogg-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.kelloggschools.org/",
+                "Phone": "(208) 784-1348",
+                "Address": "800 BUNKER AVENUEKELLOGG, ID 83837",
+                "Students": "1,151",
+                "Free or Reduced Lunch": "52.4%"
+            }
+        },
+        "Idaho Virtual Education Partners": {
+            "Niche": "https://www.niche.com/k12/d/idaho-virtual-education-partners-id/",
+            "Data": {
+                "Website": "https://www.iconschool.org/",
+                "Phone": "(208) 345-2909",
+                "Address": "1012 NORTH 18TH STREETBOISE, ID 83702",
+                "Students": "214",
+                "Free or Reduced Lunch": "56.2%"
+            }
+        },
+        "Preston Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/preston-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.prestonidahoschools.org/",
+                "Phone": "(208) 852-0283",
+                "Address": "120 EAST 2ND SOUTH STREETPRESTON, ID 83263",
+                "Students": "2,456",
+                "Free or Reduced Lunch": "41.5%"
+            }
+        },
+        "Boundary County School District": {
+            "Niche": "https://www.niche.com/k12/d/boundary-county-school-district-id/",
+            "Data": {
+                "Website": "https://www.bcsd101.com",
+                "Phone": "(208) 267-3146",
+                "Address": "7188 OAK STREETBONNERS FERRY, ID 83805",
+                "Students": "1,430",
+                "Free or Reduced Lunch": "55.3%"
+            }
+        },
+        "Emmett Independent School District": {
+            "Niche": "https://www.niche.com/k12/d/emmett-independent-school-district-id/",
+            "Data": {
+                "Website": "https://www.emmettschools.org/",
+                "Phone": "(208) 365-6301",
+                "Address": "601 EAST THIRD STREETEMMETT, ID 83617",
+                "Students": "2,589",
+                "Free or Reduced Lunch": "54.4%"
+            }
+        },
+        "Aberdeen School District": {
+            "Niche": "https://www.niche.com/k12/d/aberdeen-school-district-id/",
+            "Data": {
+                "Website": "https://asd58.us/",
+                "Phone": "(208) 397-4113",
+                "Address": "318 WEST WASHINGTONABERDEEN, ID 83210",
+                "Students": "690",
+                "Free or Reduced Lunch": "74.7%"
+            }
+        },
+        "Oneida County School District": {
+            "Niche": "https://www.niche.com/k12/d/oneida-county-school-district-id/",
+            "Data": {
+                "Website": "https://www.oneidaschooldistrict.org/",
+                "Phone": "(208) 766-4701",
+                "Address": "195 SOUTH 300 EASTMALAD, ID 83252",
+                "Students": "6,898",
+                "Free or Reduced Lunch": "35.7%"
+            }
+        },
+        "Inspire Academics": {
+            "Niche": "https://www.niche.com/k12/d/inspire-academics-id/",
+            "Data": {
+                "Website": "https://www.connectionsacademy.com/idaho-online-school/",
+                "Phone": "(208) 322-4002",
+                "Address": "600 NORTH STEELHEAD WAY BUILDBOISE, ID 83702",
+                "Students": "1,494",
+                "Free or Reduced Lunch": "44.9%"
+            }
+        },
+        "Gooding Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/gooding-joint-school-district-id/",
+            "Data": {
+                "Website": "https://gsd231.org/",
+                "Phone": "(208) 934-4321",
+                "Address": "1050 7TH AVENUE WESTGOODING, ID 83330",
+                "Students": "1,290",
+                "Free or Reduced Lunch": "58.7%"
+            }
+        },
+        "Orofino Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/orofino-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.sd171.k12.id.us/",
+                "Phone": "(208) 476-5593",
+                "Address": "1051 MICHIGANOROFINO, ID 83544",
+                "Students": "1,049",
+                "Free or Reduced Lunch": "56.6%"
+            }
+        },
+        "Minidoka County Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/minidoka-county-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.minidokaschools.org",
+                "Phone": "(208) 436-4727",
+                "Address": "310 10TH STREETRUPERT, ID 83350",
+                "Students": "4,464",
+                "Free or Reduced Lunch": "99.2%"
+            }
+        },
+        "Homedale Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/homedale-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.homedaleschools.org/",
+                "Phone": "(208) 337-4611",
+                "Address": "116 EAST OWYHEE AVENUEHOMEDALE, ID 83628",
+                "Students": "1,277",
+                "Free or Reduced Lunch": "65.9%"
+            }
+        },
+        "Butte County Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/butte-county-joint-school-district-id/",
+            "Data": {
+                "Website": "https://buttecountyschools.sharpschool.com/",
+                "Phone": "(208) 690-3410",
+                "Address": "246 SUNSET DRIVEARCO, ID 83213",
+                "Students": "389",
+                "Free or Reduced Lunch": "41.8%"
+            }
+        },
+        "Buhl Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/buhl-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.buhlschools.org/",
+                "Phone": "(208) 543-6436",
+                "Address": "920 MAIN STREETBUHL, ID 83316",
+                "Students": "1,303",
+                "Free or Reduced Lunch": "67.2%"
+            }
+        },
+        "Cascade School District": {
+            "Niche": "https://www.niche.com/k12/d/cascade-school-district-id/",
+            "Data": {
+                "Website": "https://www.cascadeschools.org/",
+                "Phone": "(208) 630-6057",
+                "Address": "209 NORTH SCHOOL STREETCASCADE, ID 83611",
+                "Students": "221",
+                "Free or Reduced Lunch": "43.6%"
+            }
+        },
+        "Kuna Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/kuna-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.kunaschools.org/",
+                "Phone": "(208) 922-1000",
+                "Address": "711 EAST PORTER ROADKUNA, ID 83634",
+                "Students": "5,740",
+                "Free or Reduced Lunch": "40.7%"
+            }
+        },
+        "Potlatch School District": {
+            "Niche": "https://www.niche.com/k12/d/potlatch-school-district-id/",
+            "Data": {
+                "Website": "https://www.psd285.org/",
+                "Phone": "(208) 875-0327",
+                "Address": "635 PINE STREETPOTLATCH, ID 83855",
+                "Students": "470",
+                "Free or Reduced Lunch": "38.3%"
+            }
+        },
+        "Mountain View School District": {
+            "Niche": "https://www.niche.com/k12/d/mountain-view-school-district-id/",
+            "Data": {
+                "Website": "https://sd244.org/",
+                "Phone": "(208) 983-0990",
+                "Address": "714 JEFFERSON STREETGRANGEVILLE, ID 83530",
+                "Students": "1,163",
+                "Free or Reduced Lunch": "50%"
+            }
+        },
+        "Glenns Ferry Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/glenns-ferry-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.glennsferryschools.org/",
+                "Phone": "(208) 366-7436",
+                "Address": "800 OLD HIGHWAY 30GLENNS FERRY, ID 83623",
+                "Students": "401",
+                "Free or Reduced Lunch": "71.4%"
+            }
+        },
+        "Salmon School District": {
+            "Niche": "https://www.niche.com/k12/d/salmon-school-district-id/",
+            "Data": {
+                "Website": "https://www.salmonschools.com/",
+                "Phone": "(208) 756-4271",
+                "Address": "1501 BEAN LANESALMON, ID 83467",
+                "Students": "668",
+                "Free or Reduced Lunch": "50.8%"
+            }
+        },
+        "Shoshone Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/shoshone-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.shoshonesd.org/",
+                "Phone": "(208) 886-2338",
+                "Address": "61 EAST HIGHWAY 24SHOSHONE, ID 83352",
+                "Students": "521",
+                "Free or Reduced Lunch": "67.2%"
+            }
+        },
+        "Isucceed Virtual High School": {
+            "Niche": "https://www.niche.com/k12/d/isucceed-virtual-high-school-id/",
+            "Data": {
+                "Website": "https://isucceedvhs.net/",
+                "Phone": "(208) 375-3116",
+                "Address": "6148 NORTH DISCOVERY WAY SUITBOISE, ID 83713",
+                "Students": "887",
+                "Free or Reduced Lunch": "60.8%"
+            }
+        },
+        "Caldwell School District": {
+            "Niche": "https://www.niche.com/k12/d/caldwell-school-district-id/",
+            "Data": {
+                "Website": "https://www.caldwellschools.org/",
+                "Phone": "(208) 455-3300",
+                "Address": "1502 FILLMORE STREETCALDWELL, ID 83605",
+                "Students": "5,627",
+                "Free or Reduced Lunch": "84.1%"
+            }
+        },
+        "Bruneau-Grand View Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/bruneau-grand-view-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.sd365.us/",
+                "Phone": "(208) 834-2260",
+                "Address": "39678 STATE HIGHWAY 78BRUNEAU, ID 83604",
+                "Students": "314",
+                "Free or Reduced Lunch": "68.4%"
+            }
+        },
+        "West Bonner County School District": {
+            "Niche": "https://www.niche.com/k12/d/west-bonner-county-school-district-id/",
+            "Data": {
+                "Website": "https://www.sd83.org/",
+                "Phone": "(208) 448-4439",
+                "Address": "221 MAIN STREETPRIEST RIVER, ID 83856",
+                "Students": "1,060",
+                "Free or Reduced Lunch": "56.6%"
+            }
+        },
+        "Richard McKenna Charter Schools": {
+            "Niche": "https://www.niche.com/k12/d/richard-mckenna-charter-schools-id/",
+            "Data": {
+                "Website": "https://www.rmckenna.org/",
+                "Phone": "(208) 580-2449",
+                "Address": "675 SOUTH HASKETT STREETMOUNTAIN HOME, ID 83647",
+                "Students": "600",
+                "Free or Reduced Lunch": "22.1%"
+            }
+        },
+        "Plummer-Worley Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/plummer-worley-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.pwsd44.com/",
+                "Phone": "(208) 686-1621",
+                "Address": "1255 E STREETPLUMMER, ID 83851",
+                "Students": "386",
+                "Free or Reduced Lunch": "78.3%"
+            }
+        },
+        "Lapwai School District": {
+            "Niche": "https://www.niche.com/k12/d/lapwai-school-district-id/",
+            "Data": {
+                "Website": "http://www.lapwai.org/",
+                "Phone": "(208) 843-2622",
+                "Address": "404 SOUTH MAIN STREETLAPWAI, ID 83540",
+                "Students": "517",
+                "Free or Reduced Lunch": "81%"
+            }
+        },
+        "Payette Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/payette-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.payetteschools.org",
+                "Phone": "(208) 642-9366",
+                "Address": "20 NORTH 12TH STREETPAYETTE, ID 83661",
+                "Students": "1,317",
+                "Free or Reduced Lunch": "71.7%"
+            }
+        },
+        "Jerome Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/jerome-joint-school-district-id/",
+            "Data": {
+                "Website": "http://www.jeromeschools.org",
+                "Phone": "(208) 324-2392",
+                "Address": "125 4TH AVENUE WESTJEROME, ID 83338",
+                "Students": "4,152",
+                "Free or Reduced Lunch": "64.1%"
+            }
+        },
+        "Wilder School District": {
+            "Niche": "https://www.niche.com/k12/d/wilder-school-district-id/",
+            "Data": {
+                "Website": "https://www.wilderschools.org/",
+                "Phone": "(208) 482-6228",
+                "Address": "210 A AVENUE EASTWILDER, ID 83676",
+                "Students": "492",
+                "Free or Reduced Lunch": "100%"
+            }
+        },
+        "Challis Joint School District": {
+            "Niche": "https://www.niche.com/k12/d/challis-joint-school-district-id/",
+            "Data": {
+                "Website": "https://www.d181.k12.id.us/",
+                "Phone": "(208) 879-4231",
+                "Address": "721 EAST MAIN AVENUE SUITE 6CHALLIS, ID 83226",
+                "Students": "338",
+                "Free or Reduced Lunch": "40.8%"
+            }
+        },
+        "Wendell School District": {
+            "Niche": "https://www.niche.com/k12/d/wendell-school-district-id/",
+            "Data": {
+                "Website": "https://www.sd232.k12.id.us/",
+                "Phone": "(208) 536-2418",
+                "Address": "150 EAST MAIN STREETWENDELL, ID 83355",
+                "Students": "1,112",
+                "Free or Reduced Lunch": "65.7%"
+            }
+        }
+    }
+}
