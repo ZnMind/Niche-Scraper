@@ -1,0 +1,1187 @@
+{
+    "Districts": {
+        "Pleasant Valley Community School District": {
+            "Niche": "https://www.niche.com/k12/d/pleasant-valley-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.pleasval.org/",
+                "Phone": "(563) 332-5550",
+                "Address": "525 BELMONT RDBETTENDORF, IA 52722",
+                "Students": "5,549",
+                "Free or Reduced Lunch": "9.4%"
+            }
+        },
+        "Gilbert Community School District": {
+            "Niche": "https://www.niche.com/k12/d/gilbert-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.gilbertcsd.org/",
+                "Phone": "(515) 232-3740",
+                "Address": "103 MATHEWS DRGILBERT, IA 50105",
+                "Students": "1,642",
+                "Free or Reduced Lunch": "7.5%"
+            }
+        },
+        "Waukee Community School District": {
+            "Niche": "https://www.niche.com/k12/d/waukee-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.waukeeschools.org/",
+                "Phone": "(515) 987-5161",
+                "Address": "560 SE UNIVERSITY AVENUEWAUKEE, IA 50263",
+                "Students": "12,431",
+                "Free or Reduced Lunch": "15.6%"
+            }
+        },
+        "Ankeny Community School District": {
+            "Niche": "https://www.niche.com/k12/d/ankeny-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.ankenyschools.org/",
+                "Phone": "(515) 965-9600",
+                "Address": "306 SW SCHOOL STREETANKENY, IA 50023",
+                "Students": "12,621",
+                "Free or Reduced Lunch": "14.8%"
+            }
+        },
+        "West Des Moines Community School District": {
+            "Niche": "https://www.niche.com/k12/d/west-des-moines-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.wdmcs.org/",
+                "Phone": "(515) 633-5000",
+                "Address": "3550 MILLS CIVIC PARKWAYWEST DES MOINES, IA 50265",
+                "Students": "9,285",
+                "Free or Reduced Lunch": "34.2%"
+            }
+        },
+        "Johnston Community School District": {
+            "Niche": "https://www.niche.com/k12/d/johnston-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.johnstoncsd.org/",
+                "Phone": "(515) 278-0470",
+                "Address": "6510 NW 62ND AVEJOHNSTON, IA 50131",
+                "Students": "7,428",
+                "Free or Reduced Lunch": "20.5%"
+            }
+        },
+        "Decorah Community School District": {
+            "Niche": "https://www.niche.com/k12/d/decorah-community-school-district-ia/",
+            "Data": {
+                "Website": "https://decorah.k12.ia.us/",
+                "Phone": "(563) 382-4208",
+                "Address": "510 WINNEBAGO STREETDECORAH, IA 52101",
+                "Students": "1,655",
+                "Free or Reduced Lunch": "20.8%"
+            }
+        },
+        "MOC-Floyd Valley Community School District": {
+            "Niche": "https://www.niche.com/k12/d/moc-floyd-valley-community-school-district-ia/",
+            "Data": {
+                "Website": "https://mocfv.org/",
+                "Phone": "(712) 737-4873",
+                "Address": "709 8TH ST. S.E.ORANGE CITY, IA 51041",
+                "Students": "1,575",
+                "Free or Reduced Lunch": "28.6%"
+            }
+        },
+        "Linn-Mar Community School District": {
+            "Niche": "https://www.niche.com/k12/d/linn-mar-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.linnmar.k12.ia.us/",
+                "Phone": "(319) 447-3000",
+                "Address": "2999 N 10TH STMARION, IA 52302",
+                "Students": "7,797",
+                "Free or Reduced Lunch": "20.5%"
+            }
+        },
+        "Iowa City Community School District": {
+            "Niche": "https://www.niche.com/k12/d/iowa-city-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.iowacityschools.org/pages/ICCSD",
+                "Phone": "(319) 688-1000",
+                "Address": "1725 N. DODGE STREETIOWA CITY, IA 52245",
+                "Students": "14,820",
+                "Free or Reduced Lunch": "36.4%"
+            }
+        },
+        "Ames Community School District": {
+            "Niche": "https://www.niche.com/k12/d/ames-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.amescsd.org/",
+                "Phone": "(515) 268-6600",
+                "Address": "2005 24TH STAMES, IA 50010",
+                "Students": "4,831",
+                "Free or Reduced Lunch": "32.4%"
+            }
+        },
+        "Western Dubuque Community School District": {
+            "Niche": "https://www.niche.com/k12/d/western-dubuque-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.w-dubuque.k12.ia.us/",
+                "Phone": "(563) 744-3885",
+                "Address": "310 4TH STREET SWFARLEY, IA 52046",
+                "Students": "3,725",
+                "Free or Reduced Lunch": "31.3%"
+            }
+        },
+        "Van Meter Community School District": {
+            "Niche": "https://www.niche.com/k12/d/van-meter-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.vmbulldogs.com/",
+                "Phone": "(515) 996-9960",
+                "Address": "520 1ST AVEVAN METER, IA 50261",
+                "Students": "1,045",
+                "Free or Reduced Lunch": "10.5%"
+            }
+        },
+        "Bettendorf Community School District": {
+            "Niche": "https://www.niche.com/k12/d/bettendorf-community-school-district-ia/",
+            "Data": {
+                "Website": "https://bettendorf.k12.ia.us/",
+                "Phone": "(563) 359-3681",
+                "Address": "3311 18TH STREETBETTENDORF, IA 52722",
+                "Students": "4,770",
+                "Free or Reduced Lunch": "34.5%"
+            }
+        },
+        "St. Ansgar Community School District": {
+            "Niche": "https://www.niche.com/k12/d/st-ansgar-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.st-ansgar.k12.ia.us/",
+                "Phone": "(641) 713-4681",
+                "Address": "206 E 8THST. ANSGAR, IA 50472",
+                "Students": "586",
+                "Free or Reduced Lunch": "27.4%"
+            }
+        },
+        "Waverly-Shell Rock Community School District": {
+            "Niche": "https://www.niche.com/k12/d/waverly-shell-rock-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.wsr.k12.ia.us/",
+                "Phone": "(319) 352-3630",
+                "Address": "1415 4TH AVE SWWAVERLY, IA 50677",
+                "Students": "2,355",
+                "Free or Reduced Lunch": "21.1%"
+            }
+        },
+        "Maquoketa Valley Community School District": {
+            "Niche": "https://www.niche.com/k12/d/maquoketa-valley-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.maquoketa-v.k12.ia.us/",
+                "Phone": "(563) 922-2091",
+                "Address": "107 SOUTH STREETDELHI, IA 52223",
+                "Students": "708",
+                "Free or Reduced Lunch": "35.2%"
+            }
+        },
+        "Cedar Falls Community School District": {
+            "Niche": "https://www.niche.com/k12/d/cedar-falls-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.cfschools.org/",
+                "Phone": "(319) 553-3000",
+                "Address": "1002 W 1ST STCEDAR FALLS, IA 50613",
+                "Students": "5,920",
+                "Free or Reduced Lunch": "20.4%"
+            }
+        },
+        "Williamsburg Community School District": {
+            "Niche": "https://www.niche.com/k12/d/williamsburg-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.williamsburg.k12.ia.us/",
+                "Phone": "(319) 668-1059",
+                "Address": "810 W WALNUTWILLIAMSBURG, IA 52361",
+                "Students": "1,243",
+                "Free or Reduced Lunch": "25.8%"
+            }
+        },
+        "Underwood Community School District": {
+            "Niche": "https://www.niche.com/k12/d/underwood-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.underwoodeagles.org/",
+                "Phone": "(712) 566-2332",
+                "Address": "601 THIRD STREETUNDERWOOD, IA 51576",
+                "Students": "850",
+                "Free or Reduced Lunch": "16.2%"
+            }
+        },
+        "Eastern Allamakee Community School District": {
+            "Niche": "https://www.niche.com/k12/d/eastern-allamakee-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.e-allamakee.k12.ia.us/",
+                "Phone": "(563) 538-4201",
+                "Address": "569 CENTER ST.LANSING, IA 52151",
+                "Students": "349",
+                "Free or Reduced Lunch": "34.9%"
+            }
+        },
+        "Harlan Community School District": {
+            "Niche": "https://www.niche.com/k12/d/harlan-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.harlan.k12.ia.us/",
+                "Phone": "(712) 755-2152",
+                "Address": "2102 DURANTHARLAN, IA 51537",
+                "Students": "1,511",
+                "Free or Reduced Lunch": "30.5%"
+            }
+        },
+        "Ballard Community School District": {
+            "Niche": "https://www.niche.com/k12/d/ballard-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.ballard.k12.ia.us/",
+                "Phone": "(515) 597-2811",
+                "Address": "509 N MAIN AVEHUXLEY, IA 50124",
+                "Students": "1,928",
+                "Free or Reduced Lunch": "18%"
+            }
+        },
+        "Roland-Story Community School District": {
+            "Niche": "https://www.niche.com/k12/d/roland-story-community-school-district-ia/",
+            "Data": {
+                "Website": "https://rolandstory.school/",
+                "Phone": "(515) 733-4301",
+                "Address": "1009 STORY STSTORY CITY, IA 50248",
+                "Students": "1,106",
+                "Free or Reduced Lunch": "20.6%"
+            }
+        },
+        "Solon Community School District": {
+            "Niche": "https://www.niche.com/k12/d/solon-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.solon.k12.ia.us/",
+                "Phone": "(319) 624-3401",
+                "Address": "301 S IOWA STREETSOLON, IA 52333",
+                "Students": "1,511",
+                "Free or Reduced Lunch": "8.1%"
+            }
+        },
+        "Dallas Center-Grimes Community School District": {
+            "Niche": "https://www.niche.com/k12/d/dallas-center-grimes-community-school-district-ia/",
+            "Data": {
+                "Website": "https://dcgschools.com/",
+                "Phone": "(515) 992-3866",
+                "Address": "2405 W 1ST STREETGRIMES, IA 50111",
+                "Students": "3,660",
+                "Free or Reduced Lunch": "17%"
+            }
+        },
+        "Treynor Community School District": {
+            "Niche": "https://www.niche.com/k12/d/treynor-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.treynorschools.org/",
+                "Phone": "(712) 487-3414",
+                "Address": "102 E MAIN STTREYNOR, IA 51575",
+                "Students": "804",
+                "Free or Reduced Lunch": "7.2%"
+            }
+        },
+        "Sergeant Bluff-Luton Community School District": {
+            "Niche": "https://www.niche.com/k12/d/sergeant-bluff-luton-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.sblschools.com/",
+                "Phone": "(712) 943-4338",
+                "Address": "201 PORT NEAL ROADSERGEANT BLUFF, IA 51054",
+                "Students": "1,713",
+                "Free or Reduced Lunch": "30.6%"
+            }
+        },
+        "Center Point-Urbana Community School District": {
+            "Niche": "https://www.niche.com/k12/d/center-point-urbana-community-school-district-ia/",
+            "Data": {
+                "Website": "https://cpuschools.org/",
+                "Phone": "(319) 849-1102",
+                "Address": "202 WEST MAIN URBANA, IA 52345",
+                "Students": "1,523",
+                "Free or Reduced Lunch": "16.8%"
+            }
+        },
+        "Le Mars Community School District": {
+            "Niche": "https://www.niche.com/k12/d/le-mars-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.lemarscsd.org/",
+                "Phone": "(712) 546-4155",
+                "Address": "940 LINCOLN STREET SWLE MARS, IA 51031",
+                "Students": "2,288",
+                "Free or Reduced Lunch": "32.2%"
+            }
+        },
+        "Marion Independent School District": {
+            "Niche": "https://www.niche.com/k12/d/marion-independent-school-district-ia/",
+            "Data": {
+                "Website": "https://www.marion-isd.org",
+                "Phone": "(319) 377-4691",
+                "Address": "777 S 15TH STMARION, IA 52302",
+                "Students": "2,169",
+                "Free or Reduced Lunch": "27.7%"
+            }
+        },
+        "Southeast Polk Community School District": {
+            "Niche": "https://www.niche.com/k12/d/southeast-polk-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.southeastpolk.org/",
+                "Phone": "(515) 967-4294",
+                "Address": "407 8TH ST. SEALTOONA, IA 50009",
+                "Students": "7,350",
+                "Free or Reduced Lunch": "27.6%"
+            }
+        },
+        "North Scott Community School District": {
+            "Niche": "https://www.niche.com/k12/d/north-scott-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.north-scott.k12.ia.us/",
+                "Phone": "(563) 285-4819",
+                "Address": "251 E IOWA STELDRIDGE, IA 52748",
+                "Students": "3,376",
+                "Free or Reduced Lunch": "24.5%"
+            }
+        },
+        "North Polk Community School District": {
+            "Niche": "https://www.niche.com/k12/d/north-polk-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.northpolk.org/",
+                "Phone": "(515) 984-3400",
+                "Address": "13930 NE 6TH STALLEMAN, IA 50007",
+                "Students": "2,084",
+                "Free or Reduced Lunch": "11.6%"
+            }
+        },
+        "Pella Community School District": {
+            "Niche": "https://www.niche.com/k12/d/pella-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.pellaschools.org/",
+                "Phone": "(641) 628-1111",
+                "Address": "212 E UNIVERSITY STPELLA, IA 50219",
+                "Students": "2,463",
+                "Free or Reduced Lunch": "18.9%"
+            }
+        },
+        "Urbandale Community School District": {
+            "Niche": "https://www.niche.com/k12/d/urbandale-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.urbandaleschools.com/",
+                "Phone": "(515) 457-5000",
+                "Address": "11152 AURORA AVENUEURBANDALE, IA 50322",
+                "Students": "4,241",
+                "Free or Reduced Lunch": "24.6%"
+            }
+        },
+        "Mount Ayr Community School District": {
+            "Niche": "https://www.niche.com/k12/d/mount-ayr-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.mtayrschools.org/",
+                "Phone": "(641) 464-0500",
+                "Address": "1001 E COLUMBUS STMOUNT AYR, IA 50854",
+                "Students": "638",
+                "Free or Reduced Lunch": "45%"
+            }
+        },
+        "Lawton-Bronson Community School District": {
+            "Niche": "https://www.niche.com/k12/d/lawton-bronson-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.lb-eagles.org/",
+                "Phone": "(712) 944-5183",
+                "Address": "100 TARA WAYLAWTON, IA 51030",
+                "Students": "706",
+                "Free or Reduced Lunch": "16%"
+            }
+        },
+        "Mount Vernon Community School District": {
+            "Niche": "https://www.niche.com/k12/d/mount-vernon-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.mountvernon.k12.ia.us/",
+                "Phone": "(319) 895-8845",
+                "Address": "525 PALISADES RD SWMOUNT VERNON, IA 52314",
+                "Students": "1,414",
+                "Free or Reduced Lunch": "12.6%"
+            }
+        },
+        "Denver Community School District": {
+            "Niche": "https://www.niche.com/k12/d/denver-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.denver-cyclones.com/",
+                "Phone": "(319) 984-6323",
+                "Address": "520 LINCOLN STREETDENVER, IA 50622",
+                "Students": "965",
+                "Free or Reduced Lunch": "12.1%"
+            }
+        },
+        "Montezuma Community School District": {
+            "Niche": "https://www.niche.com/k12/d/montezuma-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.montezuma-schools.org/",
+                "Phone": "(641) 623-5121",
+                "Address": "504 N 4TH STMONTEZUMA, IA 50171",
+                "Students": "501",
+                "Free or Reduced Lunch": "27.2%"
+            }
+        },
+        "Grinnell-Newburg Community School District": {
+            "Niche": "https://www.niche.com/k12/d/grinnell-newburg-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.grinnell-k12.org/",
+                "Phone": "(641) 236-2700",
+                "Address": "925 BROAD STREETGRINNELL, IA 50112",
+                "Students": "1,597",
+                "Free or Reduced Lunch": "33.1%"
+            }
+        },
+        "Rock Valley Community School District": {
+            "Niche": "https://www.niche.com/k12/d/rock-valley-community-school-district-ia/",
+            "Data": {
+                "Website": "https://rvcsd.net/",
+                "Phone": "(712) 476-2701",
+                "Address": "1712 20TH AVENUEROCK VALLEY, IA 51247",
+                "Students": "974",
+                "Free or Reduced Lunch": "41.4%"
+            }
+        },
+        "South Hamilton Community School District": {
+            "Niche": "https://www.niche.com/k12/d/south-hamilton-community-school-district-ia/",
+            "Data": {
+                "Website": "https://shhawks.net/",
+                "Phone": "(515) 827-5479",
+                "Address": "315 DIVISION STJEWELL, IA 50130",
+                "Students": "699",
+                "Free or Reduced Lunch": "34.7%"
+            }
+        },
+        "Hudson Community School District": {
+            "Niche": "https://www.niche.com/k12/d/hudson-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.hudsonpiratepride.com/",
+                "Phone": "(319) 988-3233",
+                "Address": "136 S. WASHINGTONHUDSON, IA 50643",
+                "Students": "802",
+                "Free or Reduced Lunch": "24.2%"
+            }
+        },
+        "West Lyon Community School District": {
+            "Niche": "https://www.niche.com/k12/d/west-lyon-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.wlwildcats.org/",
+                "Phone": "(712) 753-4917",
+                "Address": "1787 182ND STREETINWOOD, IA 51240",
+                "Students": "966",
+                "Free or Reduced Lunch": "17.5%"
+            }
+        },
+        "Ogden Community School District": {
+            "Niche": "https://www.niche.com/k12/d/ogden-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.ogdenschools.org/",
+                "Phone": "(515) 275-2894",
+                "Address": "732 W DIVISIONOGDEN, IA 50212",
+                "Students": "739",
+                "Free or Reduced Lunch": "23.3%"
+            }
+        },
+        "West Delaware County Community School District": {
+            "Niche": "https://www.niche.com/k12/d/west-delaware-county-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.w-delaware.k12.ia.us/",
+                "Phone": "(563) 927-3515",
+                "Address": "701 NEW STMANCHESTER, IA 52057",
+                "Students": "1,392",
+                "Free or Reduced Lunch": "35.2%"
+            }
+        },
+        "Lake Mills Community School District": {
+            "Niche": "https://www.niche.com/k12/d/lake-mills-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.lake-mills.k12.ia.us/",
+                "Phone": "(641) 592-0881",
+                "Address": "102 S 4TH AVE ELAKE MILLS, IA 50450",
+                "Students": "685",
+                "Free or Reduced Lunch": "39.2%"
+            }
+        },
+        "Dubuque Community School District": {
+            "Niche": "https://www.niche.com/k12/d/dubuque-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.dbqschools.org/",
+                "Phone": "(563) 552-3000",
+                "Address": "2300 CHANEY ROADDUBUQUE, IA 52001",
+                "Students": "10,535",
+                "Free or Reduced Lunch": "35.2%"
+            }
+        },
+        "Woodward-Granger Community School District": {
+            "Niche": "https://www.niche.com/k12/d/woodward-granger-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.wghawks.school/",
+                "Phone": "(515) 999-8022",
+                "Address": "1904 STATE STREETGRANGER, IA 50109",
+                "Students": "1,170",
+                "Free or Reduced Lunch": "24.6%"
+            }
+        },
+        "Garner-Hayfield-Ventura Community School District": {
+            "Niche": "https://www.niche.com/k12/d/garner-hayfield-ventura-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.garner.k12.ia.us/",
+                "Phone": "(641) 923-2718",
+                "Address": "605  WEST LYON STREETGARNER, IA 50438",
+                "Students": "974",
+                "Free or Reduced Lunch": "26.9%"
+            }
+        },
+        "Sheldon Community School District": {
+            "Niche": "https://www.niche.com/k12/d/sheldon-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.sheldonschools.com/",
+                "Phone": "(712) 324-2504",
+                "Address": "1700 EAST FOURTH STREETSHELDON, IA 51201",
+                "Students": "1,207",
+                "Free or Reduced Lunch": "44.1%"
+            }
+        },
+        "Norwalk Community School District": {
+            "Niche": "https://www.niche.com/k12/d/norwalk-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.norwalkschools.org/",
+                "Phone": "(515) 981-0676",
+                "Address": "380 WRIGHT ROADNORWALK, IA 50211",
+                "Students": "3,552",
+                "Free or Reduced Lunch": "17.8%"
+            }
+        },
+        "Southern Calhoun Community School District": {
+            "Niche": "https://www.niche.com/k12/d/southern-calhoun-community-school-district-ia/",
+            "Data": {
+                "Website": "https://scc.k12.ia.us/",
+                "Phone": "(712) 297-7341",
+                "Address": "1000 TONAWANDA STREETROCKWELL CITY, IA 50579",
+                "Students": "892",
+                "Free or Reduced Lunch": "38.1%"
+            }
+        },
+        "Central Lyon Community School District": {
+            "Niche": "https://www.niche.com/k12/d/central-lyon-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.centrallyon.org/",
+                "Phone": "(712) 472-2664",
+                "Address": "1010 S. GREENE STREETROCK RAPIDS, IA 51246",
+                "Students": "794",
+                "Free or Reduced Lunch": "29.4%"
+            }
+        },
+        "Lewis Central Community School District": {
+            "Niche": "https://www.niche.com/k12/d/lewis-central-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.lewiscentral.org/",
+                "Phone": "(712) 366-8202",
+                "Address": "4121 HARRY LANGDON BLVDCOUNCIL BLUFFS, IA 51503",
+                "Students": "3,014",
+                "Free or Reduced Lunch": "35.4%"
+            }
+        },
+        "Lynnville-Sully Community School District": {
+            "Niche": "https://www.niche.com/k12/d/lynnville-sully-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.lshawks.com/",
+                "Phone": "(641) 594-4445",
+                "Address": "12476 HWY F62 ESULLY, IA 50251",
+                "Students": "559",
+                "Free or Reduced Lunch": "28.9%"
+            }
+        },
+        "Aplington-Parkersburg Community School District": {
+            "Niche": "https://www.niche.com/k12/d/aplington-parkersburg-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.a-pcsd.net/",
+                "Phone": "(319) 346-1571",
+                "Address": "610 N. JOHNSON STPARKERSBURG, IA 50665",
+                "Students": "867",
+                "Free or Reduced Lunch": "31.1%"
+            }
+        },
+        "Nevada Community School District": {
+            "Niche": "https://www.niche.com/k12/d/nevada-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.nevadacubs.org/",
+                "Phone": "(515) 382-2783",
+                "Address": "825 15TH STREETNEVADA, IA 50201",
+                "Students": "1,535",
+                "Free or Reduced Lunch": "33.2%"
+            }
+        },
+        "Bedford Community School District": {
+            "Niche": "https://www.niche.com/k12/d/bedford-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.bedford.k12.ia.us/",
+                "Phone": "(712) 523-2656",
+                "Address": "906 PENNSYLVANIA  STBEDFORD, IA 50833",
+                "Students": "510",
+                "Free or Reduced Lunch": "43.5%"
+            }
+        },
+        "Coon Rapids-Bayard Community School District": {
+            "Niche": "https://www.niche.com/k12/d/coon-rapids-bayard-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.crbcrusaders.org/",
+                "Phone": "(712) 999-2208",
+                "Address": "905 NORTH STCOON RAPIDS, IA 50058",
+                "Students": "429",
+                "Free or Reduced Lunch": "47.6%"
+            }
+        },
+        "Carroll Community School District": {
+            "Niche": "https://www.niche.com/k12/d/carroll-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.carroll.k12.ia.us/",
+                "Phone": "(712) 792-8001",
+                "Address": "1026 N. ADAMS STCARROLL, IA 51401",
+                "Students": "1,844",
+                "Free or Reduced Lunch": "37%"
+            }
+        },
+        "West Liberty Community School District": {
+            "Niche": "https://www.niche.com/k12/d/west-liberty-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.wl.k12.ia.us/",
+                "Phone": "(319) 627-2116",
+                "Address": "1103 N ELM STWEST LIBERTY, IA 52776",
+                "Students": "1,305",
+                "Free or Reduced Lunch": "60%"
+            }
+        },
+        "Clear Lake Community School District": {
+            "Niche": "https://www.niche.com/k12/d/clear-lake-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.clearlakeschools.org/",
+                "Phone": "(641) 357-2181",
+                "Address": "1529 3RD AVENUE NORTHCLEAR LAKE, IA 50428",
+                "Students": "1,454",
+                "Free or Reduced Lunch": "27.2%"
+            }
+        },
+        "Allamakee Community School District": {
+            "Niche": "https://www.niche.com/k12/d/allamakee-community-school-district-ia/",
+            "Data": {
+                "Website": "https://allamakee.k12.ia.us/",
+                "Phone": "(563) 568-3409",
+                "Address": "1059 3RD AVE NWWAUKON, IA 52172",
+                "Students": "1,103",
+                "Free or Reduced Lunch": "40.5%"
+            }
+        },
+        "Spirit Lake Community School District": {
+            "Niche": "https://www.niche.com/k12/d/spirit-lake-community-school-district-ia/",
+            "Data": {
+                "Website": "https://spirit-lake.k12.ia.us/",
+                "Phone": "(712) 336-2820",
+                "Address": "2701 HILL AVENUESPIRIT LAKE, IA 51360",
+                "Students": "1,269",
+                "Free or Reduced Lunch": "24.9%"
+            }
+        },
+        "Akron Westfield Community School District": {
+            "Niche": "https://www.niche.com/k12/d/akron-westfield-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.akron-westfield.com/",
+                "Phone": "(712) 568-2616",
+                "Address": "850 KERR DRAKRON, IA 51001",
+                "Students": "613",
+                "Free or Reduced Lunch": "29.1%"
+            }
+        },
+        "Cedar Rapids Community School District": {
+            "Niche": "https://www.niche.com/k12/d/cedar-rapids-community-school-district-ia/",
+            "Data": {
+                "Website": "https://crschools.us/",
+                "Phone": "(319) 558-2000",
+                "Address": "2500 EDGEWOOD RD NWCEDAR RAPIDS, IA 52405",
+                "Students": "15,728",
+                "Free or Reduced Lunch": "50.1%"
+            }
+        },
+        "Shenandoah Community School District": {
+            "Niche": "https://www.niche.com/k12/d/shenandoah-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.shencsd.com",
+                "Phone": "(712) 246-1581",
+                "Address": "304 WEST NISHNASHENANDOAH, IA 51601",
+                "Students": "1,084",
+                "Free or Reduced Lunch": "49%"
+            }
+        },
+        "Iowa Valley Community School District": {
+            "Niche": "https://www.niche.com/k12/d/iowa-valley-community-school-district-ia/",
+            "Data": {
+                "Website": "http://www.iowa-valley.k12.ia.us",
+                "Phone": "(319) 642-7714",
+                "Address": "359 E HILTON STMARENGO, IA 52301",
+                "Students": "557",
+                "Free or Reduced Lunch": "29.5%"
+            }
+        },
+        "Mediapolis Community School District": {
+            "Niche": "https://www.niche.com/k12/d/mediapolis-community-school-district-ia/",
+            "Data": {
+                "Website": "https://meposchools.org/",
+                "Phone": "(319) 394-3101",
+                "Address": "725 N. NORTHFIELDMEDIAPOLIS, IA 52637",
+                "Students": "939",
+                "Free or Reduced Lunch": "24%"
+            }
+        },
+        "Hinton Community School District": {
+            "Niche": "https://www.niche.com/k12/d/hinton-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.hintonschool.com/",
+                "Phone": "(712) 947-4329",
+                "Address": "315 W GRANDHINTON, IA 51024",
+                "Students": "832",
+                "Free or Reduced Lunch": "13.2%"
+            }
+        },
+        "Diagonal Community School District": {
+            "Niche": "https://www.niche.com/k12/d/diagonal-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.diagonal.k12.ia.us/",
+                "Phone": "(641) 734-5331",
+                "Address": "403 W 2ND STREETDIAGONAL, IA 50845",
+                "Students": "130",
+                "Free or Reduced Lunch": "47.9%"
+            }
+        },
+        "George-Little Rock Community School District": {
+            "Niche": "https://www.niche.com/k12/d/george-little-rock-community-school-district-ia/",
+            "Data": {
+                "Website": "https://george-littlerock.org/",
+                "Phone": "(712) 475-3311",
+                "Address": "309 S LINCOLN ST STE 1GEORGE, IA 51237",
+                "Students": "429",
+                "Free or Reduced Lunch": "34.6%"
+            }
+        },
+        "Mid-Prairie Community School District": {
+            "Niche": "https://www.niche.com/k12/d/mid-prairie-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.mphawks.org/",
+                "Phone": "(319) 646-6093",
+                "Address": "1635 HIGHWAY 22 EWELLMAN, IA 52356",
+                "Students": "1,453",
+                "Free or Reduced Lunch": "22.8%"
+            }
+        },
+        "Humboldt Community School District": {
+            "Niche": "https://www.niche.com/k12/d/humboldt-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.humboldt.k12.ia.us/",
+                "Phone": "(515) 332-1330",
+                "Address": "23 3RD ST NDAKOTA CITY, IA 50529",
+                "Students": "1,526",
+                "Free or Reduced Lunch": "37.7%"
+            }
+        },
+        "Algona Community School District": {
+            "Niche": "https://www.niche.com/k12/d/algona-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.algona.k12.ia.us/",
+                "Phone": "(515) 295-3528",
+                "Address": "600 S. HALE STREETALGONA, IA 50511",
+                "Students": "1,579",
+                "Free or Reduced Lunch": "35.8%"
+            }
+        },
+        "West Bend-Mallard Community School District": {
+            "Niche": "https://www.niche.com/k12/d/west-bend-mallard-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.west-bend.k12.ia.us/",
+                "Phone": "(515) 887-7821",
+                "Address": "300 3RD AVE. SWWEST BEND, IA 50597",
+                "Students": "373",
+                "Free or Reduced Lunch": "28.9%"
+            }
+        },
+        "West Marshall Community School District": {
+            "Niche": "https://www.niche.com/k12/d/west-marshall-community-school-district-ia/",
+            "Data": {
+                "Website": "https://wmcsd.org",
+                "Phone": "(641) 483-2660",
+                "Address": "601 3RD ST. NWSTATE CENTER, IA 50247",
+                "Students": "993",
+                "Free or Reduced Lunch": "28.8%"
+            }
+        },
+        "Stanton Community School District": {
+            "Niche": "https://www.niche.com/k12/d/stanton-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.stantonschools.com/",
+                "Phone": "(712) 829-2162",
+                "Address": "605 ELLIOTT STREETSTANTON, IA 51573",
+                "Students": "281",
+                "Free or Reduced Lunch": "31%"
+            }
+        },
+        "West Burlington Independent School District": {
+            "Niche": "https://www.niche.com/k12/d/west-burlington-independent-school-district-ia/",
+            "Data": {
+                "Website": "https://wbisd.com/",
+                "Phone": "(319) 752-8747",
+                "Address": "607 RAMSEY STWEST BURLINGTON, IA 52655",
+                "Students": "925",
+                "Free or Reduced Lunch": "44.3%"
+            }
+        },
+        "Monticello Community School District": {
+            "Niche": "https://www.niche.com/k12/d/monticello-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.monticello.k12.ia.us/",
+                "Phone": "(319) 465-3000",
+                "Address": "850 EAST OAK STREETMONTICELLO, IA 52310",
+                "Students": "1,039",
+                "Free or Reduced Lunch": "30.9%"
+            }
+        },
+        "Adel DeSoto Minburn Community School District": {
+            "Niche": "https://www.niche.com/k12/d/adel-desoto-minburn-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.admschools.org/",
+                "Phone": "(515) 993-4283",
+                "Address": "215 N. 11TH STREETADEL, IA 50003",
+                "Students": "2,149",
+                "Free or Reduced Lunch": "20.6%"
+            }
+        },
+        "Central Dewitt School District": {
+            "Niche": "https://www.niche.com/k12/d/central-dewitt-school-district-ia/",
+            "Data": {
+                "Website": "https://www.cd-csd.org/",
+                "Phone": "(563) 659-0700",
+                "Address": "331 E. 8TH STDE WITT, IA 52742",
+                "Students": "1,622",
+                "Free or Reduced Lunch": "32%"
+            }
+        },
+        "Dike-New Hartford Community School District": {
+            "Niche": "https://www.niche.com/k12/d/dike-new-hartford-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.dnhcsd.org/en-US",
+                "Phone": "(319) 989-2552",
+                "Address": "330 MAIN STDIKE, IA 50624",
+                "Students": "944",
+                "Free or Reduced Lunch": "22.3%"
+            }
+        },
+        "Woodbury Central Community School District": {
+            "Niche": "https://www.niche.com/k12/d/woodbury-central-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.woodbury-central.k12.ia.us/",
+                "Phone": "(712) 873-3128",
+                "Address": "408 SOUTH 4TH STREETMOVILLE, IA 51039",
+                "Students": "587",
+                "Free or Reduced Lunch": "22.2%"
+            }
+        },
+        "IKM Manning Community School District": {
+            "Niche": "https://www.niche.com/k12/d/ikm-manning-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.ikm-manning.k12.ia.us/",
+                "Phone": "(712) 655-3781",
+                "Address": "209 10TH STMANNING, IA 51455",
+                "Students": "724",
+                "Free or Reduced Lunch": "39.5%"
+            }
+        },
+        "Lenox Community School District": {
+            "Niche": "https://www.niche.com/k12/d/lenox-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.lenoxschools.org/",
+                "Phone": "(641) 333-2244",
+                "Address": "600 S LOCUST STLENOX, IA 50851",
+                "Students": "507",
+                "Free or Reduced Lunch": "52.9%"
+            }
+        },
+        "Paton-Churdan Community School District": {
+            "Niche": "https://www.niche.com/k12/d/paton-churdan-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.paton-churdan.k12.ia.us/",
+                "Phone": "(515) 389-3111",
+                "Address": "606 ADRIAN STCHURDAN, IA 50050",
+                "Students": "202",
+                "Free or Reduced Lunch": "47.7%"
+            }
+        },
+        "Central Lee Community School District": {
+            "Niche": "https://www.niche.com/k12/d/central-lee-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.centrallee.org/",
+                "Phone": "(319) 835-9510",
+                "Address": "2642 HIGHWAY 218DONNELLSON, IA 52625",
+                "Students": "1,228",
+                "Free or Reduced Lunch": "35.3%"
+            }
+        },
+        "Newell-Fonda Community School District": {
+            "Niche": "https://www.niche.com/k12/d/newell-fonda-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.newell-fonda.k12.ia.us/",
+                "Phone": "(712) 272-3324",
+                "Address": "205 CLARK STNEWELL, IA 50568",
+                "Students": "557",
+                "Free or Reduced Lunch": "48.2%"
+            }
+        },
+        "Marcus-Meriden-Cleghorn Community School District": {
+            "Niche": "https://www.niche.com/k12/d/marcus-meriden-cleghorn-community-school-district-ia/",
+            "Data": {
+                "Phone": "(712) 376-4171",
+                "Address": "400 EAST FENTONMARCUS, IA 51035",
+                "Students": "368",
+                "Free or Reduced Lunch": "35%"
+            }
+        },
+        "Avoca-Hancock-Shelby-Tennant (AHST) Community School District": {
+            "Niche": "https://www.niche.com/k12/d/avoca-hancock-shelby-tennant-ahst-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.ahstwschools.org/",
+                "Phone": "(712) 343-6364",
+                "Address": "768 SOUTH MAPLE STREETAVOCA, IA 51521",
+                "Students": "754",
+                "Free or Reduced Lunch": "36.5%"
+            }
+        },
+        "Union Community School District": {
+            "Niche": "https://www.niche.com/k12/d/union-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.union.k12.ia.us/",
+                "Phone": "(319) 342-2674",
+                "Address": "200 ADAMS STLA PORTE CITY, IA 50651",
+                "Students": "1,040",
+                "Free or Reduced Lunch": "27.3%"
+            }
+        },
+        "Glenwood Community School District": {
+            "Niche": "https://www.niche.com/k12/d/glenwood-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.glenwoodschools.org/",
+                "Phone": "(712) 527-9034",
+                "Address": "103 CENTRAL ST STE 300GLENWOOD, IA 51534",
+                "Students": "2,056",
+                "Free or Reduced Lunch": "35.5%"
+            }
+        },
+        "Sibley-Ocheyedan Community School District": {
+            "Niche": "https://www.niche.com/k12/d/sibley-ocheyedan-community-school-district-ia/",
+            "Data": {
+                "Website": "http://thegenerals2.socsdit.org/",
+                "Phone": "(712) 754-2533",
+                "Address": "120 11TH AVE NESIBLEY, IA 51249",
+                "Students": "730",
+                "Free or Reduced Lunch": "41.3%"
+            }
+        },
+        "Clear Creek Amana Community School District": {
+            "Niche": "https://www.niche.com/k12/d/clear-creek-amana-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.ccaschools.org/",
+                "Phone": "(319) 828-4510",
+                "Address": "1486 HWY 6OXFORD, IA 52322",
+                "Students": "2,975",
+                "Free or Reduced Lunch": "19.4%"
+            }
+        },
+        "PCM Community School District": {
+            "Niche": "https://www.niche.com/k12/d/pcm-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.pcmschools.org",
+                "Phone": "(515) 994-8222",
+                "Address": "407 E PLAINSMAN RDPRAIRIE CITY, IA 50228",
+                "Students": "1,114",
+                "Free or Reduced Lunch": "26.3%"
+            }
+        },
+        "Spencer Community School District": {
+            "Niche": "https://www.niche.com/k12/d/spencer-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.spencerschools.org/",
+                "Phone": "(712) 262-8950",
+                "Address": "23 E 7TH STSPENCER, IA 51301",
+                "Students": "2,329",
+                "Free or Reduced Lunch": "39.4%"
+            }
+        },
+        "Rudd-Rockford-Marble Rock (RRMR) Community School District": {
+            "Niche": "https://www.niche.com/k12/d/rudd-rockford-marble-rock-rrmr-community-school-district-ia/",
+            "Data": {
+                "Website": "https://rockford.k12.ia.us/",
+                "Phone": "(641) 756-3610",
+                "Address": "1460 210TH STREETROCKFORD, IA 50468",
+                "Students": "419",
+                "Free or Reduced Lunch": "36.7%"
+            }
+        },
+        "Denison Community School District": {
+            "Niche": "https://www.niche.com/k12/d/denison-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.denison.k12.ia.us/",
+                "Phone": "(712) 263-2176",
+                "Address": "819 N 16TH STDENISON, IA 51442",
+                "Students": "2,310",
+                "Free or Reduced Lunch": "73.9%"
+            }
+        },
+        "Newton Community School District": {
+            "Niche": "https://www.niche.com/k12/d/newton-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.newtoncsd.org/",
+                "Phone": "(641) 792-5809",
+                "Address": "1302 1ST AVE WNEWTON, IA 50208",
+                "Students": "2,865",
+                "Free or Reduced Lunch": "49.3%"
+            }
+        },
+        "Sioux Center Community School District": {
+            "Niche": "https://www.niche.com/k12/d/sioux-center-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.scwarriors.org/",
+                "Phone": "(712) 722-2985",
+                "Address": "550 9TH ST NESIOUX CENTER, IA 51250",
+                "Students": "1,689",
+                "Free or Reduced Lunch": "35.5%"
+            }
+        },
+        "Forest City Community School District": {
+            "Niche": "https://www.niche.com/k12/d/forest-city-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.forestcity.k12.ia.us/",
+                "Phone": "(641) 585-2323",
+                "Address": "145 S CLARK STFOREST CITY, IA 50436",
+                "Students": "1,146",
+                "Free or Reduced Lunch": "37.1%"
+            }
+        },
+        "Northeast Community School District": {
+            "Niche": "https://www.niche.com/k12/d/northeast-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.northeast.k12.ia.us",
+                "Phone": "(563) 577-2249",
+                "Address": "1450 370TH AVEGOOSE LAKE, IA 52750",
+                "Students": "879",
+                "Free or Reduced Lunch": "26.5%"
+            }
+        },
+        "Grundy Center Community School District": {
+            "Niche": "https://www.niche.com/k12/d/grundy-center-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.spartanpride.net/",
+                "Phone": "(319) 825-5418",
+                "Address": "1301 12TH STGRUNDY CENTER, IA 50638",
+                "Students": "753",
+                "Free or Reduced Lunch": "26.9%"
+            }
+        },
+        "Clarion-Goldfield-Dows Community School District": {
+            "Niche": "https://www.niche.com/k12/d/clarion-goldfield-dows-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.clargold.org/",
+                "Phone": "(515) 532-3423",
+                "Address": "120 CENTRAL AVENUE EASTCLARION, IA 50525",
+                "Students": "1,032",
+                "Free or Reduced Lunch": "50.7%"
+            }
+        },
+        "Brooklyn-Guernsey-Malcom (BCM) Community School District": {
+            "Niche": "https://www.niche.com/k12/d/brooklyn-guernsey-malcom-bcm-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.brooklyn.k12.ia.us/",
+                "Phone": "(641) 522-7058",
+                "Address": "1090 JACKSON STBROOKLYN, IA 52211",
+                "Students": "581",
+                "Free or Reduced Lunch": "33.1%"
+            }
+        },
+        "College Community School District": {
+            "Niche": "https://www.niche.com/k12/d/college-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.crprairie.org/",
+                "Phone": "(319) 848-5201",
+                "Address": "8005 PRAIRIE SPIRIT DRSWCEDAR RAPIDS, IA 52404",
+                "Students": "5,719",
+                "Free or Reduced Lunch": "29.4%"
+            }
+        },
+        "South Winneshiek Community School District": {
+            "Niche": "https://www.niche.com/k12/d/south-winneshiek-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.southwinn.com/",
+                "Phone": "(563) 562-3269",
+                "Address": "304 S WEBSTER STCALMAR, IA 52132",
+                "Students": "541",
+                "Free or Reduced Lunch": "29.1%"
+            }
+        },
+        "Calamus-Wheatland Community School District": {
+            "Niche": "https://www.niche.com/k12/d/calamus-wheatland-community-school-district-ia/",
+            "Data": {
+                "Website": "https://www.cal-wheat.k12.ia.us/",
+                "Phone": "(563) 374-1292",
+                "Address": "110 E PARK RDWHEATLAND, IA 52777",
+                "Students": "450",
+                "Free or Reduced Lunch": "29.3%"
+            }
+        },
+        "Harris-Lake Park Community School District": {
+            "Niche": "https://www.niche.com/k12/d/harris-lake-park-community-school-district-ia/",
+            "Data": {}
+        },
+        "Carlisle Community School District": {
+            "Niche": "https://www.niche.com/k12/d/carlisle-community-school-district-ia/",
+            "Data": {}
+        },
+        "Central Springs Community School District": {
+            "Niche": "https://www.niche.com/k12/d/central-springs-community-school-district-ia/",
+            "Data": {}
+        },
+        "Indianola Community School District": {
+            "Niche": "https://www.niche.com/k12/d/indianola-community-school-district-ia/",
+            "Data": {}
+        },
+        "Sidney Community School District": {
+            "Niche": "https://www.niche.com/k12/d/sidney-community-school-district-ia/",
+            "Data": {}
+        },
+        "Sigourney Community School District": {
+            "Niche": "https://www.niche.com/k12/d/sigourney-community-school-district-ia/",
+            "Data": {}
+        },
+        "Clarksville Community School District": {
+            "Niche": "https://www.niche.com/k12/d/clarksville-community-school-district-ia/",
+            "Data": {}
+        },
+        "North Mahaska Community School District": {
+            "Niche": "https://www.niche.com/k12/d/north-mahaska-community-school-district-ia/",
+            "Data": {}
+        },
+        "Pocahontas Area Community School District": {
+            "Niche": "https://www.niche.com/k12/d/pocahontas-area-community-school-district-ia/",
+            "Data": {}
+        },
+        "Atlantic Community School District": {
+            "Niche": "https://www.niche.com/k12/d/atlantic-community-school-district-ia/",
+            "Data": {}
+        },
+        "Whiting Community School District": {
+            "Niche": "https://www.niche.com/k12/d/whiting-community-school-district-ia/",
+            "Data": {}
+        },
+        "Iowa Falls Community School District": {
+            "Niche": "https://www.niche.com/k12/d/iowa-falls-community-school-district-ia/",
+            "Data": {}
+        },
+        "Bondurant-Farrar Community School District": {
+            "Niche": "https://www.niche.com/k12/d/bondurant-farrar-community-school-district-ia/",
+            "Data": {}
+        },
+        "Stratford Community School District": {
+            "Niche": "https://www.niche.com/k12/d/stratford-community-school-district-ia/",
+            "Data": {}
+        },
+        "Twin Rivers Community School District": {
+            "Niche": "https://www.niche.com/k12/d/twin-rivers-community-school-district-ia/",
+            "Data": {}
+        },
+        "Luverne Community School District": {
+            "Niche": "https://www.niche.com/k12/d/luverne-community-school-district-ia/",
+            "Data": {}
+        }
+    }
+}

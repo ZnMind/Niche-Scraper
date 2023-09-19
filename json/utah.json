@@ -1,0 +1,668 @@
+{
+    "Districts": {
+        "Northern Utah Academy for Math Engineering & Science (Nuames)": {
+            "Niche": "https://www.niche.com/k12/d/northern-utah-academy-for-math-engineering-and-science-nuames-ut/",
+            "Data": {
+                "Website": "https://www.nuames.org/dc/dc-home",
+                "Phone": "(801) 395-3350",
+                "Address": "2750 N UNIVERSITY PARK BLVDLAYTON, UT 84041",
+                "Students": "1,134",
+                "Free or Reduced Lunch": "11.5%",
+                "Expenses/Student": "$8,130",
+                "Support Services": "35%"
+            }
+        },
+        "Success Academy": {
+            "Niche": "https://www.niche.com/k12/d/success-academy-ut/",
+            "Data": {
+                "Website": "https://www.successacademy.org/",
+                "Phone": "(435) 865-8790",
+                "Address": "351 W UNIVERSITY BLVD, MULTIPURPOSE BLDG #205CEDAR CITY, UT 84720",
+                "Students": "517",
+                "Free or Reduced Lunch": "22.2%",
+                "Expenses/Student": "$7,439",
+                "Support Services": "37%"
+            }
+        },
+        "Park City School District": {
+            "Niche": "https://www.niche.com/k12/d/park-city-school-district-ut/",
+            "Data": {
+                "Website": "https://www.pcschools.us/",
+                "Phone": "(435) 645-5600",
+                "Address": "2700 KEARNS BLVDPARK CITY, UT 84060",
+                "Students": "4,743",
+                "Free or Reduced Lunch": "19.4%",
+                "Expenses/Student": "$16,906",
+                "Support Services": "39%"
+            }
+        },
+        "Cache County School District": {
+            "Niche": "https://www.niche.com/k12/d/cache-county-school-district-ut/",
+            "Data": {
+                "Website": "https://www.ccsdut.org/",
+                "Phone": "(435) 752-3925",
+                "Address": "84 EAST 2400 NORTHNORTH LOGAN, UT 84341",
+                "Students": "20,015",
+                "Free or Reduced Lunch": "27.9%",
+                "Expenses/Student": "$8,848",
+                "Support Services": "31%"
+            }
+        },
+        "North Summit School District": {
+            "Niche": "https://www.niche.com/k12/d/north-summit-school-district-ut/",
+            "Data": {
+                "Website": "https://www.nsummit.org/",
+                "Phone": "(435) 336-5654",
+                "Address": "65 S MAINCOALVILLE, UT 84017",
+                "Students": "1,055",
+                "Free or Reduced Lunch": "41.1%",
+                "Expenses/Student": "$13,291",
+                "Support Services": "29%"
+            }
+        },
+        "Canyons School District": {
+            "Niche": "https://www.niche.com/k12/d/canyons-school-district-ut/",
+            "Data": {
+                "Website": "https://www.canyonsdistrict.org/",
+                "Phone": "(801) 826-5000",
+                "Address": "9361 SOUTH 300 EASTSANDY, UT 84070",
+                "Students": "33,702",
+                "Free or Reduced Lunch": "27.9%",
+                "Expenses/Student": "$14,390",
+                "Support Services": "37%"
+            }
+        },
+        "Davis School District": {
+            "Niche": "https://www.niche.com/k12/d/davis-school-district-ut/",
+            "Data": {
+                "Website": "https://www.davis.k12.ut.us/",
+                "Phone": "(801) 402-5261",
+                "Address": "45 E STATE STREETFARMINGTON, UT 84025",
+                "Students": "74,486",
+                "Free or Reduced Lunch": "21.6%",
+                "Expenses/Student": "$9,440",
+                "Support Services": "30%"
+            }
+        },
+        "Salt Lake School District": {
+            "Niche": "https://www.niche.com/k12/d/salt-lake-school-district-ut/",
+            "Data": {
+                "Website": "https://www.slcschools.org/",
+                "Phone": "(801) 578-8599",
+                "Address": "440 E 100 SSALT LAKE CITY, UT 84111",
+                "Students": "20,239",
+                "Free or Reduced Lunch": "59.5%",
+                "Expenses/Student": "$12,911",
+                "Support Services": "34%"
+            }
+        },
+        "Wasatch County School District": {
+            "Niche": "https://www.niche.com/k12/d/wasatch-county-school-district-ut/",
+            "Data": {
+                "Website": "https://www.wasatch.edu/",
+                "Phone": "(435) 654-0280",
+                "Address": "101 E 200 NHEBER CITY, UT 84032",
+                "Students": "8,999",
+                "Free or Reduced Lunch": "34.9%",
+                "Expenses/Student": "$10,255",
+                "Support Services": "25%"
+            }
+        },
+        "Alpine School District": {
+            "Niche": "https://www.niche.com/k12/d/alpine-school-district-ut/",
+            "Data": {
+                "Website": "https://alpineschools.org/",
+                "Phone": "(801) 610-8400",
+                "Address": "575 N 100 EAMERICAN FORK, UT 84003",
+                "Students": "86,275",
+                "Free or Reduced Lunch": "19.7%",
+                "Expenses/Student": "$9,864",
+                "Support Services": "28%"
+            }
+        },
+        "Kane County School District": {
+            "Niche": "https://www.niche.com/k12/d/kane-county-school-district-ut/",
+            "Data": {
+                "Website": "https://kanek12.org/",
+                "Phone": "(435) 644-2555",
+                "Address": "746 S 175 EKANAB, UT 84741",
+                "Students": "1,500",
+                "Free or Reduced Lunch": "48.5%",
+                "Expenses/Student": "$11,640",
+                "Support Services": "34%"
+            }
+        },
+        "Provo City School District": {
+            "Niche": "https://www.niche.com/k12/d/provo-city-school-district-ut/",
+            "Data": {
+                "Website": "https://provo.edu/",
+                "Phone": "(801) 374-4800",
+                "Address": "280 W 940 NPROVO, UT 84604",
+                "Students": "13,983",
+                "Free or Reduced Lunch": "37.1%",
+                "Expenses/Student": "$10,704",
+                "Support Services": "35%"
+            }
+        },
+        "Washington County School District": {
+            "Niche": "https://www.niche.com/k12/d/washington-county-school-district-ut/",
+            "Data": {
+                "Website": "https://www.washk12.org/",
+                "Phone": "(435) 673-3553",
+                "Address": "121 W TABERNACLEST. GEORGE, UT 84770",
+                "Students": "37,400",
+                "Free or Reduced Lunch": "43.9%",
+                "Expenses/Student": "$8,458",
+                "Support Services": "30%"
+            }
+        },
+        "South Summit School District": {
+            "Niche": "https://www.niche.com/k12/d/south-summit-school-district-ut/",
+            "Data": {
+                "Website": "https://www.ssummit.org/",
+                "Phone": "(435) 783-4301",
+                "Address": "285 EAST 400 SOUTHKAMAS, UT 84036",
+                "Students": "1,703",
+                "Free or Reduced Lunch": "24.2%",
+                "Expenses/Student": "$14,873",
+                "Support Services": "36%"
+            }
+        },
+        "Beaver School District": {
+            "Niche": "https://www.niche.com/k12/d/beaver-school-district-ut/",
+            "Data": {
+                "Website": "https://www.beaver.k12.ut.us/",
+                "Phone": "(435) 438-2291",
+                "Address": "290 N MAIN STBEAVER, UT 84713",
+                "Students": "1,569",
+                "Free or Reduced Lunch": "50.2%",
+                "Expenses/Student": "$11,841",
+                "Support Services": "34%"
+            }
+        },
+        "Freedom Preparatory Academy": {
+            "Niche": "https://www.niche.com/k12/d/freedom-preparatory-academy-ut/",
+            "Data": {
+                "Website": "https://freedomprep.net/",
+                "Phone": "(801) 437-3100",
+                "Address": "1190 W 900 NPROVO, UT 84604",
+                "Students": "1,999",
+                "Free or Reduced Lunch": "40.7%",
+                "Expenses/Student": "$8,073",
+                "Support Services": "37%"
+            }
+        },
+        "Rich School District": {
+            "Niche": "https://www.niche.com/k12/d/rich-school-district-ut/",
+            "Data": {
+                "Website": "https://www.richschool.org/en-US",
+                "Phone": "(435) 793-2135",
+                "Address": "25 S 100 WRANDOLPH, UT 84064",
+                "Students": "516",
+                "Free or Reduced Lunch": "44.8%",
+                "Expenses/Student": "$32,043",
+                "Support Services": "35%"
+            }
+        },
+        "Millard School District": {
+            "Niche": "https://www.niche.com/k12/d/millard-school-district-ut/",
+            "Data": {
+                "Website": "https://www.millardk12.org/",
+                "Phone": "(435) 864-1000",
+                "Address": "285 E 450 NDELTA, UT 84624",
+                "Students": "3,213",
+                "Free or Reduced Lunch": "53.6%",
+                "Expenses/Student": "$11,705",
+                "Support Services": "30%"
+            }
+        },
+        "Jordan School District": {
+            "Niche": "https://www.niche.com/k12/d/jordan-school-district-ut/",
+            "Data": {
+                "Website": "https://jordandistrict.org/",
+                "Phone": "(801) 567-8100",
+                "Address": "7387 S CAMPUS VIEW DRIVEWEST JORDAN, UT 84084",
+                "Students": "59,363",
+                "Free or Reduced Lunch": "24.4%",
+                "Expenses/Student": "$9,549",
+                "Support Services": "30%"
+            }
+        },
+        "Garfield County School District": {
+            "Niche": "https://www.niche.com/k12/d/garfield-county-school-district-ut/",
+            "Data": {
+                "Website": "N/A"
+            }
+        },
+        "Nebo School District": {
+            "Niche": "https://www.niche.com/k12/d/nebo-school-district-ut/",
+            "Data": {
+                "Website": "https://www.nebo.edu/",
+                "Phone": "(801) 354-7400",
+                "Address": "350 S MAINSPANISH FORK, UT 84660",
+                "Students": "36,229",
+                "Free or Reduced Lunch": "32.6%",
+                "Expenses/Student": "$9,835",
+                "Support Services": "34%"
+            }
+        },
+        "Murray School District": {
+            "Niche": "https://www.niche.com/k12/d/murray-school-district-ut/",
+            "Data": {
+                "Website": "https://www.murrayschools.org",
+                "Phone": "(801) 264-7400",
+                "Address": "5102 S. COMMERCE DRIVEMURRAY, UT 84107",
+                "Students": "6,112",
+                "Free or Reduced Lunch": "37.3%",
+                "Expenses/Student": "$9,743",
+                "Support Services": "32%"
+            }
+        },
+        "Tintic School District": {
+            "Niche": "https://www.niche.com/k12/d/tintic-school-district-ut/",
+            "Data": {
+                "Website": "https://www.tintic.org/",
+                "Phone": "(435) 433-6363",
+                "Address": "545 EAST MAINEUREKA, UT 84628",
+                "Students": "244",
+                "Free or Reduced Lunch": "36.7%",
+                "Expenses/Student": "$20,119",
+                "Support Services": "37%"
+            }
+        },
+        "Daggett School District": {
+            "Niche": "https://www.niche.com/k12/d/daggett-school-district-ut/",
+            "Data": {
+                "Website": "https://www.dsdf.org/",
+                "Phone": "(435) 784-3174",
+                "Address": "196 W 200 NMANILA, UT 84046",
+                "Students": "214",
+                "Free or Reduced Lunch": "22%",
+                "Expenses/Student": "$20,449",
+                "Support Services": "46%"
+            }
+        },
+        "Carbon School District": {
+            "Niche": "https://www.niche.com/k12/d/carbon-school-district-ut/",
+            "Data": {
+                "Website": "https://www.carbonschools.org/",
+                "Phone": "(435) 637-1732",
+                "Address": "251 W 400 NPRICE, UT 84501",
+                "Students": "3,513",
+                "Free or Reduced Lunch": "46.2%",
+                "Expenses/Student": "$11,473",
+                "Support Services": "32%"
+            }
+        },
+        "Box Elder School District": {
+            "Niche": "https://www.niche.com/k12/d/box-elder-school-district-ut/",
+            "Data": {
+                "Website": "https://www.besd.net",
+                "Phone": "(435) 734-4800",
+                "Address": "960 S MAINBRIGHAM CITY, UT 84302",
+                "Students": "12,572",
+                "Free or Reduced Lunch": "39.8%",
+                "Expenses/Student": "$9,536",
+                "Support Services": "28%"
+            }
+        },
+        "South Sanpete School District": {
+            "Niche": "https://www.niche.com/k12/d/south-sanpete-school-district-ut/",
+            "Data": {
+                "Website": "https://www.ssanpete.org/",
+                "Phone": "(435) 835-2261",
+                "Address": "39 S MAINMANTI, UT 84642",
+                "Students": "3,349",
+                "Free or Reduced Lunch": "50.3%",
+                "Expenses/Student": "$11,842",
+                "Support Services": "25%"
+            }
+        },
+        "Logan City School District": {
+            "Niche": "https://www.niche.com/k12/d/logan-city-school-district-ut/",
+            "Data": {
+                "Website": "https://www.loganschools.org/",
+                "Phone": "(435) 755-2300",
+                "Address": "101 W CENTERLOGAN, UT 84321",
+                "Students": "5,554",
+                "Free or Reduced Lunch": "60%",
+                "Expenses/Student": "$12,862",
+                "Support Services": "28%"
+            }
+        },
+        "Emery School District": {
+            "Niche": "https://www.niche.com/k12/d/emery-school-district-ut/",
+            "Data": {
+                "Website": "https://www.emeryschools.org/",
+                "Phone": "(435) 687-9846",
+                "Address": "120 NORTH MAINHUNTINGTON, UT 84528",
+                "Students": "2,248",
+                "Free or Reduced Lunch": "48.2%",
+                "Expenses/Student": "$12,646",
+                "Support Services": "36%"
+            }
+        },
+        "Piute School District": {
+            "Niche": "https://www.niche.com/k12/d/piute-school-district-ut/",
+            "Data": {
+                "Website": "https://www.piutek12.org/en/",
+                "Phone": "(855) 577-2912",
+                "Address": "500 N MAINJUNCTION, UT 84740",
+                "Students": "311",
+                "Free or Reduced Lunch": "65.9%",
+                "Expenses/Student": "$18,672",
+                "Support Services": "34%"
+            }
+        },
+        "Iron County School District": {
+            "Niche": "https://www.niche.com/k12/d/iron-county-school-district-ut/",
+            "Data": {
+                "Website": "https://www.irondistrict.org/",
+                "Phone": "(435) 586-2804",
+                "Address": "2077 W ROYAL HUNTE DRIVECEDAR CITY, UT 84720",
+                "Students": "12,159",
+                "Free or Reduced Lunch": "46.8%",
+                "Expenses/Student": "$7,041",
+                "Support Services": "31%"
+            }
+        },
+        "Weber School District": {
+            "Niche": "https://www.niche.com/k12/d/weber-school-district-ut/",
+            "Data": {
+                "Website": "http://wsd.net/",
+                "Phone": "(801) 476-7800",
+                "Address": "5320 S ADAMS AVE PKWYOGDEN, UT 84405",
+                "Students": "33,101",
+                "Free or Reduced Lunch": "32.5%",
+                "Expenses/Student": "$10,008",
+                "Support Services": "27%"
+            }
+        },
+        "Granite School District": {
+            "Niche": "https://www.niche.com/k12/d/granite-school-district-ut/",
+            "Data": {
+                "Website": "https://www.graniteschools.org/",
+                "Phone": "(385) 646-5000",
+                "Address": "2500 S STATE STREETSALT LAKE CITY, UT 84115",
+                "Students": "62,544",
+                "Free or Reduced Lunch": "58.9%",
+                "Expenses/Student": "$11,306",
+                "Support Services": "36%"
+            }
+        },
+        "Juab School District": {
+            "Niche": "https://www.niche.com/k12/d/juab-school-district-ut/",
+            "Data": {
+                "Website": "https://www.juabsd.org/",
+                "Phone": "(435) 623-1940",
+                "Address": "346 E 600 NNEPHI, UT 84648",
+                "Students": "2,694",
+                "Free or Reduced Lunch": "38.4%",
+                "Expenses/Student": "$10,173",
+                "Support Services": "32%"
+            }
+        },
+        "Morgan School District": {
+            "Niche": "https://www.niche.com/k12/d/morgan-school-district-ut/",
+            "Data": {
+                "Website": "https://www.morgansd.org",
+                "Phone": "(801) 829-3411",
+                "Address": "67 N 200 EMORGAN, UT 84050",
+                "Students": "3,382",
+                "Free or Reduced Lunch": "15.3%",
+                "Expenses/Student": "$10,779",
+                "Support Services": "30%"
+            }
+        },
+        "Sevier School District": {
+            "Niche": "https://www.niche.com/k12/d/sevier-school-district-ut/",
+            "Data": {
+                "Website": "https://www.seviersd.org/",
+                "Phone": "(435) 896-8214",
+                "Address": "180 E 600 NRICHFIELD, UT 84701",
+                "Students": "4,828",
+                "Free or Reduced Lunch": "53.1%",
+                "Expenses/Student": "$9,877",
+                "Support Services": "33%"
+            }
+        },
+        "Tooele School District": {
+            "Niche": "https://www.niche.com/k12/d/tooele-school-district-ut/",
+            "Data": {
+                "Website": "https://www.tooeleschools.org/",
+                "Phone": "(435) 833-1900",
+                "Address": "92 S LODESTONE WAYTOOELE, UT 84074",
+                "Students": "23,119",
+                "Free or Reduced Lunch": "37.2%",
+                "Expenses/Student": "$6,849",
+                "Support Services": "31%"
+            }
+        },
+        "Utah Military Academy": {
+            "Niche": "https://www.niche.com/k12/d/utah-military-academy-ut/",
+            "Data": {
+                "Website": "https://www.utahmilitaryacademy.org/hfc/hfc-home?dh=1",
+                "Phone": "(801) 689-3013",
+                "Address": "5120 S. 1050 W.RIVERDALE, UT 84405",
+                "Students": "957",
+                "Free or Reduced Lunch": "43.8%",
+                "Expenses/Student": "$27,043",
+                "Support Services": "45%"
+            }
+        },
+        "Wayne School District": {
+            "Niche": "https://www.niche.com/k12/d/wayne-school-district-ut/",
+            "Data": {
+                "Website": "https://www.waynesd.org/",
+                "Phone": "(435) 425-3813",
+                "Address": "79 N 100 WBICKNELL, UT 84715",
+                "Students": "473",
+                "Free or Reduced Lunch": "49.5%",
+                "Expenses/Student": "$14,376",
+                "Support Services": "39%"
+            }
+        },
+        "Ascent Academies of Utah": {
+            "Niche": "https://www.niche.com/k12/d/ascent-academies-of-utah-ut/",
+            "Data": {
+                "Website": "https://www.ascentutah.org/",
+                "Phone": "(801) 939-4414",
+                "Address": "5662 WEST 8200 SOUTHWEST JORDAN, UT 84081",
+                "Students": "2,075",
+                "Free or Reduced Lunch": "26.4%",
+                "Expenses/Student": "$16,577",
+                "Support Services": "31%"
+            }
+        },
+        "North Sanpete School District": {
+            "Niche": "https://www.niche.com/k12/d/north-sanpete-school-district-ut/",
+            "Data": {
+                "Website": "https://www.nsanpete.org",
+                "Phone": "(435) 462-2485",
+                "Address": "220 E 700 SMT. PLEASANT, UT 84647",
+                "Students": "2,718",
+                "Free or Reduced Lunch": "57.9%",
+                "Expenses/Student": "$10,320",
+                "Support Services": "33%"
+            }
+        },
+        "Grand County School District": {
+            "Niche": "https://www.niche.com/k12/d/grand-county-school-district-ut/",
+            "Data": {
+                "Website": "https://www.grandschools.org/",
+                "Phone": "(435) 259-5317",
+                "Address": "264 S 400 EMOAB, UT 84532",
+                "Students": "1,488",
+                "Free or Reduced Lunch": "53.8%",
+                "Expenses/Student": "$27,876",
+                "Support Services": "37%"
+            }
+        },
+        "Ogden City School District": {
+            "Niche": "https://www.niche.com/k12/d/ogden-city-school-district-ut/",
+            "Data": {
+                "Website": "https://www.ogdensd.org/",
+                "Phone": "(801) 737-7300",
+                "Address": "1950 MONROE BLVDOGDEN, UT 84401",
+                "Students": "10,689",
+                "Free or Reduced Lunch": "73%",
+                "Expenses/Student": "$14,876",
+                "Support Services": "38%"
+            }
+        },
+        "San Juan School District": {
+            "Niche": "https://www.niche.com/k12/d/san-juan-school-district-ut/",
+            "Data": {
+                "Website": "https://www.sjsd.org/",
+                "Phone": "(435) 678-1200",
+                "Address": "200 N MAIN STREETBLANDING, UT 84511",
+                "Students": "3,026",
+                "Free or Reduced Lunch": "99.9%",
+                "Expenses/Student": "$18,868",
+                "Support Services": "40%"
+            }
+        },
+        "Uintah School District": {
+            "Niche": "https://www.niche.com/k12/d/uintah-school-district-ut/",
+            "Data": {
+                "Website": "https://www.uintah.net/",
+                "Phone": "(435) 781-3100",
+                "Address": "826 SOUTH 1500 EASTNAPLES, UT 84078",
+                "Students": "6,978",
+                "Free or Reduced Lunch": "50.5%",
+                "Expenses/Student": "$9,993",
+                "Support Services": "35%"
+            }
+        },
+        "Duchesne School District": {
+            "Niche": "https://www.niche.com/k12/d/duchesne-school-district-ut/",
+            "Data": {
+                "Website": "https://www.dcsd.org/",
+                "Phone": "(435) 738-1240",
+                "Address": "1010 EAST 200 NORTHROOSEVELT, UT 84066",
+                "Students": "5,304",
+                "Free or Reduced Lunch": "43.4%",
+                "Expenses/Student": "$10,192",
+                "Support Services": "39%"
+            }
+        },
+        "Spectrum Academy": {
+            "Niche": "https://www.niche.com/k12/d/spectrum-academy-ut/",
+            "Data": {
+                "Website": "https://www.spectrumcharter.org/",
+                "Phone": "(801) 936-0318",
+                "Address": "575 N CUTLER DRNORTH SALT LAKE, UT 84054",
+                "Students": "1,499",
+                "Free or Reduced Lunch": "30.5%",
+                "Expenses/Student": "$15,290",
+                "Support Services": "36%"
+            }
+        },
+        "Syracuse Arts Academy": {
+            "Niche": "https://www.niche.com/k12/d/syracuse-arts-academy-ut/",
+            "Data": {
+                "Website": "https://www.syracuseartsacademy.org/",
+                "Phone": "(801) 779-2066",
+                "Address": "2893 W 1700 SSYRACUSE, UT 84075",
+                "Students": "1,744",
+                "Free or Reduced Lunch": "28.8%",
+                "Expenses/Student": "$8,132",
+                "Support Services": "33%"
+            }
+        },
+        "Summit Academy": {
+            "Niche": "https://www.niche.com/k12/d/summit-academy-ut/",
+            "Data": {
+                "Website": "https://www.summitacademyschools.org/",
+                "Phone": "(801) 572-9007",
+                "Address": "1225 EAST 13200 SOUTHDRAPER, UT 84020",
+                "Students": "2,027",
+                "Free or Reduced Lunch": "12.2%",
+                "Expenses/Student": "$24,806",
+                "Support Services": "38%"
+            }
+        },
+        "Hawthorn Academy": {
+            "Niche": "https://www.niche.com/k12/d/hawthorn-academy-ut/",
+            "Data": {
+                "Website": "https://hawthornacademy.org/",
+                "Phone": "(801) 282-9066",
+                "Address": "9062 S 2200 WWEST JORDAN, UT 84088",
+                "Students": "1,320",
+                "Free or Reduced Lunch": "25.9%",
+                "Expenses/Student": "$7,701",
+                "Support Services": "30%"
+            }
+        },
+        "Entheos Academy": {
+            "Niche": "https://www.niche.com/k12/d/entheos-academy-ut/",
+            "Data": {
+                "Website": "https://entheosacademy.org/",
+                "Phone": "(801) 417-5444",
+                "Address": "4710 W 6200 SKEARNS, UT 84118",
+                "Students": "1,067",
+                "Free or Reduced Lunch": "55.4%",
+                "Expenses/Student": "$7,779",
+                "Support Services": "26%"
+            }
+        },
+        "Leadership Learning Academy": {
+            "Niche": "https://www.niche.com/k12/d/leadership-learning-academy-ut/",
+            "Data": {
+                "Website": "https://www.llacharter.org/lc/lc-home?dh=1",
+                "Phone": "(801) 668-0781",
+                "Address": "100 W 2675 NLAYTON, UT 84041",
+                "Students": "860",
+                "Free or Reduced Lunch": "36.9%",
+                "Expenses/Student": "$18,986",
+                "Support Services": "43%"
+            }
+        },
+        "American Preparatory Academy--Lea": {
+            "Niche": "https://www.niche.com/k12/d/american-preparatory-academy-lea-ut/",
+            "Data": {
+                "Website": "https://www.americanprep.org/",
+                "Phone": "(801) 839-3613",
+                "Address": "12892 S PONY EXPRESS RDDRAPER, UT 84020",
+                "Students": "5,186",
+                "Free or Reduced Lunch": "39%",
+                "Expenses/Student": "$9,277",
+                "Support Services": "49%"
+            }
+        },
+        "Thomas Edison - Lea": {
+            "Niche": "https://www.niche.com/k12/d/thomas-edison-lea-ut/",
+            "Data": {
+                "Website": "https://thomased.org/",
+                "Phone": "(435) 787-2820",
+                "Address": "180 E 2600 NNORTH LOGAN, UT 84341",
+                "Students": "1,203",
+                "Free or Reduced Lunch": "30.4%",
+                "Expenses/Student": "$6,484",
+                "Support Services": "24%"
+            }
+        },
+        "Monticello Academy": {
+            "Niche": "https://www.niche.com/k12/d/monticello-academy-ut/",
+            "Data": {
+                "Website": "https://www.monticelloacademy.net/",
+                "Phone": "(801) 417-8040",
+                "Address": "2782 S CORPORATE PARK DRIVEWEST VALLEY CITY, UT 84120",
+                "Students": "954",
+                "Free or Reduced Lunch": "43.4%",
+                "Expenses/Student": "$5,422",
+                "Support Services": "39%"
+            }
+        },
+        "Utah Schools for Deaf & Blind": {
+            "Niche": "https://www.niche.com/k12/d/utah-schools-for-deaf-and-blind-ut/",
+            "Data": {
+                "Website": "https://www.usdb.org/",
+                "Phone": "(801) 629-4700",
+                "Address": "742 HARRISON BLVDOGDEN, UT 84404",
+                "Students": "268",
+                "Free or Reduced Lunch": "45.5%"
+            }
+        }
+    }
+}
