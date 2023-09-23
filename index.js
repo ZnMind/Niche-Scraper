@@ -3,6 +3,8 @@ const cors = require('cors');
 const cheerio = require('cheerio');
 const { createProxyMiddleware } = require('http-proxy-middleware');
 const { HttpsProxyAgent } = require('https-proxy-agent');
+const fs = require('fs');
+const stateJson = require('./json');
 
 const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fetch(...args));
 
@@ -10,7 +12,7 @@ const app = express();
 app.use(cors());
 
 // Configuration
-const { headers, userAgentList, ipList } = require('./headers.json');
+const { headers, userAgentList } = require('./headers.json');
 
 // Helper to load urls
 const loadPage = async (url, proxyAgent) => {
@@ -26,8 +28,11 @@ const loadPage = async (url, proxyAgent) => {
         let statusCode = response.status;
         console.log(`Status Code: ${statusCode}`);
 
-        let $ = cheerio.load(body);
-        return $;
+        if (statusCode < 400) {
+            return cheerio.load(body);
+        } else {
+            return undefined;
+        }
     } catch (err) {
         console.log(err);
     }
@@ -40,36 +45,6 @@ const randomTimeout = (base, range) => {
     return new Promise(resolve => setTimeout(resolve, rng));
 }
 
-// Scraping free US proxies to rotate IP's and prevent being blocked
-const scrapeProxy = async () => {
-    let $ = await loadPage('https://free-proxy-list.net/');
-
-    let results = [];
-    $('.table tr').map((i, el) => {
-        if (el.children) {
-            if (el.children[0]) {
-                if (el.children[0].children[0]) {
-                    if (el.children[2].children[0]) {
-                        if (el.children[2].children[0].data === 'US' && el.children[6].children[0].data === 'yes') {
-                            results.push([el.children[0].children[0].data, el.children[1].children[0].data])
-                        }
-                    }
-                }
-            }
-        }
-    })
-    console.log(results);
-    return results;
-}
-
-// Grabbing random proxy
-const randomProxy = (proxyList) => {
-    let max = Math.min(50, proxyList.length - 1);
-    let rng = Math.floor(Math.random() * max + 1);
-    console.log(rng, proxyList[rng])
-    return proxyList[rng];
-}
-
 // Configuring IP and Port through HttpsProxyAgent
 const configureProxy = async (ip) => {
     const proxyUrl = `http://${ip}`;
@@ -77,92 +52,107 @@ const configureProxy = async (ip) => {
     return proxyAgent;
 }
 
-const proxyMiddleware = (url) => {
-    const proxyAgent = createProxyMiddleware({
-        target: url,
-        changeOrigin: true,
-        headers: headers
-    })
-    return proxyAgent;
+// JSON objects are very large and sometimes get blocked midway.
+// Checks how many districts have been scraped and continues from that index.
+const getStateIndex = (state) => {
+    if (stateJson[state] !== undefined) {
+        let object = stateJson[state]['Districts'];
+        let index = 0;
+        Object.keys(object).forEach(element => {
+            let data = object[element]['Data'];
+            let array = Object.keys(data);
+            if (array.length > 0) {
+                index++;
+            }
+        })
+        console.log(`${index} ${state} districts already scraped!`);
+        return { index: index, stateObject: stateJson[state] };
+    } else {
+        console.log('State not defined!');
+        return { index: 0, stateObject: undefined };
+    }
 }
 
 // Main scraper. Returns a JSON object
-const scraper = async (url) => {
-    let proxyAgent = await configureProxy(ipList[Math.floor(Math.random() * ipList.length)]);
-    let $ = await loadPage(url);
+const scraper = async (url, state) => {
+    //let proxyAgent = await configureProxy(ipList[Math.floor(Math.random() * ipList.length)]);
+    let { index, stateObject } = getStateIndex(state);
+    if (stateObject === undefined) {
+        let $ = await loadPage(url);
 
-    let pages = await getPages($);
-    pages.forEach((x, i) => {
-        if (x > 1) {
-            pages[i] = `${url}?page=${x}`
-        } else {
-            pages[i] = url;
-        }
-    })
-    console.log(pages);
+        let pages = await getPages($);
+        pages.forEach((x, i) => {
+            if (x > 1) {
+                pages[i] = `${url}?page=${x}`
+            } else {
+                pages[i] = url;
+            }
+        })
+        console.log(pages);
 
-    let result = [];
-    for (let i = 0; i < pages.length; i++) {
-        await randomTimeout(5, 10);
-        if (i > 0) {
-            proxyAgent = await configureProxy(ipList[Math.floor(Math.random() * ipList.length)]);
-            $ = await loadPage(pages[i]);
-            let links = await getLinks($);
-            result.push(links);
-        } else {
-            let links = await getLinks($);
-            result.push(links);
+        let result = [];
+        for (let i = 0; i < pages.length; i++) {
+            await randomTimeout(10, 10);
+            if (i > 0) {
+                //proxyAgent = await configureProxy(ipList[Math.floor(Math.random() * ipList.length)]);
+                $ = await loadPage(pages[i]);
+                let links = await getLinks($);
+                result.push(links);
+            } else {
+                let links = await getLinks($);
+                result.push(links);
+            }
         }
+
+        result = flatten(result);
+        console.log(result);
+        let linkObject = await mainLoadingLoop(result);
+
+        console.log(linkObject);
+        return { "Districts": linkObject }
+    } else {
+        let result = {};
+        Object.keys(stateObject['Districts']).forEach(x => {
+            result[x] = stateObject['Districts'][x]['Niche'];
+        })
+
+        let linkObject = await mainLoadingLoop(result, index, stateObject['Districts']);
+
+        return { "Districts": linkObject };
     }
-
-    let linkObject = await mainLoadingLoop(result);
-
-    console.log(linkObject);
-    return { "Districts": linkObject }
 }
 
-// Main loop that's loading 300+ webpages
+// Main loop that's loading tons of webpages
 // Have to employ several different solutions to not get blocked by the website (403 Forbidden)
-const mainLoadingLoop = async (result) => {
-    let linkObject = {}, blackList = [];
-    for (let i = 0; i < result.length; i++) {
-        let arr = Object.keys(result[i]);
+const mainLoadingLoop = async (result, index, stateObject) => {
+    let arr = Object.keys(result), broken = false;
+    index = index || 0;
+    linkObject = stateObject || {};
 
-        for (let j = 0; j < arr.length; j++) {
-            let link = result[i][arr[j]];
-            await randomTimeout(5, 10);
-            console.log(`${j + 1 + (i * arr.length)}: ${link}`);
+    for (let i = index; i < arr.length; i++) {
+        let link = result[arr[i]];
+        console.log(`${i + 1}: ${link}`);
 
-            /* let rng = 0;
-            const generateProxy = async () => {
-                rng = Math.floor(Math.random() * ipList.length);
-                if (blackList.includes(rng)) {
-                    console.log(`Blacklisted: ${ipList[rng]}`);
-                    generateProxy();
-                } else {
-                    let ip = ipList[rng];
-                    let proxyAgent = await configureProxy(ip);
-                    let page = await loadPage(link, proxyAgent);
-                    return page;
-                }
-            } */
-            //let $ = await generateProxy();
-            let $ = await loadPage(link);
-
-            let data;
-            if ($ !== undefined) {
-                data = await getContact($);
-            } else {
-                data = [[], {}]
-                await randomTimeout(900, 30);
-                j--;
-                /* blackList.push(rng);
-                if (blackList.length >= ipList.length) break; */
-            }
-            linkObject[arr[j]] = { 'Niche': link, 'Data': data[1] };
+        let $;
+        if (!broken) {
+            await randomTimeout(10, 10);
+            $ = await loadPage(link);
+        } else {
+            $ = undefined;
         }
-        //if (blackList.length >= ipList.length) break;
+
+        let data;
+        if ($ !== undefined) {
+            data = await getContact($);
+        } else {
+            broken = true;
+            data = [[], {}];
+            console.log(data);
+        }
+
+        linkObject[arr[i]] = { 'Niche': link, 'Data': data[1] };
     }
+
     return linkObject;
 }
 
@@ -251,7 +241,8 @@ const getContact = async ($) => {
 }
 
 const states = () => {
-    return ['Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California',
+    return [
+        'Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California',
         'Colorado', 'Connecticut', 'Delaware', 'Florida', 'Georgia',
         'Hawaii', 'Idaho', 'Illinois', 'Indiana', 'Iowa', 'Kansas',
         'Kentucky', 'Louisiana', 'Maine', 'Maryland', 'Massachusetts',
@@ -260,7 +251,20 @@ const states = () => {
         'New York', 'North Carolina', 'North Dakota', 'Ohio', 'Oklahoma',
         'Oregon', 'Pennsylvania', 'Rhode Island', 'South Carolina', 'South Dakota',
         'Tennessee', 'Texas', 'Utah', 'Vermont', 'Virginia', 'Washington',
-        'West Virginia', 'Wisconsin', 'Wyoming'];
+        'West Virginia', 'Wisconsin', 'Wyoming'
+    ];
+}
+
+// Was returning an array of objects [{},{}]
+// This func flattens those to just 1 object
+const flatten = (objArr) => {
+    let flattened = {};
+    objArr.forEach(x => {
+        Object.keys(x).forEach(y => {
+            flattened[y] = x[y];
+        });
+    });
+    return flattened;
 }
 
 // Endpoints
@@ -275,20 +279,49 @@ app.get('/', (req, res) => {
 app.get('/test', async (req, res) => {
     let url = 'https://www.niche.com/k12/search/best-school-districts/s/iowa/';
     try {
-        let $ = await loadPage(url)
+        /* let $ = await loadPage(url)
         let pages = await getPages($);
         console.log(pages);
-        res.json({ pages })
+        res.json({ pages }) */
+        let obj = {
+            "Park City School District": {
+                "Niche": "https://www.niche.com/k12/d/park-city-school-district-ut/",
+                "Data": {
+                    "Website": "https://www.pcschools.us/",
+                    "Phone": "(435) 645-5600",
+                    "Address": "2700 KEARNS BLVDPARK CITY, UT 84060",
+                    "Students": "4,743",
+                    "Free or Reduced Lunch": "19.4%",
+                    "Expenses/Student": "$16,906",
+                    "Support Services": "39%"
+                }
+            }
+        }
+        let stringify = JSON.stringify(obj);
+        fs.appendFile('json/illinois.json', `,${stringify}`, (err) => {
+            if (err) {
+                console.log(err);
+            }
+        });
+        //let flat = flatten();
+        //console.log(flat);
+        res.json({ status: "Done" });
     } catch (err) {
         console.log(err);
     }
 })
 
 app.get('/links', async (req, res) => {
-    let district = 'illinois';
+    let district = 'wisconsin';
     let url = `https://www.niche.com/k12/search/best-school-districts/s/${district}/`;
     try {
-        let result = await scraper(url);
+        let result = await scraper(url, district);
+        let stringify = JSON.stringify(result);
+        fs.writeFile(`json/${district}.json`, stringify, (err) => {
+            if (err) {
+                console.log(err);
+            }
+        });
         res.json(result);
     } catch (err) {
         console.log(err);
@@ -296,17 +329,13 @@ app.get('/links', async (req, res) => {
 })
 
 app.get('/one', async (req, res) => {
-    let url = 'https://www.niche.com/k12/d/des-moines-independent-community-school-district-ia/';
+    let url = 'https://www.niche.com/k12/d/success-academy-ut/';
     //let url = 'https://ident.me/ip';
     try {
         //let host = "35.236.207.242";
         //let port = "33333";
-        /* let proxyList = await scrapeProxy();
-        let [host, port] = randomProxy(proxyList); */
-        //console.log(`Proxy Host: ${host}:${port}`)
-        let proxyAgent = await configureProxy(ipList[2]);
 
-        let page = await loadPage(url, proxyAgent);
+        let page = await loadPage(url/* , proxyAgent */);
         let result = await getContact(page);
         console.log(result[1]);
         res.json(result[1]);
