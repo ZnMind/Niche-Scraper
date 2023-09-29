@@ -1,0 +1,1069 @@
+{
+    "Districts": {
+        "SAU 70": {
+            "Niche": "https://www.niche.com/k12/d/sau-70-nh-3302670/",
+            "Data": {
+                "Website": "https://www.sau70.org/",
+                "Phone": "(603) 643-6050",
+                "Address": "41 LEBANON ST.HANOVER, NH 03755",
+                "Students": "1,038",
+                "Free or Reduced Lunch": "4.5%",
+                "Expenses/Student": "$25,355",
+                "Support Services": "32%"
+            }
+        },
+        "Academy for Science & Design Charter School": {
+            "Niche": "https://www.niche.com/k12/d/academy-for-science-and-design-charter-school-nh/",
+            "Data": {
+                "Website": "https://www.asdnh.org/",
+                "Phone": "(603) 595-4705",
+                "Address": "486 AMHERST ST.NASHUA, NH 03063",
+                "Students": "532",
+                "Free or Reduced Lunch": "3.8%"
+            }
+        },
+        "Bedford School District": {
+            "Niche": "https://www.niche.com/k12/d/bedford-school-district-nh/",
+            "Data": {
+                "Website": "https://sites.google.com/bedfordnhk12.net/sau-25-bedford-school-district",
+                "Phone": "(603) 472-3755",
+                "Address": "103 COUNTY RD.BEDFORD, NH 03110",
+                "Students": "4,251",
+                "Free or Reduced Lunch": "5.6%",
+                "Expenses/Student": "$16,163",
+                "Support Services": "33%"
+            }
+        },
+        "Hollis/Brookline Cooperative School District": {
+            "Niche": "https://www.niche.com/k12/d/hollis-brookline-cooperative-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau41.org/",
+                "Phone": "(603) 324-5999",
+                "Address": "4 LUND LN.HOLLIS, NH 03049",
+                "Students": "1,194",
+                "Free or Reduced Lunch": "4.5%",
+                "Expenses/Student": "$19,916",
+                "Support Services": "33%"
+            }
+        },
+        "Bow School District": {
+            "Niche": "https://www.niche.com/k12/d/bow-school-district-nh/",
+            "Data": {
+                "Website": "https://www.bownet.org/",
+                "Phone": "(603) 224-4728",
+                "Address": "55 FALCON WAYBOW, NH 03304",
+                "Students": "1,692",
+                "Free or Reduced Lunch": "6.5%",
+                "Expenses/Student": "$17,050",
+                "Support Services": "31%"
+            }
+        },
+        "Portsmouth School District": {
+            "Niche": "https://www.niche.com/k12/d/portsmouth-school-district-nh/",
+            "Data": {
+                "Website": "https://www.cityofportsmouth.com/school",
+                "Phone": "(603) 431-5080",
+                "Address": "1 JUNKINS AVENUEPORTSMOUTH, NH 03801",
+                "Students": "2,500",
+                "Free or Reduced Lunch": "15.1%",
+                "Expenses/Student": "$21,446",
+                "Support Services": "35%"
+            }
+        },
+        "Profile School District": {
+            "Niche": "https://www.niche.com/k12/d/profile-school-district-nh/",
+            "Data": {
+                "Website": "https://www.profile.k12.nh.us/",
+                "Phone": "(603) 444-3925",
+                "Address": "260 COTTAGE STREETLITTLETON, NH 03561",
+                "Students": "232",
+                "Free or Reduced Lunch": "25.6%",
+                "Expenses/Student": "$23,591",
+                "Support Services": "36%"
+            }
+        },
+        "Virtual Learning Academy Charter School": {
+            "Niche": "https://www.niche.com/k12/d/virtual-learning-academy-charter-school-nh/",
+            "Data": {
+                "Website": "https://vlacs.org/",
+                "Phone": "(603) 778-2500",
+                "Address": "30 LINDEN ST.EXETER, NH 03833",
+                "Students": "567",
+                "Free or Reduced Lunch": "11.8%"
+            }
+        },
+        "Lebanon School District": {
+            "Niche": "https://www.niche.com/k12/d/lebanon-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau88.net/",
+                "Phone": "(603) 448-1634",
+                "Address": "20 SEMINARY HILLWEST LEBANON, NH 03784",
+                "Students": "1,635",
+                "Free or Reduced Lunch": "23.5%",
+                "Expenses/Student": "$25,832",
+                "Support Services": "30%"
+            }
+        },
+        "Exeter Region Cooperative School District": {
+            "Niche": "https://www.niche.com/k12/d/exeter-region-cooperative-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau16.org/",
+                "Phone": "(603) 775-8400",
+                "Address": "30 LINDEN ST.EXETER, NH 03833",
+                "Students": "2,486",
+                "Free or Reduced Lunch": "9.6%",
+                "Expenses/Student": "$23,970",
+                "Support Services": "35%"
+            }
+        },
+        "Londonderry School District": {
+            "Niche": "https://www.niche.com/k12/d/londonderry-school-district-nh/",
+            "Data": {
+                "Website": "https://www.londonderry.org/",
+                "Phone": "(603) 432-6920",
+                "Address": "6A KITTY HAWK LANDINGLONDONDERRY, NH 03053",
+                "Students": "4,167",
+                "Free or Reduced Lunch": "10.9%",
+                "Expenses/Student": "$18,634",
+                "Support Services": "36%"
+            }
+        },
+        "Salem School District": {
+            "Niche": "https://www.niche.com/k12/d/salem-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau57.org/ssd",
+                "Phone": "(603) 893-7040",
+                "Address": "38 GEREMONTY DR.SALEM, NH 03079",
+                "Students": "3,580",
+                "Free or Reduced Lunch": "14.9%",
+                "Expenses/Student": "$19,139",
+                "Support Services": "32%"
+            }
+        },
+        "Windham School District": {
+            "Niche": "https://www.niche.com/k12/d/windham-school-district-nh/",
+            "Data": {
+                "Website": "https://www.windhamsd.org/",
+                "Phone": "(603) 845-1550",
+                "Address": "19 HAVERHILL ROADWINDHAM, NH 03087",
+                "Students": "3,032",
+                "Free or Reduced Lunch": "4%",
+                "Expenses/Student": "$19,507",
+                "Support Services": "36%"
+            }
+        },
+        "Goffstown School District": {
+            "Niche": "https://www.niche.com/k12/d/goffstown-school-district-nh/",
+            "Data": {
+                "Website": "https://www.goffstown.k12.nh.us/",
+                "Phone": "(603) 497-4818",
+                "Address": "11 SCHOOL ST.GOFFSTOWN, NH 03045",
+                "Students": "2,768",
+                "Free or Reduced Lunch": "16.7%",
+                "Expenses/Student": "$15,878",
+                "Support Services": "31%"
+            }
+        },
+        "Sunapee School District": {
+            "Niche": "https://www.niche.com/k12/d/sunapee-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau85.org/",
+                "Phone": "(603) 763-4627",
+                "Address": "70 LOWER MAIN STREETSUNAPEE, NH 03782",
+                "Students": "378",
+                "Free or Reduced Lunch": "14.7%",
+                "Expenses/Student": "$32,362",
+                "Support Services": "42%"
+            }
+        },
+        "Moultonborough School District": {
+            "Niche": "https://www.niche.com/k12/d/moultonborough-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau45.org/",
+                "Phone": "(603) 476-5247",
+                "Address": "25 BLAKE RDMOULTONBOROUGH, NH 03254",
+                "Students": "501",
+                "Free or Reduced Lunch": "28.2%",
+                "Expenses/Student": "$27,068",
+                "Support Services": "36%"
+            }
+        },
+        "Hopkinton School District": {
+            "Niche": "https://www.niche.com/k12/d/hopkinton-school-district-nh/",
+            "Data": {
+                "Website": "https://www.hopkintonschools.org/",
+                "Phone": "(603) 746-5186",
+                "Address": "204 MAPLE ST.CONTOOCOOK, NH 03229",
+                "Students": "928",
+                "Free or Reduced Lunch": "9.7%",
+                "Expenses/Student": "$21,423",
+                "Support Services": "35%"
+            }
+        },
+        "Lincoln-Woodstock School District": {
+            "Niche": "https://www.niche.com/k12/d/lincoln-woodstock-school-district-nh/",
+            "Data": {
+                "Website": "https://www.lin-wood.org/",
+                "Phone": "(603) 745-2051",
+                "Address": "78 MAIN STREETLINCOLN, NH 03251",
+                "Students": "270",
+                "Free or Reduced Lunch": "34.8%",
+                "Expenses/Student": "$29,885",
+                "Support Services": "37%"
+            }
+        },
+        "Kearsarge Regional School District": {
+            "Niche": "https://www.niche.com/k12/d/kearsarge-regional-school-district-nh/",
+            "Data": {
+                "Website": "https://www.kearsarge.org/",
+                "Phone": "(603) 526-2051",
+                "Address": "114 COUGAR COURTNEW LONDON, NH 03257",
+                "Students": "1,730",
+                "Free or Reduced Lunch": "19.6%",
+                "Expenses/Student": "$23,291",
+                "Support Services": "35%"
+            }
+        },
+        "The Founders Academy Charter School District": {
+            "Niche": "https://www.niche.com/k12/d/the-founders-academy-charter-school-district-nh/",
+            "Data": {
+                "Website": "https://www.thefoundersacademy.org/",
+                "Phone": "(603) 952-4705",
+                "Address": "5 PERIMETER RD.MANCHESTER, NH 03103",
+                "Students": "366",
+                "Free or Reduced Lunch": "8.2%"
+            }
+        },
+        "Newmarket School District": {
+            "Niche": "https://www.niche.com/k12/d/newmarket-school-district-nh/",
+            "Data": {
+                "Website": "https://www.newmarket.k12.nh.us/",
+                "Phone": "(603) 659-5020",
+                "Address": "186A MAIN ST.NEWMARKET, NH 03857",
+                "Students": "993",
+                "Free or Reduced Lunch": "20.6%",
+                "Expenses/Student": "$27,238",
+                "Support Services": "36%"
+            }
+        },
+        "Dover School District": {
+            "Niche": "https://www.niche.com/k12/d/dover-school-district-nh/",
+            "Data": {
+                "Website": "https://www.dover.k12.nh.us/",
+                "Phone": "(603) 516-6800",
+                "Address": "MCCONNELL CENTER 61 LOCUST STDOVER, NH 03820",
+                "Students": "3,848",
+                "Free or Reduced Lunch": "29.8%",
+                "Expenses/Student": "$18,422",
+                "Support Services": "33%"
+            }
+        },
+        "Gilford School District": {
+            "Niche": "https://www.niche.com/k12/d/gilford-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau73.org/",
+                "Phone": "(603) 527-9215",
+                "Address": "2 BELKNAP MOUNTAIN ROADGILFORD, NH 03249",
+                "Students": "1,127",
+                "Free or Reduced Lunch": "20%",
+                "Expenses/Student": "$20,829",
+                "Support Services": "35%"
+            }
+        },
+        "Nashua School District": {
+            "Niche": "https://www.niche.com/k12/d/nashua-school-district-nh/",
+            "Data": {
+                "Website": "https://www.nashua.edu/",
+                "Phone": "(603) 966-1000",
+                "Address": "141 LEDGE ST.NASHUA, NH 03061",
+                "Students": "10,215",
+                "Free or Reduced Lunch": "42.2%",
+                "Expenses/Student": "$16,785",
+                "Support Services": "34%"
+            }
+        },
+        "Concord School District": {
+            "Niche": "https://www.niche.com/k12/d/concord-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau8.org/",
+                "Phone": "(603) 225-0811",
+                "Address": "38 LIBERTY ST.CONCORD, NH 03301",
+                "Students": "4,093",
+                "Free or Reduced Lunch": "36.8%",
+                "Expenses/Student": "$20,585",
+                "Support Services": "33%"
+            }
+        },
+        "Litchfield School District": {
+            "Niche": "https://www.niche.com/k12/d/litchfield-school-district-nh/",
+            "Data": {
+                "Website": "https://www.litchfieldsd.org/",
+                "Phone": "(603) 578-3570",
+                "Address": "1 HIGHLANDER COURTLITCHFIELD, NH 03052",
+                "Students": "1,230",
+                "Free or Reduced Lunch": "10.5%",
+                "Expenses/Student": "$17,847",
+                "Support Services": "41%"
+            }
+        },
+        "Merrimack School District": {
+            "Niche": "https://www.niche.com/k12/d/merrimack-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau26.org/",
+                "Phone": "(603) 424-6200",
+                "Address": "36 MCELWAIN ST.MERRIMACK, NH 03054",
+                "Students": "3,621",
+                "Free or Reduced Lunch": "9%",
+                "Expenses/Student": "$20,147",
+                "Support Services": "33%"
+            }
+        },
+        "Contoocook Valley School District": {
+            "Niche": "https://www.niche.com/k12/d/contoocook-valley-school-district-nh/",
+            "Data": {
+                "Website": "https://convalsd.net/",
+                "Phone": "(603) 924-3336",
+                "Address": "106 HANCOCK RD.PETERBOROUGH, NH 03458",
+                "Students": "2,066",
+                "Free or Reduced Lunch": "30.3%",
+                "Expenses/Student": "$22,458",
+                "Support Services": "36%"
+            }
+        },
+        "Wilton-Lyndeborough Cooperative School District": {
+            "Niche": "https://www.niche.com/k12/d/wilton-lyndeborough-cooperative-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau63.org",
+                "Phone": "(603) 732-9227",
+                "Address": "192 FOREST ROADLYNDEBOROUGH, NH 03082",
+                "Students": "570",
+                "Free or Reduced Lunch": "24.5%",
+                "Expenses/Student": "$20,591",
+                "Support Services": "45%"
+            }
+        },
+        "Governor Wentworth Regional School District": {
+            "Niche": "https://www.niche.com/k12/d/governor-wentworth-regional-school-district-nh/",
+            "Data": {
+                "Website": "https://www.gwrsd.org",
+                "Phone": "(603) 569-1658",
+                "Address": "140 PINE HILL ROADWOLFEBORO, NH 03894",
+                "Students": "2,112",
+                "Free or Reduced Lunch": "34.9%",
+                "Expenses/Student": "$23,174",
+                "Support Services": "31%"
+            }
+        },
+        "Gorham Randolph Shelburne Cooperative School District": {
+            "Niche": "https://www.niche.com/k12/d/gorham-randolph-shelburne-cooperative-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau20.org/",
+                "Phone": "(603) 466-3632",
+                "Address": "123 MAIN ST.GORHAM, NH 03581",
+                "Students": "399",
+                "Free or Reduced Lunch": "26.6%",
+                "Expenses/Student": "$19,807",
+                "Support Services": "39%"
+            }
+        },
+        "Pelham School District": {
+            "Niche": "https://www.niche.com/k12/d/pelham-school-district-nh/",
+            "Data": {
+                "Website": "https://www.pelhamsd.org/",
+                "Phone": "(603) 635-1145",
+                "Address": "59A MARSH ROADPELHAM, NH 03076",
+                "Students": "1,677",
+                "Free or Reduced Lunch": "11.7%",
+                "Expenses/Student": "$17,999",
+                "Support Services": "39%"
+            }
+        },
+        "Oyster River Cooperative School District": {
+            "Niche": "https://www.niche.com/k12/d/oyster-river-cooperative-school-district-nh/",
+            "Data": {
+                "Website": "https://www.orcsd.org/",
+                "Phone": "(603) 868-5100",
+                "Address": "36 COE DR.DURHAM, NH 03824",
+                "Students": "2,198",
+                "Free or Reduced Lunch": "6%",
+                "Expenses/Student": "$22,813",
+                "Support Services": "36%"
+            }
+        },
+        "Timberlane Regional School District": {
+            "Niche": "https://www.niche.com/k12/d/timberlane-regional-school-district-nh/",
+            "Data": {
+                "Website": "https://www.timberlane.net/",
+                "Phone": "(603) 382-6119",
+                "Address": "30 GREENOUGH RD.PLAISTOW, NH 03865",
+                "Students": "3,298",
+                "Free or Reduced Lunch": "12%",
+                "Expenses/Student": "$21,061",
+                "Support Services": "34%"
+            }
+        },
+        "Fall Mountain Regional School District": {
+            "Niche": "https://www.niche.com/k12/d/fall-mountain-regional-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau60.org/",
+                "Phone": "(603) 835-0006",
+                "Address": "122 NH RTE. 12A UNIT 5LANGDON NH 03602, NH 03602",
+                "Students": "1,448",
+                "Free or Reduced Lunch": "36.7%",
+                "Expenses/Student": "$21,597",
+                "Support Services": "34%"
+            }
+        },
+        "Hudson School District": {
+            "Niche": "https://www.niche.com/k12/d/hudson-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau81.org/",
+                "Phone": "(603) 886-1235",
+                "Address": "20 LIBRARY ST.HUDSON, NH 03051",
+                "Students": "3,046",
+                "Free or Reduced Lunch": "16.7%",
+                "Expenses/Student": "$21,922",
+                "Support Services": "38%"
+            }
+        },
+        "Milford School District": {
+            "Niche": "https://www.niche.com/k12/d/milford-school-district-nh/",
+            "Data": {
+                "Website": "https://milfordk12.org/",
+                "Phone": "(603) 673-2202",
+                "Address": "100 WEST ST.MILFORD, NH 03055",
+                "Students": "2,167",
+                "Free or Reduced Lunch": "19.2%",
+                "Expenses/Student": "$18,897",
+                "Support Services": "37%"
+            }
+        },
+        "Littleton School District": {
+            "Niche": "https://www.niche.com/k12/d/littleton-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau84.org/",
+                "Phone": "(603) 444-5215",
+                "Address": "65 MAPLE ST.LITTLETON, NH 03561",
+                "Students": "668",
+                "Free or Reduced Lunch": "44.2%",
+                "Expenses/Student": "$22,969",
+                "Support Services": "37%"
+            }
+        },
+        "Northumberland School District": {
+            "Niche": "https://www.niche.com/k12/d/northumberland-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau58.org",
+                "Phone": "(603) 636-1437",
+                "Address": "15 PREBLE ST.GROVETON, NH 03582",
+                "Students": "327",
+                "Free or Reduced Lunch": "49.3%",
+                "Expenses/Student": "$18,352",
+                "Support Services": "41%"
+            }
+        },
+        "Jaffrey-Rindge Cooperative School District": {
+            "Niche": "https://www.niche.com/k12/d/jaffrey-rindge-cooperative-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau47.org",
+                "Phone": "(603) 532-8122",
+                "Address": "1 CONANT WAYJAFFREY, NH 03452",
+                "Students": "1,289",
+                "Free or Reduced Lunch": "30.4%",
+                "Expenses/Student": "$18,601",
+                "Support Services": "36%"
+            }
+        },
+        "Keene School District": {
+            "Niche": "https://www.niche.com/k12/d/keene-school-district-nh/",
+            "Data": {
+                "Website": "https://www.keeneschoolsnh.org/",
+                "Phone": "(603) 357-9002",
+                "Address": "193 MAPLE AVENUEKEENE, NH 03431",
+                "Students": "3,120",
+                "Free or Reduced Lunch": "33.5%",
+                "Expenses/Student": "$20,023",
+                "Support Services": "36%"
+            }
+        },
+        "Mascoma Valley Regional School District": {
+            "Niche": "https://www.niche.com/k12/d/mascoma-valley-regional-school-district-nh/",
+            "Data": {
+                "Website": "https://www.mascomaschools.org/",
+                "Phone": "(603) 632-5563",
+                "Address": "547 US ROUTE 4ENFIELD, NH 03748",
+                "Students": "1,088",
+                "Free or Reduced Lunch": "31.8%",
+                "Expenses/Student": "$24,820",
+                "Support Services": "32%"
+            }
+        },
+        "Lisbon Regional School District": {
+            "Niche": "https://www.niche.com/k12/d/lisbon-regional-school-district-nh/",
+            "Data": {
+                "Website": "https://www.lisbon.k12.nh.us/",
+                "Phone": "(603) 444-3925",
+                "Address": "260 COTTAGE STREETLITTLETON, NH 03561",
+                "Students": "309",
+                "Free or Reduced Lunch": "46.6%",
+                "Expenses/Student": "$21,136",
+                "Support Services": "31%"
+            }
+        },
+        "Inter-Lakes School District": {
+            "Niche": "https://www.niche.com/k12/d/inter-lakes-school-district-nh/",
+            "Data": {
+                "Website": "https://www.interlakes.org/",
+                "Phone": "(603) 279-7947",
+                "Address": "103 MAIN ST.MEREDITH, NH 03253",
+                "Students": "938",
+                "Free or Reduced Lunch": "29.6%",
+                "Expenses/Student": "$28,035",
+                "Support Services": "43%"
+            }
+        },
+        "Mascenic Regional School District": {
+            "Niche": "https://www.niche.com/k12/d/mascenic-regional-school-district-nh/",
+            "Data": {
+                "Website": "https://www.mascenic.org/",
+                "Phone": "(603) 721-0160",
+                "Address": "16 SCHOOL STREETGREENVILLE, NH 03048",
+                "Students": "940",
+                "Free or Reduced Lunch": "31%",
+                "Expenses/Student": "$17,266",
+                "Support Services": "42%"
+            }
+        },
+        "Monadnock Regional School District": {
+            "Niche": "https://www.niche.com/k12/d/monadnock-regional-school-district-nh/",
+            "Data": {
+                "Website": "https://www.mrsd.org",
+                "Phone": "(603) 352-6955",
+                "Address": "600 OLD HOMESTEAD HIGHWAYSWANZEY, NH 03446",
+                "Students": "1,615",
+                "Free or Reduced Lunch": "36.1%",
+                "Expenses/Student": "$20,953",
+                "Support Services": "36%"
+            }
+        },
+        "Berlin School District": {
+            "Niche": "https://www.niche.com/k12/d/berlin-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau3.org",
+                "Phone": "(603) 752-6500",
+                "Address": "183 HILLSIDE AVE.BERLIN, NH 03570",
+                "Students": "1,063",
+                "Free or Reduced Lunch": "54.7%",
+                "Expenses/Student": "$19,656",
+                "Support Services": "32%"
+            }
+        },
+        "Newfound Area School District": {
+            "Niche": "https://www.niche.com/k12/d/newfound-area-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau4.org/",
+                "Phone": "(603) 744-5555",
+                "Address": "20 NORTH MAIN ST.BRISTOL, NH 03222",
+                "Students": "1,184",
+                "Free or Reduced Lunch": "37.7%",
+                "Expenses/Student": "$19,378",
+                "Support Services": "42%"
+            }
+        },
+        "Conway School District": {
+            "Niche": "https://www.niche.com/k12/d/conway-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau9.org/",
+                "Phone": "(603) 447-8368",
+                "Address": "176A MAIN ST.CONWAY, NH 03818",
+                "Students": "1,548",
+                "Free or Reduced Lunch": "35.8%",
+                "Expenses/Student": "$22,660",
+                "Support Services": "36%"
+            }
+        },
+        "Hinsdale School District": {
+            "Niche": "https://www.niche.com/k12/d/hinsdale-school-district-nh/",
+            "Data": {
+                "Website": "http://www.hnhsd.org/",
+                "Phone": "(603) 336-5728",
+                "Address": "HINSDALE SCHOOL DISTRICTHINSDALE, NH 03451",
+                "Students": "533",
+                "Free or Reduced Lunch": "47.4%",
+                "Expenses/Student": "$24,180",
+                "Support Services": "42%"
+            }
+        },
+        "Somersworth School District": {
+            "Niche": "https://www.niche.com/k12/d/somersworth-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau56.org",
+                "Phone": "(603) 692-4450",
+                "Address": "51 WEST HIGH STREETSOMERSWORTH, NH 03878",
+                "Students": "1,368",
+                "Free or Reduced Lunch": "46.8%",
+                "Expenses/Student": "$21,601",
+                "Support Services": "36%"
+            }
+        },
+        "Shaker Regional School District": {
+            "Niche": "https://www.niche.com/k12/d/shaker-regional-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau80.org",
+                "Phone": "(603) 267-9223",
+                "Address": "58 SCHOOL ST.BELMONT, NH 03220",
+                "Students": "1,202",
+                "Free or Reduced Lunch": "34.6%",
+                "Expenses/Student": "$18,951",
+                "Support Services": "39%"
+            }
+        },
+        "Manchester School District": {
+            "Niche": "https://www.niche.com/k12/d/manchester-school-district-nh/",
+            "Data": {
+                "Website": "https://www.mansd.org/",
+                "Phone": "(603) 624-6300",
+                "Address": "20 HECKER STREETMANCHESTER, NH 03102",
+                "Students": "12,510",
+                "Free or Reduced Lunch": "57.4%",
+                "Expenses/Student": "$14,694",
+                "Support Services": "27%"
+            }
+        },
+        "Pembroke School District": {
+            "Niche": "https://www.niche.com/k12/d/pembroke-school-district-nh/",
+            "Data": {
+                "Website": "https://sau.sau53.org/",
+                "Phone": "(603) 485-5187",
+                "Address": "267 PEMBROKE ST.PEMBROKE, NH 03275",
+                "Students": "1,419",
+                "Free or Reduced Lunch": "24.1%",
+                "Expenses/Student": "$17,454",
+                "Support Services": "32%"
+            }
+        },
+        "Raymond School District": {
+            "Niche": "https://www.niche.com/k12/d/raymond-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau33.com",
+                "Phone": "(603) 895-4299",
+                "Address": "43 HARRIMAN HILL RD.RAYMOND, NH 03077",
+                "Students": "1,237",
+                "Free or Reduced Lunch": "28.5%",
+                "Expenses/Student": "$19,296",
+                "Support Services": "32%"
+            }
+        },
+        "White Mountain Regional School District": {
+            "Niche": "https://www.niche.com/k12/d/white-mountain-regional-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau36.org/",
+                "Phone": "(603) 837-9363",
+                "Address": "135 REGIONAL ROAD WHITEFIELD, NH 03598",
+                "Students": "1,022",
+                "Free or Reduced Lunch": "47.2%",
+                "Expenses/Student": "$21,252",
+                "Support Services": "45%"
+            }
+        },
+        "Compass Classical Academy Charter School": {
+            "Niche": "https://www.niche.com/k12/d/compass-classical-academy-charter-school-nh/",
+            "Data": {
+                "Website": "https://compassclassicalacademy.com/",
+                "Phone": "(603) 729-3370",
+                "Address": "15 ELKINS ST.FRANKLIN, NH 03235",
+                "Students": "122",
+                "Free or Reduced Lunch": "48.9%"
+            }
+        },
+        "Farmington School District": {
+            "Niche": "https://www.niche.com/k12/d/farmington-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau61.org/",
+                "Phone": "(603) 755-2627",
+                "Address": "35 SCHOOL STREETFARMINGTON, NH 03835",
+                "Students": "788",
+                "Free or Reduced Lunch": "46.2%",
+                "Expenses/Student": "$20,324",
+                "Support Services": "39%"
+            }
+        },
+        "Sanborn Regional School District": {
+            "Niche": "https://www.niche.com/k12/d/sanborn-regional-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau17.org",
+                "Phone": "(603) 642-3688",
+                "Address": "51 CHURCH STREET, P.O. BOX 429KINGSTON, NH 03848",
+                "Students": "1,422",
+                "Free or Reduced Lunch": "15.2%",
+                "Expenses/Student": "$23,542",
+                "Support Services": "40%"
+            }
+        },
+        "Hillsboro Deering Cooperative School District": {
+            "Niche": "https://www.niche.com/k12/d/hillsboro-deering-cooperative-school-district-nh/",
+            "Data": {
+                "Website": "https://www.hdsd.org",
+                "Phone": "(603) 464-4466",
+                "Address": "78 SCHOOL STREETHILLSBORO, NH 03244",
+                "Students": "1,045",
+                "Free or Reduced Lunch": "39.2%",
+                "Expenses/Student": "$22,324",
+                "Support Services": "34%"
+            }
+        },
+        "Pittsburg School District": {
+            "Niche": "https://www.niche.com/k12/d/pittsburg-school-district-nh/",
+            "Data": {
+                "Website": "https://pittsburgschool.sau7.org/",
+                "Phone": "(603) 237-5571",
+                "Address": "21 ACADEMY ST.COLEBROOK, NH 03576",
+                "Students": "81",
+                "Free or Reduced Lunch": "35.6%",
+                "Expenses/Student": "$34,420",
+                "Support Services": "48%"
+            }
+        },
+        "Rochester School District": {
+            "Niche": "https://www.niche.com/k12/d/rochester-school-district-nh/",
+            "Data": {
+                "Website": "https://www.rochesterschools.com",
+                "Phone": "(603) 332-3678",
+                "Address": "150 WAKEFIELD ST.ROCHESTER, NH 03867",
+                "Students": "3,975",
+                "Free or Reduced Lunch": "41.7%",
+                "Expenses/Student": "$17,105",
+                "Support Services": "30%"
+            }
+        },
+        "Colebrook School District": {
+            "Niche": "https://www.niche.com/k12/d/colebrook-school-district-nh/",
+            "Data": {
+                "Website": "https://csd.sau7.org/",
+                "Phone": "(603) 237-5571",
+                "Address": "21 ACADEMY ST.COLEBROOK, NH 03576",
+                "Students": "318",
+                "Free or Reduced Lunch": "46.4%",
+                "Expenses/Student": "$19,500",
+                "Support Services": "40%"
+            }
+        },
+        "Laconia School District": {
+            "Niche": "https://www.niche.com/k12/d/laconia-school-district-nh/",
+            "Data": {
+                "Website": "https://www.laconiaschools.org",
+                "Phone": "(603) 524-5710",
+                "Address": "39 HARVARD ST.LACONIA, NH 03246",
+                "Students": "1,840",
+                "Free or Reduced Lunch": "57.5%",
+                "Expenses/Student": "$20,412",
+                "Support Services": "33%"
+            }
+        },
+        "Merrimack Valley School District": {
+            "Niche": "https://www.niche.com/k12/d/merrimack-valley-school-district-nh/",
+            "Data": {
+                "Website": "https://www.mvsdpride.org",
+                "Phone": "(603) 753-6561",
+                "Address": "105 COMMUNITY DR.PENACOOK, NH 03303",
+                "Students": "2,222",
+                "Free or Reduced Lunch": "26.2%",
+                "Expenses/Student": "$18,311",
+                "Support Services": "37%"
+            }
+        },
+        "Great Bay Charter School": {
+            "Niche": "https://www.niche.com/k12/d/great-bay-charter-school-nh/",
+            "Data": {
+                "Website": "https://www.gbecs.org/",
+                "Phone": "(603) 775-8638",
+                "Address": "30 LINDEN ST.EXETER, NH 03833",
+                "Students": "147",
+                "Free or Reduced Lunch": "25.3%"
+            }
+        },
+        "Rivendell Interstate School District": {
+            "Niche": "https://www.niche.com/k12/d/rivendell-interstate-school-district-nh/",
+            "Data": {
+                "Website": "https://www.rivendellschool.org",
+                "Phone": "(603) 353-2170",
+                "Address": "10 SCHOOL DRIVEORFORD, NH 03777",
+                "Students": "442",
+                "Free or Reduced Lunch": "41.6%",
+                "Expenses/Student": "$27,525",
+                "Support Services": "43%"
+            }
+        },
+        "Epping School District": {
+            "Niche": "https://www.niche.com/k12/d/epping-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau14.org",
+                "Phone": "(603) 679-8003",
+                "Address": "213 MAIN ST.EPPING, NH 03042",
+                "Students": "888",
+                "Free or Reduced Lunch": "24.3%",
+                "Expenses/Student": "$20,834",
+                "Support Services": "40%"
+            }
+        },
+        "Claremont School District": {
+            "Niche": "https://www.niche.com/k12/d/claremont-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau6.org",
+                "Phone": "(603) 543-4200",
+                "Address": "165 BROAD ST.CLAREMONT, NH 03743",
+                "Students": "1,697",
+                "Free or Reduced Lunch": "50.9%",
+                "Expenses/Student": "$19,697",
+                "Support Services": "34%"
+            }
+        },
+        "Haverhill Cooperative School District": {
+            "Niche": "https://www.niche.com/k12/d/haverhill-cooperative-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau23.org/",
+                "Phone": "(603) 787-2113",
+                "Address": "2975 DARTMOUTH COLLEGE HWY.N. HAVERHILL, NH 03774",
+                "Students": "680",
+                "Free or Reduced Lunch": "37.5%",
+                "Expenses/Student": "$27,535",
+                "Support Services": "40%"
+            }
+        },
+        "Pittsfield School District": {
+            "Niche": "https://www.niche.com/k12/d/pittsfield-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau51.org/",
+                "Phone": "(603) 435-5526",
+                "Address": "23 ONEIDA STREET UNIT 1PITTSFIELD, NH 03263",
+                "Students": "551",
+                "Free or Reduced Lunch": "52.1%",
+                "Expenses/Student": "$19,759",
+                "Support Services": "39%"
+            }
+        },
+        "Winnisquam Regional School District": {
+            "Niche": "https://www.niche.com/k12/d/winnisquam-regional-school-district-nh/",
+            "Data": {
+                "Website": "https://www.wrsdsau59.org/",
+                "Phone": "(603) 286-4116",
+                "Address": "433 WEST MAIN ST.TILTON, NH 03276",
+                "Students": "1,350",
+                "Free or Reduced Lunch": "30.6%",
+                "Expenses/Student": "$19,048",
+                "Support Services": "41%"
+            }
+        },
+        "Milton School District": {
+            "Niche": "https://www.niche.com/k12/d/milton-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau64.org/",
+                "Phone": "(603) 652-0262",
+                "Address": "20 SCHOOL STREETMILTON, NH 03851",
+                "Students": "528",
+                "Free or Reduced Lunch": "34.6%",
+                "Expenses/Student": "$38,631",
+                "Support Services": "35%"
+            }
+        },
+        "Newport School District": {
+            "Niche": "https://www.niche.com/k12/d/newport-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau43.org",
+                "Phone": "(603) 865-9500",
+                "Address": "86 NORTH MAIN STREETNEWPORT, NH 03773",
+                "Students": "859",
+                "Free or Reduced Lunch": "53%",
+                "Expenses/Student": "$21,965",
+                "Support Services": "39%"
+            }
+        },
+        "Franklin School District": {
+            "Niche": "https://www.niche.com/k12/d/franklin-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau18.org",
+                "Phone": "(603) 934-3108",
+                "Address": "119 CENTRAL ST.FRANKLIN, NH 03235",
+                "Students": "921",
+                "Free or Reduced Lunch": "58.2%",
+                "Expenses/Student": "$18,552",
+                "Support Services": "41%"
+            }
+        },
+        "Rye School District": {
+            "Niche": "https://www.niche.com/k12/d/rye-school-district-nh/",
+            "Data": {
+                "Website": "https://sau50.org/",
+                "Phone": "(603) 422-9572",
+                "Address": "48 POST RD.GREENLAND, NH 03840",
+                "Students": "391",
+                "Free or Reduced Lunch": "5.8%",
+                "Expenses/Student": "$34,831",
+                "Support Services": "38%"
+            }
+        },
+        "Hollis School District": {
+            "Niche": "https://www.niche.com/k12/d/hollis-school-district-nh/",
+            "Data": {
+                "Website": "https://www.hollisnh.org",
+                "Phone": "(603) 324-5999",
+                "Address": "4 LUND LN.HOLLIS, NH 03049",
+                "Students": "613",
+                "Free or Reduced Lunch": "2.9%",
+                "Expenses/Student": "$20,020",
+                "Support Services": "36%"
+            }
+        },
+        "Amherst School District": {
+            "Niche": "https://www.niche.com/k12/d/amherst-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau39.org",
+                "Phone": "(603) 673-2690",
+                "Address": "1 SCHOOL ST.AMHERST, NH 03031",
+                "Students": "1,319",
+                "Free or Reduced Lunch": "4.6%",
+                "Expenses/Student": "$20,540",
+                "Support Services": "37%"
+            }
+        },
+        "Brookline School District": {
+            "Niche": "https://www.niche.com/k12/d/brookline-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau41.org/",
+                "Phone": "(603) 324-5999",
+                "Address": "4 LUND LN.HOLLIS, NH 03049",
+                "Students": "583",
+                "Free or Reduced Lunch": "7.4%",
+                "Expenses/Student": "$16,039",
+                "Support Services": "36%"
+            }
+        },
+        "Hooksett School District": {
+            "Niche": "https://www.niche.com/k12/d/hooksett-school-district-nh/",
+            "Data": {
+                "Website": "https://sau15.net",
+                "Phone": "(603) 622-3731",
+                "Address": "90 FARMER RD.HOOKSETT, NH 03106",
+                "Students": "1,232",
+                "Free or Reduced Lunch": "18.8%",
+                "Expenses/Student": "$25,786",
+                "Support Services": "38%"
+            }
+        },
+        "Hampton School District": {
+            "Niche": "https://www.niche.com/k12/d/hampton-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau90.org",
+                "Phone": "(603) 926-4560",
+                "Address": "6 MARSTON WAYHAMPTON, NH 03842",
+                "Students": "954",
+                "Free or Reduced Lunch": "17.7%",
+                "Expenses/Student": "$29,041",
+                "Support Services": "36%"
+            }
+        },
+        "Exeter School District": {
+            "Niche": "https://www.niche.com/k12/d/exeter-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau16.org",
+                "Phone": "(603) 775-8653",
+                "Address": "30 LINDEN ST.EXETER, NH 03833",
+                "Students": "851",
+                "Free or Reduced Lunch": "17.3%",
+                "Expenses/Student": "$23,868",
+                "Support Services": "30%"
+            }
+        },
+        "Hampstead School District": {
+            "Niche": "https://www.niche.com/k12/d/hampstead-school-district-nh/",
+            "Data": {
+                "Website": "https://hampsteadschools.ss19.sharpschool.com/",
+                "Phone": "(603) 382-6119",
+                "Address": "20 MARY E. CLARK DRIVE, UNIT 10HAMPSTEAD, NH 03841",
+                "Students": "811",
+                "Free or Reduced Lunch": "7.4%",
+                "Expenses/Student": "$31,920",
+                "Support Services": "30%"
+            }
+        },
+        "Barrington School District": {
+            "Niche": "https://www.niche.com/k12/d/barrington-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau74.org/",
+                "Phone": "(603) 664-2715",
+                "Address": "572 CALEF HIGHWAYBARRINGTON, NH 03825",
+                "Students": "973",
+                "Free or Reduced Lunch": "15.1%",
+                "Expenses/Student": "$24,110",
+                "Support Services": "40%"
+            }
+        },
+        "Allenstown School District": {
+            "Niche": "https://www.niche.com/k12/d/allenstown-school-district-nh/",
+            "Data": {
+                "Website": "https://asd.sau53.org/en-US",
+                "Phone": "(603) 485-5187",
+                "Address": "267 PEMBROKE ST.PEMBROKE, NH 03275",
+                "Students": "339",
+                "Free or Reduced Lunch": "43.8%",
+                "Expenses/Student": "$29,345",
+                "Support Services": "42%"
+            }
+        },
+        "Weare School District": {
+            "Niche": "https://www.niche.com/k12/d/weare-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau24.org/",
+                "Phone": "(603) 428-3269",
+                "Address": "258 WESTERN AVENUEHENNIKER, NH 03242",
+                "Students": "883",
+                "Free or Reduced Lunch": "18%",
+                "Expenses/Student": "$16,149",
+                "Support Services": "38%"
+            }
+        },
+        "Derry School District": {
+            "Niche": "https://www.niche.com/k12/d/derry-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau10.org/",
+                "Phone": "(603) 432-1210",
+                "Address": "18 SOUTH MAIN ST.DERRY, NH 03038",
+                "Students": "3,127",
+                "Free or Reduced Lunch": "24.1%",
+                "Expenses/Student": "$26,799",
+                "Support Services": "38%"
+            }
+        },
+        "Seabrook School District": {
+            "Niche": "https://www.niche.com/k12/d/seabrook-school-district-nh/",
+            "Data": {
+                "Website": "https://www.sau21.org",
+                "Phone": "(603) 926-8992",
+                "Address": "2 ALUMNI DR.HAMPTON, NH 03842",
+                "Students": "666",
+                "Free or Reduced Lunch": "41.6%",
+                "Expenses/Student": "$22,200",
+                "Support Services": "34%"
+            }
+        },
+        "Kreiva Academy Public Charter School": {
+            "Niche": "https://www.niche.com/k12/d/kreiva-academy-public-charter-school-nh/",
+            "Data": {
+                "Website": "https://www.kreiva.org/",
+                "Phone": "(603) 232-7974",
+                "Address": "470 PINE ST.MANCHESTER, NH 03104",
+                "Students": "174"
+            }
+        },
+        "North Country Charter Academy": {
+            "Niche": "https://www.niche.com/k12/d/north-country-charter-academy-nh/",
+            "Data": {
+                "Website": "https://www.northcountrycharteracademy.com/",
+                "Phone": "(603) 444-1535",
+                "Address": "260 COTTAGE ST. SUITE ALITTLETON, NH 03561",
+                "Students": "42",
+                "Free or Reduced Lunch": "47.7%"
+            }
+        }
+    }
+}

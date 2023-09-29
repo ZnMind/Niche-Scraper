@@ -1,0 +1,1132 @@
+{
+    "Districts": {
+        "Texico Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/texico-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.texicoschools.com/",
+                "Phone": "(575) 482-3801",
+                "Address": "520 N. GRIFFIN ST.TEXICO, NM 88135",
+                "Students": "555",
+                "Free or Reduced Lunch": "57.6%",
+                "Expenses/Student": "$15,820",
+                "Support Services": "35%"
+            }
+        },
+        "Los Alamos Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/los-alamos-public-schools-nm/",
+            "Data": {
+                "Website": "https://laschools.net/",
+                "Phone": "(505) 663-2230",
+                "Address": "2075 TRINITY DRIVELOS ALAMOS, NM 87544",
+                "Students": "3,709",
+                "Free or Reduced Lunch": "12%",
+                "Expenses/Student": "$14,943",
+                "Support Services": "38%"
+            }
+        },
+        "Artesia Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/artesia-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.bulldogs.org/",
+                "Phone": "(575) 746-3585",
+                "Address": "1106 WEST QUAY AVEARTESIA, NM 88210",
+                "Students": "3,701",
+                "Free or Reduced Lunch": "52.5%",
+                "Expenses/Student": "$13,331",
+                "Support Services": "34%"
+            }
+        },
+        "Des Moines Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/des-moines-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://desmoines.k12.nm.us/",
+                "Phone": "(575) 278-2611",
+                "Address": "500 DES MOINES AVENUEDES MOINES, NM 88418",
+                "Students": "97",
+                "Free or Reduced Lunch": "39.6%",
+                "Expenses/Student": "$27,546",
+                "Support Services": "42%"
+            }
+        },
+        "Rio Rancho Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/rio-rancho-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.rrps.net/",
+                "Phone": "(505) 896-0667",
+                "Address": "500 LASER ROAD NERIO RANCHO, NM 87124",
+                "Students": "17,292",
+                "Free or Reduced Lunch": "41.9%",
+                "Expenses/Student": "$13,113",
+                "Support Services": "37%"
+            }
+        },
+        "Animas Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/animas-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.animask12.net/",
+                "Phone": "(575) 548-2299",
+                "Address": "1 PANTHER DRANIMAS, NM 88020",
+                "Students": "165",
+                "Free or Reduced Lunch": "56.1%",
+                "Expenses/Student": "$19,345",
+                "Support Services": "50%"
+            }
+        },
+        "Dora Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/dora-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.doraschools.com/",
+                "Phone": "(575) 477-2216",
+                "Address": "100 SCHOOL STDORA, NM 88115",
+                "Students": "219",
+                "Free or Reduced Lunch": "45.4%",
+                "Expenses/Student": "$17,484",
+                "Support Services": "40%"
+            }
+        },
+        "Fort Sumner Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/fort-sumner-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.ftsumnerk12.com/",
+                "Phone": "(575) 355-7734",
+                "Address": "1001 SUMNER AVEFORT SUMNER, NM 88119",
+                "Students": "260",
+                "Free or Reduced Lunch": "73.5%",
+                "Expenses/Student": "$20,327",
+                "Support Services": "43%"
+            }
+        },
+        "Corona Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/corona-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.cpscardinals.org/",
+                "Phone": "(575) 849-1911",
+                "Address": "531 FRANKLIN STCORONA, NM 88318",
+                "Students": "73",
+                "Free or Reduced Lunch": "92.3%",
+                "Expenses/Student": "$32,178",
+                "Support Services": "46%"
+            }
+        },
+        "Cloudcroft Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/cloudcroft-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.cmsbears.org/",
+                "Phone": "(575) 682-2361",
+                "Address": "10 SWALLOW PLACECLOUDCROFT, NM 88317",
+                "Students": "384",
+                "Free or Reduced Lunch": "43.9%",
+                "Expenses/Student": "$16,724",
+                "Support Services": "41%"
+            }
+        },
+        "Mission Achievement & Success": {
+            "Niche": "https://www.niche.com/k12/d/mission-achievement-and-success-nm/",
+            "Data": {
+                "Website": "https://www.missionachievementandsuccess.com/",
+                "Phone": "(505) 242-3118",
+                "Address": "1718 YALE BLVD SEALBUQUERQUE, NM 87106",
+                "Students": "2,055",
+                "Free or Reduced Lunch": "99.9%",
+                "Expenses/Student": "$6,909",
+                "Support Services": "32%"
+            }
+        },
+        "Reserve Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/reserve-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.reserveschools.com/",
+                "Phone": "(575) 533-6241",
+                "Address": "24 MOUNTAINEER RD.RESERVE, NM 87830",
+                "Students": "109",
+                "Free or Reduced Lunch": "69.1%",
+                "Expenses/Student": "$28,963",
+                "Support Services": "44%"
+            }
+        },
+        "Grady Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/grady-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.gradyschool.com/",
+                "Phone": "(575) 357-2192",
+                "Address": "100 FRANKLIN STREETGRADY, NM 88120",
+                "Students": "176",
+                "Free or Reduced Lunch": "61.5%",
+                "Expenses/Student": "$17,489",
+                "Support Services": "41%"
+            }
+        },
+        "Farmington Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/farmington-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.farmingtonschools.us/",
+                "Phone": "(505) 324-9840",
+                "Address": " 3401 E. 30TH STREETFARMINGTON, NM 87402",
+                "Students": "11,126",
+                "Free or Reduced Lunch": "52.8%",
+                "Expenses/Student": "$11,868",
+                "Support Services": "37%"
+            }
+        },
+        "Capitan Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/capitan-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.capitantigers.org/",
+                "Phone": "(575) 354-8500",
+                "Address": "519 SMOKEY BEAR BLVDCAPITAN, NM 88316",
+                "Students": "469",
+                "Free or Reduced Lunch": "64.3%",
+                "Expenses/Student": "$17,708",
+                "Support Services": "37%"
+            }
+        },
+        "San Jon Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/san-jon-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.sanjonschools.com/",
+                "Phone": "(575) 576-2466",
+                "Address": "7TH & ELM STREETSAN JON, NM 88434",
+                "Students": "110",
+                "Free or Reduced Lunch": "60.3%",
+                "Expenses/Student": "$25,545",
+                "Support Services": "41%"
+            }
+        },
+        "Logan Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/logan-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.loganschool.net/",
+                "Phone": "(575) 487-2252",
+                "Address": "301 N 2ND STLOGAN, NM 88426",
+                "Students": "284",
+                "Free or Reduced Lunch": "48.1%",
+                "Expenses/Student": "$15,567",
+                "Support Services": "38%"
+            }
+        },
+        "Las Cruces Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/las-cruces-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.lcps.net/",
+                "Phone": "(575) 527-5800",
+                "Address": "505 SOUTH MAIN SUITE 249LAS CRUCES, NM 88001",
+                "Students": "23,771",
+                "Free or Reduced Lunch": "73%",
+                "Expenses/Student": "$12,233",
+                "Support Services": "37%"
+            }
+        },
+        "Melrose Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/melrose-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.melroseschools.org/",
+                "Phone": "(575) 253-4269",
+                "Address": "100 MISSOURI AVEMELROSE, NM 88124",
+                "Students": "267",
+                "Free or Reduced Lunch": "43.2%",
+                "Expenses/Student": "$15,255",
+                "Support Services": "41%"
+            }
+        },
+        "Albuquerque Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/albuquerque-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.aps.edu/",
+                "Phone": "(505) 880-3744",
+                "Address": "6400 UPTOWN BLVD NEALBUQUERQUE, NM 87110",
+                "Students": "81,762",
+                "Free or Reduced Lunch": "68.9%",
+                "Expenses/Student": "$14,030",
+                "Support Services": "36%"
+            }
+        },
+        "Cimarron Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/cimarron-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.cimarronschools.org/",
+                "Phone": "(575) 376-2445",
+                "Address": "125 N. COLLISON AVE.CIMARRON, NM 87714",
+                "Students": "404",
+                "Free or Reduced Lunch": "53.2%",
+                "Expenses/Student": "$21,270",
+                "Support Services": "41%"
+            }
+        },
+        "Tatum Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/tatum-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.tatumschools.org/",
+                "Phone": "(575) 398-4455",
+                "Address": "306 WEST 3RD STREETTATUM, NM 88267",
+                "Students": "310",
+                "Free or Reduced Lunch": "47.8%",
+                "Expenses/Student": "$18,271",
+                "Support Services": "41%"
+            }
+        },
+        "Floyd Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/floyd-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.floydbroncos.com/",
+                "Phone": "(575) 478-2211",
+                "Address": "1564 NM 267FLOYD, NM 88118",
+                "Students": "224",
+                "Free or Reduced Lunch": "79.3%",
+                "Expenses/Student": "$15,522",
+                "Support Services": "33%"
+            }
+        },
+        "Vaughn Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/vaughn-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.vaughnschools.org/",
+                "Phone": "(575) 584-2283",
+                "Address": "202 WEST 4TH STREETVAUGHN, NM 88353",
+                "Students": "57",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$43,474",
+                "Support Services": "48%"
+            }
+        },
+        "Elida Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/elida-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://elidaschools.net/",
+                "Phone": "(575) 274-6211",
+                "Address": "103 N CHURCH STREETELIDA, NM 88116",
+                "Students": "170",
+                "Free or Reduced Lunch": "59.7%",
+                "Expenses/Student": "$20,094",
+                "Support Services": "45%"
+            }
+        },
+        "Clayton Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/clayton-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.claytonschools.us",
+                "Phone": "(575) 374-9611",
+                "Address": "323 SOUTH 5TH STCLAYTON, NM 88415",
+                "Students": "385",
+                "Free or Reduced Lunch": "68.2%",
+                "Expenses/Student": "$23,771",
+                "Support Services": "45%"
+            }
+        },
+        "Portales Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/portales-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.portalesschools.com/",
+                "Phone": "(575) 356-7000",
+                "Address": "501 SOUTH ABILENEPORTALES, NM 88130",
+                "Students": "2,659",
+                "Free or Reduced Lunch": "70.9%",
+                "Expenses/Student": "$12,963",
+                "Support Services": "35%"
+            }
+        },
+        "Truth or Consequences Municipal School District": {
+            "Niche": "https://www.niche.com/k12/d/truth-or-consequences-municipal-school-district-nm/",
+            "Data": {
+                "Website": "https://www.torcschools.net/",
+                "Phone": "(575) 894-8150",
+                "Address": "180 NORTH DATE STT OR C, NM 87901",
+                "Students": "1,254",
+                "Free or Reduced Lunch": "88.8%",
+                "Expenses/Student": "$14,396",
+                "Support Services": "36%"
+            }
+        },
+        "Gadsden Independent Schools": {
+            "Niche": "https://www.niche.com/k12/d/gadsden-independent-schools-nm/",
+            "Data": {
+                "Website": "https://www.gisd.k12.nm.us/",
+                "Phone": "(575) 882-6203",
+                "Address": "6308 HIGHWAY 28ANTHONY, NM 88021",
+                "Students": "12,620",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$13,499",
+                "Support Services": "35%"
+            }
+        },
+        "Hobbs Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/hobbs-municipal-schools-nm/",
+            "Data": {
+                "Website": "http://www.hobbsschools.net/",
+                "Phone": "(575) 433-0100",
+                "Address": "1515 E SANGERHOBBS, NM 88240",
+                "Students": "9,772",
+                "Free or Reduced Lunch": "62.6%",
+                "Expenses/Student": "$11,794",
+                "Support Services": "32%"
+            }
+        },
+        "Quemado Independent Schools": {
+            "Niche": "https://www.niche.com/k12/d/quemado-independent-schools-nm/",
+            "Data": {
+                "Website": "https://www.quemadoschools.org/",
+                "Phone": "(575) 773-4700",
+                "Address": "3484 HWY 60QUEMADO, NM 87829",
+                "Students": "162",
+                "Free or Reduced Lunch": "79.3%",
+                "Expenses/Student": "$23,407",
+                "Support Services": "46%"
+            }
+        },
+        "Maxwell Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/maxwell-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.maxwellp12.com/",
+                "Phone": "(575) 375-2371",
+                "Address": "423 4TH  STREETMAXWELL, NM 87728",
+                "Students": "119",
+                "Free or Reduced Lunch": "92.1%",
+                "Expenses/Student": "$24,193",
+                "Support Services": "41%"
+            }
+        },
+        "Ruidoso Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/ruidoso-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.ruidososchools.org/",
+                "Phone": "(575) 257-4051",
+                "Address": "200 HORTON CIRCLERUIDOSO, NM 88345",
+                "Students": "1,830",
+                "Free or Reduced Lunch": "88.1%",
+                "Expenses/Student": "$13,795",
+                "Support Services": "43%"
+            }
+        },
+        "Santa Fe Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/santa-fe-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.sfps.info/",
+                "Phone": "(505) 467-2003",
+                "Address": "610 ALTA VISTA ST.SANTA FE, NM 87501",
+                "Students": "11,989",
+                "Free or Reduced Lunch": "63.6%",
+                "Expenses/Student": "$18,127",
+                "Support Services": "37%"
+            }
+        },
+        "Los Lunas Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/los-lunas-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.llschools.net/",
+                "Phone": "(505) 866-2440",
+                "Address": "343 MAIN ST NWLOS LUNAS, NM 87031",
+                "Students": "8,203",
+                "Free or Reduced Lunch": "69.6%",
+                "Expenses/Student": "$11,490",
+                "Support Services": "41%"
+            }
+        },
+        "Moriarty-Edgewood School District": {
+            "Niche": "https://www.niche.com/k12/d/moriarty-edgewood-school-district-nm/",
+            "Data": {
+                "Website": "https://www.mesd.us/",
+                "Phone": "(505) 832-4471",
+                "Address": "200 CENTER STMORIARTY, NM 87035",
+                "Students": "2,287",
+                "Free or Reduced Lunch": "60.3%",
+                "Expenses/Student": "$16,930",
+                "Support Services": "41%"
+            }
+        },
+        "Carlsbad Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/carlsbad-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.carlsbadschools.net/",
+                "Phone": "(575) 234-3300",
+                "Address": "408 NORTH CANYON STCARLSBAD, NM 88220",
+                "Students": "8,835",
+                "Free or Reduced Lunch": "56.8%",
+                "Expenses/Student": "$12,977",
+                "Support Services": "36%"
+            }
+        },
+        "Estancia Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/estancia-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.estancia.k12.nm.us",
+                "Phone": "(505) 384-2001",
+                "Address": "300 NORTH 9TH STREETESTANCIA, NM 87016",
+                "Students": "547",
+                "Free or Reduced Lunch": "99%",
+                "Expenses/Student": "$18,784",
+                "Support Services": "47%"
+            }
+        },
+        "Tularosa Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/tularosa-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.tularosak12.us/",
+                "Phone": "(575) 585-8800",
+                "Address": "504 FIRST STTULAROSA, NM 88352",
+                "Students": "809",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$15,200",
+                "Support Services": "39%"
+            }
+        },
+        "Eunice Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/eunice-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.eunice.org/",
+                "Phone": "(575) 394-2524",
+                "Address": "1720 AVENUE KEUNICE, NM 88231",
+                "Students": "744",
+                "Free or Reduced Lunch": "68.4%",
+                "Expenses/Student": "$21,601",
+                "Support Services": "37%"
+            }
+        },
+        "Tucumcari Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/tucumcari-public-schools-nm/",
+            "Data": {
+                "Website": "https://tucumcarischools.com/",
+                "Phone": "(575) 461-3910",
+                "Address": "700 WEST AMAROSATUCUMCARI, NM 88401",
+                "Students": "891",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$13,632",
+                "Support Services": "39%"
+            }
+        },
+        "Roswell Independent Schools": {
+            "Niche": "https://www.niche.com/k12/d/roswell-independent-schools-nm/",
+            "Data": {
+                "Website": "https://www.risd.k12.nm.us/",
+                "Phone": "(575) 627-2511",
+                "Address": "300 N. KENTUCKYROSWELL, NM 88201",
+                "Students": "9,854",
+                "Free or Reduced Lunch": "88.6%",
+                "Expenses/Student": "$12,874",
+                "Support Services": "37%"
+            }
+        },
+        "Hagerman Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/hagerman-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.bobcat.net/",
+                "Phone": "(575) 752-3254",
+                "Address": "406 NORTH CAMBRIDGE AVEHAGERMAN, NM 88232",
+                "Students": "374",
+                "Free or Reduced Lunch": "89.4%",
+                "Expenses/Student": "$19,190",
+                "Support Services": "40%"
+            }
+        },
+        "Deming Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/deming-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.demingps.org/",
+                "Phone": "(575) 546-8841",
+                "Address": "1001 S DIAMOND AVE.DEMING, NM 88030",
+                "Students": "5,352",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$13,055",
+                "Support Services": "38%"
+            }
+        },
+        "Alamogordo Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/alamogordo-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.alamogordoschools.org/",
+                "Phone": "(575) 812-6002",
+                "Address": "1211 HAWAII AVEALAMOGORDO, NM 88310",
+                "Students": "5,571",
+                "Free or Reduced Lunch": "28.3%",
+                "Expenses/Student": "$13,003",
+                "Support Services": "43%"
+            }
+        },
+        "Magdalena Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/magdalena-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.magdalena.k12.nm.us/",
+                "Phone": "(575) 854-2241",
+                "Address": "201 DUGGINS DRMAGDALENA, NM 87825",
+                "Students": "280",
+                "Free or Reduced Lunch": "99.7%",
+                "Expenses/Student": "$25,750",
+                "Support Services": "40%"
+            }
+        },
+        "Santa Rosa Consolidated Schools": {
+            "Niche": "https://www.niche.com/k12/d/santa-rosa-consolidated-schools-nm/",
+            "Data": {
+                "Website": "https://www.srlions.com/",
+                "Phone": "(575) 472-3171",
+                "Address": "344 4TH STSANTA ROSA, NM 88435",
+                "Students": "608",
+                "Free or Reduced Lunch": "99.5%",
+                "Expenses/Student": "$16,393",
+                "Support Services": "42%"
+            }
+        },
+        "Taos Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/taos-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.taosschools.org/",
+                "Phone": "(575) 758-5202",
+                "Address": "310 CAMINO DE LA PLACITATAOS, NM 87571",
+                "Students": "2,406",
+                "Free or Reduced Lunch": "81.9%",
+                "Expenses/Student": "$16,006",
+                "Support Services": "37%"
+            }
+        },
+        "Lordsburg Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/lordsburg-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.lmsed.org/",
+                "Phone": "(575) 542-9361",
+                "Address": "401 W 4TH STLORDSBURG, NM 88045",
+                "Students": "453",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$20,660",
+                "Support Services": "44%"
+            }
+        },
+        "Aztec Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/aztec-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.aztecschools.com/",
+                "Phone": "(575) 334-9474",
+                "Address": "1118 WEST AZTEC BLVDAZTEC, NM 87410",
+                "Students": "2,563",
+                "Free or Reduced Lunch": "61.4%",
+                "Expenses/Student": "$12,335",
+                "Support Services": "39%"
+            }
+        },
+        "Clovis Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/clovis-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.clovis-schools.org/",
+                "Phone": "(575) 769-4300",
+                "Address": "1009 N MAIN STCLOVIS, NM 88101",
+                "Students": "7,849",
+                "Free or Reduced Lunch": "78.8%",
+                "Expenses/Student": "$11,034",
+                "Support Services": "38%"
+            }
+        },
+        "Springer Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/springer-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.springerschools.org/",
+                "Phone": "(575) 483-3432",
+                "Address": "1401 8TH STSPRINGER, NM 87747",
+                "Students": "117",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$25,812",
+                "Support Services": "45%"
+            }
+        },
+        "Lovington Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/lovington-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.lovingtonschools.net/",
+                "Phone": "(575) 739-2200",
+                "Address": "18 WEST WASHINGTONLOVINGTON, NM 88260",
+                "Students": "3,460",
+                "Free or Reduced Lunch": "63.7%",
+                "Expenses/Student": "$12,826",
+                "Support Services": "40%"
+            }
+        },
+        "Carrizozo Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/carrizozo-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.carrizozogrizzlies.org/",
+                "Phone": "(575) 648-2348",
+                "Address": "800 D AVENUECARRIZOZO, NM 88301",
+                "Students": "146",
+                "Free or Reduced Lunch": "91.6%",
+                "Expenses/Student": "$22,993",
+                "Support Services": "40%"
+            }
+        },
+        "Bloomfield School District": {
+            "Niche": "https://www.niche.com/k12/d/bloomfield-school-district-nm/",
+            "Data": {
+                "Website": "https://www.bsin.k12.nm.us/",
+                "Phone": "(505) 632-4316",
+                "Address": "325 NORTH BERGIN LANEBLOOMFIELD, NM 87413",
+                "Students": "2,568",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$13,702",
+                "Support Services": "40%"
+            }
+        },
+        "Central Consolidated School District": {
+            "Niche": "https://www.niche.com/k12/d/central-consolidated-school-district-nm/",
+            "Data": {
+                "Website": "https://www.ccsdnm.org",
+                "Phone": "(505) 368-4984",
+                "Address": "OLD HIGH SCHOOL RDSHIPROCK, NM 87420",
+                "Students": "4,965",
+                "Free or Reduced Lunch": "61.7%",
+                "Expenses/Student": "$16,749",
+                "Support Services": "45%"
+            }
+        },
+        "Pojoaque Valley Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/pojoaque-valley-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.pvs.k12.nm.us/",
+                "Phone": "(505) 455-2282",
+                "Address": "1574 STATE ROAD 502 WESTSANTA FE, NM 87506",
+                "Students": "1,749",
+                "Free or Reduced Lunch": "64.3%",
+                "Expenses/Student": "$12,162",
+                "Support Services": "46%"
+            }
+        },
+        "Loving Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/loving-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.lovingschools.com/",
+                "Phone": "(575) 745-2010",
+                "Address": "603 WEST COTTONWOODLOVING, NM 88256",
+                "Students": "623",
+                "Free or Reduced Lunch": "99.5%",
+                "Expenses/Student": "$13,522",
+                "Support Services": "37%"
+            }
+        },
+        "Mountainair Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/mountainair-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.mountainairpublicschools.net/",
+                "Phone": "(505) 847-2333",
+                "Address": "512 N. ROSSMOUNTAINAIR, NM 87036",
+                "Students": "222",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$23,622",
+                "Support Services": "49%"
+            }
+        },
+        "Hatch Valley Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/hatch-valley-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.hatchschools.net/",
+                "Phone": "(575) 267-8200",
+                "Address": "204 E HILL STHATCH, NM 87937",
+                "Students": "1,212",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$13,551",
+                "Support Services": "38%"
+            }
+        },
+        "Cobre Consolidated School District": {
+            "Niche": "https://www.niche.com/k12/d/cobre-consolidated-school-district-nm/",
+            "Data": {
+                "Website": "https://www.cobreschools.org/",
+                "Phone": "(575) 537-4010",
+                "Address": "900 CENTRAL AVENUEBAYARD, NM 88023",
+                "Students": "1,079",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$21,186",
+                "Support Services": "41%"
+            }
+        },
+        "Hondo Valley Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/hondo-valley-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.hondoeagles.org/",
+                "Phone": "(575) 653-4411",
+                "Address": "111 DON PABLO LANEHONDO, NM 88336",
+                "Students": "135",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$24,704",
+                "Support Services": "38%"
+            }
+        },
+        "Lake Arthur Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/lake-arthur-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.la-panthers.org/",
+                "Phone": "(575) 365-2000",
+                "Address": "700 BROADWAYLAKE ARTHUR, NM 88253",
+                "Students": "125",
+                "Free or Reduced Lunch": "90.4%",
+                "Expenses/Student": "$22,656",
+                "Support Services": "45%"
+            }
+        },
+        "Silver Consolidated Schools": {
+            "Niche": "https://www.niche.com/k12/d/silver-consolidated-schools-nm/",
+            "Data": {
+                "Website": "https://www.silverschools.org/en-US",
+                "Phone": "(575) 956-2000",
+                "Address": "2810 N. SWAN STREETSILVER CITY, NM 88061",
+                "Students": "2,306",
+                "Free or Reduced Lunch": "89.9%",
+                "Expenses/Student": "$16,616",
+                "Support Services": "41%"
+            }
+        },
+        "Gallup-McKinley County School District": {
+            "Niche": "https://www.niche.com/k12/d/gallup-mckinley-county-school-district-nm/",
+            "Data": {
+                "Website": "https://gmcs.org/",
+                "Phone": "(505) 721-1000",
+                "Address": "640 S. BOARDMANGALLUP, NM 87301",
+                "Students": "12,043",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$14,361",
+                "Support Services": "38%"
+            }
+        },
+        "Jemez Mountain Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/jemez-mountain-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.jmsk12.com/",
+                "Phone": "(575) 638-5419",
+                "Address": "9935 US HIGHWAY 550CUBA, NM 87013",
+                "Students": "181",
+                "Free or Reduced Lunch": "95.6%",
+                "Expenses/Student": "$25,912",
+                "Support Services": "59%"
+            }
+        },
+        "Mora Independent Schools": {
+            "Niche": "https://www.niche.com/k12/d/mora-independent-schools-nm/",
+            "Data": {
+                "Website": "https://www.mora.k12.nm.us/",
+                "Phone": "(575) 387-3101",
+                "Address": "HWY 518 AND RANGER DRMORA, NM 87732",
+                "Students": "410",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$19,915",
+                "Support Services": "48%"
+            }
+        },
+        "Bernalillo Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/bernalillo-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.bernalillo-schools.org/",
+                "Phone": "(505) 867-2317",
+                "Address": "224 N CAMINO DEL PUEBLOBERNALILLO, NM 87004",
+                "Students": "2,852",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$16,672",
+                "Support Services": "40%"
+            }
+        },
+        "Cuba Independent Schools": {
+            "Niche": "https://www.niche.com/k12/d/cuba-independent-schools-nm/",
+            "Data": {
+                "Website": "https://cubaisd.ss8.sharpschool.com/home",
+                "Phone": "(575) 289-3211",
+                "Address": "50 COUNTY RD 13CUBA, NM 87013",
+                "Students": "667",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$21,838",
+                "Support Services": "47%"
+            }
+        },
+        "Questa Independent Schools": {
+            "Niche": "https://www.niche.com/k12/d/questa-independent-schools-nm/",
+            "Data": {
+                "Website": "https://qisd-nm.schoolloop.com/",
+                "Phone": "(575) 586-0421",
+                "Address": "2556A WILDCAT RDQUESTA, NM 87556",
+                "Students": "297",
+                "Free or Reduced Lunch": "97.9%",
+                "Expenses/Student": "$22,552",
+                "Support Services": "49%"
+            }
+        },
+        "Las Vegas City Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/las-vegas-city-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.cybercardinal.com/",
+                "Phone": "(505) 454-5700",
+                "Address": "901 DOUGLAS AVENUELAS VEGAS, NM 87701",
+                "Students": "1,209",
+                "Free or Reduced Lunch": "83.7%",
+                "Expenses/Student": "$17,830",
+                "Support Services": "45%"
+            }
+        },
+        "Grants Cibola County Schools": {
+            "Niche": "https://www.niche.com/k12/d/grants-cibola-county-schools-nm/",
+            "Data": {
+                "Website": "https://www.gccs.k12.nm.us/",
+                "Phone": "(505) 285-2603",
+                "Address": "413 W ROOSEVELT AVEGRANTS, NM 87020",
+                "Students": "3,178",
+                "Free or Reduced Lunch": "99.9%",
+                "Expenses/Student": "$15,747",
+                "Support Services": "37%"
+            }
+        },
+        "Jal Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/jal-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.jalnm.org/",
+                "Phone": "(575) 395-2840",
+                "Address": "200 E PANTHERJAL, NM 88252",
+                "Students": "508",
+                "Free or Reduced Lunch": "52.5%",
+                "Expenses/Student": "$23,012",
+                "Support Services": "42%"
+            }
+        },
+        "Raton Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/raton-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.ratonschools.com/",
+                "Phone": "(575) 445-9111",
+                "Address": "1550 TIGER CIRCLERATON, NM 87740",
+                "Students": "843",
+                "Free or Reduced Lunch": "99.5%",
+                "Expenses/Student": "$12,270",
+                "Support Services": "35%"
+            }
+        },
+        "Chama Valley Independent School District": {
+            "Niche": "https://www.niche.com/k12/d/chama-valley-independent-school-district-nm/",
+            "Data": {
+                "Website": "https://www.chamaschools.org/en-US",
+                "Phone": "(575) 588-7285",
+                "Address": "STATE ROAD 531TIERRA AMARILLA, NM 87575",
+                "Students": "375",
+                "Free or Reduced Lunch": "79.9%",
+                "Expenses/Student": "$23,011",
+                "Support Services": "48%"
+            }
+        },
+        "West Las Vegas Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/west-las-vegas-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.wlvs.k12.nm.us/",
+                "Phone": "(505) 426-2311",
+                "Address": "179 BRIDGE STREETLAS VEGAS, NM 87701",
+                "Students": "1,530",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$16,908",
+                "Support Services": "45%"
+            }
+        },
+        "Dexter Consolidated Schools": {
+            "Niche": "https://www.niche.com/k12/d/dexter-consolidated-schools-nm/",
+            "Data": {
+                "Website": "https://www.dexterdemons.org/home",
+                "Phone": "(575) 734-5420",
+                "Address": "100 N. LINCOLN STREETDEXTER, NM 88230",
+                "Students": "794",
+                "Free or Reduced Lunch": "80.9%",
+                "Expenses/Student": "$18,332",
+                "Support Services": "37%"
+            }
+        },
+        "Belen Consolidated School District": {
+            "Niche": "https://www.niche.com/k12/d/belen-consolidated-school-district-nm/",
+            "Data": {
+                "Website": "https://www.beleneagles.org/",
+                "Phone": "(505) 966-1003",
+                "Address": "520 NORTH MAIN STBELEN, NM 87002",
+                "Students": "3,581",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$13,460",
+                "Support Services": "43%"
+            }
+        },
+        "Espanola Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/espanola-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.k12espanola.org/",
+                "Phone": "(505) 367-3301",
+                "Address": "405 HUNTER ST ESPANOLA, NM 87532",
+                "Students": "2,988",
+                "Free or Reduced Lunch": "94%",
+                "Expenses/Student": "$15,018",
+                "Support Services": "45%"
+            }
+        },
+        "Mesa Vista Consolidated Schools": {
+            "Niche": "https://www.niche.com/k12/d/mesa-vista-consolidated-schools-nm/",
+            "Data": {
+                "Website": "http://mesavistacsd.com/index.php",
+                "Phone": "(575) 583-2645",
+                "Address": "HIGHWAY 285  JUNCTION 111OJO CALIENTE, NM 87549",
+                "Students": "243",
+                "Free or Reduced Lunch": "98.8%",
+                "Expenses/Student": "$20,918",
+                "Support Services": "54%"
+            }
+        },
+        "Socorro Consolidated Schools": {
+            "Niche": "https://www.niche.com/k12/d/socorro-consolidated-schools-nm/",
+            "Data": {
+                "Website": "https://www.socorroschools.org/",
+                "Phone": "(575) 835-0333",
+                "Address": "700 FRANKLIN STSOCORRO, NM 87801",
+                "Students": "1,474",
+                "Free or Reduced Lunch": "99.9%",
+                "Expenses/Student": "$20,329",
+                "Support Services": "40%"
+            }
+        },
+        "Penasco Independent Schools": {
+            "Niche": "https://www.niche.com/k12/d/penasco-independent-schools-nm/",
+            "Data": {
+                "Website": "https://www.penascoisd.com/",
+                "Phone": "(575) 587-2230",
+                "Address": "13 SCHOOL RDPENASCO, NM 87553",
+                "Students": "330",
+                "Free or Reduced Lunch": "97.4%",
+                "Expenses/Student": "$19,676",
+                "Support Services": "51%"
+            }
+        },
+        "Zuni Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/zuni-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.zpsd.org/",
+                "Phone": "(505) 782-5511",
+                "Address": "12 TWIN BUTTES DRIVEZUNI, NM 87327",
+                "Students": "1,152",
+                "Free or Reduced Lunch": "98.5%",
+                "Expenses/Student": "$19,286",
+                "Support Services": "44%"
+            }
+        },
+        "Jemez Valley Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/jemez-valley-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.jvps.org/",
+                "Phone": "(575) 834-7391",
+                "Address": "8501 HIGHWAY 4JEMEZ PUEBLO, NM 87024",
+                "Students": "361",
+                "Free or Reduced Lunch": "87.4%",
+                "Expenses/Student": "$26,233",
+                "Support Services": "46%"
+            }
+        },
+        "Dulce Independent Schools": {
+            "Niche": "https://www.niche.com/k12/d/dulce-independent-schools-nm/",
+            "Data": {
+                "Website": "https://www.dulceschools.com/",
+                "Phone": "(575) 759-3353",
+                "Address": "113 HAWKS DRDULCE, NM 87528",
+                "Students": "544",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$22,088",
+                "Support Services": "46%"
+            }
+        },
+        "Mosquero Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/mosquero-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.mosquero.net/",
+                "Phone": "(575) 673-2271",
+                "Address": "43 MCNEIL AVEMOSQUERO, NM 87733",
+                "Students": "95",
+                "Free or Reduced Lunch": "53.7%",
+                "Expenses/Student": "$25,316",
+                "Support Services": "56%"
+            }
+        },
+        "House Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/house-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.houseschools.net/",
+                "Phone": "(575) 279-7353",
+                "Address": "309 N APPLE STHOUSE, NM 88121",
+                "Students": "75",
+                "Free or Reduced Lunch": "39%",
+                "Expenses/Student": "$28,373",
+                "Support Services": "36%"
+            }
+        },
+        "New Mexico School for the Deaf": {
+            "Niche": "https://www.niche.com/k12/d/new-mexico-school-for-the-deaf-nm/",
+            "Data": {
+                "Website": "https://www.nmsd.k12.nm.us/",
+                "Phone": "(505) 476-6300",
+                "Address": "1060 CERRILLOS RDSANTA FE, NM 87505",
+                "Students": "142",
+                "Free or Reduced Lunch": "97.4%"
+            }
+        },
+        "Mescalero Apache School": {
+            "Niche": "https://www.niche.com/k12/d/mescalero-apache-school-nm/",
+            "Data": {
+                "Website": "https://www.maschiefs.org/",
+                "Phone": "(575) 464-4431",
+                "Address": "249 WHITE MOUNTAIN DRIVEMESCALERO, NM 88340",
+                "Students": "565",
+                "Free or Reduced Lunch": "100%"
+            }
+        },
+        "Alamo Navajo Community School": {
+            "Niche": "https://www.niche.com/k12/d/alamo-navajo-community-school-nm/",
+            "Data": {
+                "Website": "https://www.ansbi.org/",
+                "Phone": "(575) 854-2635",
+                "Address": "29 NM-169ALAMO, NM 87825",
+                "Students": "293",
+                "Free or Reduced Lunch": "100%"
+            }
+        },
+        "To'Hajiilee Day School": {
+            "Niche": "https://www.niche.com/k12/d/tohajiilee-day-school-nm/",
+            "Data": {
+                "Website": "https://www.tohajiileeschool.com/",
+                "Phone": "(505) 908-2446",
+                "Address": "170 WARRIOR LANETOHAJIILEE, NM 87026",
+                "Students": "232",
+                "Free or Reduced Lunch": "100%"
+            }
+        },
+        "Wagon Mound Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/wagon-mound-public-schools-nm/",
+            "Data": {
+                "Website": "https://www.wm.k12.nm.us/",
+                "Phone": "(575) 666-3001",
+                "Address": "300 PARK AVENUEWAGON MOUND, NM 87752",
+                "Students": "80",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$32,975",
+                "Support Services": "47%"
+            }
+        },
+        "Roy Municipal Schools": {
+            "Niche": "https://www.niche.com/k12/d/roy-municipal-schools-nm/",
+            "Data": {
+                "Website": "https://www.royschools.org/",
+                "Phone": "(575) 485-2242",
+                "Address": "525 ROOSEVELT STROY, NM 87743",
+                "Students": "71",
+                "Free or Reduced Lunch": "42.9%",
+                "Expenses/Student": "$29,324",
+                "Support Services": "37%"
+            }
+        },
+        "UNM Children's Psychiatric Center": {
+            "Niche": "https://www.niche.com/k12/d/unm-childrens-psychiatric-center-nm/",
+            "Data": {
+                "Website": "N/A",
+                "Phone": "(505) 222-0300",
+                "Address": "1001 YALE BLVD NEALBUQUERQUE, NM 87106",
+                "Students": "47",
+                "Free or Reduced Lunch": "0%"
+            }
+        },
+        "New Mexico School for the Blind And Visually Impaired": {
+            "Niche": "https://www.niche.com/k12/d/new-mexico-school-for-the-blind-and-visually-impaired-nm/",
+            "Data": {
+                "Website": "https://www.nmsbvi.k12.nm.us/",
+                "Phone": "(575) 437-3505",
+                "Address": "1900 N. WHITE SANDS BLVDALAMOGORDO, NM 88310",
+                "Students": "40",
+                "Free or Reduced Lunch": "25%"
+            }
+        }
+    }
+}

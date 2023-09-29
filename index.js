@@ -17,7 +17,6 @@ const { headers, userAgentList } = require('./headers.json');
 // Helper to load urls
 const loadPage = async (url, proxyAgent) => {
     proxyAgent = proxyAgent || null;
-    //console.log(`Proxy Host: ${proxyAgent.proxy.host}`);
     let options = headers;
     options['User-Agent'] = userAgentList[Math.floor(Math.random() * userAgentList.length)];
 
@@ -75,7 +74,6 @@ const getStateIndex = (state) => {
 
 // Main scraper. Returns a JSON object
 const scraper = async (url, state) => {
-    //let proxyAgent = await configureProxy(ipList[Math.floor(Math.random() * ipList.length)]);
     let { index, stateObject } = getStateIndex(state);
     if (stateObject === undefined) {
         let $ = await loadPage(url);
@@ -94,7 +92,6 @@ const scraper = async (url, state) => {
         for (let i = 0; i < pages.length; i++) {
             await randomTimeout(10, 10);
             if (i > 0) {
-                //proxyAgent = await configureProxy(ipList[Math.floor(Math.random() * ipList.length)]);
                 $ = await loadPage(pages[i]);
                 let links = await getLinks($);
                 result.push(links);
@@ -283,28 +280,6 @@ app.get('/test', async (req, res) => {
         let pages = await getPages($);
         console.log(pages);
         res.json({ pages }) */
-        let obj = {
-            "Park City School District": {
-                "Niche": "https://www.niche.com/k12/d/park-city-school-district-ut/",
-                "Data": {
-                    "Website": "https://www.pcschools.us/",
-                    "Phone": "(435) 645-5600",
-                    "Address": "2700 KEARNS BLVDPARK CITY, UT 84060",
-                    "Students": "4,743",
-                    "Free or Reduced Lunch": "19.4%",
-                    "Expenses/Student": "$16,906",
-                    "Support Services": "39%"
-                }
-            }
-        }
-        let stringify = JSON.stringify(obj);
-        fs.appendFile('json/illinois.json', `,${stringify}`, (err) => {
-            if (err) {
-                console.log(err);
-            }
-        });
-        //let flat = flatten();
-        //console.log(flat);
         res.json({ status: "Done" });
     } catch (err) {
         console.log(err);
@@ -312,12 +287,12 @@ app.get('/test', async (req, res) => {
 })
 
 app.get('/links', async (req, res) => {
-    let district = 'wisconsin';
+    let district = 'california';
     let url = `https://www.niche.com/k12/search/best-school-districts/s/${district}/`;
     try {
         let result = await scraper(url, district);
         let stringify = JSON.stringify(result);
-        fs.writeFile(`json/${district}.json`, stringify, (err) => {
+        fs.writeFile(`json/${district.split('-').join('')}.json`, stringify, (err) => {
             if (err) {
                 console.log(err);
             }

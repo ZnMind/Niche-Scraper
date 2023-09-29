@@ -1,13 +1,13 @@
-const idaho = require('./idaho.json');
-const illinois = require('./illinois.json');
-const indiana = require('./indiana.json');
-const iowa = require('./iowa.json');
-const utah = require('./utah.json');
+const fs = require('fs');
+const path = require('path');
 
-module.exports = {
-    "idaho": idaho,
-    "illinois": illinois,
-    "indiana": indiana,
-    "iowa": iowa,
-    "utah": utah
-}
+const models = {};
+
+// Dynamically grabbing all JSON files in the folder
+fs.readdirSync(__dirname).filter(file => file !== 'index.js').forEach(file => {
+    const fullName = path.join(__dirname, file);
+    const [fileName] = file.split('.');
+    models[fileName] = require(fullName);
+})
+
+module.exports = models;
