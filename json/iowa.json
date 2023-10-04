@@ -923,6 +923,7 @@
         "Marcus-Meriden-Cleghorn Community School District": {
             "Niche": "https://www.niche.com/k12/d/marcus-meriden-cleghorn-community-school-district-ia/",
             "Data": {
+                "Website": "N/A",
                 "Phone": "(712) 376-4171",
                 "Address": "400 EAST FENTONMARCUS, IA 51035",
                 "Students": "368",
@@ -1121,67 +1122,195 @@
         },
         "Harris-Lake Park Community School District": {
             "Niche": "https://www.niche.com/k12/d/harris-lake-park-community-school-district-ia/",
-            "Data": {}
+            "Data": {
+                "Website": "https://harris-lp.k12.ia.us/",
+                "Phone": "(712) 832-3809",
+                "Address": "905 SOUTH MARKETLAKE PARK, IA 51347",
+                "Students": "346",
+                "Free or Reduced Lunch": "30.2%",
+                "Expenses/Student": "$11,035",
+                "Support Services": "33%"
+            }
         },
         "Carlisle Community School District": {
             "Niche": "https://www.niche.com/k12/d/carlisle-community-school-district-ia/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.carlislecsd.org/",
+                "Phone": "(515) 989-3589",
+                "Address": "430 SCHOOL STCARLISLE, IA 50047",
+                "Students": "2,328",
+                "Free or Reduced Lunch": "33.1%",
+                "Expenses/Student": "$14,088",
+                "Support Services": "33%"
+            }
         },
         "Central Springs Community School District": {
             "Niche": "https://www.niche.com/k12/d/central-springs-community-school-district-ia/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.centralsprings.net/",
+                "Phone": "(641) 454-2211",
+                "Address": "105 S EAST STMANLY, IA 50456",
+                "Students": "821",
+                "Free or Reduced Lunch": "34.4%",
+                "Expenses/Student": "$16,888",
+                "Support Services": "35%"
+            }
         },
         "Indianola Community School District": {
             "Niche": "https://www.niche.com/k12/d/indianola-community-school-district-ia/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.indianola.k12.ia.us/",
+                "Phone": "(515) 961-9500",
+                "Address": "1301 E 2ND AVEINDIANOLA, IA 50125",
+                "Students": "3,644",
+                "Free or Reduced Lunch": "26%",
+                "Expenses/Student": "$12,224",
+                "Support Services": "32%"
+            }
         },
         "Sidney Community School District": {
             "Niche": "https://www.niche.com/k12/d/sidney-community-school-district-ia/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.sidneyschools.org/",
+                "Phone": "(712) 374-2141",
+                "Address": "2754 KNOX ROADSIDNEY, IA 51652",
+                "Students": "515",
+                "Free or Reduced Lunch": "46.8%",
+                "Expenses/Student": "$13,843",
+                "Support Services": "32%"
+            }
         },
         "Sigourney Community School District": {
             "Niche": "https://www.niche.com/k12/d/sigourney-community-school-district-ia/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.sigourneyschools.com/",
+                "Phone": "(641) 622-2025",
+                "Address": "909 E. PLESANT VALLEYSIGOURNEY, IA 52591",
+                "Students": "575",
+                "Free or Reduced Lunch": "31.7%",
+                "Expenses/Student": "$12,590",
+                "Support Services": "32%"
+            }
         },
         "Clarksville Community School District": {
             "Niche": "https://www.niche.com/k12/d/clarksville-community-school-district-ia/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.clarksville.k12.ia.us/",
+                "Phone": "(319) 278-4008",
+                "Address": "318 N MATHERCLARKSVILLE, IA 50619",
+                "Students": "302",
+                "Free or Reduced Lunch": "32.3%",
+                "Expenses/Student": "$13,450",
+                "Support Services": "30%"
+            }
         },
         "North Mahaska Community School District": {
             "Niche": "https://www.niche.com/k12/d/north-mahaska-community-school-district-ia/",
-            "Data": {}
+            "Data": {
+                "Website": "https://nmwarhawks.org",
+                "Phone": "(641) 637-4187",
+                "Address": "2163 135TH STNEW SHARON, IA 50207",
+                "Students": "623",
+                "Free or Reduced Lunch": "32.9%",
+                "Expenses/Student": "$12,568",
+                "Support Services": "27%"
+            }
         },
         "Pocahontas Area Community School District": {
             "Niche": "https://www.niche.com/k12/d/pocahontas-area-community-school-district-ia/",
-            "Data": {}
+            "Data": {
+                "Website": "https://pacsd.org/",
+                "Phone": "(712) 335-4848",
+                "Address": "202 1ST AVE SWPOCAHONTAS, IA 50574",
+                "Students": "737",
+                "Free or Reduced Lunch": "46.2%",
+                "Expenses/Student": "$16,433",
+                "Support Services": "29%"
+            }
         },
         "Atlantic Community School District": {
             "Niche": "https://www.niche.com/k12/d/atlantic-community-school-district-ia/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.atlanticiaschools.org/",
+                "Phone": "(712) 243-4252",
+                "Address": "1100 LINN STATLANTIC, IA 50022",
+                "Students": "1,555",
+                "Free or Reduced Lunch": "47.8%",
+                "Expenses/Student": "$13,956",
+                "Support Services": "30%"
+            }
         },
         "Whiting Community School District": {
             "Niche": "https://www.niche.com/k12/d/whiting-community-school-district-ia/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.whitingcsd.org/",
+                "Phone": "(712) 455-2468",
+                "Address": "606 WEST STWHITING, IA 51063",
+                "Students": "186",
+                "Free or Reduced Lunch": "62.6%",
+                "Expenses/Student": "$18,194",
+                "Support Services": "35%"
+            }
         },
         "Iowa Falls Community School District": {
             "Niche": "https://www.niche.com/k12/d/iowa-falls-community-school-district-ia/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.ifacadets.net/",
+                "Phone": "(641) 648-6400",
+                "Address": "710 NORTH STREETIOWA FALLS, IA 50126",
+                "Students": "1,275",
+                "Free or Reduced Lunch": "37.7%",
+                "Expenses/Student": "$12,130",
+                "Support Services": "31%"
+            }
         },
         "Bondurant-Farrar Community School District": {
             "Niche": "https://www.niche.com/k12/d/bondurant-farrar-community-school-district-ia/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.bfschools.org/",
+                "Phone": "(515) 967-7819",
+                "Address": "300 GARFIELD ST. SWBONDURANT, IA 50035",
+                "Students": "2,627",
+                "Free or Reduced Lunch": "19.4%",
+                "Expenses/Student": "$10,570",
+                "Support Services": "36%"
+            }
         },
         "Stratford Community School District": {
             "Niche": "https://www.niche.com/k12/d/stratford-community-school-district-ia/",
-            "Data": {}
+            "Data": {
+                "Website": "https://stratfordiowa.com/schools",
+                "Phone": "(515) 838-2208",
+                "Address": "1000 SHAKESPEARE AVESTRATFORD, IA 50249",
+                "Students": "66",
+                "Free or Reduced Lunch": "42.9%",
+                "Expenses/Student": "$40,318",
+                "Support Services": "32%"
+            }
         },
         "Twin Rivers Community School District": {
             "Niche": "https://www.niche.com/k12/d/twin-rivers-community-school-district-ia/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.tr.k12.ia.us/",
+                "Phone": "(515) 379-1309",
+                "Address": "200 COLLEGE AVEBODE, IA 50519",
+                "Students": "52",
+                "Free or Reduced Lunch": "55.6%",
+                "Expenses/Student": "$46,346",
+                "Support Services": "47%"
+            }
         },
         "Luverne Community School District": {
             "Niche": "https://www.niche.com/k12/d/luverne-community-school-district-ia/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.luverne.k12.ia.us/",
+                "Phone": "(515) 882-3357",
+                "Address": "405 HANNA AVELUVERNE, IA 50560",
+                "Students": "41",
+                "Free or Reduced Lunch": "61.9%",
+                "Expenses/Student": "$57,122",
+                "Support Services": "49%"
+            }
         }
     }
 }

@@ -5,6 +5,7 @@ const { authenticate } = require('@google-cloud/local-auth');
 const { google } = require('googleapis');
 
 const stateData = require('./json');
+const googleSheet = '1zh0qzOsxhkRfhCiqwBohbwmu2tkdhficfpMMWUElLWs';
 
 // If modifying these scopes, delete token.json.
 const SCOPES = ['https://www.googleapis.com/auth/spreadsheets'];
@@ -67,11 +68,9 @@ async function authorize() {
     return client;
 }
 
-let user;
-const postData = async (sheet) => {
-    user = await authorize();
-    console.log(`${sheet}:`)
-    await updateValParams(user, '1zh0qzOsxhkRfhCiqwBohbwmu2tkdhficfpMMWUElLWs', `${sheet}!A1`, 'USER_ENTERED', val)
+const postData = async (user, sheet, val) => {
+    console.log(`${sheet}:`);
+    await updateValParams(user, googleSheet, `${sheet}!A1`, 'USER_ENTERED', val)
 }
 
 const updateValParams = async (auth, spreadsheetId, range, valueInputOption, values) => {
@@ -92,6 +91,21 @@ const updateValParams = async (auth, spreadsheetId, range, valueInputOption, val
         return result;
     } catch (err) {
         throw err;
+    }
+}
+
+const getSheets = async (auth) => {
+    const sheets = google.sheets({ version: 'v4', auth });
+    try {
+        const res = await sheets.spreadsheets.get({
+            spreadsheetId: googleSheet
+        })
+        let array = [];
+        res.data.sheets.forEach(x => array.push(x['properties']['title']));
+        console.log(array);
+        return array;
+    } catch (err) {
+        console.error(err);
     }
 }
 
@@ -133,28 +147,34 @@ const formatData = (state) => {
         let link = stateData[state]['Districts'][district]['Niche'];
         let formula = `=HYPERLINK("${link}", "${district}")`;
         let info = Object.values(stateData[state]['Districts'][district]['Data']);
+        if (info[1] !== undefined) info[1] = info[1].replace(/[^+\d]+/g, '');
         result.push([formula, ...info]);
     }
 
+    // Sorting by students
     result.sort((a, b) => {
         if (a[4] !== undefined && b[4] !== undefined) {
             return parseInt(b[4].split(',').join('')) - parseInt(a[4].split(',').join(''))
         };
     });
+
     return result;
 }
 
-/* const stateArray = [
-    'California', 'Idaho', 'Illinois', 'Indiana',
-    'Iowa', 'Michigan', 'New Hampshire', 'New Mexico',
-    'Ohio', 'Utah', 'Wisconsin'
-]; */
-const stateArray = ['California']
-let val;
-const postAllData = async (stateArray) => {
+const postAllData = async (user, stateArray) => {
     for (let i = 0; i < stateArray.length; i++) {
-        val = formatData(stateArray[i]);
-        await postData(stateArray[i]);
+        let val = formatData(stateArray[i]);
+        await postData(user, stateArray[i], val);
     }
+    console.log(
+        `${stateArray.length > 1
+            ? `Done with ${stateArray.length} states!`
+            : `Done with ${stateArray.length} state!`}`
+    );
 }
-postAllData(stateArray);
+
+(async () => {
+    const user = await authorize();
+    const stateArray = await getSheets(user);
+    postAllData(user, stateArray);
+})();

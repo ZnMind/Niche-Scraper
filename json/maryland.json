@@ -1,0 +1,292 @@
+{
+    "Districts": {
+        "Howard County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/howard-county-public-schools-md/",
+            "Data": {
+                "Website": "https://www.hcpss.org/",
+                "Phone": "(410) 313-6600",
+                "Address": "10910 CLARKSVILLE PIKEELLICOTT CITY, MD 21042",
+                "Students": "57,325",
+                "Free or Reduced Lunch": "0.4%",
+                "Expenses/Student": "$18,394",
+                "Support Services": "31%"
+            }
+        },
+        "Montgomery County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/montgomery-county-public-schools-md/",
+            "Data": {
+                "Website": "https://www.montgomeryschoolsmd.org/",
+                "Phone": "(240) 740-3000",
+                "Address": "850 HUNGERFORD DRIVEROCKVILLE, MD 20850",
+                "Students": "158,231",
+                "Free or Reduced Lunch": "0.7%",
+                "Expenses/Student": "$20,614",
+                "Support Services": "34%"
+            }
+        },
+        "Worcester County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/worcester-county-public-schools-md/",
+            "Data": {
+                "Website": "https://www.worcesterk12.org/",
+                "Phone": "(410) 632-5000",
+                "Address": "6270 WORCESTER HIGHWAYNEWARK, MD 21841",
+                "Students": "6,803",
+                "Free or Reduced Lunch": "43.2%",
+                "Expenses/Student": "$23,566",
+                "Support Services": "33%"
+            }
+        },
+        "Carroll County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/carroll-county-public-schools-md/",
+            "Data": {
+                "Website": "https://www.carrollk12.org/",
+                "Phone": "(410) 751-3000",
+                "Address": "125 NORTH COURT STREETWESTMINSTER, MD 21157",
+                "Students": "25,054",
+                "Free or Reduced Lunch": "19.6%",
+                "Expenses/Student": "$15,658",
+                "Support Services": "36%"
+            }
+        },
+        "Calvert County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/calvert-county-public-schools-md/",
+            "Data": {
+                "Website": "https://www.calvertnet.k12.md.us/",
+                "Phone": "(443) 550-8000",
+                "Address": "1305 DARES BEACH ROADPRINCE FREDERICK, MD 20678",
+                "Students": "15,407",
+                "Free or Reduced Lunch": "23.2%",
+                "Expenses/Student": "$17,393",
+                "Support Services": "35%"
+            }
+        },
+        "Harford County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/harford-county-public-schools-md/",
+            "Data": {
+                "Website": "https://www.hcps.org/",
+                "Phone": "(410) 838-7300",
+                "Address": "102 SOUTH HICKORY AVENUEBEL AIR, MD 21014",
+                "Students": "37,920",
+                "Free or Reduced Lunch": "30.9%",
+                "Expenses/Student": "$16,284",
+                "Support Services": "35%"
+            }
+        },
+        "Frederick County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/frederick-county-public-schools-md/",
+            "Data": {
+                "Website": "https://www.fcps.org/",
+                "Phone": "(301) 644-5000",
+                "Address": "191 SOUTH EAST STREETFREDERICK, MD 21701",
+                "Students": "45,220",
+                "Free or Reduced Lunch": "1.3%",
+                "Expenses/Student": "$15,716",
+                "Support Services": "34%"
+            }
+        },
+        "Queen Anne's County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/queen-annes-county-public-schools-md/",
+            "Data": {
+                "Website": "https://www.qacps.org/",
+                "Phone": "(410) 758-2403",
+                "Address": "202 CHESTERFIELD AVENUECENTREVILLE, MD 21617",
+                "Students": "7,440",
+                "Free or Reduced Lunch": "26.2%",
+                "Expenses/Student": "$15,860",
+                "Support Services": "33%"
+            }
+        },
+        "St. Mary's County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/st-marys-county-public-schools-md/",
+            "Data": {
+                "Website": "https://www.smcps.org/",
+                "Phone": "(301) 475-5511",
+                "Address": "23160 MOAKLEY STREETLEONARDTOWN, MD 20650",
+                "Students": "17,480",
+                "Free or Reduced Lunch": "31.8%",
+                "Expenses/Student": "$15,768",
+                "Support Services": "38%"
+            }
+        },
+        "Washington County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/washington-county-public-schools-md/",
+            "Data": {
+                "Website": "https://wcpsmd.com/",
+                "Phone": "(301) 766-2800",
+                "Address": "10435 DOWNSVILLE PIKEHAGERSTOWN, MD 21740",
+                "Students": "22,171",
+                "Free or Reduced Lunch": "8.1%",
+                "Expenses/Student": "$16,679",
+                "Support Services": "35%"
+            }
+        },
+        "Anne Arundel County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/anne-arundel-county-public-schools-md/",
+            "Data": {
+                "Website": "https://www.aacps.org/",
+                "Phone": "(410) 222-5000",
+                "Address": "2644 RIVA ROADANNAPOLIS, MD 21401",
+                "Students": "83,163",
+                "Free or Reduced Lunch": "0%",
+                "Expenses/Student": "$18,052",
+                "Support Services": "35%"
+            }
+        },
+        "Baltimore County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/baltimore-county-public-schools-md/",
+            "Data": {
+                "Website": "https://www.bcps.org/",
+                "Phone": "(443) 809-3210",
+                "Address": "6901 CHARLES STREETTOWSON, MD 21204",
+                "Students": "111,136",
+                "Free or Reduced Lunch": "1.6%",
+                "Expenses/Student": "$17,529",
+                "Support Services": "35%"
+            }
+        },
+        "Wicomico County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/wicomico-county-public-schools-md/",
+            "Data": {
+                "Website": "https://www.wcboe.org/",
+                "Phone": "(410) 677-4400",
+                "Address": "2424 NORTHGATE DRIVE #100SALISBURY, MD 21801",
+                "Students": "14,664",
+                "Free or Reduced Lunch": "7.3%",
+                "Expenses/Student": "$17,678",
+                "Support Services": "36%"
+            }
+        },
+        "Charles County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/charles-county-public-schools-md/",
+            "Data": {
+                "Website": "https://www.ccboe.com/",
+                "Phone": "(301) 932-6610",
+                "Address": "5980 RADIO STATION ROADLA PLATA, MD 20646",
+                "Students": "26,875",
+                "Free or Reduced Lunch": "35.9%",
+                "Expenses/Student": "$18,058",
+                "Support Services": "39%"
+            }
+        },
+        "Talbot County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/talbot-county-public-schools-md/",
+            "Data": {
+                "Website": "https://tcps.k12.md.us/",
+                "Phone": "(410) 822-0330",
+                "Address": "12 MAGNOLIA STREETEASTON, MD 21601",
+                "Students": "4,533",
+                "Free or Reduced Lunch": "43.5%",
+                "Expenses/Student": "$21,021",
+                "Support Services": "32%"
+            }
+        },
+        "Caroline County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/caroline-county-public-schools-md/",
+            "Data": {
+                "Website": "https://www.carolineschools.org/",
+                "Phone": "(410) 479-1460",
+                "Address": "204 FRANKLIN STREETDENTON, MD 21629",
+                "Students": "5,551",
+                "Free or Reduced Lunch": "55.6%",
+                "Expenses/Student": "$26,311",
+                "Support Services": "34%"
+            }
+        },
+        "Cecil County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/cecil-county-public-schools-md/",
+            "Data": {
+                "Website": "https://www.ccps.org/",
+                "Phone": "(410) 996-5400",
+                "Address": "201 BOOTH STREETELKTON, MD 21921",
+                "Students": "14,780",
+                "Free or Reduced Lunch": "43.7%",
+                "Expenses/Student": "$16,470",
+                "Support Services": "34%"
+            }
+        },
+        "Allegany County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/allegany-county-public-schools-md/",
+            "Data": {
+                "Website": "https://www.acpsmd.org/",
+                "Phone": "(301) 759-2000",
+                "Address": "108 WASHINGTON STREETCUMBERLAND, MD 21502",
+                "Students": "8,132",
+                "Free or Reduced Lunch": "55.8%",
+                "Expenses/Student": "$16,249",
+                "Support Services": "32%"
+            }
+        },
+        "Garrett County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/garrett-county-public-schools-md/",
+            "Data": {
+                "Website": "https://www.gcps.net/",
+                "Phone": "(301) 334-8900",
+                "Address": "40 SOUTH SECOND STREETOAKLAND, MD 21550",
+                "Students": "3,502",
+                "Free or Reduced Lunch": "47.5%",
+                "Expenses/Student": "$18,137",
+                "Support Services": "38%"
+            }
+        },
+        "Kent County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/kent-county-public-schools-md/",
+            "Data": {
+                "Website": "https://www.kent.k12.md.us/",
+                "Phone": "(410) 778-1595",
+                "Address": "5608 BOUNDARY AVENUEROCK HALL, MD 21661",
+                "Students": "1,786",
+                "Free or Reduced Lunch": "55.2%",
+                "Expenses/Student": "$20,506",
+                "Support Services": "37%"
+            }
+        },
+        "Baltimore City Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/baltimore-city-public-schools-md/",
+            "Data": {
+                "Website": "http://www.baltimorecityschools.org",
+                "Phone": "(443) 984-2000",
+                "Address": "200 EAST NORTH AVENUEBALTIMORE, MD 21202",
+                "Students": "77,807",
+                "Free or Reduced Lunch": "58.4%",
+                "Expenses/Student": "$21,173",
+                "Support Services": "33%"
+            }
+        },
+        "Somerset County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/somerset-county-public-schools-md/",
+            "Data": {
+                "Website": "https://www.somerset.k12.md.us/",
+                "Phone": "(410) 651-1616",
+                "Address": "7982-A TAWES CAMPUS DRIVEWESTOVER, MD 21871",
+                "Students": "2,741",
+                "Free or Reduced Lunch": "70.3%",
+                "Expenses/Student": "$23,213",
+                "Support Services": "38%"
+            }
+        },
+        "Dorchester County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/dorchester-county-public-schools-md/",
+            "Data": {
+                "Website": "https://dcps.k12.md.us/",
+                "Phone": "(410) 228-4747",
+                "Address": "700 GLASGOW STREETCAMBRIDGE, MD 21613",
+                "Students": "4,573",
+                "Free or Reduced Lunch": "67.3%",
+                "Expenses/Student": "$18,813",
+                "Support Services": "35%"
+            }
+        },
+        "Prince George's County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/prince-georges-county-public-schools-md/",
+            "Data": {
+                "Website": "https://www.pgcps.org/",
+                "Phone": "(301) 952-6000",
+                "Address": "14201 SCHOOL LANEUPPER MARLBORO, MD 20772",
+                "Students": "128,770",
+                "Free or Reduced Lunch": "2.4%",
+                "Expenses/Student": "$18,584",
+                "Support Services": "36%"
+            }
+        }
+    }
+}

@@ -6778,855 +6778,2542 @@
         },
         "Lagunitas Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/lagunitas-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.lagunitas.org",
+                "Phone": "(415) 488-4118",
+                "Address": "ONE LAGUNITAS SCH RD.SAN GERONIMO, CA 94963",
+                "Students": "180",
+                "Free or Reduced Lunch": "18%",
+                "Expenses/Student": "$25,678",
+                "Support Services": "43%"
+            }
         },
         "Menifee Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/menifee-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.menifeeusd.org/",
+                "Phone": "(951) 672-1851",
+                "Address": "29775 HAUN RD.MENIFEE, CA 92586",
+                "Students": "11,028",
+                "Free or Reduced Lunch": "40.1%",
+                "Expenses/Student": "$12,203",
+                "Support Services": "32%"
+            }
         },
         "Redwood City Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/redwood-city-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.rcsdk8.net/",
+                "Phone": "(650) 482-2200",
+                "Address": "750 BRADFORD ST.REDWOOD CITY, CA 94063",
+                "Students": "6,392",
+                "Free or Reduced Lunch": "57.4%",
+                "Expenses/Student": "$24,219",
+                "Support Services": "35%"
+            }
         },
         "Campbell Union School District": {
             "Niche": "https://www.niche.com/k12/d/campbell-union-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.campbellusd.org/",
+                "Phone": "(408) 364-4200",
+                "Address": "155 N. THIRD ST.CAMPBELL, CA 95008",
+                "Students": "6,230",
+                "Free or Reduced Lunch": "41.6%",
+                "Expenses/Student": "$19,437",
+                "Support Services": "34%"
+            }
         },
         "Sebastopol Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/sebastopol-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.sebastopolschools.org",
+                "Phone": "(707) 829-4570",
+                "Address": "7611 HUNTLEY ST.SEBASTOPOL, CA 95472",
+                "Students": "438",
+                "Free or Reduced Lunch": "36.2%",
+                "Expenses/Student": "$28,767",
+                "Support Services": "42%"
+            }
         },
         "Cutten Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/cutten-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://cuttensd.org/",
+                "Phone": "(707) 441-3900",
+                "Address": "4182 WALNUT DR.EUREKA, CA 95503",
+                "Students": "558",
+                "Free or Reduced Lunch": "37.1%",
+                "Expenses/Student": "$13,364",
+                "Support Services": "29%"
+            }
         },
         "Central Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/central-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.central.k12.ca.us/",
+                "Phone": "(559) 924-3405",
+                "Address": "15783 18TH AVE.LEMOORE, CA 93245",
+                "Students": "1,753",
+                "Free or Reduced Lunch": "52.9%",
+                "Expenses/Student": "$28,846",
+                "Support Services": "32%"
+            }
         },
         "Millbrae Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/millbrae-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.millbraeschooldistrict.org",
+                "Phone": "(650) 697-5693",
+                "Address": "555 RICHMOND DR.MILLBRAE, CA 94030",
+                "Students": "2,123",
+                "Free or Reduced Lunch": "20.4%",
+                "Expenses/Student": "$14,231",
+                "Support Services": "34%"
+            }
         },
         "Placer Hills Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/placer-hills-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.phusd.k12.ca.us/",
+                "Phone": "(530) 878-2606",
+                "Address": "16801 PLACER HILLS RD.MEADOW VISTA, CA 95722",
+                "Students": "757",
+                "Free or Reduced Lunch": "29.5%",
+                "Expenses/Student": "$11,617",
+                "Support Services": "39%"
+            }
         },
         "Brisbane Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/brisbane-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "http://www.brisbanesd.org",
+                "Phone": "(415) 467-0550",
+                "Address": "1 SOLANO ST.BRISBANE, CA 94005",
+                "Students": "450",
+                "Free or Reduced Lunch": "24%",
+                "Expenses/Student": "$22,187",
+                "Support Services": "34%"
+            }
         },
         "Santa Cruz City Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/santa-cruz-city-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://sccs.net/",
+                "Phone": "(831) 429-3410",
+                "Address": "133 MISSION ST. STE. 100SANTA CRUZ, CA 95060",
+                "Students": "1,713",
+                "Free or Reduced Lunch": "35.1%"
+            }
         },
         "Roberts Ferry Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/roberts-ferry-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "http://www.robertsferry.k12.ca.us",
+                "Phone": "(209) 874-2331",
+                "Address": "101 ROBERTS FERRY RDWATERFORD, CA 95386",
+                "Students": "159",
+                "Free or Reduced Lunch": "61.8%",
+                "Expenses/Student": "$12,560",
+                "Support Services": "27%"
+            }
         },
         "Dry Creek Joint Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/dry-creek-joint-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.drycreek.k12.ca.us/",
+                "Phone": "(916) 770-8800",
+                "Address": "8849 COOK RIOLO RD.ROSEVILLE, CA 95747",
+                "Students": "6,468",
+                "Free or Reduced Lunch": "36.8%",
+                "Expenses/Student": "$11,402",
+                "Support Services": "29%"
+            }
         },
         "Fullerton Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/fullerton-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.fullertonsd.org",
+                "Phone": "(714) 447-7400",
+                "Address": "1401 W. VALENCIA DR.FULLERTON, CA 92833",
+                "Students": "11,681",
+                "Free or Reduced Lunch": "43%",
+                "Expenses/Student": "$14,276",
+                "Support Services": "32%"
+            }
         },
         "Etiwanda Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/etiwanda-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.etiwanda.org/",
+                "Phone": "(909) 899-2451",
+                "Address": "6061 E. AVE.ETIWANDA, CA 91739",
+                "Students": "13,304",
+                "Free or Reduced Lunch": "34.7%",
+                "Expenses/Student": "$13,533",
+                "Support Services": "32%"
+            }
         },
         "Castaic Union School District": {
             "Niche": "https://www.niche.com/k12/d/castaic-union-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.castaicusd.com/",
+                "Phone": "(661) 257-4500",
+                "Address": "28131 LIVINGSTON AVE.VALENCIA, CA 91355",
+                "Students": "1,893",
+                "Free or Reduced Lunch": "27.8%",
+                "Expenses/Student": "$13,207",
+                "Support Services": "36%"
+            }
         },
         "Ross Valley Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/ross-valley-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.rossvalleyschools.org",
+                "Phone": "(415) 454-2162",
+                "Address": "110 SHAW DR.SAN ANSELMO, CA 94960",
+                "Students": "1,748",
+                "Free or Reduced Lunch": "8.4%",
+                "Expenses/Student": "$17,444",
+                "Support Services": "35%"
+            }
         },
         "Soquel Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/soquel-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.suesd.org/",
+                "Phone": "(831) 464-5632",
+                "Address": "620 MONTEREY AVE.CAPITOLA, CA 95010",
+                "Students": "1,687",
+                "Free or Reduced Lunch": "33.6%",
+                "Expenses/Student": "$17,992",
+                "Support Services": "36%"
+            }
         },
         "Saratoga Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/saratoga-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.saratogausd.org/",
+                "Phone": "(408) 867-3424",
+                "Address": "20460 FORREST HILLS DR.SARATOGA, CA 95070",
+                "Students": "1,596",
+                "Free or Reduced Lunch": "1.3%",
+                "Expenses/Student": "$23,927",
+                "Support Services": "37%"
+            }
         },
         "Belmont-Redwood Shores Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/belmont-redwood-shores-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.brssd.org/",
+                "Phone": "(650) 637-4800",
+                "Address": "2960 HALLMARK DR.BELMONT, CA 94002",
+                "Students": "3,967",
+                "Free or Reduced Lunch": "6.4%",
+                "Expenses/Student": "$14,800",
+                "Support Services": "31%"
+            }
         },
         "Guerneville Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/guerneville-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.guernevilleschool.org/",
+                "Phone": "(707) 869-2864",
+                "Address": "14630 ARMSTRONG WOODS RD.GUERNEVILLE, CA 95446",
+                "Students": "224",
+                "Free or Reduced Lunch": "68.9%",
+                "Expenses/Student": "$31,460",
+                "Support Services": "40%"
+            }
         },
         "Evergreen Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/evergreen-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.eesd.org",
+                "Phone": "(408) 270-6800",
+                "Address": "3188 QUIMBY RD.SAN JOSE, CA 95148",
+                "Students": "9,165",
+                "Free or Reduced Lunch": "28.8%",
+                "Expenses/Student": "$14,540",
+                "Support Services": "26%"
+            }
         },
         "Hickman Community Charter School District": {
             "Niche": "https://www.niche.com/k12/d/hickman-community-charter-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.hickmanschools.org/",
+                "Phone": "(209) 874-1816",
+                "Address": "13306 FOURTH ST.HICKMAN, CA 95323",
+                "Students": "1,056",
+                "Free or Reduced Lunch": "29.7%",
+                "Expenses/Student": "$9,777",
+                "Support Services": "30%"
+            }
         },
         "Gold Trail Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/gold-trail-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.gtusd.org",
+                "Phone": "(530) 626-3194",
+                "Address": "1575 OLD RANCH RD.PLACERVILLE, CA 95667",
+                "Students": "546",
+                "Free or Reduced Lunch": "28.2%",
+                "Expenses/Student": "$12,894",
+                "Support Services": "30%"
+            }
         },
         "Cambrian School District": {
             "Niche": "https://www.niche.com/k12/d/cambrian-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.cambriansd.org/",
+                "Phone": "(408) 377-2103",
+                "Address": "4115 JACKSOL DR.SAN JOSE, CA 95124",
+                "Students": "2,985",
+                "Free or Reduced Lunch": "15.3%",
+                "Expenses/Student": "$14,844",
+                "Support Services": "31%"
+            }
         },
         "East Whittier City Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/east-whittier-city-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.ewcsd.org/",
+                "Phone": "(562) 907-5900",
+                "Address": "14535 WHITTIER BLVD.WHITTIER, CA 90605",
+                "Students": "7,949",
+                "Free or Reduced Lunch": "50.9%",
+                "Expenses/Student": "$15,448",
+                "Support Services": "28%"
+            }
         },
         "Rosemead Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/rosemead-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.rosemead.k12.ca.us/",
+                "Phone": "(626) 312-2900",
+                "Address": "3907 ROSEMEAD BLVD.ROSEMEAD, CA 91770",
+                "Students": "2,302",
+                "Free or Reduced Lunch": "78.8%",
+                "Expenses/Student": "$16,051",
+                "Support Services": "30%"
+            }
         },
         "Saugus Union School District": {
             "Niche": "https://www.niche.com/k12/d/saugus-union-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.saugususd.org/",
+                "Phone": "(661) 294-5300",
+                "Address": "24930 AVE. STANFORDSANTA CLARITA, CA 91355",
+                "Students": "9,170",
+                "Free or Reduced Lunch": "20%",
+                "Expenses/Student": "$19,011",
+                "Support Services": "33%"
+            }
         },
         "Arcata Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/arcata-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.arcataschooldistrict.org/",
+                "Phone": "(707) 822-0351",
+                "Address": "1435 BUTTERMILK LN.ARCATA, CA 95521",
+                "Students": "468",
+                "Free or Reduced Lunch": "49.1%",
+                "Expenses/Student": "$40,579",
+                "Support Services": "34%"
+            }
         },
         "Central Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/central-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.centralsd.net/",
+                "Phone": "(909) 989-8541",
+                "Address": "8316 RED OAK ST.RANCHO CUCAMONGA, CA 91730",
+                "Students": "4,331",
+                "Free or Reduced Lunch": "56.8%",
+                "Expenses/Student": "$13,802",
+                "Support Services": "34%"
+            }
         },
         "Wright Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/wright-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.wrightesd.org",
+                "Phone": "(707) 542-0550",
+                "Address": "4385 PRICE AVE.SANTA ROSA, CA 95407",
+                "Students": "1,276",
+                "Free or Reduced Lunch": "71.3%",
+                "Expenses/Student": "$17,011",
+                "Support Services": "32%"
+            }
         },
         "Little Lake City Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/little-lake-city-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "http://llcsd.net",
+                "Phone": "(562) 868-8241",
+                "Address": "10515 S. PIONEER BLVD.SANTA FE SPRINGS, CA 90670",
+                "Students": "3,865",
+                "Free or Reduced Lunch": "69.3%",
+                "Expenses/Student": "$14,600",
+                "Support Services": "30%"
+            }
         },
         "Pioneer Union Elementary School District (Hanford)": {
             "Niche": "https://www.niche.com/k12/d/pioneer-union-elementary-school-district-hanford-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.puesd.net",
+                "Phone": "(559) 585-2400",
+                "Address": "1888 N. MUSTANG DR.HANFORD, CA 93230",
+                "Students": "1,541",
+                "Free or Reduced Lunch": "43%",
+                "Expenses/Student": "$13,269",
+                "Support Services": "37%"
+            }
         },
         "Paradise Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/paradise-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.paradiseesd.org/",
+                "Phone": "(209) 524-0184",
+                "Address": "3361 CA AVE.MODESTO, CA 95358",
+                "Students": "192",
+                "Free or Reduced Lunch": "61.3%",
+                "Expenses/Student": "$12,120",
+                "Support Services": "38%"
+            }
         },
         "McKinleyville Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/mckinleyville-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.mckusd.org",
+                "Phone": "(707) 839-1549",
+                "Address": "2275 CENTRAL AVE.MCKINLEYVILLE, CA 95519",
+                "Students": "935",
+                "Free or Reduced Lunch": "54.6%",
+                "Expenses/Student": "$15,364",
+                "Support Services": "31%"
+            }
         },
         "Sulphur Springs Union School District": {
             "Niche": "https://www.niche.com/k12/d/sulphur-springs-union-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.sssd.k12.ca.us",
+                "Phone": "(661) 252-5131",
+                "Address": "27000 WEYERHAEUSER WAYCANYON COUNTRY, CA 91351",
+                "Students": "5,188",
+                "Free or Reduced Lunch": "49.2%",
+                "Expenses/Student": "$13,269",
+                "Support Services": "33%"
+            }
         },
         "Vallecito Union School District": {
             "Niche": "https://www.niche.com/k12/d/vallecito-union-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.vallecitok12.com/",
+                "Phone": "(209) 795-8500",
+                "Address": "4545 B MORAN RD.AVERY, CA 95224",
+                "Students": "565",
+                "Free or Reduced Lunch": "40.5%",
+                "Expenses/Student": "$21,336",
+                "Support Services": "42%"
+            }
         },
         "Galt Joint Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/galt-joint-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://gjuesd-ca.schoolloop.com",
+                "Phone": "(209) 744-4545",
+                "Address": "1018 C ST. STE. 210GALT, CA 95632",
+                "Students": "3,297",
+                "Free or Reduced Lunch": "58%",
+                "Expenses/Student": "$16,264",
+                "Support Services": "34%"
+            }
         },
         "Julian Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/julian-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.juhsd.org",
+                "Phone": "(760) 765-0661",
+                "Address": "1656 HWY 78 JULIAN, CA 92036",
+                "Students": "269",
+                "Free or Reduced Lunch": "46.2%",
+                "Expenses/Student": "$18,688",
+                "Support Services": "35%"
+            }
         },
         "Pacific Union Elementary School District (Arcata)": {
             "Niche": "https://www.niche.com/k12/d/pacific-union-elementary-school-district-arcata-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.pacificunionschool.org/",
+                "Phone": "(707) 822-4619",
+                "Address": "3001 JANES RD.ARCATA, CA 95521",
+                "Students": "567",
+                "Free or Reduced Lunch": "50.6%",
+                "Expenses/Student": "$9,325",
+                "Support Services": "43%"
+            }
         },
         "Magnolia School District": {
             "Niche": "https://www.niche.com/k12/d/magnolia-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.magnoliasd.org",
+                "Phone": "(714) 761-5533",
+                "Address": "2705 W. ORANGE AVE.ANAHEIM, CA 92804",
+                "Students": "5,121",
+                "Free or Reduced Lunch": "85.1%",
+                "Expenses/Student": "$16,810",
+                "Support Services": "29%"
+            }
         },
         "Santee": {
             "Niche": "https://www.niche.com/k12/d/santee-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "http://www.santeesd.net",
+                "Phone": "(619) 258-2300",
+                "Address": "9625 CUYAMACA ST.SANTEE, CA 92071",
+                "Students": "6,309",
+                "Free or Reduced Lunch": "40%",
+                "Expenses/Student": "$13,178",
+                "Support Services": "34%"
+            }
         },
         "Valle Lindo Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/valle-lindo-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.vallelindo.k12.ca.us",
+                "Phone": "(626) 580-0610",
+                "Address": "1431 N. CENTRAL AVE.SOUTH EL MONTE, CA 91733",
+                "Students": "906",
+                "Free or Reduced Lunch": "84.2%",
+                "Expenses/Student": "$16,014",
+                "Support Services": "26%"
+            }
         },
         "Fallbrook Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/fallbrook-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.fuesd.org",
+                "Phone": "(760) 731-5400",
+                "Address": "321 N. IOWA ST.FALLBROOK, CA 92028",
+                "Students": "4,921",
+                "Free or Reduced Lunch": "65.2%",
+                "Expenses/Student": "$19,227",
+                "Support Services": "35%"
+            }
         },
         "Oak Grove Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/oak-grove-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.ogusd.org/",
+                "Phone": "(707) 545-0171",
+                "Address": "5299 HALL RD.SANTA ROSA, CA 95401",
+                "Students": "812",
+                "Free or Reduced Lunch": "25.6%",
+                "Expenses/Student": "$18,690",
+                "Support Services": "36%"
+            }
         },
         "Sunnyvale School District": {
             "Niche": "https://www.niche.com/k12/d/sunnyvale-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.sesd.org",
+                "Phone": "(408) 522-8200",
+                "Address": "819 W. IOWA AVE.SUNNYVALE, CA 94088",
+                "Students": "5,480",
+                "Free or Reduced Lunch": "30.7%",
+                "Expenses/Student": "$22,894",
+                "Support Services": "36%"
+            }
         },
         "Jamul-Dulzura Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/jamul-dulzura-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.jdusd.net",
+                "Phone": "(619) 669-7700",
+                "Address": "14581 LYONS VALLEY RD.JAMUL, CA 91935",
+                "Students": "537",
+                "Free or Reduced Lunch": "49.5%",
+                "Expenses/Student": "$16,989",
+                "Support Services": "44%"
+            }
         },
         "Rio Bravo-Greeley Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/rio-bravo-greeley-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.rbgusd.k12.ca.us/",
+                "Phone": "(661) 589-2696",
+                "Address": "6521 ENOS LN.BAKERSFIELD, CA 93314",
+                "Students": "987",
+                "Free or Reduced Lunch": "51.4%",
+                "Expenses/Student": "$12,036",
+                "Support Services": "38%"
+            }
         },
         "Garvey Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/garvey-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.garvey.k12.ca.us",
+                "Phone": "(626) 307-3444",
+                "Address": "2730 N. DEL MAR AVE.ROSEMEAD, CA 91770",
+                "Students": "4,286",
+                "Free or Reduced Lunch": "82.3%",
+                "Expenses/Student": "$18,203",
+                "Support Services": "34%"
+            }
         },
         "Sylvan Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/sylvan-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.sylvan.k12.ca.us",
+                "Phone": "(209) 574-5000",
+                "Address": "605 SYLVAN AVE.MODESTO, CA 95350",
+                "Students": "7,741",
+                "Free or Reduced Lunch": "49.9%",
+                "Expenses/Student": "$13,793",
+                "Support Services": "29%"
+            }
         },
         "Mt. Shasta Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/mt-shasta-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.mountshastausd.com",
+                "Phone": "(530) 926-6007",
+                "Address": "595 E. ALMA ST.MOUNT SHASTA, CA 96067",
+                "Students": "458",
+                "Free or Reduced Lunch": "39.5%",
+                "Expenses/Student": "$14,790",
+                "Support Services": "35%"
+            }
         },
         "Lemoore Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/lemoore-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.luesd.k12.ca.us",
+                "Phone": "(559) 924-6800",
+                "Address": "1200 W. CINNAMON DR.LEMOORE, CA 93245",
+                "Students": "3,225",
+                "Free or Reduced Lunch": "63%",
+                "Expenses/Student": "$15,284",
+                "Support Services": "36%"
+            }
         },
         "Nevada City Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/nevada-city-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.ncsd.school",
+                "Phone": "(530) 265-1820",
+                "Address": "800 HOOVER LN.NEVADA CITY, CA 95959",
+                "Students": "665",
+                "Free or Reduced Lunch": "27.6%",
+                "Expenses/Student": "$13,892",
+                "Support Services": "40%"
+            }
         },
         "Alview-Dairyland Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/alview-dairyland-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.adusd.k12.ca.us",
+                "Phone": "(559) 665-2394",
+                "Address": "12861 AVE. 18 1/2CHOWCHILLA, CA 93610",
+                "Students": "392",
+                "Free or Reduced Lunch": "61.2%",
+                "Expenses/Student": "$12,668",
+                "Support Services": "35%"
+            }
         },
         "College School District": {
             "Niche": "https://www.niche.com/k12/d/college-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://collegeschooldistrict.org/",
+                "Phone": "(805) 686-7300",
+                "Address": "3525 PINE ST.SANTA YNEZ, CA 93460",
+                "Students": "187",
+                "Free or Reduced Lunch": "32.8%",
+                "Expenses/Student": "$37,358",
+                "Support Services": "25%"
+            }
         },
         "Lawndale Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/lawndale-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.lawndale.k12.ca.us",
+                "Phone": "(310) 973-1300",
+                "Address": "4161 W. 147TH ST.LAWNDALE, CA 90260",
+                "Students": "4,674",
+                "Free or Reduced Lunch": "81.3%",
+                "Expenses/Student": "$35,993",
+                "Support Services": "36%"
+            }
         },
         "Wheatland School District": {
             "Niche": "https://www.niche.com/k12/d/wheatland-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.wheatlandsd.com/",
+                "Phone": "(530) 633-3130",
+                "Address": "111 MAIN ST.WHEATLAND, CA 95692",
+                "Students": "1,346",
+                "Free or Reduced Lunch": "45.2%",
+                "Expenses/Student": "$14,945",
+                "Support Services": "42%"
+            }
         },
         "Norris Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/norris-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.norris.k12.ca.us",
+                "Phone": "(661) 387-7000",
+                "Address": "6940 CALLOWAY DR.BAKERSFIELD, CA 93312",
+                "Students": "3,833",
+                "Free or Reduced Lunch": "21.4%",
+                "Expenses/Student": "$13,694",
+                "Support Services": "32%"
+            }
         },
         "Cottonwood Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/cottonwood-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "http://www.cwusd.com",
+                "Phone": "(530) 347-3165",
+                "Address": "20512 W. FIRST ST.COTTONWOOD, CA 96022",
+                "Students": "918",
+                "Free or Reduced Lunch": "47.3%",
+                "Expenses/Student": "$15,569",
+                "Support Services": "34%"
+            }
         },
         "Shiloh Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/shiloh-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.shiloh.k12.ca.us/",
+                "Phone": "(209) 522-2261",
+                "Address": "6633 PARADISE RD.MODESTO, CA 95358",
+                "Students": "178",
+                "Free or Reduced Lunch": "75.3%",
+                "Expenses/Student": "$12,567",
+                "Support Services": "34%"
+            }
         },
         "Byron Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/byron-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.byronunionschooldistrict.us",
+                "Phone": "(925) 809-7502",
+                "Address": "14301 BYRON HWY.BYRON, CA 94514",
+                "Students": "1,268",
+                "Free or Reduced Lunch": "31.8%",
+                "Expenses/Student": "$13,521",
+                "Support Services": "33%"
+            }
         },
         "Chicago Park Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/chicago-park-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://chicagoparkschool.org/",
+                "Phone": "(530) 346-2153",
+                "Address": "15725 MT. OLIVE RD.GRASS VALLEY, CA 95945",
+                "Students": "162",
+                "Free or Reduced Lunch": "40.1%",
+                "Expenses/Student": "$15,512",
+                "Support Services": "44%"
+            }
         },
         "Live Oak Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/live-oak-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.losd.ca",
+                "Phone": "(831) 475-6333",
+                "Address": "984 BOSTWICK LN. STE. 1SANTA CRUZ, CA 95062",
+                "Students": "1,728",
+                "Free or Reduced Lunch": "52.9%",
+                "Expenses/Student": "$17,022",
+                "Support Services": "39%"
+            }
         },
         "Lowell Joint School District": {
             "Niche": "https://www.niche.com/k12/d/lowell-joint-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.ljsd.org/",
+                "Phone": "(562) 943-0211",
+                "Address": "11019 VALLEY HOME AVE.WHITTIER, CA 90603",
+                "Students": "3,047",
+                "Free or Reduced Lunch": "37.2%",
+                "Expenses/Student": "$12,259",
+                "Support Services": "32%"
+            }
         },
         "Ontario-Montclair": {
             "Niche": "https://www.niche.com/k12/d/ontario-montclair-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.omsd.net",
+                "Phone": "(909) 459-2500",
+                "Address": "950 W. D ST.ONTARIO, CA 91762",
+                "Students": "18,909",
+                "Free or Reduced Lunch": "83.7%",
+                "Expenses/Student": "$16,853",
+                "Support Services": "30%"
+            }
         },
         "Mark West Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/mark-west-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://mwusd.org/",
+                "Phone": "(707) 524-2970",
+                "Address": "305 MARK W. SPRINGS RD.SANTA ROSA, CA 95404",
+                "Students": "1,280",
+                "Free or Reduced Lunch": "31.9%",
+                "Expenses/Student": "$14,829",
+                "Support Services": "29%"
+            }
         },
         "Roseland Public Schools": {
             "Niche": "https://www.niche.com/k12/d/roseland-public-schools-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://roselandsd.org/",
+                "Phone": "(707) 545-0102",
+                "Address": "1691 BURBANK AVE.SANTA ROSA, CA 95407",
+                "Students": "1,469",
+                "Free or Reduced Lunch": "89.3%",
+                "Expenses/Student": "$23,121",
+                "Support Services": "33%"
+            }
         },
         "Mother Lode Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/mother-lode-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.mlusd.net/",
+                "Phone": "(530) 622-6464",
+                "Address": "3783 FORNI RD.PLACERVILLE, CA 95667",
+                "Students": "876",
+                "Free or Reduced Lunch": "56.2%",
+                "Expenses/Student": "$13,628",
+                "Support Services": "36%"
+            }
         },
         "Pacifica School District": {
             "Niche": "https://www.niche.com/k12/d/pacifica-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.pacificasd.org",
+                "Phone": "(650) 738-6600",
+                "Address": "375 REINA DEL MAR AVE.PACIFICA, CA 94044",
+                "Students": "2,811",
+                "Free or Reduced Lunch": "18.5%",
+                "Expenses/Student": "$13,516",
+                "Support Services": "36%"
+            }
         },
         "Freshwater Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/freshwater-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "http://www.freshwatersd.org",
+                "Phone": "(707) 442-2969",
+                "Address": "75 GREENWOOD HEIGHTS DR.EUREKA, CA 95503",
+                "Students": "290",
+                "Free or Reduced Lunch": "35.1%",
+                "Expenses/Student": "$17,176",
+                "Support Services": "38%"
+            }
         },
         "Knightsen Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/knightsen-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://kesd-ca.schoolloop.com",
+                "Phone": "(925) 626-3310",
+                "Address": "1923 DELTA RD.KNIGHTSEN, CA 94548",
+                "Students": "587",
+                "Free or Reduced Lunch": "34.7%",
+                "Expenses/Student": "$10,727",
+                "Support Services": "32%"
+            }
         },
         "Antelope Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/antelope-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.antelopeschools.org/",
+                "Phone": "(530) 527-1272",
+                "Address": "22630 ANTELOPE BLVD.RED BLUFF, CA 96080",
+                "Students": "857",
+                "Free or Reduced Lunch": "48.8%",
+                "Expenses/Student": "$11,252",
+                "Support Services": "29%"
+            }
         },
         "Alpine Union School District": {
             "Niche": "https://www.niche.com/k12/d/alpine-union-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.alpineschools.net",
+                "Phone": "(619) 445-3236",
+                "Address": "2001 TAVERN RDALPINE, CA 91901",
+                "Students": "1,539",
+                "Free or Reduced Lunch": "27.8%",
+                "Expenses/Student": "$12,157",
+                "Support Services": "35%"
+            }
         },
         "Pleasant Ridge Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/pleasant-ridge-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.prsd.us",
+                "Phone": "(530) 268-2800",
+                "Address": "22580 KINGSTON LN.GRASS VALLEY, CA 95949",
+                "Students": "1,328",
+                "Free or Reduced Lunch": "25.4%",
+                "Expenses/Student": "$11,215",
+                "Support Services": "34%"
+            }
         },
         "Santa Rosa Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/santa-rosa-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.srcschools.org",
+                "Phone": "(707) 890-3800",
+                "Address": "211 RIDGWAY AVE.SANTA ROSA, CA 95401",
+                "Students": "4,846",
+                "Free or Reduced Lunch": "59%"
+            }
         },
         "Old Adobe Union School District": {
             "Niche": "https://www.niche.com/k12/d/old-adobe-union-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.oldadobe.org",
+                "Phone": "(707) 765-4322",
+                "Address": "845 CRINELLA DR.PETALUMA, CA 94954",
+                "Students": "1,855",
+                "Free or Reduced Lunch": "40.4%",
+                "Expenses/Student": "$15,960",
+                "Support Services": "26%"
+            }
         },
         "Savanna Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/savanna-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "http://www.savsd.org",
+                "Phone": "(714) 236-3800",
+                "Address": "1330 S. KNOTT AVE.ANAHEIM, CA 92804",
+                "Students": "1,843",
+                "Free or Reduced Lunch": "65.5%",
+                "Expenses/Student": "$18,844",
+                "Support Services": "28%"
+            }
         },
         "El Monte City Schools": {
             "Niche": "https://www.niche.com/k12/d/el-monte-city-schools-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "http://web.emcsd.org",
+                "Phone": "(626) 453-3700",
+                "Address": "3540 N. LEXINGTON AVE.EL MONTE, CA 91731",
+                "Students": "7,261",
+                "Free or Reduced Lunch": "89.4%",
+                "Expenses/Student": "$19,125",
+                "Support Services": "34%"
+            }
         },
         "Union Hill Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/union-hill-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.unionhillschooldistrict.org/",
+                "Phone": "(530) 273-0647",
+                "Address": "10879 BARTLETT DR.GRASS VALLEY, CA 95945",
+                "Students": "706",
+                "Free or Reduced Lunch": "37.7%",
+                "Expenses/Student": "$11,416",
+                "Support Services": "32%"
+            }
         },
         "Mountain View Elementary School District (Ontario)": {
             "Niche": "https://www.niche.com/k12/d/mountain-view-elementary-school-district-ontario-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.mtnview.k12.ca.us",
+                "Phone": "(909) 947-2205",
+                "Address": "2585 S. ARCHIBALD AVE.ONTARIO, CA 91761",
+                "Students": "2,707",
+                "Free or Reduced Lunch": "61%",
+                "Expenses/Student": "$16,846",
+                "Support Services": "34%"
+            }
         },
         "Westside Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/westside-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.westside.k12.ca.us",
+                "Phone": "(661) 722-0716",
+                "Address": "41914 50TH ST. W.QUARTZ HILL, CA 93536",
+                "Students": "8,906",
+                "Free or Reduced Lunch": "44.5%",
+                "Expenses/Student": "$12,127",
+                "Support Services": "35%"
+            }
         },
         "Placerville Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/placerville-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.pusdk8.us",
+                "Phone": "(530) 622-7216",
+                "Address": "1032 THOMPSON WAYPLACERVILLE, CA 95667",
+                "Students": "1,171",
+                "Free or Reduced Lunch": "51.6%",
+                "Expenses/Student": "$12,984",
+                "Support Services": "37%"
+            }
         },
         "Forestville Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/forestville-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.forestvilleusd.org",
+                "Phone": "(707) 887-9767",
+                "Address": "6321 HIGHWAY 116FORESTVILLE, CA 95436",
+                "Students": "238",
+                "Free or Reduced Lunch": "44.4%",
+                "Expenses/Student": "$22,218",
+                "Support Services": "41%"
+            }
         },
         "Atwater Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/atwater-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.aesd.edu",
+                "Phone": "(209) 357-6100",
+                "Address": "1401 BRD.WAY AVE.ATWATER, CA 95301",
+                "Students": "4,854",
+                "Free or Reduced Lunch": "81.4%",
+                "Expenses/Student": "$12,762",
+                "Support Services": "32%"
+            }
         },
         "Kingsburg Elementary Charter School District": {
             "Niche": "https://www.niche.com/k12/d/kingsburg-elementary-charter-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.kesd.org",
+                "Phone": "(559) 897-2331",
+                "Address": "1310 STROUD AVE.KINGSBURG, CA 93631",
+                "Students": "2,189",
+                "Free or Reduced Lunch": "57.6%",
+                "Expenses/Student": "$13,207",
+                "Support Services": "43%"
+            }
         },
         "Pacheco Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/pacheco-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.pacheco.k12.ca.us/",
+                "Phone": "(530) 224-4599",
+                "Address": "7424 PACHECO SCH RD.REDDING, CA 96002",
+                "Students": "694",
+                "Free or Reduced Lunch": "57.2%",
+                "Expenses/Student": "$11,963",
+                "Support Services": "36%"
+            }
         },
         "Escondido Union School District": {
             "Niche": "https://www.niche.com/k12/d/escondido-union-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.greatschools.org",
+                "Phone": "(760) 432-2400",
+                "Address": "2310 ALDERGROVE AVE.ESCONDIDO, CA 92029",
+                "Students": "14,360",
+                "Free or Reduced Lunch": "72.2%",
+                "Expenses/Student": "$17,431",
+                "Support Services": "36%"
+            }
         },
         "Jefferson Elementary School District (Daly City)": {
             "Niche": "https://www.niche.com/k12/d/jefferson-elementary-school-district-daly-city-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.jsd.k12.ca.us/",
+                "Phone": "(650) 991-1000",
+                "Address": "101 LINCOLN AVE.DALY CITY, CA 94015",
+                "Students": "5,103",
+                "Free or Reduced Lunch": "52.3%",
+                "Expenses/Student": "$17,823",
+                "Support Services": "34%"
+            }
         },
         "Cinnabar Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/cinnabar-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.cinnabar.org/",
+                "Phone": "(707) 765-4345",
+                "Address": "286 SKILLMAN LN.PETALUMA, CA 94952",
+                "Students": "222",
+                "Free or Reduced Lunch": "64.4%",
+                "Expenses/Student": "$25,775",
+                "Support Services": "40%"
+            }
         },
         "Cucamonga Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/cucamonga-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.cuca.k12.ca.us",
+                "Phone": "(909) 987-8942",
+                "Address": "8776 ARCHIBALD AVE.RANCHO CUCAMONGA, CA 91730",
+                "Students": "2,395",
+                "Free or Reduced Lunch": "73%",
+                "Expenses/Student": "$20,064",
+                "Support Services": "33%"
+            }
         },
         "San Rafael City Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/san-rafael-city-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.srcs.org/",
+                "Phone": "(415) 492-3200",
+                "Address": "310 NOVA ALBION WAYSAN RAFAEL, CA 94903",
+                "Students": "4,277",
+                "Free or Reduced Lunch": "65.4%",
+                "Expenses/Student": "$24,660",
+                "Support Services": "34%"
+            }
         },
         "Buena Park School District": {
             "Niche": "https://www.niche.com/k12/d/buena-park-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.bpsd.us",
+                "Phone": "(714) 522-8412",
+                "Address": "6885 ORANGETHORPE AVE.BUENA PARK, CA 90620",
+                "Students": "4,015",
+                "Free or Reduced Lunch": "72.7%",
+                "Expenses/Student": "$16,457",
+                "Support Services": "32%"
+            }
         },
         "Panama-Buena Vista Union School District": {
             "Niche": "https://www.niche.com/k12/d/panama-buena-vista-union-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.pbvusd.k12.ca.us",
+                "Phone": "(661) 831-8331",
+                "Address": "4200 ASHE RD.BAKERSFIELD, CA 93313",
+                "Students": "18,785",
+                "Free or Reduced Lunch": "65.5%",
+                "Expenses/Student": "$13,745",
+                "Support Services": "33%"
+            }
         },
         "Robla Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/robla-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.robla.k12.ca.us/",
+                "Phone": "(916) 649-5248",
+                "Address": "5248 ROSE ST.SACRAMENTO, CA 95838",
+                "Students": "1,951",
+                "Free or Reduced Lunch": "91.8%",
+                "Expenses/Student": "$19,013",
+                "Support Services": "36%"
+            }
         },
         "El Centro Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/el-centro-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "http://www.ecesd.org",
+                "Phone": "(760) 352-5712",
+                "Address": "1256 BRD.WAYEL CENTRO, CA 92243",
+                "Students": "5,234",
+                "Free or Reduced Lunch": "81.6%",
+                "Expenses/Student": "$15,409",
+                "Support Services": "32%"
+            }
         },
         "Jefferson Elementary School District (Tracy)": {
             "Niche": "https://www.niche.com/k12/d/jefferson-elementary-school-district-tracy-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.jeffersonschooldistrict.com",
+                "Phone": "(209) 836-3388",
+                "Address": "1219 WHISPERING WIND DR.TRACY, CA 95377",
+                "Students": "2,261",
+                "Free or Reduced Lunch": "25.6%",
+                "Expenses/Student": "$12,933",
+                "Support Services": "30%"
+            }
         },
         "Lennox School District": {
             "Niche": "https://www.niche.com/k12/d/lennox-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.lennox.k12.ca.us",
+                "Phone": "(310) 695-4000",
+                "Address": "10319 S. FIRMONA AVE.LENNOX, CA 90304",
+                "Students": "4,382",
+                "Free or Reduced Lunch": "93.1%",
+                "Expenses/Student": "$19,983",
+                "Support Services": "32%"
+            }
         },
         "Pioneer Union Elementary School District (Somerset)": {
             "Niche": "https://www.niche.com/k12/d/pioneer-union-elementary-school-district-somerset-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.puesd.net",
+                "Phone": "(530) 620-3556",
+                "Address": "6862 MT. AUKUM RD.SOMERSET, CA 95684",
+                "Students": "285",
+                "Free or Reduced Lunch": "59.4%",
+                "Expenses/Student": "$13,677",
+                "Support Services": "42%"
+            }
         },
         "Pollock Pines Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/pollock-pines-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "http://www.ppesd.org",
+                "Phone": "(530) 644-5416",
+                "Address": "2701 AMBER TRAILPOLLOCK PINES, CA 95726",
+                "Students": "602",
+                "Free or Reduced Lunch": "49.1%",
+                "Expenses/Student": "$15,392",
+                "Support Services": "37%"
+            }
         },
         "Sequoia Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/sequoia-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.sequoiaunion.org",
+                "Phone": "(559) 564-2106",
+                "Address": "23958 AVE. 324LEMON COVE, CA 93244",
+                "Students": "384",
+                "Free or Reduced Lunch": "43.8%",
+                "Expenses/Student": "$9,760",
+                "Support Services": "34%"
+            }
         },
         "Hollister School District": {
             "Niche": "https://www.niche.com/k12/d/hollister-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.hesd.org",
+                "Phone": "(831) 630-6300",
+                "Address": "2690 CIENEGA RD.HOLLISTER, CA 95023",
+                "Students": "5,718",
+                "Free or Reduced Lunch": "56.9%",
+                "Expenses/Student": "$18,481",
+                "Support Services": "34%"
+            }
         },
         "Greenfield Union School District": {
             "Niche": "https://www.niche.com/k12/d/greenfield-union-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.gfusd.net",
+                "Phone": "(661) 837-6000",
+                "Address": "1624 FAIRVIEW RD.BAKERSFIELD, CA 93307",
+                "Students": "9,215",
+                "Free or Reduced Lunch": "85.4%",
+                "Expenses/Student": "$14,576",
+                "Support Services": "33%"
+            }
         },
         "Lemon Grove School District": {
             "Niche": "https://www.niche.com/k12/d/lemon-grove-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.lemongrovesd.net",
+                "Phone": "(619) 825-5600",
+                "Address": "8025 LINCOLN ST.LEMON GROVE, CA 91945",
+                "Students": "3,249",
+                "Free or Reduced Lunch": "75.1%",
+                "Expenses/Student": "$15,384",
+                "Support Services": "29%"
+            }
         },
         "Happy Valley Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/happy-valley-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.hvusd.net/",
+                "Phone": "(530) 357-2134",
+                "Address": "16300 CLOVERDALE RD.ANDERSON, CA 96007",
+                "Students": "469",
+                "Free or Reduced Lunch": "65.8%",
+                "Expenses/Student": "$14,996",
+                "Support Services": "36%"
+            }
         },
         "Spreckels Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/spreckels-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.spreckelsdistrict.org/",
+                "Phone": "(831) 455-2550",
+                "Address": "130 RAILRD. AVE.SPRECKELS, CA 93962",
+                "Students": "921",
+                "Free or Reduced Lunch": "13.5%",
+                "Expenses/Student": "$11,249",
+                "Support Services": "39%"
+            }
         },
         "San Ysidro Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/san-ysidro-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.sysdschools.org",
+                "Phone": "(619) 428-4476",
+                "Address": "4350 OTAY MESA RD.SAN YSIDRO, CA 92173",
+                "Students": "4,264",
+                "Free or Reduced Lunch": "81%",
+                "Expenses/Student": "$15,912",
+                "Support Services": "34%"
+            }
         },
         "Victor Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/victor-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "http://www.vesd.net",
+                "Phone": "(760) 245-1691",
+                "Address": "12219 2ND AVE.VICTORVILLE, CA 92395",
+                "Students": "12,470",
+                "Free or Reduced Lunch": "83.9%",
+                "Expenses/Student": "$14,226",
+                "Support Services": "32%"
+            }
         },
         "California School for the Deaf-Fremont": {
             "Niche": "https://www.niche.com/k12/d/california-school-for-the-deaf-fremont-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.csdeagles.com",
+                "Phone": "(510) 794-3666",
+                "Address": "39350 GALLAUDET DR.FREMONT, CA 94538",
+                "Students": "318",
+                "Free or Reduced Lunch": "93.9%"
+            }
         },
         "Oroville City Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/oroville-city-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "http://ocesd.org",
+                "Phone": "(530) 532-3000",
+                "Address": "2795 YARD ST.OROVILLE, CA 95966",
+                "Students": "2,147",
+                "Free or Reduced Lunch": "74.2%",
+                "Expenses/Student": "$15,520",
+                "Support Services": "34%"
+            }
         },
         "Whittier City Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/whittier-city-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.whittiercity.net",
+                "Phone": "(562) 789-3000",
+                "Address": "7211 S. WHITTIER AVE.WHITTIER, CA 90602",
+                "Students": "5,565",
+                "Free or Reduced Lunch": "78.8%",
+                "Expenses/Student": "$14,455",
+                "Support Services": "34%"
+            }
         },
         "La Mesa-Spring Valley School District": {
             "Niche": "https://www.niche.com/k12/d/la-mesa-spring-valley-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.lmsvschools.org",
+                "Phone": "(619) 668-5700",
+                "Address": "4750 DATE AVE.LA MESA, CA 91942",
+                "Students": "10,835",
+                "Free or Reduced Lunch": "56.4%",
+                "Expenses/Student": "$13,986",
+                "Support Services": "33%"
+            }
         },
         "San Bruno Park Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/san-bruno-park-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.sbpsd.org",
+                "Phone": "(650) 624-3101",
+                "Address": "500 ACACIA AVESAN BRUNO, CA 94066",
+                "Students": "2,087",
+                "Free or Reduced Lunch": "34.6%",
+                "Expenses/Student": "$17,552",
+                "Support Services": "36%"
+            }
         },
         "Delano Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/delano-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.duesd.org",
+                "Phone": "(661) 721-5000",
+                "Address": "1405 12TH AVE.DELANO, CA 93215",
+                "Students": "6,285",
+                "Free or Reduced Lunch": "80.5%",
+                "Expenses/Student": "$17,232",
+                "Support Services": "33%"
+            }
         },
         "Stanislaus Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/stanislaus-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.stanunion.k12.ca.us",
+                "Phone": "(209) 529-9546",
+                "Address": "2410 JANNA AVE.MODESTO, CA 95350",
+                "Students": "3,390",
+                "Free or Reduced Lunch": "65.2%",
+                "Expenses/Student": "$13,576",
+                "Support Services": "27%"
+            }
         },
         "Taft City School District": {
             "Niche": "https://www.niche.com/k12/d/taft-city-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://taftcityschools.com/",
+                "Phone": "(661) 763-1521",
+                "Address": "820 SIXTH ST.TAFT, CA 93268",
+                "Students": "2,398",
+                "Free or Reduced Lunch": "81%",
+                "Expenses/Student": "$13,836",
+                "Support Services": "33%"
+            }
         },
         "Pleasant Valley School District": {
             "Niche": "https://www.niche.com/k12/d/pleasant-valley-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.pleasantvalleysd.org",
+                "Phone": "(805) 389-2100",
+                "Address": "600 TEMPLE AVE.CAMARILLO, CA 93010",
+                "Students": "5,735",
+                "Free or Reduced Lunch": "28.8%",
+                "Expenses/Student": "$14,929",
+                "Support Services": "32%"
+            }
         },
         "San Miguel Joint Union School District": {
             "Niche": "https://www.niche.com/k12/d/san-miguel-joint-union-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.sanmiguelschools.org",
+                "Phone": "(805) 467-3216",
+                "Address": "1601 L ST.SAN MIGUEL, CA 93451",
+                "Students": "635",
+                "Free or Reduced Lunch": "54.7%",
+                "Expenses/Student": "$14,913",
+                "Support Services": "40%"
+            }
         },
         "Susanville Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/susanville-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.susanvillesd.org/",
+                "Phone": "(530) 257-8200",
+                "Address": "109 S. GILMAN ST.SUSANVILLE, CA 96130",
+                "Students": "1,090",
+                "Free or Reduced Lunch": "53.2%",
+                "Expenses/Student": "$10,976",
+                "Support Services": "31%"
+            }
         },
         "Mark Twain Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/mark-twain-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.mtwain.k12.ca.us/",
+                "Phone": "(209) 736-1855",
+                "Address": "981 TUOLUMNE AVE.ANGELS CAMP, CA 95222",
+                "Students": "727",
+                "Free or Reduced Lunch": "61.3%",
+                "Expenses/Student": "$12,205",
+                "Support Services": "32%"
+            }
         },
         "Oak Grove Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/oak-grove-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.ogsd.net",
+                "Phone": "(408) 227-8300",
+                "Address": "6578 SANTA TERESA BLVD.SAN JOSE, CA 95119",
+                "Students": "8,860",
+                "Free or Reduced Lunch": "40.5%",
+                "Expenses/Student": "$16,081",
+                "Support Services": "33%"
+            }
         },
         "La Habra City Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/la-habra-city-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.lahabraschools.org",
+                "Phone": "(562) 690-2305",
+                "Address": "500 N. WALNUT ST.LA HABRA, CA 90631",
+                "Students": "4,499",
+                "Free or Reduced Lunch": "74.3%",
+                "Expenses/Student": "$15,019",
+                "Support Services": "33%"
+            }
         },
         "Edison Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/edison-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.edison.k12.ca.us",
+                "Phone": "(661) 363-5394",
+                "Address": "11518 SCH ST.BAKERSFIELD, CA 93307",
+                "Students": "1,036",
+                "Free or Reduced Lunch": "91.3%",
+                "Expenses/Student": "$15,336",
+                "Support Services": "39%"
+            }
         },
         "Mountain View Elementary School District (El Monte)": {
             "Niche": "https://www.niche.com/k12/d/mountain-view-elementary-school-district-el-monte-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.mtviewschools.com/",
+                "Phone": "(626) 652-4000",
+                "Address": "3320 GILMAN RD.EL MONTE, CA 91732",
+                "Students": "5,336",
+                "Free or Reduced Lunch": "91.4%",
+                "Expenses/Student": "$21,927",
+                "Support Services": "33%"
+            }
         },
         "Gold Oak Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/gold-oak-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.gousd.org",
+                "Phone": "(530) 626-3150",
+                "Address": "3171 PLEASANT VALLEY RD.PLACERVILLE, CA 95667",
+                "Students": "432",
+                "Free or Reduced Lunch": "33.8%",
+                "Expenses/Student": "$12,688",
+                "Support Services": "41%"
+            }
         },
         "Weaver Union School District": {
             "Niche": "https://www.niche.com/k12/d/weaver-union-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.weaverusd.org/",
+                "Phone": "(209) 723-7606",
+                "Address": "1240 D ST.MERCED, CA 95341",
+                "Students": "2,984",
+                "Free or Reduced Lunch": "85.3%",
+                "Expenses/Student": "$17,437",
+                "Support Services": "29%"
+            }
         },
         "Auburn Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/auburn-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.auburn.k12.ca.us/",
+                "Phone": "(530) 885-7242",
+                "Address": "255 EPPERLE LN.AUBURN, CA 95603",
+                "Students": "1,650",
+                "Free or Reduced Lunch": "55.1%",
+                "Expenses/Student": "$15,296",
+                "Support Services": "35%"
+            }
         },
         "Ballico-Cressey Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/ballico-cressey-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.ballicocressey.com/",
+                "Phone": "(209) 394-9400",
+                "Address": "11818 GREGG ST.BALLICO, CA 95303",
+                "Students": "362",
+                "Free or Reduced Lunch": "67%",
+                "Expenses/Student": "$16,340",
+                "Support Services": "33%"
+            }
         },
         "Merced City Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/merced-city-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.mcsd.k12.ca.us",
+                "Phone": "(209) 385-6600",
+                "Address": "444 W. 23RD ST.MERCED, CA 95340",
+                "Students": "10,922",
+                "Free or Reduced Lunch": "80.9%",
+                "Expenses/Student": "$13,433",
+                "Support Services": "34%"
+            }
         },
         "Romoland Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/romoland-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.romoland.net",
+                "Phone": "(951) 926-9244",
+                "Address": "25900 LEON RDHOMELAND, CA 92548",
+                "Students": "4,295",
+                "Free or Reduced Lunch": "72.6%",
+                "Expenses/Student": "$12,763",
+                "Support Services": "32%"
+            }
         },
         "Bakersfield City School District": {
             "Niche": "https://www.niche.com/k12/d/bakersfield-city-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.bcsd.com/",
+                "Phone": "(661) 631-4610",
+                "Address": "1300 BAKER ST.BAKERSFIELD, CA 93305",
+                "Students": "29,256",
+                "Free or Reduced Lunch": "88.9%",
+                "Expenses/Student": "$16,149",
+                "Support Services": "33%"
+            }
         },
         "Oakley Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/oakley-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.ouesd.k12.ca.us",
+                "Phone": "(925) 625-0700",
+                "Address": "91 MERCEDES LN.OAKLEY, CA 94561",
+                "Students": "4,905",
+                "Free or Reduced Lunch": "42.9%",
+                "Expenses/Student": "$14,744",
+                "Support Services": "35%"
+            }
         },
         "South Bay Union Elementary School District (Eureka)": {
             "Niche": "https://www.niche.com/k12/d/south-bay-union-elementary-school-district-eureka-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.southbayusd.org/",
+                "Phone": "(707) 476-8549",
+                "Address": "6077 LOMA AVE.EUREKA, CA 95503",
+                "Students": "453",
+                "Free or Reduced Lunch": "67.4%",
+                "Expenses/Student": "$16,305",
+                "Support Services": "33%"
+            }
         },
         "Black Butte Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/black-butte-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "http://www.blackbutteschool.org",
+                "Phone": "(530) 474-3125",
+                "Address": "7752 PONDEROSA WAYSHINGLETOWN, CA 96088",
+                "Students": "204",
+                "Free or Reduced Lunch": "74.6%",
+                "Expenses/Student": "$16,539",
+                "Support Services": "39%"
+            }
         },
         "Santa Rita Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/santa-rita-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.santaritaschools.org/",
+                "Phone": "(831) 443-7200",
+                "Address": "57 RUSSELL RD.SALINAS, CA 93906",
+                "Students": "3,306",
+                "Free or Reduced Lunch": "64.6%",
+                "Expenses/Student": "$12,704",
+                "Support Services": "35%"
+            }
         },
         "Bass Lake Joint Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/bass-lake-joint-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.basslakeschooldistrict.com/",
+                "Phone": "(559) 642-1555",
+                "Address": "40096 INDIAN SPRINGS RD.OAKHURST, CA 93644",
+                "Students": "846",
+                "Free or Reduced Lunch": "56.1%",
+                "Expenses/Student": "$13,358",
+                "Support Services": "38%"
+            }
         },
         "Franklin-McKinley Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/franklin-mckinley-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.fmsd.org/",
+                "Phone": "(408) 283-6006",
+                "Address": "645 WOOL CREEK DR.SAN JOSE, CA 95112",
+                "Students": "6,196",
+                "Free or Reduced Lunch": "75.2%",
+                "Expenses/Student": "$19,784",
+                "Support Services": "31%"
+            }
         },
         "National Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/national-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.nsd.us",
+                "Phone": "(619) 336-7500",
+                "Address": "1500 N AVE.NATIONAL CITY, CA 91950",
+                "Students": "4,436",
+                "Free or Reduced Lunch": "78.2%",
+                "Expenses/Student": "$18,727",
+                "Support Services": "33%"
+            }
         },
         "Heber Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/heber-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.hesdk8.org/",
+                "Phone": "(760) 337-6530",
+                "Address": "1052 HEBER AVE.HEBER, CA 92249",
+                "Students": "1,152",
+                "Free or Reduced Lunch": "88.9%",
+                "Expenses/Student": "$16,942",
+                "Support Services": "37%"
+            }
         },
         "Fortuna Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/fortuna-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://fesd-ca.schoolloop.com",
+                "Phone": "(707) 725-2293",
+                "Address": "500 9TH ST.FORTUNA, CA 95540",
+                "Students": "1,133",
+                "Free or Reduced Lunch": "63.9%",
+                "Expenses/Student": "$14,193",
+                "Support Services": "28%"
+            }
         },
         "Mount Pleasant Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/mount-pleasant-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.mpesd.org",
+                "Phone": "(408) 223-3710",
+                "Address": "3434 MARTEN AVE.SAN JOSE, CA 95148",
+                "Students": "1,710",
+                "Free or Reduced Lunch": "75.1%",
+                "Expenses/Student": "$44,616",
+                "Support Services": "38%"
+            }
         },
         "Empire Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/empire-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.empire.k12.ca.us/",
+                "Phone": "(209) 521-2800",
+                "Address": "116 N. MCCLURE RD.MODESTO, CA 95357",
+                "Students": "2,879",
+                "Free or Reduced Lunch": "80.1%",
+                "Expenses/Student": "$14,739",
+                "Support Services": "31%"
+            }
         },
         "Wasco Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/wasco-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.wuesd.org/",
+                "Phone": "(661) 758-7100",
+                "Address": "1102 FIFTH ST.WASCO, CA 93280",
+                "Students": "3,430",
+                "Free or Reduced Lunch": "89.7%",
+                "Expenses/Student": "$18,983",
+                "Support Services": "34%"
+            }
         },
         "Hanford Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/hanford-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.hanfordesd.org/",
+                "Phone": "(559) 585-3600",
+                "Address": "714 N. WHITE ST.HANFORD, CA 93230",
+                "Students": "5,546",
+                "Free or Reduced Lunch": "80.6%",
+                "Expenses/Student": "$15,427",
+                "Support Services": "39%"
+            }
         },
         "Palermo Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/palermo-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.palermoschools.org",
+                "Phone": "(530) 533-4842",
+                "Address": "7390 BULLDOG WAYPALERMO, CA 95968",
+                "Students": "1,249",
+                "Free or Reduced Lunch": "77.4%",
+                "Expenses/Student": "$13,818",
+                "Support Services": "33%"
+            }
         },
         "Alum Rock Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/alum-rock-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.arusd.org",
+                "Phone": "(408) 928-6800",
+                "Address": "2930 GAY AVE.SAN JOSE, CA 95127",
+                "Students": "8,000",
+                "Free or Reduced Lunch": "85.3%",
+                "Expenses/Student": "$18,670",
+                "Support Services": "33%"
+            }
         },
         "Red Bluff Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/red-bluff-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.rbuesd.org",
+                "Phone": "(530) 527-7200",
+                "Address": "1755 AIRPORT BLVD. ADMINISTRATION BLDG.RED BLUFF, CA 96080",
+                "Students": "1,872",
+                "Free or Reduced Lunch": "74.9%",
+                "Expenses/Student": "$14,277",
+                "Support Services": "33%"
+            }
         },
         "Cascade Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/cascade-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.cuesd.com",
+                "Phone": "(530) 378-7000",
+                "Address": "1645 W. MILL ST.ANDERSON, CA 96007",
+                "Students": "1,085",
+                "Free or Reduced Lunch": "81.5%",
+                "Expenses/Student": "$14,899",
+                "Support Services": "33%"
+            }
         },
         "Grass Valley Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/grass-valley-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.gvsd.us",
+                "Phone": "(530) 273-4483",
+                "Address": "10840 GILMORE WAYGRASS VALLEY, CA 95945",
+                "Students": "1,622",
+                "Free or Reduced Lunch": "54.9%",
+                "Expenses/Student": "$20,589",
+                "Support Services": "33%"
+            }
         },
         "Brawley Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/brawley-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.besd.org/",
+                "Phone": "(760) 344-2330",
+                "Address": "261 D ST.BRAWLEY, CA 92227",
+                "Students": "3,830",
+                "Free or Reduced Lunch": "83.5%",
+                "Expenses/Student": "$14,852",
+                "Support Services": "30%"
+            }
         },
         "California School for the Deaf-Riverside": {
             "Niche": "https://www.niche.com/k12/d/california-school-for-the-deaf-riverside-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.csdr-cde.ca.gov/",
+                "Phone": "(951) 248-7700",
+                "Address": "3044 HORACE ST.RIVERSIDE, CA 92506",
+                "Students": "300",
+                "Free or Reduced Lunch": "30.1%"
+            }
         },
         "Yreka Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/yreka-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.yrekausd.net",
+                "Phone": "(530) 842-1168",
+                "Address": "309 JACKSON ST.YREKA, CA 96097",
+                "Students": "951",
+                "Free or Reduced Lunch": "67.4%",
+                "Expenses/Student": "$13,574",
+                "Support Services": "31%"
+            }
         },
         "Anaheim City School District": {
             "Niche": "https://www.niche.com/k12/d/anaheim-city-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://anaheimelementary.org/",
+                "Phone": "(714) 517-7500",
+                "Address": "1001 S. E. ST.ANAHEIM, CA 92805",
+                "Students": "14,882",
+                "Free or Reduced Lunch": "83.9%",
+                "Expenses/Student": "$21,746",
+                "Support Services": "41%"
+            }
         },
         "Bellevue Union School District": {
             "Niche": "https://www.niche.com/k12/d/bellevue-union-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.busd.org",
+                "Phone": "(707) 542-5197",
+                "Address": "3150 EDUCATION DR.SANTA ROSA, CA 95407",
+                "Students": "1,485",
+                "Free or Reduced Lunch": "76.9%",
+                "Expenses/Student": "$19,605",
+                "Support Services": "36%"
+            }
         },
         "Rio Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/rio-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://rioschools.org",
+                "Phone": "(805) 485-3111",
+                "Address": "1800 SOLAR DR.OXNARD, CA 93030",
+                "Students": "5,108",
+                "Free or Reduced Lunch": "77.2%",
+                "Expenses/Student": "$19,676",
+                "Support Services": "32%"
+            }
         },
         "Kernville Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/kernville-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.kernvilleusd.org",
+                "Phone": "(760) 379-3651",
+                "Address": "3240 ERSKINE CREEK RD.LAKE ISABELLA, CA 93240",
+                "Students": "782",
+                "Free or Reduced Lunch": "77.1%",
+                "Expenses/Student": "$17,760",
+                "Support Services": "39%"
+            }
         },
         "Chowchilla Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/chowchilla-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.chowchillaelem.k12.ca.us",
+                "Phone": "(559) 665-8000",
+                "Address": "355 N. FIFTH ST.CHOWCHILLA, CA 93610",
+                "Students": "2,178",
+                "Free or Reduced Lunch": "78.8%",
+                "Expenses/Student": "$14,995",
+                "Support Services": "36%"
+            }
         },
         "Livingston Union School District": {
             "Niche": "https://www.niche.com/k12/d/livingston-union-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.livingstonusd.org/",
+                "Phone": "(209) 394-5400",
+                "Address": "922 B ST.LIVINGSTON, CA 95334",
+                "Students": "2,490",
+                "Free or Reduced Lunch": "86%",
+                "Expenses/Student": "$13,289",
+                "Support Services": "33%"
+            }
         },
         "South Whittier Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/south-whittier-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.swhittier.k12.ca.us",
+                "Phone": "(562) 944-6231",
+                "Address": "11200 TELECHRON AVE.WHITTIER, CA 90605",
+                "Students": "2,331",
+                "Free or Reduced Lunch": "87.5%",
+                "Expenses/Student": "$17,994",
+                "Support Services": "33%"
+            }
         },
         "Lancaster Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/lancaster-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.lancsd.org",
+                "Phone": "(661) 948-4661",
+                "Address": "44711 N. CEDAR AVE.LANCASTER, CA 93534",
+                "Students": "13,755",
+                "Free or Reduced Lunch": "82.3%",
+                "Expenses/Student": "$14,247",
+                "Support Services": "33%"
+            }
         },
         "Winton": {
             "Niche": "https://www.niche.com/k12/d/winton-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.winton.k12.ca.us/",
+                "Phone": "(209) 357-6175",
+                "Address": "7000 N. CENTER ST.WINTON, CA 95388",
+                "Students": "1,874",
+                "Free or Reduced Lunch": "91%",
+                "Expenses/Student": "$14,176",
+                "Support Services": "33%"
+            }
         },
         "Jamestown Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/jamestown-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.jespanthers.org/",
+                "Phone": "(209) 984-4058",
+                "Address": "18299 FIFTH AVE.JAMESTOWN, CA 95327",
+                "Students": "347",
+                "Free or Reduced Lunch": "73.2%",
+                "Expenses/Student": "$15,758",
+                "Support Services": "34%"
+            }
         },
         "Salida Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/salida-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.salida.k12.ca.us",
+                "Phone": "(209) 545-0339",
+                "Address": "4801 SISK RD.SALIDA, CA 95368",
+                "Students": "2,233",
+                "Free or Reduced Lunch": "60.6%",
+                "Expenses/Student": "$16,816",
+                "Support Services": "33%"
+            }
         },
         "Lamont Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/lamont-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.lamontschooldistrict.org",
+                "Phone": "(661) 845-0751",
+                "Address": "7915 BURGUNDY AVE.LAMONT, CA 93241",
+                "Students": "2,802",
+                "Free or Reduced Lunch": "87.4%",
+                "Expenses/Student": "$15,897",
+                "Support Services": "33%"
+            }
         },
         "California Education Authority (Cea) Headquarters": {
             "Niche": "https://www.niche.com/k12/d/california-education-authority-cea-headquarters-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.cde.ca.gov/SchoolDirectory/details?cdscode=34322760000000",
+                "Phone": "(916) 683-7754",
+                "Address": "8260 LONGLEAF DR. BLDG. C 2ND FL.ELK GROVE, CA 95758",
+                "Students": "204",
+                "Free or Reduced Lunch": "96.6%"
+            }
         },
         "Rocketship Public Schools - Milwaukee": {
             "Niche": "https://www.niche.com/k12/d/rocketship-public-schools-milwaukee-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.rocketshipschools.org/",
+                "Phone": "(877) 806-0920",
+                "Address": "350 TWIN DOLPHIN DRREDWOOD CITY, CA 94065",
+                "Students": "725"
+            }
         },
         "Rio Dell Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/rio-dell-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "http://riodellschools.net",
+                "Phone": "(707) 764-5694",
+                "Address": "95 CENTER ST.RIO DELL, CA 95562",
+                "Students": "294",
+                "Free or Reduced Lunch": "78.6%",
+                "Expenses/Student": "$15,500",
+                "Support Services": "28%"
+            }
         },
         "Los Nietos School District": {
             "Niche": "https://www.niche.com/k12/d/los-nietos-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.losnietos.k12.ca.us/",
+                "Phone": "(562) 692-0271",
+                "Address": "8324 S. W.MAN AVE.WHITTIER, CA 90606",
+                "Students": "1,314",
+                "Free or Reduced Lunch": "87.3%",
+                "Expenses/Student": "$21,805",
+                "Support Services": "31%"
+            }
         },
         "Thermalito Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/thermalito-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.thermalito.org",
+                "Phone": "(530) 538-2900",
+                "Address": "400 GRAND AVE.OROVILLE, CA 95965",
+                "Students": "1,484",
+                "Free or Reduced Lunch": "89.5%",
+                "Expenses/Student": "$16,345",
+                "Support Services": "34%"
+            }
         },
         "Keppel Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/keppel-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.keppelunion.org",
+                "Phone": "(661) 944-2155",
+                "Address": "34004 128TH ST. E.PEARBLOSSOM, CA 93553",
+                "Students": "2,540",
+                "Free or Reduced Lunch": "84.6%",
+                "Expenses/Student": "$15,325",
+                "Support Services": "36%"
+            }
         },
         "Alisal Union School District": {
             "Niche": "https://www.niche.com/k12/d/alisal-union-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.alisal.org",
+                "Phone": "(831) 753-5700",
+                "Address": "155 BARDIN RD.SALINAS, CA 93905",
+                "Students": "7,851",
+                "Free or Reduced Lunch": "82.6%",
+                "Expenses/Student": "$15,602",
+                "Support Services": "34%"
+            }
         },
         "Fairfax Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/fairfax-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.fairfax.k12.ca.us",
+                "Phone": "(661) 366-7221",
+                "Address": "1500 S. FAIRFAX RD.BAKERSFIELD, CA 93307",
+                "Students": "2,676",
+                "Free or Reduced Lunch": "87.8%",
+                "Expenses/Student": "$14,737",
+                "Support Services": "33%"
+            }
         },
         "Corning Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/corning-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.corningelementary.org/",
+                "Phone": "(530) 824-7700",
+                "Address": "1005 HOAG STCORNING, CA 96021",
+                "Students": "2,014",
+                "Free or Reduced Lunch": "83.2%",
+                "Expenses/Student": "$14,028",
+                "Support Services": "31%"
+            }
         },
         "Perris Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/perris-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.perrisesd.org/",
+                "Phone": "(951) 657-3118",
+                "Address": "143 E. FIRST ST.PERRIS, CA 92570",
+                "Students": "5,369",
+                "Free or Reduced Lunch": "84.4%",
+                "Expenses/Student": "$17,513",
+                "Support Services": "33%"
+            }
         },
         "Ocean View School District (Oxnard)": {
             "Niche": "https://www.niche.com/k12/d/ocean-view-school-district-oxnard-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.oceanviewsd.org",
+                "Phone": "(805) 488-4441",
+                "Address": "4200 OLDS RD.OXNARD, CA 93033",
+                "Students": "2,160",
+                "Free or Reduced Lunch": "73.3%",
+                "Expenses/Student": "$15,532",
+                "Support Services": "39%"
+            }
         },
         "Salinas City Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/salinas-city-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.salinascityesd.org/",
+                "Phone": "(831) 753-5600",
+                "Address": "840 S. MAIN ST.SALINAS, CA 93901",
+                "Students": "8,287",
+                "Free or Reduced Lunch": "80%",
+                "Expenses/Student": "$14,086",
+                "Support Services": "29%"
+            }
         },
         "Tulare City School District": {
             "Niche": "https://www.niche.com/k12/d/tulare-city-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.tcsdk8.org",
+                "Phone": "(559) 685-7200",
+                "Address": "600 N. CHERRY ST.TULARE, CA 93274",
+                "Students": "9,207",
+                "Free or Reduced Lunch": "79.3%",
+                "Expenses/Student": "$13,111",
+                "Support Services": "33%"
+            }
         },
         "Adelanto Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/adelanto-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.aesd.net/",
+                "Phone": "(760) 246-8691",
+                "Address": "11824 AIR EXPRESSWAYADELANTO, CA 92301",
+                "Students": "7,806",
+                "Free or Reduced Lunch": "83.9%",
+                "Expenses/Student": "$14,207",
+                "Support Services": "36%"
+            }
         },
         "Santa Maria-Bonita School District": {
             "Niche": "https://www.niche.com/k12/d/santa-maria-bonita-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.smbsd.org/",
+                "Phone": "(805) 928-1783",
+                "Address": "708 S. MILLER ST.SANTA MARIA, CA 93454",
+                "Students": "16,569",
+                "Free or Reduced Lunch": "81.5%",
+                "Expenses/Student": "$16,127",
+                "Support Services": "34%"
+            }
         },
         "Eastside Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/eastside-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.eastsideusd.org",
+                "Phone": "(661) 952-1200",
+                "Address": "44938 N. 30TH ST. E.LANCASTER, CA 93535",
+                "Students": "3,125",
+                "Free or Reduced Lunch": "84.8%",
+                "Expenses/Student": "$14,645",
+                "Support Services": "34%"
+            }
         },
         "Oxnard School District": {
             "Niche": "https://www.niche.com/k12/d/oxnard-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.oxnardsd.org",
+                "Phone": "(805) 385-1501",
+                "Address": "1051 S. A ST.OXNARD, CA 93030",
+                "Students": "14,381",
+                "Free or Reduced Lunch": "81.7%",
+                "Expenses/Student": "$17,920",
+                "Support Services": "32%"
+            }
         },
         "Standard Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/standard-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.standardschools.net/",
+                "Phone": "(661) 392-2110",
+                "Address": "1200 N. CHESTER AVE.BAKERSFIELD, CA 93308",
+                "Students": "2,968",
+                "Free or Reduced Lunch": "75.8%",
+                "Expenses/Student": "$17,064",
+                "Support Services": "33%"
+            }
         },
         "Arvin Union School District": {
             "Niche": "https://www.niche.com/k12/d/arvin-union-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.arvinschools.com/",
+                "Phone": "(661) 854-6500",
+                "Address": "737 BEAR MOUNTAIN BLVD.ARVIN, CA 93203",
+                "Students": "2,993",
+                "Free or Reduced Lunch": "93.7%",
+                "Expenses/Student": "$16,323",
+                "Support Services": "35%"
+            }
         },
         "Chatom Union School District": {
             "Niche": "https://www.niche.com/k12/d/chatom-union-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "http://www.chatom.k12.ca.us",
+                "Phone": "(209) 664-8505",
+                "Address": "7201 CLAYTON RD.TURLOCK, CA 95380",
+                "Students": "566",
+                "Free or Reduced Lunch": "83%",
+                "Expenses/Student": "$14,958",
+                "Support Services": "35%"
+            }
         },
         "Terra Bella Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/terra-bella-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.tbuesd.org/",
+                "Phone": "(559) 535-4451",
+                "Address": "9121 RD. 240TERRA BELLA, CA 93270",
+                "Students": "782",
+                "Free or Reduced Lunch": "98.6%",
+                "Expenses/Student": "$16,114",
+                "Support Services": "35%"
+            }
         },
         "Kit Carson Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/kit-carson-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.kitcarsonschool.com",
+                "Phone": "(559) 582-2843",
+                "Address": "9895 SEVENTH AVE.HANFORD, CA 93230",
+                "Students": "417",
+                "Free or Reduced Lunch": "79.7%",
+                "Expenses/Student": "$13,077",
+                "Support Services": "37%"
+            }
         },
         "King City Union School District": {
             "Niche": "https://www.niche.com/k12/d/king-city-union-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.kcusd.org/en-US",
+                "Phone": "(831) 385-2940",
+                "Address": "104 S. VANDERHURST AVE.KING CITY, CA 93930",
+                "Students": "2,527",
+                "Free or Reduced Lunch": "90.4%",
+                "Expenses/Student": "$15,886",
+                "Support Services": "35%"
+            }
         },
         "Richland Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/richland-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.rsdshafter.org/",
+                "Phone": "(661) 746-8600",
+                "Address": "300 N. VALLEYSHAFTER, CA 93263",
+                "Students": "2,620",
+                "Free or Reduced Lunch": "89.8%",
+                "Expenses/Student": "$16,548",
+                "Support Services": "36%"
+            }
         },
         "Pixley Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/pixley-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.pixley.k12.ca.us",
+                "Phone": "(559) 757-5207",
+                "Address": "300 N. SCH ST.PIXLEY, CA 93256",
+                "Students": "889",
+                "Free or Reduced Lunch": "95.3%",
+                "Expenses/Student": "$17,227",
+                "Support Services": "36%"
+            }
         },
         "Earlimart Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/earlimart-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.earlimart.org",
+                "Phone": "(661) 849-4241",
+                "Address": "785 E. CENTER AVE.EARLIMART, CA 93219",
+                "Students": "1,445",
+                "Free or Reduced Lunch": "91.3%",
+                "Expenses/Student": "$18,090",
+                "Support Services": "39%"
+            }
         },
         "Hueneme Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/hueneme-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.huensd.k12.ca.us/",
+                "Phone": "(805) 488-3588",
+                "Address": "205 N. VENTURA RD.PORT HUENEME, CA 93041",
+                "Students": "7,206",
+                "Free or Reduced Lunch": "86.6%",
+                "Expenses/Student": "$16,019",
+                "Support Services": "31%"
+            }
         },
         "Greenfield Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/greenfield-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.greenfield.k12.ca.us/",
+                "Phone": "(831) 674-2840",
+                "Address": "493 EL CAMINO REALGREENFIELD, CA 93927",
+                "Students": "3,400",
+                "Free or Reduced Lunch": "88.3%",
+                "Expenses/Student": "$16,555",
+                "Support Services": "37%"
+            }
         },
         "Vineland Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/vineland-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "http://vineland.k12.ca.us",
+                "Phone": "(661) 845-3713",
+                "Address": "14713 WEEDPATCH HWY.BAKERSFIELD, CA 93307",
+                "Students": "690",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$13,396",
+                "Support Services": "35%"
+            }
         },
         "South Bay Union Elementary School District (Imperial Beach)": {
             "Niche": "https://www.niche.com/k12/d/south-bay-union-elementary-school-district-imperial-beach-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.sbusd.org/",
+                "Phone": "(619) 628-1600",
+                "Address": "601 ELM AVE.IMPERIAL BEACH, CA 91932",
+                "Students": "6,119",
+                "Free or Reduced Lunch": "65.8%",
+                "Expenses/Student": "$20,423",
+                "Support Services": "36%"
+            }
         },
         "Modesto City Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/modesto-city-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.mcs4kids.com",
+                "Phone": "(209) 574-1500",
+                "Address": "426 LOCUST ST.MODESTO, CA 95351",
+                "Students": "13,869",
+                "Free or Reduced Lunch": "85.4%"
+            }
         },
         "Beardsley Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/beardsley-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.beardsleyschool.org/",
+                "Phone": "(661) 393-8550",
+                "Address": "1001 ROBERTS LN.BAKERSFIELD, CA 93308",
+                "Students": "1,853",
+                "Free or Reduced Lunch": "87.5%",
+                "Expenses/Student": "$16,704",
+                "Support Services": "35%"
+            }
         },
         "Lakeside Union School District (Bakersfield)": {
             "Niche": "https://www.niche.com/k12/d/lakeside-union-school-district-bakersfield-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.lakesideusd.org/",
+                "Phone": "(661) 836-6658",
+                "Address": "14535 OLD RIVER RD.BAKERSFIELD, CA 93311",
+                "Students": "1,504",
+                "Free or Reduced Lunch": "63.9%",
+                "Expenses/Student": "$11,689",
+                "Support Services": "34%"
+            }
         },
         "Ravenswood City Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/ravenswood-city-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "http://www.ravenswoodschools.org/",
+                "Phone": "(650) 329-2800",
+                "Address": "2120 EUCLID AVE.EAST PALO ALTO, CA 94303",
+                "Students": "1,530",
+                "Free or Reduced Lunch": "89.1%",
+                "Expenses/Student": "$43,319",
+                "Support Services": "37%"
+            }
         },
         "Lost Hills Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/lost-hills-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.losthills.k12.ca.us",
+                "Phone": "(661) 797-2941",
+                "Address": "20951 PAVILION WAYLOST HILLS, CA 93249",
+                "Students": "263",
+                "Free or Reduced Lunch": "56.6%",
+                "Expenses/Student": "$41,567",
+                "Support Services": "39%"
+            }
         },
         "Briggs Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/briggs-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://briggsesd.org/",
+                "Phone": "(805) 525-7540",
+                "Address": "12465 FOOTHILL RD.SANTA PAULA, CA 93036",
+                "Students": "470",
+                "Free or Reduced Lunch": "75.1%",
+                "Expenses/Student": "$15,232",
+                "Support Services": "35%"
+            }
         },
         "Wilsona Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/wilsona-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.wilsonasd.net",
+                "Phone": "(661) 264-1111",
+                "Address": "18050 E. AVE. OPALMDALE, CA 93591",
+                "Students": "1,228",
+                "Free or Reduced Lunch": "92.1%",
+                "Expenses/Student": "$15,661",
+                "Support Services": "33%"
+            }
         },
         "Planada Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/planada-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.planada.org",
+                "Phone": "(209) 382-0756",
+                "Address": "9722 E. HASKELL AVE.PLANADA, CA 95365",
+                "Students": "842",
+                "Free or Reduced Lunch": "92.2%",
+                "Expenses/Student": "$14,433",
+                "Support Services": "39%"
+            }
         },
         "Guadalupe Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/guadalupe-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.guadusd.org",
+                "Phone": "(805) 343-2114",
+                "Address": "4465 NINTH ST.GUADALUPE, CA 93434",
+                "Students": "1,286",
+                "Free or Reduced Lunch": "90%",
+                "Expenses/Student": "$15,103",
+                "Support Services": "33%"
+            }
         },
         "Mono County Office of Education": {
             "Niche": "https://www.niche.com/k12/d/mono-county-office-of-education-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.monocoe.org/",
+                "Phone": "(760) 934-0031",
+                "Address": "451 SIERRA PARK RDMAMMOTH LAKES, CA 93546",
+                "Students": "182",
+                "Free or Reduced Lunch": "89.6%",
+                "Expenses/Student": "$64,775",
+                "Support Services": "66%"
+            }
         },
         "Mendocino County Office of Education": {
             "Niche": "https://www.niche.com/k12/d/mendocino-county-office-of-education-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.mcoe.us",
+                "Phone": "(707) 467-5000",
+                "Address": "2240 OLD RIVER RD.UKIAH, CA 95482",
+                "Students": "88",
+                "Free or Reduced Lunch": "80.3%",
+                "Expenses/Student": "$380,693",
+                "Support Services": "76%"
+            }
         },
         "Stony Creek Joint Unified School District": {
             "Niche": "https://www.niche.com/k12/d/stony-creek-joint-unified-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.scjusd.org/",
+                "Phone": "(530) 968-5361",
+                "Address": "3430 CO RD. 309ELK CREEK, CA 95939",
+                "Students": "85",
+                "Free or Reduced Lunch": "75.3%",
+                "Expenses/Student": "$24,188",
+                "Support Services": "37%"
+            }
         },
         "California School for the Blind": {
             "Niche": "https://www.niche.com/k12/d/california-school-for-the-blind-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.csb-cde.ca.gov/",
+                "Phone": "(510) 794-3800",
+                "Address": "500 WALNUT AVE.FREMONT, CA 94536",
+                "Students": "62",
+                "Free or Reduced Lunch": "92.3%"
+            }
         },
         "Whitmore Union Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/whitmore-union-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "http://wujesd.org/",
+                "Phone": "(530) 472-3243",
+                "Address": "30611 WHITMORE RD.WHITMORE, CA 96096",
+                "Students": "43",
+                "Free or Reduced Lunch": "42.1%",
+                "Expenses/Student": "$21,419",
+                "Support Services": "52%"
+            }
         },
         "San Benito County Office of Education": {
             "Niche": "https://www.niche.com/k12/d/san-benito-county-office-of-education-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.sbcoe.org",
+                "Phone": "(831) 637-5393",
+                "Address": "460 FIFTH ST.HOLLISTER, CA 95023",
+                "Students": "29",
+                "Free or Reduced Lunch": "75%",
+                "Expenses/Student": "$535,345",
+                "Support Services": "62%"
+            }
         },
         "Spencer Valley Elementary School District": {
             "Niche": "https://www.niche.com/k12/d/spencer-valley-elementary-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://svesd.net/",
+                "Phone": "(760) 765-0336",
+                "Address": "4414 HIGHWAY 78 AND 79SANTA YSABEL, CA 92070",
+                "Students": "29",
+                "Free or Reduced Lunch": "52.2%",
+                "Expenses/Student": "$128,724",
+                "Support Services": "26%"
+            }
         },
         "Death Valley Unified School District": {
             "Niche": "https://www.niche.com/k12/d/death-valley-unified-school-district-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.deathvalleyschools.org",
+                "Phone": "(760) 852-4303",
+                "Address": "OLD STATE HIGHWAY 127SHOSHONE, CA 92384",
+                "Students": "28",
+                "Free or Reduced Lunch": "59.1%",
+                "Expenses/Student": "$48,750",
+                "Support Services": "55%"
+            }
         },
         "Lake County Office of Education": {
             "Niche": "https://www.niche.com/k12/d/lake-county-office-of-education-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.lakecoe.org/",
+                "Phone": "(707) 262-4100",
+                "Address": "1152 S. MAIN ST.LAKEPORT, CA 95453",
+                "Students": "28",
+                "Free or Reduced Lunch": "61.8%",
+                "Expenses/Student": "$671,321",
+                "Support Services": "84%"
+            }
         },
         "Colusa County Office of Education": {
             "Niche": "https://www.niche.com/k12/d/colusa-county-office-of-education-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://www.ccoe.net/",
+                "Phone": "(530) 458-0350",
+                "Address": "345 5TH ST. STE. ACOLUSA, CA 95932",
+                "Students": "27",
+                "Free or Reduced Lunch": "37.5%",
+                "Expenses/Student": "$549,370",
+                "Support Services": "51%"
+            }
         },
         "Amador County Office of Education": {
             "Niche": "https://www.niche.com/k12/d/amador-county-office-of-education-ca/",
-            "Data": {}
+            "Data": {
+                "Website": "https://amadorcoe.org/",
+                "Phone": "(209) 257-5330",
+                "Address": "217 REX AVE.JACKSON, CA 95642",
+                "Students": "22",
+                "Free or Reduced Lunch": "57.6%",
+                "Expenses/Student": "$601,636",
+                "Support Services": "47%"
+            }
         }
     }
 }

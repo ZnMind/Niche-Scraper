@@ -86,6 +86,7 @@ const scraper = async (url, state) => {
                 pages[i] = url;
             }
         })
+        if (pages.length < 1) pages[0] = url;
         console.log(pages);
 
         let result = [];
@@ -203,18 +204,22 @@ const getContact = async ($) => {
         matches.push(text);
         obj['Phone'] = text;
     })
+    if (obj['Phone'] === undefined) obj['Phone'] = "N/A";
 
     $('.profile__address--compact').map((i, el) => {
         let text = $(el).text();
         matches.push(text);
         obj['Address'] = text;
     })
+    if (obj['Address'] === undefined) obj['Address'] = "N/A";
 
     $('section#students div.scalar__value span').map((i, el) => {
         let arr = ['Students', 'Free or Reduced Lunch'];
         matches.push(el.children[0].data);
         obj[arr[i]] = el.children[0].data;
     })
+    if (obj['Students'] === undefined) obj['Students'] = "N/A";
+    if (obj['Free or Reduced Lunch'] === undefined) obj['Free or Reduced Lunch'] = "N/A";
 
     $('section#finances div.scalar__value span').map((i, el) => {
         let dollars;
@@ -224,6 +229,7 @@ const getContact = async ($) => {
             obj['Expenses/Student'] = dollars;
         }
     })
+    if (obj['Expenses/Student'] === undefined) obj['Expenses/Student'] = "N/A";
 
     $('section#finances ul.breakdown-facts li .fact__table__row__value').map((i, el) => {
         let value;
@@ -233,6 +239,7 @@ const getContact = async ($) => {
             obj['Support Services'] = value;
         }
     })
+    if (obj['Support Services'] === undefined) obj['Support Services'] = "N/A";
 
     return [matches, obj];
 }
@@ -287,7 +294,7 @@ app.get('/test', async (req, res) => {
 })
 
 app.get('/links', async (req, res) => {
-    let district = 'california';
+    let district = 'iowa';
     let url = `https://www.niche.com/k12/search/best-school-districts/s/${district}/`;
     try {
         let result = await scraper(url, district);
