@@ -1,0 +1,2464 @@
+{
+    "Districts": {
+        "Chandler Unified School District No. 80": {
+            "Niche": "https://www.niche.com/k12/d/chandler-unified-school-district-no-80-az/",
+            "Data": {
+                "Website": "https://www.cusd80.com/",
+                "Phone": "(480) 812-7000",
+                "Address": "1525 W FRYE RDCHANDLER, AZ 85224",
+                "Students": "43,923",
+                "Free or Reduced Lunch": "29.7%",
+                "Expenses/Student": "$10,803",
+                "Support Services": "36%"
+            }
+        },
+        "Vail Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/vail-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.vailschooldistrict.org/",
+                "Phone": "(520) 879-2000",
+                "Address": "13801 E BENSON HWYVAIL, AZ 85641",
+                "Students": "14,258",
+                "Free or Reduced Lunch": "23.4%",
+                "Expenses/Student": "$12,219",
+                "Support Services": "44%"
+            }
+        },
+        "Catalina Foothills Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/catalina-foothills-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.cfsd16.org/",
+                "Phone": "(520) 209-7500",
+                "Address": "2101 E RIVER RDTUCSON, AZ 85718",
+                "Students": "5,319",
+                "Free or Reduced Lunch": "13.7%",
+                "Expenses/Student": "$10,090",
+                "Support Services": "41%"
+            }
+        },
+        "Scottsdale Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/scottsdale-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.susd.org/",
+                "Phone": "(480) 484-6100",
+                "Address": "7575 E MAIN STSCOTTSDALE, AZ 85251",
+                "Students": "21,428",
+                "Free or Reduced Lunch": "29.4%",
+                "Expenses/Student": "$12,381",
+                "Support Services": "40%"
+            }
+        },
+        "Heritage Academy": {
+            "Niche": "https://www.niche.com/k12/d/heritage-academy-az/",
+            "Data": {
+                "Website": "https://heritageacademyaz.com/",
+                "Phone": "(480) 969-5641",
+                "Address": "32 S CENTER STMESA, AZ 85210",
+                "Students": "1,556",
+                "Free or Reduced Lunch": "0%",
+                "Expenses/Student": "$6,550",
+                "Support Services": "26%"
+            }
+        },
+        "Peoria Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/peoria-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.peoriaunified.org/",
+                "Phone": "(623) 486-6000",
+                "Address": "6330 W THUNDERBIRD RDGLENDALE, AZ 85306",
+                "Students": "36,741",
+                "Free or Reduced Lunch": "43.1%",
+                "Expenses/Student": "$8,636",
+                "Support Services": "38%"
+            }
+        },
+        "Paradise Valley Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/paradise-valley-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.pvschools.net/",
+                "Phone": "(602) 449-2000",
+                "Address": "15002 N 32ND STPHOENIX, AZ 85032",
+                "Students": "28,707",
+                "Free or Reduced Lunch": "35%",
+                "Expenses/Student": "$11,684",
+                "Support Services": "39%"
+            }
+        },
+        "Gilbert Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/gilbert-public-schools-az/",
+            "Data": {
+                "Website": "https://www.gilbertschools.net/",
+                "Phone": "(480) 497-3300",
+                "Address": "1016 N BURK STGILBERT, AZ 85234",
+                "Students": "33,775",
+                "Free or Reduced Lunch": "27.2%",
+                "Expenses/Student": "$9,152",
+                "Support Services": "35%"
+            }
+        },
+        "Deer Valley Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/deer-valley-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.dvusd.org/",
+                "Phone": "(623) 445-5000",
+                "Address": "20402 N 15TH AVEPHOENIX, AZ 85027",
+                "Students": "33,353",
+                "Free or Reduced Lunch": "28%",
+                "Expenses/Student": "$10,283",
+                "Support Services": "33%"
+            }
+        },
+        "Tanque Verde Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/tanque-verde-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.tanqueverdeschools.org/",
+                "Phone": "(520) 749-5751",
+                "Address": "4201 N MELPOMENE WAY BLDG 10TUCSON, AZ 85749",
+                "Students": "2,218",
+                "Free or Reduced Lunch": "17.9%",
+                "Expenses/Student": "$8,344",
+                "Support Services": "42%"
+            }
+        },
+        "Higley Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/higley-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.husd.org",
+                "Phone": "(480) 279-7000",
+                "Address": "2935 S RECKER RDGILBERT, AZ 85295",
+                "Students": "13,163",
+                "Free or Reduced Lunch": "21%",
+                "Expenses/Student": "$8,920",
+                "Support Services": "38%"
+            }
+        },
+        "Mountain Institute Joint Technology Education School": {
+            "Niche": "https://www.niche.com/k12/d/mountain-institute-joint-technology-education-school-az/",
+            "Data": {
+                "Website": "https://www.micted.net/",
+                "Phone": "(928) 771-0791",
+                "Address": "3003 CENTERPOINTE EAST DRPRESCOTT, AZ 86301",
+                "Students": "38",
+                "Free or Reduced Lunch": "0%",
+                "Expenses/Student": "$44,105",
+                "Support Services": "47%"
+            }
+        },
+        "Ash Fork Joint Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/ash-fork-joint-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.afjusd.org/",
+                "Phone": "(928) 637-2561",
+                "Address": "46999 N 5TH STASH FORK, AZ 86320",
+                "Students": "285",
+                "Free or Reduced Lunch": "96.2%",
+                "Expenses/Student": "$16,116",
+                "Support Services": "41%"
+            }
+        },
+        "Joseph City Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/joseph-city-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.jcusd.org/",
+                "Phone": "(928) 288-3307",
+                "Address": "8176 WESTOVER STJOSEPH CITY, AZ 86032",
+                "Students": "463",
+                "Free or Reduced Lunch": "44.1%",
+                "Expenses/Student": "$12,685",
+                "Support Services": "51%"
+            }
+        },
+        "East Valley Institute of Technology": {
+            "Niche": "https://www.niche.com/k12/d/east-valley-institute-of-technology-az/",
+            "Data": {
+                "Website": "https://www.evit.com/",
+                "Phone": "(480) 461-4000",
+                "Address": "1601 W MAIN STMESA, AZ 85201",
+                "Students": "213",
+                "Free or Reduced Lunch": "0%",
+                "Expenses/Student": "$202,009",
+                "Support Services": "21%"
+            }
+        },
+        "Flowing Wells Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/flowing-wells-unified-school-district-az/",
+            "Data": {
+                "Website": "https://flowingwellsschools.org/",
+                "Phone": "(520) 696-8800",
+                "Address": "1556 W PRINCE RDTUCSON, AZ 85705",
+                "Students": "5,450",
+                "Free or Reduced Lunch": "74.6%",
+                "Expenses/Student": "$11,693",
+                "Support Services": "38%"
+            }
+        },
+        "Agua Fria Union High School District": {
+            "Niche": "https://www.niche.com/k12/d/agua-fria-union-high-school-district-az/",
+            "Data": {
+                "Website": "https://www.aguafria.org/",
+                "Phone": "(623) 932-7000",
+                "Address": "1481 N ELISEO FELIX JR WAY STEAVONDALE, AZ 85323",
+                "Students": "9,219",
+                "Free or Reduced Lunch": "40.2%",
+                "Expenses/Student": "$9,286",
+                "Support Services": "40%"
+            }
+        },
+        "Glendale Union High School District": {
+            "Niche": "https://www.niche.com/k12/d/glendale-union-high-school-district-az/",
+            "Data": {
+                "Website": "https://www.guhsdaz.org/",
+                "Phone": "(623) 435-6000",
+                "Address": "7650 N 43RD AVEGLENDALE, AZ 85301",
+                "Students": "16,695",
+                "Free or Reduced Lunch": "63.1%",
+                "Expenses/Student": "$10,200",
+                "Support Services": "39%"
+            }
+        },
+        "Academy of Tucson": {
+            "Niche": "https://www.niche.com/k12/d/academy-of-tucson-az/",
+            "Data": {
+                "Website": "https://www.academyoftucson.com/",
+                "Phone": "(520) 733-0096",
+                "Address": "10720 E 22ND STTUCSON, AZ 85748",
+                "Students": "548",
+                "Free or Reduced Lunch": "0%",
+                "Expenses/Student": "$9,783",
+                "Support Services": "45%"
+            }
+        },
+        "Central Arizona Valley Institute of Technology": {
+            "Niche": "https://www.niche.com/k12/d/central-arizona-valley-institute-of-technology-az/",
+            "Data": {
+                "Website": "https://www.cavitschools.com/",
+                "Phone": "(520) 423-1944",
+                "Address": "1789 W COOLIDGE AVECOOLIDGE, AZ 85128",
+                "Students": "69",
+                "Free or Reduced Lunch": "0%",
+                "Expenses/Student": "$62,725",
+                "Support Services": "51%"
+            }
+        },
+        "St. Johns Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/st-johns-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.sjusd.net/",
+                "Phone": "(928) 337-2255",
+                "Address": "450 S 13TH WST JOHNS, AZ 85936",
+                "Students": "930",
+                "Free or Reduced Lunch": "0%",
+                "Expenses/Student": "$11,348",
+                "Support Services": "45%"
+            }
+        },
+        "Mesa Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/mesa-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.mpsaz.org/",
+                "Phone": "(480) 472-0200",
+                "Address": "63 E MAIN ST STE 101MESA, AZ 85201",
+                "Students": "58,859",
+                "Free or Reduced Lunch": "59.4%",
+                "Expenses/Student": "$10,531",
+                "Support Services": "39%"
+            }
+        },
+        "Tempe Union High School District": {
+            "Niche": "https://www.niche.com/k12/d/tempe-union-high-school-district-az/",
+            "Data": {
+                "Website": "https://www.tempeunion.org/",
+                "Phone": "(480) 839-0292",
+                "Address": "500 W GUADALUPE RDTEMPE, AZ 85283",
+                "Students": "12,997",
+                "Free or Reduced Lunch": "1.2%",
+                "Expenses/Student": "$10,219",
+                "Support Services": "44%"
+            }
+        },
+        "Nadaburg Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/nadaburg-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.nadaburgsd.org/",
+                "Phone": "(623) 388-2100",
+                "Address": "32919 N CENTER STWITTMANN, AZ 85361",
+                "Students": "992",
+                "Free or Reduced Lunch": "66.5%",
+                "Expenses/Student": "$11,959",
+                "Support Services": "31%"
+            }
+        },
+        "Morenci Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/morenci-unified-school-district-az/",
+            "Data": {
+                "Website": "https://morenci.org/",
+                "Phone": "(928) 865-2081",
+                "Address": "1 STADIUM DRMORENCI, AZ 85540",
+                "Students": "1,482",
+                "Free or Reduced Lunch": "40%",
+                "Expenses/Student": "$11,087",
+                "Support Services": "34%"
+            }
+        },
+        "Thatcher Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/thatcher-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.thatcherud.org/",
+                "Phone": "(928) 348-7200",
+                "Address": "3490 W MAIN STTHATCHER, AZ 85552",
+                "Students": "1,825",
+                "Free or Reduced Lunch": "39.1%",
+                "Expenses/Student": "$8,124",
+                "Support Services": "37%"
+            }
+        },
+        "Queen Creek Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/queen-creek-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.qcusd.org/",
+                "Phone": "(480) 987-5935",
+                "Address": "20217 E CHANDLER HEIGHTS RDQUEEN CREEK, AZ 85142",
+                "Students": "12,592",
+                "Free or Reduced Lunch": "25.8%",
+                "Expenses/Student": "$9,749",
+                "Support Services": "41%"
+            }
+        },
+        "Cave Creek Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/cave-creek-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.ccusd93.org/",
+                "Phone": "(480) 575-2000",
+                "Address": "33016 N 60TH STSCOTTSDALE, AZ 85266",
+                "Students": "4,851",
+                "Free or Reduced Lunch": "9.7%",
+                "Expenses/Student": "$10,360",
+                "Support Services": "42%"
+            }
+        },
+        "Mary C. O'Brien Accommodation School District": {
+            "Niche": "https://www.niche.com/k12/d/mary-c-obrien-accommodation-school-district-az/",
+            "Data": {
+                "Website": "https://www.pinalk12.org/",
+                "Phone": "(520) 450-4400",
+                "Address": "3740 N TOLTEC RDTOLTEC, AZ 85131",
+                "Students": "202",
+                "Free or Reduced Lunch": "97%",
+                "Expenses/Student": "$27,025",
+                "Support Services": "52%"
+            }
+        },
+        "West-Mec - Western Maricopa Education Center": {
+            "Niche": "https://www.niche.com/k12/d/west-mec-western-maricopa-education-center-az/",
+            "Data": {
+                "Website": "https://www.west-mec.edu/",
+                "Phone": "(623) 738-0022",
+                "Address": "5487 N 99TH AVEGLENDALE, AZ 85305",
+                "Students": "445",
+                "Free or Reduced Lunch": "0%",
+                "Expenses/Student": "$70,384",
+                "Support Services": "63%"
+            }
+        },
+        "Fountain Hills Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/fountain-hills-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.fountainhillsschools.org",
+                "Phone": "(480) 664-5000",
+                "Address": "16000 E PALISADES BLVDFOUNTAIN HILLS, AZ 85268",
+                "Students": "1,210",
+                "Free or Reduced Lunch": "27.5%",
+                "Expenses/Student": "$11,579",
+                "Support Services": "47%"
+            }
+        },
+        "Buckeye Union High School District": {
+            "Niche": "https://www.niche.com/k12/d/buckeye-union-high-school-district-az/",
+            "Data": {
+                "Website": "https://www.buhsd.org/",
+                "Phone": "(623) 269-1002",
+                "Address": "1000 E NARRAMORE AVEBUCKEYE, AZ 85326",
+                "Students": "5,176",
+                "Free or Reduced Lunch": "55.8%",
+                "Expenses/Student": "$9,221",
+                "Support Services": "41%"
+            }
+        },
+        "Heber-Overgaard Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/heber-overgaard-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.heberovergaardschools.org/",
+                "Phone": "(928) 535-4622",
+                "Address": "3375 BUCKSKIN CANYON RDHEBER, AZ 85928",
+                "Students": "401",
+                "Free or Reduced Lunch": "54.8%",
+                "Expenses/Student": "$14,601",
+                "Support Services": "44%"
+            }
+        },
+        "Pima County Joint Technology Education School": {
+            "Niche": "https://www.niche.com/k12/d/pima-county-joint-technology-education-school-az/",
+            "Data": {
+                "Website": "https://pimajted.org/",
+                "Phone": "(520) 209-1694",
+                "Address": "2855 W MASTER PIECES DRTUCSON, AZ 85741",
+                "Students": "156",
+                "Free or Reduced Lunch": "0%",
+                "Expenses/Student": "$72,712",
+                "Support Services": "57%"
+            }
+        },
+        "Kingman Academy of Learning": {
+            "Niche": "https://www.niche.com/k12/d/kingman-academy-of-learning-az/",
+            "Data": {
+                "Website": "https://www.kaolaz.org/",
+                "Phone": "(928) 681-2400",
+                "Address": "3410 N BURBANK STKINGMAN, AZ 86409",
+                "Students": "1,349",
+                "Free or Reduced Lunch": "26.4%",
+                "Expenses/Student": "$8,843",
+                "Support Services": "37%"
+            }
+        },
+        "Round Valley Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/round-valley-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.elks.net/",
+                "Phone": "(928) 333-6580",
+                "Address": "940 E MARICOPA DR UNIT BSPRINGERVILLE, AZ 85938",
+                "Students": "1,401",
+                "Free or Reduced Lunch": "12.6%",
+                "Expenses/Student": "$9,151",
+                "Support Services": "45%"
+            }
+        },
+        "Dysart Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/dysart-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.dysart.org/mainsite",
+                "Phone": "(623) 876-7000",
+                "Address": "15802 N PARKVIEW PLSURPRISE, AZ 85374",
+                "Students": "23,596",
+                "Free or Reduced Lunch": "49.8%",
+                "Expenses/Student": "$9,208",
+                "Support Services": "39%"
+            }
+        },
+        "Sahuarita Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/sahuarita-unified-school-district-az/",
+            "Data": {
+                "Website": "https://susd30.us/",
+                "Phone": "(520) 625-3502",
+                "Address": "350 W SAHUARITA RDSAHUARITA, AZ 85629",
+                "Students": "6,376",
+                "Free or Reduced Lunch": "34.4%",
+                "Expenses/Student": "$9,525",
+                "Support Services": "40%"
+            }
+        },
+        "Amphitheater Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/amphitheater-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.amphi.com/",
+                "Phone": "(520) 696-5000",
+                "Address": "701 W WETMORE RDTUCSON, AZ 85705",
+                "Students": "12,396",
+                "Free or Reduced Lunch": "0%",
+                "Expenses/Student": "$11,104",
+                "Support Services": "41%"
+            }
+        },
+        "Benson Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/benson-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.bensonusd.org/",
+                "Phone": "(520) 720-6700",
+                "Address": "360 S PATAGONIA STBENSON, AZ 85602",
+                "Students": "1,293",
+                "Free or Reduced Lunch": "48%",
+                "Expenses/Student": "$13,208",
+                "Support Services": "43%"
+            }
+        },
+        "Choice Academies": {
+            "Niche": "https://www.niche.com/k12/d/choice-academies-az/",
+            "Data": {
+                "Website": "https://www.choiceacademies.org",
+                "Phone": "(602) 938-5517",
+                "Address": "2323 W PARKSIDE LNPHOENIX, AZ 85027",
+                "Students": "642",
+                "Free or Reduced Lunch": "0%",
+                "Expenses/Student": "$10,000",
+                "Support Services": "37%"
+            }
+        },
+        "Snowflake Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/snowflake-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.susd5.org/o/snowflakeusd5",
+                "Phone": "(928) 536-4156",
+                "Address": "682 W SCHOOL BUS LNSNOWFLAKE, AZ 85937",
+                "Students": "2,725",
+                "Free or Reduced Lunch": "54.2%",
+                "Expenses/Student": "$7,286",
+                "Support Services": "38%"
+            }
+        },
+        "Willcox Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/willcox-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.wusd13.org/",
+                "Phone": "(520) 384-8600",
+                "Address": "480 N BISBEE AVEWILLCOX, AZ 85643",
+                "Students": "1,059",
+                "Free or Reduced Lunch": "44.1%",
+                "Expenses/Student": "$10,129",
+                "Support Services": "39%"
+            }
+        },
+        "St. David Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/st-david-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.stdavidschools.org/",
+                "Phone": "(520) 720-4781",
+                "Address": "70 E PATTON STSAINT DAVID, AZ 85630",
+                "Students": "399",
+                "Free or Reduced Lunch": "46.2%",
+                "Expenses/Student": "$9,484",
+                "Support Services": "45%"
+            }
+        },
+        "Prescott Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/prescott-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.prescottschools.com/",
+                "Phone": "(928) 445-5400",
+                "Address": "300 E GURLEY STPRESCOTT, AZ 86301",
+                "Students": "3,827",
+                "Free or Reduced Lunch": "42.4%",
+                "Expenses/Student": "$9,172",
+                "Support Services": "43%"
+            }
+        },
+        "Duncan Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/duncan-unified-school-district-az/",
+            "Data": {
+                "Website": "https://dusdwildkats.org/",
+                "Phone": "(928) 359-2472",
+                "Address": "108 STADIUM AVEDUNCAN, AZ 85534",
+                "Students": "383",
+                "Free or Reduced Lunch": "54.4%",
+                "Expenses/Student": "$11,063",
+                "Support Services": "50%"
+            }
+        },
+        "Saddle Mountain Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/saddle-mountain-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.smusd90.org/",
+                "Phone": "(623) 474-5115",
+                "Address": "38201 W INDIAN SCHOOL RDTONOPAH, AZ 85354",
+                "Students": "2,854",
+                "Free or Reduced Lunch": "10.3%",
+                "Expenses/Student": "$7,529",
+                "Support Services": "38%"
+            }
+        },
+        "American Leadership Academy": {
+            "Niche": "https://www.niche.com/k12/d/american-leadership-academy-az/",
+            "Data": {
+                "Website": "https://www.alaschools.org/",
+                "Phone": "(480) 420-2101",
+                "Address": "6913 E REMBRANDT AVE STE 2CHANDLER, AZ 85286",
+                "Students": "10,997",
+                "Free or Reduced Lunch": "31.7%",
+                "Expenses/Student": "$8,739",
+                "Support Services": "41%"
+            }
+        },
+        "Marana Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/marana-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.maranausd.org/",
+                "Phone": "(520) 682-3243",
+                "Address": "11279 W GRIER RD STE 115AMARANA, AZ 85653",
+                "Students": "12,650",
+                "Free or Reduced Lunch": "44.6%",
+                "Expenses/Student": "$11,264",
+                "Support Services": "41%"
+            }
+        },
+        "Eduprize Schools": {
+            "Niche": "https://www.niche.com/k12/d/eduprize-schools-az/",
+            "Data": {
+                "Website": "https://www.eduprizeschools.net/",
+                "Phone": "(480) 813-9537",
+                "Address": "4567 W ROBERTS RDQUEEN CREEK, AZ 85142",
+                "Students": "3,361",
+                "Free or Reduced Lunch": "2.7%",
+                "Expenses/Student": "$7,134",
+                "Support Services": "36%"
+            }
+        },
+        "Flagstaff Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/flagstaff-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.fusd1.org/",
+                "Phone": "(928) 527-6000",
+                "Address": "3285 E SPARROW AVEFLAGSTAFF, AZ 86004",
+                "Students": "9,106",
+                "Free or Reduced Lunch": "51.8%",
+                "Expenses/Student": "$12,313",
+                "Support Services": "44%"
+            }
+        },
+        "Lake Havasu Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/lake-havasu-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.havasu.k12.az.us/",
+                "Phone": "(928) 505-6900",
+                "Address": "2200 HAVASUPAI BLVDLAKE HAVASU CITY, AZ 86403",
+                "Students": "5,463",
+                "Free or Reduced Lunch": "48.5%",
+                "Expenses/Student": "$8,924",
+                "Support Services": "38%"
+            }
+        },
+        "San Simon Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/san-simon-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.sansimon.org/",
+                "Phone": "(520) 845-2275",
+                "Address": "I-10 BUSINESS LOOPSAN SIMON, AZ 85632",
+                "Students": "114",
+                "Free or Reduced Lunch": "63.2%",
+                "Expenses/Student": "$21,053",
+                "Support Services": "43%"
+            }
+        },
+        "Grand Canyon Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/grand-canyon-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.grandcanyonschool.org/",
+                "Phone": "(928) 638-2461",
+                "Address": "1 BOULDER STGRAND CANYON VILLAGE, AZ 86023",
+                "Students": "274",
+                "Free or Reduced Lunch": "56.1%",
+                "Expenses/Student": "$20,810",
+                "Support Services": "58%"
+            }
+        },
+        "Blue Ridge Unified School District No. 32": {
+            "Niche": "https://www.niche.com/k12/d/blue-ridge-unified-school-district-no-32-az/",
+            "Data": {
+                "Website": "https://www.brusd.org/",
+                "Phone": "(928) 368-6126",
+                "Address": "1200 W WHITE MOUNTAIN BLVDLAKESIDE, AZ 85929",
+                "Students": "1,870",
+                "Free or Reduced Lunch": "53.7%",
+                "Expenses/Student": "$10,699",
+                "Support Services": "43%"
+            }
+        },
+        "Safford Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/safford-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.saffordusd.com/Page/1",
+                "Phone": "(928) 348-7000",
+                "Address": "734 W 11TH STSAFFORD, AZ 85546",
+                "Students": "2,935",
+                "Free or Reduced Lunch": "57%",
+                "Expenses/Student": "$8,693",
+                "Support Services": "34%"
+            }
+        },
+        "Show Low Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/show-low-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.showlow.education/",
+                "Phone": "(928) 537-6001",
+                "Address": "500 W OLD LINDEN RDSHOW LOW, AZ 85901",
+                "Students": "2,568",
+                "Free or Reduced Lunch": "60.4%",
+                "Expenses/Student": "$10,176",
+                "Support Services": "38%"
+            }
+        },
+        "Humboldt Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/humboldt-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.humboldtunified.com/index.jsp",
+                "Phone": "(928) 759-4000",
+                "Address": "6411 N ROBERT RDPRESCOTT VALLEY, AZ 86314",
+                "Students": "5,518",
+                "Free or Reduced Lunch": "52.7%",
+                "Expenses/Student": "$8,943",
+                "Support Services": "37%"
+            }
+        },
+        "Holbrook Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/holbrook-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.holbrook.k12.az.us/",
+                "Phone": "(928) 524-6144",
+                "Address": "1000 N 8TH AVEHOLBROOK, AZ 86025",
+                "Students": "1,805",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$13,137",
+                "Support Services": "40%"
+            }
+        },
+        "Continental Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/continental-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.continentalesd.org/",
+                "Phone": "(520) 625-4581",
+                "Address": "1991 E WHITEHOUSE CANYON RDGREEN VALLEY, AZ 85614",
+                "Students": "649",
+                "Free or Reduced Lunch": "35.2%",
+                "Expenses/Student": "$13,088",
+                "Support Services": "30%"
+            }
+        },
+        "Pima Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/pima-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.pimaschools.com/",
+                "Phone": "(928) 387-8000",
+                "Address": "192 E 200 SPIMA, AZ 85543",
+                "Students": "1,046",
+                "Free or Reduced Lunch": "54.1%",
+                "Expenses/Student": "$9,136",
+                "Support Services": "30%"
+            }
+        },
+        "Mingus Union High School District": {
+            "Niche": "https://www.niche.com/k12/d/mingus-union-high-school-district-az/",
+            "Data": {
+                "Website": "https://www.mingusunion.com/",
+                "Phone": "(928) 634-8901",
+                "Address": "1801 E FIR STCOTTONWOOD, AZ 86326",
+                "Students": "1,329",
+                "Free or Reduced Lunch": "54.6%",
+                "Expenses/Student": "$8,716",
+                "Support Services": "38%"
+            }
+        },
+        "Tombstone Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/tombstone-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.tombstoneschools.org/en-US",
+                "Phone": "(520) 457-2217",
+                "Address": "805 FREMONTTOMBSTONE, AZ 85638",
+                "Students": "879",
+                "Free or Reduced Lunch": "82.1%",
+                "Expenses/Student": "$10,296",
+                "Support Services": "45%"
+            }
+        },
+        "City Center for Collaborative Learning": {
+            "Niche": "https://www.niche.com/k12/d/city-center-for-collaborative-learning-az/",
+            "Data": {
+                "Website": "https://cityccl.org/",
+                "Phone": "(520) 561-1020",
+                "Address": "47 E PENNINGTON STTUCSON, AZ 85701",
+                "Students": "326",
+                "Free or Reduced Lunch": "24.8%",
+                "Expenses/Student": "$12,543",
+                "Support Services": "44%"
+            }
+        },
+        "Tucson Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/tucson-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.tusd1.org/",
+                "Phone": "(520) 225-6060",
+                "Address": "1010 E 10TH STTUCSON, AZ 85719",
+                "Students": "42,002",
+                "Free or Reduced Lunch": "65.9%",
+                "Expenses/Student": "$10,773",
+                "Support Services": "44%"
+            }
+        },
+        "Aguila Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/aguila-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.aguilaschool.org/",
+                "Phone": "(928) 685-2222",
+                "Address": "50023 N 514TH AVEAGUILA, AZ 85320",
+                "Students": "129",
+                "Free or Reduced Lunch": "91.5%",
+                "Expenses/Student": "$20,016",
+                "Support Services": "23%"
+            }
+        },
+        "Bagdad Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/bagdad-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.bagdadschools.org/",
+                "Phone": "(928) 633-4101",
+                "Address": "500 SULTAN WAYBAGDAD, AZ 86321",
+                "Students": "454",
+                "Free or Reduced Lunch": "41.1%",
+                "Expenses/Student": "$16,485",
+                "Support Services": "38%"
+            }
+        },
+        "Tolleson Union High School District": {
+            "Niche": "https://www.niche.com/k12/d/tolleson-union-high-school-district-az/",
+            "Data": {
+                "Website": "https://www.tuhsd.org/",
+                "Phone": "(623) 478-4000",
+                "Address": "9801 W VAN BUREN STTOLLESON, AZ 85353",
+                "Students": "13,335",
+                "Free or Reduced Lunch": "67.3%",
+                "Expenses/Student": "$11,803",
+                "Support Services": "40%"
+            }
+        },
+        "Southern Arizona Community Academy District": {
+            "Niche": "https://www.niche.com/k12/d/southern-arizona-community-academy-district-az/",
+            "Data": {
+                "Website": "https://www.sacaeagles.com/",
+                "Phone": "(520) 319-6113",
+                "Address": "2470 N TUCSON BLVDTUCSON, AZ 85716",
+                "Students": "155",
+                "Free or Reduced Lunch": "91.7%",
+                "Expenses/Student": "$9,335",
+                "Support Services": "35%"
+            }
+        },
+        "The Odyssey Preparatory Academy": {
+            "Niche": "https://www.niche.com/k12/d/the-odyssey-preparatory-academy-az/",
+            "Data": {
+                "Website": "https://odyprep.com/",
+                "Phone": "(623) 327-1757",
+                "Address": "1495 S VERRADO WAYBUCKEYE, AZ 85326",
+                "Students": "3,491",
+                "Free or Reduced Lunch": "0.1%",
+                "Expenses/Student": "$19,148",
+                "Support Services": "49%"
+            }
+        },
+        "Payson Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/payson-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.pusd10.org/",
+                "Phone": "(928) 474-2070",
+                "Address": "902 W MAIN STPAYSON, AZ 85541",
+                "Students": "2,339",
+                "Free or Reduced Lunch": "46%",
+                "Expenses/Student": "$10,002",
+                "Support Services": "45%"
+            }
+        },
+        "Seligman Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/seligman-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.seligmanschools.org/",
+                "Phone": "(928) 216-4123",
+                "Address": "54255 N MAINSELIGMAN, AZ 86337",
+                "Students": "143",
+                "Free or Reduced Lunch": "58.4%",
+                "Expenses/Student": "$31,343",
+                "Support Services": "48%"
+            }
+        },
+        "Nogales Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/nogales-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.nusd.k12.az.us/",
+                "Phone": "(520) 287-0800",
+                "Address": "310 W PLUM STNOGALES, AZ 85621",
+                "Students": "5,514",
+                "Free or Reduced Lunch": "99.5%",
+                "Expenses/Student": "$8,784",
+                "Support Services": "40%"
+            }
+        },
+        "Pointe Educational Services": {
+            "Niche": "https://www.niche.com/k12/d/pointe-educational-services-az/",
+            "Data": {
+                "Website": "https://pointeschools.org/",
+                "Phone": "(602) 843-2014",
+                "Address": "10215 N 43RD AVEPHOENIX, AZ 85051",
+                "Students": "707",
+                "Free or Reduced Lunch": "45.2%",
+                "Expenses/Student": "$10,034",
+                "Support Services": "43%"
+            }
+        },
+        "Santa Cruz Valley Union High School District": {
+            "Niche": "https://www.niche.com/k12/d/santa-cruz-valley-union-high-school-district-az/",
+            "Data": {
+                "Website": "https://www.scvuhs.org/",
+                "Phone": "(520) 466-2220",
+                "Address": "900 N MAIN STELOY, AZ 85131",
+                "Students": "302",
+                "Free or Reduced Lunch": "78.4%",
+                "Expenses/Student": "$20,017",
+                "Support Services": "52%"
+            }
+        },
+        "Chino Valley Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/chino-valley-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.chinovalleyschools.com/",
+                "Phone": "(928) 636-2458",
+                "Address": "650 E CENTER STCHINO VALLEY, AZ 86323",
+                "Students": "2,402",
+                "Free or Reduced Lunch": "69.4%",
+                "Expenses/Student": "$8,270",
+                "Support Services": "41%"
+            }
+        },
+        "Empower College Prep": {
+            "Niche": "https://www.niche.com/k12/d/empower-college-prep-az/",
+            "Data": {
+                "Website": "http://www.empowercollegeprep.org/",
+                "Phone": "(602) 283-5720",
+                "Address": "2411 W COLTER STPHOENIX, AZ 85015",
+                "Students": "1,120",
+                "Free or Reduced Lunch": "97.5%",
+                "Expenses/Student": "$7,045",
+                "Support Services": "39%"
+            }
+        },
+        "Arizona K12 Center": {
+            "Niche": "https://www.niche.com/k12/d/arizona-k12-center-az/",
+            "Data": {
+                "Website": "https://www.azk12.org/",
+                "Phone": "(602) 476-1320",
+                "Address": "99 E VIRGINIA AVE STE 200PHOENIX, AZ 85004",
+                "Students": "7,004",
+                "Free or Reduced Lunch": "18.3%",
+                "Expenses/Student": "$6,498",
+                "Support Services": "22%"
+            }
+        },
+        "J.O. Combs Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/jo-combs-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.jocombs.org/",
+                "Phone": "(480) 987-5300",
+                "Address": "43371 N KENWORTHY RDSAN TAN VLY, AZ 85140",
+                "Students": "4,597",
+                "Free or Reduced Lunch": "49.3%",
+                "Expenses/Student": "$10,217",
+                "Support Services": "44%"
+            }
+        },
+        "Maricopa Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/maricopa-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.musd20.org/",
+                "Phone": "(520) 568-5100",
+                "Address": "44150 W MARICOPA CASA GRANDE HMARICOPA, AZ 85138",
+                "Students": "8,085",
+                "Free or Reduced Lunch": "62.4%",
+                "Expenses/Student": "$7,699",
+                "Support Services": "42%"
+            }
+        },
+        "Cottonwood-Oak Creek Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/cottonwood-oak-creek-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.cocsd.us/en-US",
+                "Phone": "(928) 634-2288",
+                "Address": "1 N WILLARD STCOTTONWOOD, AZ 86326",
+                "Students": "1,835",
+                "Free or Reduced Lunch": "70.6%",
+                "Expenses/Student": "$10,526",
+                "Support Services": "36%"
+            }
+        },
+        "Winslow Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/winslow-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.wusd1.org/",
+                "Phone": "(928) 288-8101",
+                "Address": "800 N APACHE AVEWINSLOW, AZ 86047",
+                "Students": "1,843",
+                "Free or Reduced Lunch": "99.3%",
+                "Expenses/Student": "$10,412",
+                "Support Services": "44%"
+            }
+        },
+        "Coconino County Accommodation School District": {
+            "Niche": "https://www.niche.com/k12/d/coconino-county-accommodation-school-district-az/",
+            "Data": {
+                "Website": "https://www.ccasdaz.org/",
+                "Phone": "(928) 679-8072",
+                "Address": "2384 N STEVES BLVDFLAGSTAFF, AZ 86004",
+                "Students": "116",
+                "Free or Reduced Lunch": "0%",
+                "Expenses/Student": "$21,155",
+                "Support Services": "55%"
+            }
+        },
+        "Williams Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/williams-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.wusd2.org/",
+                "Phone": "(928) 635-4473",
+                "Address": "636 S 7TH STWILLIAMS, AZ 86046",
+                "Students": "681",
+                "Free or Reduced Lunch": "67.9%",
+                "Expenses/Student": "$9,930",
+                "Support Services": "42%"
+            }
+        },
+        "Telesis Center for Learning": {
+            "Niche": "https://www.niche.com/k12/d/telesis-center-for-learning-az/",
+            "Data": {
+                "Website": "https://www.telesis-academy.org/",
+                "Phone": "(928) 855-8661",
+                "Address": "2598 STARLITE LNLAKE HAVASU CITY, AZ 86403",
+                "Students": "298",
+                "Free or Reduced Lunch": "37.4%",
+                "Expenses/Student": "$11,923",
+                "Support Services": "45%"
+            }
+        },
+        "Riverside Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/riverside-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.resdonline.org",
+                "Phone": "(602) 477-8900",
+                "Address": "1414 S 51ST AVEPHOENIX, AZ 85043",
+                "Students": "805",
+                "Free or Reduced Lunch": "80.6%",
+                "Expenses/Student": "$16,773",
+                "Support Services": "53%"
+            }
+        },
+        "Kingman Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/kingman-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.kusd.org/",
+                "Phone": "(928) 753-5678",
+                "Address": "3033 MCDONALD AVEKINGMAN, AZ 86401",
+                "Students": "7,045",
+                "Free or Reduced Lunch": "72.8%",
+                "Expenses/Student": "$8,646",
+                "Support Services": "42%"
+            }
+        },
+        "Colorado City Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/colorado-city-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.elcap.us/",
+                "Phone": "(928) 875-9000",
+                "Address": "325 NORTH COTTONWOOD STCOLORADO CITY, AZ 86021",
+                "Students": "601",
+                "Free or Reduced Lunch": "74.4%",
+                "Expenses/Student": "$14,506",
+                "Support Services": "40%"
+            }
+        },
+        "Phoenix Union High School District": {
+            "Niche": "https://www.niche.com/k12/d/phoenix-union-high-school-district-az/",
+            "Data": {
+                "Website": "https://www.pxu.org/",
+                "Phone": "(602) 764-0860",
+                "Address": "4502 N CENTRAL AVEPHOENIX, AZ 85012",
+                "Students": "27,890",
+                "Free or Reduced Lunch": "91.3%",
+                "Expenses/Student": "$14,036",
+                "Support Services": "43%"
+            }
+        },
+        "Florence Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/florence-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.fusdaz.com/",
+                "Phone": "(520) 866-3500",
+                "Address": "1000 S MAIN STFLORENCE, AZ 85132",
+                "Students": "9,654",
+                "Free or Reduced Lunch": "59.9%",
+                "Expenses/Student": "$8,988",
+                "Support Services": "43%"
+            }
+        },
+        "Santa Cruz Valley Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/santa-cruz-valley-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.scv35.org/",
+                "Phone": "(520) 281-8282",
+                "Address": "1374 W FRONTAGE RDRIO RICO, AZ 85648",
+                "Students": "3,636",
+                "Free or Reduced Lunch": "99.6%",
+                "Expenses/Student": "$8,245",
+                "Support Services": "43%"
+            }
+        },
+        "Casa Grande Union High School District": {
+            "Niche": "https://www.niche.com/k12/d/casa-grande-union-high-school-district-az/",
+            "Data": {
+                "Website": "https://www.cguhsd.org/",
+                "Phone": "(520) 316-3360",
+                "Address": "1362 N CASA GRANDE AVECASA GRANDE, AZ 85122",
+                "Students": "3,822",
+                "Free or Reduced Lunch": "62.3%",
+                "Expenses/Student": "$9,781",
+                "Support Services": "49%"
+            }
+        },
+        "Camp Verde Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/camp-verde-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.campverdeschools.net/",
+                "Phone": "(928) 567-8000",
+                "Address": "410 CAMP LINCOLN RDCAMP VERDE, AZ 86322",
+                "Students": "1,616",
+                "Free or Reduced Lunch": "67.6%",
+                "Expenses/Student": "$9,519",
+                "Support Services": "41%"
+            }
+        },
+        "Parker Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/parker-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.parkerusd.org/",
+                "Phone": "(928) 669-9244",
+                "Address": "1608 S LAGUNA AVEPARKER, AZ 85344",
+                "Students": "1,866",
+                "Free or Reduced Lunch": "77%",
+                "Expenses/Student": "$12,369",
+                "Support Services": "42%"
+            }
+        },
+        "Sedona-Oak Creek Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/sedona-oak-creek-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.sedona.k12.az.us/",
+                "Phone": "(928) 204-6800",
+                "Address": "221 BREWER RD STE 100SEDONA, AZ 86336",
+                "Students": "714",
+                "Free or Reduced Lunch": "53.6%",
+                "Expenses/Student": "$14,053",
+                "Support Services": "37%"
+            }
+        },
+        "Bisbee Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/bisbee-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.busd.k12.az.us/",
+                "Phone": "(520) 432-5381",
+                "Address": "519 W MELODY LNBISBEE, AZ 85603",
+                "Students": "644",
+                "Free or Reduced Lunch": "69.2%",
+                "Expenses/Student": "$12,113",
+                "Support Services": "46%"
+            }
+        },
+        "Mayer Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/mayer-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.mayerschools.org/en-US",
+                "Phone": "(928) 642-1000",
+                "Address": "12606 E MAIN STMAYER, AZ 86333",
+                "Students": "531",
+                "Free or Reduced Lunch": "89.7%",
+                "Expenses/Student": "$10,934",
+                "Support Services": "46%"
+            }
+        },
+        "Fredonia-Moccasin Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/fredonia-moccasin-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.fredonia.org/",
+                "Phone": "(928) 643-7333",
+                "Address": "221 EAST HORTT STFREDONIA, AZ 86022",
+                "Students": "192",
+                "Free or Reduced Lunch": "74.2%",
+                "Expenses/Student": "$13,682",
+                "Support Services": "43%"
+            }
+        },
+        "AmeriSchools Academy": {
+            "Niche": "https://www.niche.com/k12/d/amerischools-academy-az/",
+            "Data": {
+                "Website": "https://amerischools.org/",
+                "Phone": "(520) 296-1100",
+                "Address": "5383 E ROCKRIDGE RDPHOENIX, AZ 85018",
+                "Students": "595",
+                "Free or Reduced Lunch": "53.5%",
+                "Expenses/Student": "$9,822",
+                "Support Services": "51%"
+            }
+        },
+        "Yuma Union High School District": {
+            "Niche": "https://www.niche.com/k12/d/yuma-union-high-school-district-az/",
+            "Data": {
+                "Website": "https://www.yumaunion.org/",
+                "Phone": "(928) 502-4600",
+                "Address": "3150 S AVE AYUMA, AZ 85364",
+                "Students": "11,427",
+                "Free or Reduced Lunch": "56.7%",
+                "Expenses/Student": "$8,709",
+                "Support Services": "45%"
+            }
+        },
+        "Littlefield Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/littlefield-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.lusd9.com/",
+                "Phone": "(928) 347-5486",
+                "Address": "3475 E RIO VIRGIN RDBEAVER DAM, AZ 86432",
+                "Students": "384",
+                "Free or Reduced Lunch": "85.6%",
+                "Expenses/Student": "$9,924",
+                "Support Services": "41%"
+            }
+        },
+        "Miami Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/miami-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.miamiusd40.org/",
+                "Phone": "(928) 425-3271",
+                "Address": "4739 E RAGUS RDMIAMI, AZ 85539",
+                "Students": "939",
+                "Free or Reduced Lunch": "72.7%",
+                "Expenses/Student": "$10,524",
+                "Support Services": "43%"
+            }
+        },
+        "Douglas Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/douglas-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.dusd.us/",
+                "Phone": "(520) 364-2447",
+                "Address": "1132 E 12TH STDOUGLAS, AZ 85607",
+                "Students": "3,898",
+                "Free or Reduced Lunch": "45.3%",
+                "Expenses/Student": "$8,687",
+                "Support Services": "40%"
+            }
+        },
+        "Sierra Vista Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/sierra-vista-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.svusd68.org/",
+                "Phone": "(520) 515-2714",
+                "Address": "3555 E FRY BLVDSIERRA VISTA, AZ 85635",
+                "Students": "4,877",
+                "Free or Reduced Lunch": "40.8%",
+                "Expenses/Student": "$11,237",
+                "Support Services": "42%"
+            }
+        },
+        "Hayden-Winkelman Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/hayden-winkelman-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.hwusd.org/",
+                "Phone": "(520) 356-7876",
+                "Address": "824 THORNE AVEWINKELMAN, AZ 85292",
+                "Students": "291",
+                "Free or Reduced Lunch": "92.9%",
+                "Expenses/Student": "$15,883",
+                "Support Services": "48%"
+            }
+        },
+        "Ajo Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/ajo-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.ajoschools.org/",
+                "Phone": "(520) 387-5618",
+                "Address": "111 N WELL RDAJO, AZ 85321",
+                "Students": "409",
+                "Free or Reduced Lunch": "79.8%",
+                "Expenses/Student": "$13,958",
+                "Support Services": "43%"
+            }
+        },
+        "Globe Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/globe-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.globeschools.org/",
+                "Phone": "(928) 402-6011",
+                "Address": "501 E ASH STGLOBE, AZ 85501",
+                "Students": "1,588",
+                "Free or Reduced Lunch": "64.6%",
+                "Expenses/Student": "$10,538",
+                "Support Services": "45%"
+            }
+        },
+        "Ray Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/ray-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.rayusd.org/index.jsp",
+                "Phone": "(520) 363-5515",
+                "Address": "701 N HWY 177KEARNY, AZ 85137",
+                "Students": "387",
+                "Free or Reduced Lunch": "63.7%",
+                "Expenses/Student": "$12,178",
+                "Support Services": "43%"
+            }
+        },
+        "Chinle Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/chinle-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.chinleusd.k12.az.us/",
+                "Phone": "(928) 674-9600",
+                "Address": "19 ROUTE 7 NR 27 CHINLE, AZ 86503",
+                "Students": "3,236",
+                "Free or Reduced Lunch": "99.4%",
+                "Expenses/Student": "$21,978",
+                "Support Services": "45%"
+            }
+        },
+        "Wickenburg Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/wickenburg-unified-school-district-az/",
+            "Data": {
+                "Website": "http://www.wickenburgschools.org",
+                "Phone": "(928) 668-5350",
+                "Address": "101 COCONINO STWICKENBURG, AZ 85390",
+                "Students": "1,318",
+                "Free or Reduced Lunch": "47%",
+                "Expenses/Student": "$10,673",
+                "Support Services": "47%"
+            }
+        },
+        "Cholla Academy": {
+            "Niche": "https://www.niche.com/k12/d/cholla-academy-az/",
+            "Data": {
+                "Website": "https://westlandcharterschool.com/",
+                "Phone": "(623) 247-6456",
+                "Address": "4141 N 67TH AVEPHOENIX, AZ 85033",
+                "Students": "535",
+                "Free or Reduced Lunch": "74.6%",
+                "Expenses/Student": "$9,901",
+                "Support Services": "28%"
+            }
+        },
+        "Apache Junction Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/apache-junction-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.ajusd.org/",
+                "Phone": "(480) 982-1110",
+                "Address": "801 W SOUTHERN AVEAPACHE JUNCTION, AZ 85120",
+                "Students": "3,072",
+                "Free or Reduced Lunch": "71.7%",
+                "Expenses/Student": "$10,643",
+                "Support Services": "44%"
+            }
+        },
+        "Mammoth-San Manuel Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/mammoth-san-manuel-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.msmusd.org/",
+                "Phone": "(520) 385-2337",
+                "Address": "711 S MCNAB PKWYSAN MANUEL, AZ 85631",
+                "Students": "545",
+                "Free or Reduced Lunch": "88.3%",
+                "Expenses/Student": "$12,754",
+                "Support Services": "43%"
+            }
+        },
+        "Sunnyside Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/sunnyside-unified-school-district-az/",
+            "Data": {
+                "Website": "https://susd12.org/",
+                "Phone": "(520) 545-2000",
+                "Address": "2238 E GINTER RDTUCSON, AZ 85706",
+                "Students": "14,569",
+                "Free or Reduced Lunch": "83.3%",
+                "Expenses/Student": "$9,132",
+                "Support Services": "40%"
+            }
+        },
+        "Edkey - Sequoia Village School": {
+            "Niche": "https://www.niche.com/k12/d/edkey-sequoia-village-school-az/",
+            "Data": {
+                "Website": "https://www.sequoiavillageschool.org/",
+                "Phone": "(480) 461-3200",
+                "Address": "982 FULL HOUSE LNSHOW LOW, AZ 85901",
+                "Students": "451",
+                "Free or Reduced Lunch": "60.7%",
+                "Expenses/Student": "$11,743",
+                "Support Services": "44%"
+            }
+        },
+        "Tuba City Unified School District No. 15": {
+            "Niche": "https://www.niche.com/k12/d/tuba-city-unified-school-district-no-15-az/",
+            "Data": {
+                "Website": "https://tcusd.org/",
+                "Phone": "(928) 283-1001",
+                "Address": "E FIR STTUBA CITY, AZ 86045",
+                "Students": "1,481",
+                "Free or Reduced Lunch": "0%",
+                "Expenses/Student": "$15,034",
+                "Support Services": "47%"
+            }
+        },
+        "Superior Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/superior-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.superiorusd.org/",
+                "Phone": "(520) 689-3000",
+                "Address": "1500 W PANTHER DR STE 101SUPERIOR, AZ 85173",
+                "Students": "342",
+                "Free or Reduced Lunch": "49.3%",
+                "Expenses/Student": "$15,398",
+                "Support Services": "48%"
+            }
+        },
+        "Ganado Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/ganado-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.ganado.k12.az.us/",
+                "Phone": "(928) 755-1000",
+                "Address": "HWY 264GANADO, AZ 86505",
+                "Students": "1,064",
+                "Free or Reduced Lunch": "99.4%",
+                "Expenses/Student": "$19,273",
+                "Support Services": "50%"
+            }
+        },
+        "Learning Foundation & Performing Arts": {
+            "Niche": "https://www.niche.com/k12/d/learning-foundation-and-performing-arts-az/",
+            "Data": {
+                "Website": "https://lfapa.com/",
+                "Phone": "(480) 635-1900",
+                "Address": "4055 E WARNER RDGILBERT, AZ 85296",
+                "Students": "749",
+                "Free or Reduced Lunch": "40.1%",
+                "Expenses/Student": "$9,256",
+                "Support Services": "49%"
+            }
+        },
+        "Antelope Union High School District": {
+            "Niche": "https://www.niche.com/k12/d/antelope-union-high-school-district-az/",
+            "Data": {
+                "Website": "https://www.antelopeunion.org/",
+                "Phone": "(928) 785-4041",
+                "Address": "9168 S AVE 36 EWELLTON, AZ 85356",
+                "Students": "198",
+                "Free or Reduced Lunch": "40.9%",
+                "Expenses/Student": "$17,960",
+                "Support Services": "46%"
+            }
+        },
+        "Page Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/page-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.pageud.org/",
+                "Phone": "(928) 608-4101",
+                "Address": "500 S NAVAJO DRPAGE, AZ 86040",
+                "Students": "2,497",
+                "Free or Reduced Lunch": "70.2%",
+                "Expenses/Student": "$12,346",
+                "Support Services": "46%"
+            }
+        },
+        "Coolidge Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/coolidge-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.coolidgeschools.org/",
+                "Phone": "(520) 723-2040",
+                "Address": "450 N ARIZONA BLVDCOOLIDGE, AZ 85128",
+                "Students": "2,418",
+                "Free or Reduced Lunch": "81.7%",
+                "Expenses/Student": "$9,086",
+                "Support Services": "46%"
+            }
+        },
+        "Kayenta Unified School District No. 27": {
+            "Niche": "https://www.niche.com/k12/d/kayenta-unified-school-district-no-27-az/",
+            "Data": {
+                "Website": "https://www.kayenta.k12.az.us/",
+                "Phone": "(928) 697-2001",
+                "Address": "N HWY 163KAYENTA, AZ 86033",
+                "Students": "1,641",
+                "Free or Reduced Lunch": "85.3%",
+                "Expenses/Student": "$19,653",
+                "Support Services": "53%"
+            }
+        },
+        "Carpe Diem Collegiate High School": {
+            "Niche": "https://www.niche.com/k12/d/carpe-diem-collegiate-high-school-az/",
+            "Data": {
+                "Website": "N/A",
+                "Phone": "(928) 817-8060",
+                "Address": "899 PLAZA CIRCLEYUMA, AZ 85364",
+                "Students": "161",
+                "Free or Reduced Lunch": "55.9%",
+                "Expenses/Student": "$12,068",
+                "Support Services": "50%"
+            }
+        },
+        "Window Rock Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/window-rock-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.wrschool.net/",
+                "Phone": "(928) 729-6706",
+                "Address": "NAVAJO RTE 12FORT DEFIANCE, AZ 86504",
+                "Students": "1,695",
+                "Free or Reduced Lunch": "99%",
+                "Expenses/Student": "$18,644",
+                "Support Services": "47%"
+            }
+        },
+        "Fort Thomas Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/fort-thomas-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.ftusd.org/",
+                "Phone": "(928) 485-9423",
+                "Address": "15560 W ELEMENTARY SCHOOL RDFORT THOMAS, AZ 85536",
+                "Students": "612",
+                "Free or Reduced Lunch": "0.5%",
+                "Expenses/Student": "$20,263",
+                "Support Services": "47%"
+            }
+        },
+        "Red Mesa Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/red-mesa-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.rmusd.net/",
+                "Phone": "(928) 656-4100",
+                "Address": "HWY 160 - 22 MILES W OF 4 CORNTEEC NOS POS, AZ 86514",
+                "Students": "451",
+                "Free or Reduced Lunch": "58.2%",
+                "Expenses/Student": "$20,109",
+                "Support Services": "63%"
+            }
+        },
+        "Colorado River Union High School District": {
+            "Niche": "https://www.niche.com/k12/d/colorado-river-union-high-school-district-az/",
+            "Data": {
+                "Website": "https://www.cruhsd.org/",
+                "Phone": "(928) 758-3916",
+                "Address": "1004 HANCOCK RDBULLHEAD CITY, AZ 86442",
+                "Students": "1,874",
+                "Free or Reduced Lunch": "63%",
+                "Expenses/Student": "$10,182",
+                "Support Services": "46%"
+            }
+        },
+        "Kaizen Education Foundation": {
+            "Niche": "https://www.niche.com/k12/d/kaizen-education-foundation-az/",
+            "Data": {
+                "Website": "https://www.kaizenfoundation.org/",
+                "Phone": "(602) 953-2933",
+                "Address": "6150 N 16TH ST STE APHOENIX, AZ 85016",
+                "Students": "671",
+                "Free or Reduced Lunch": "54.4%",
+                "Expenses/Student": "$7,741",
+                "Support Services": "57%"
+            }
+        },
+        "Pinon Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/pinon-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.pusdatsa.org/",
+                "Phone": "(928) 725-3450",
+                "Address": "NAVAJO HWY 41PINON, AZ 86510",
+                "Students": "938",
+                "Free or Reduced Lunch": "0%",
+                "Expenses/Student": "$21,438",
+                "Support Services": "56%"
+            }
+        },
+        "Toltec School District": {
+            "Niche": "https://www.niche.com/k12/d/toltec-school-district-az/",
+            "Data": {
+                "Website": "https://www.toltecsd.org/",
+                "Phone": "(520) 466-2360",
+                "Address": "3315 N TOLTEC RDELOY, AZ 85131",
+                "Students": "993",
+                "Free or Reduced Lunch": "93.9%",
+                "Expenses/Student": "$9,034",
+                "Support Services": "41%"
+            }
+        },
+        "Whiteriver Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/whiteriver-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.wusd.us/",
+                "Phone": "(928) 358-5800",
+                "Address": "963 CHIEF AVEWHITERIVER, AZ 85941",
+                "Students": "2,259",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$16,092",
+                "Support Services": "45%"
+            }
+        },
+        "Gila Bend Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/gila-bend-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.gbusd.org/",
+                "Phone": "(928) 683-2225",
+                "Address": "308 N MARTIN AVEGILA BEND, AZ 85337",
+                "Students": "454",
+                "Free or Reduced Lunch": "98.5%",
+                "Expenses/Student": "$30,141",
+                "Support Services": "54%"
+            }
+        },
+        "Cedar Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/cedar-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.cedarusd.org/",
+                "Phone": "(928) 738-2367",
+                "Address": "MILE POST 408 HWY 264KEAMS CANYON, AZ 86034",
+                "Students": "121",
+                "Free or Reduced Lunch": "36.8%",
+                "Expenses/Student": "$25,876",
+                "Support Services": "61%"
+            }
+        },
+        "Maricopa County Regional School District": {
+            "Niche": "https://www.niche.com/k12/d/maricopa-county-regional-school-district-az/",
+            "Data": {
+                "Website": "https://www.mcrsd.org/",
+                "Phone": "(602) 452-4700",
+                "Address": "4041 N CENTRAL AVE STEPHOENIX, AZ 85012",
+                "Students": "141",
+                "Free or Reduced Lunch": "97.5%",
+                "Expenses/Student": "$32,986",
+                "Support Services": "53%"
+            }
+        },
+        "San Carlos Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/san-carlos-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.scbraves.net/",
+                "Phone": "(928) 475-2315",
+                "Address": "SAN CARLOS AVESAN CARLOS, AZ 85550",
+                "Students": "1,369",
+                "Free or Reduced Lunch": "63.9%",
+                "Expenses/Student": "$18,349",
+                "Support Services": "51%"
+            }
+        },
+        "Ombudsman Educational Services Ltd. a Subsidiary of Education No. 1": {
+            "Niche": "https://www.niche.com/k12/d/ombudsman-educational-services-ltd-a-subsidiary-of-education-no-1-az/",
+            "Data": {
+                "Website": "https://chancelight.com/ombudsman/",
+                "Phone": "(602) 840-2997",
+                "Address": "3624 WEST BELL RD STE 4-6GLENDALE, AZ 85308",
+                "Students": "1,407",
+                "Free or Reduced Lunch": "8.6%",
+                "Expenses/Student": "$8,231",
+                "Support Services": "54%"
+            }
+        },
+        "Baboquivari Unified School District No. 40": {
+            "Niche": "https://www.niche.com/k12/d/baboquivari-unified-school-district-no-40-az/",
+            "Data": {
+                "Website": "https://www.busd40.org/",
+                "Phone": "(520) 719-1001",
+                "Address": "111 W MAINSELLS, AZ 85634",
+                "Students": "1,021",
+                "Free or Reduced Lunch": "0.4%",
+                "Expenses/Student": "$23,520",
+                "Support Services": "52%"
+            }
+        },
+        "Canyon Rose Academy": {
+            "Niche": "https://www.niche.com/k12/d/canyon-rose-academy-az/",
+            "Data": {
+                "Website": "https://www.go2rose.com/schools/canyon-rose-academy/",
+                "Phone": "(520) 797-4884",
+                "Address": "3686 W ORANGE GROVE RD STE 192TUCSON, AZ 85741",
+                "Students": "269",
+                "Free or Reduced Lunch": "82.1%",
+                "Expenses/Student": "$9,569",
+                "Support Services": "33%"
+            }
+        },
+        "Edkey - Sequoia Charter School": {
+            "Niche": "https://www.niche.com/k12/d/edkey-sequoia-charter-school-az/",
+            "Data": {
+                "Website": "https://www.sequoiacharter.org/",
+                "Phone": "(480) 461-3200",
+                "Address": "1460 S HORNEMESA, AZ 85204",
+                "Students": "746",
+                "Free or Reduced Lunch": "93.6%",
+                "Expenses/Student": "$17,373",
+                "Support Services": "49%"
+            }
+        },
+        "Harvest Power Community Development Group": {
+            "Niche": "https://www.niche.com/k12/d/harvest-power-community-development-group-az/",
+            "Data": {
+                "Website": "N/A",
+                "Phone": "(928) 783-6266",
+                "Address": "1185 S 4TH AVE STE CYUMA, AZ 85364",
+                "Students": "1,692",
+                "Free or Reduced Lunch": "60.5%",
+                "Expenses/Student": "$9,217",
+                "Support Services": "47%"
+            }
+        },
+        "Sanders Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/sanders-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.sandersusd.net/",
+                "Phone": "(855) 678-7873",
+                "Address": "I-40 HWY 191SANDERS, AZ 86512",
+                "Students": "650",
+                "Free or Reduced Lunch": "58.3%",
+                "Expenses/Student": "$17,100",
+                "Support Services": "53%"
+            }
+        },
+        "Pima Prevention Partnership - Pima Partnership School": {
+            "Niche": "https://www.niche.com/k12/d/pima-prevention-partnership-pima-partnership-school-az/",
+            "Data": {
+                "Website": "https://www.thepartnership.us/",
+                "Phone": "(520) 917-7880",
+                "Address": "924 N ALVERNON WAYTUCSON, AZ 85711",
+                "Students": "125",
+                "Free or Reduced Lunch": "96.3%",
+                "Expenses/Student": "$16,528",
+                "Support Services": "60%"
+            }
+        },
+        "Educational Options Foundation": {
+            "Niche": "https://www.niche.com/k12/d/educational-options-foundation-az/",
+            "Data": {
+                "Website": "https://eohighschool.com/location/educational-options-foundation/",
+                "Phone": "(480) 621-3365",
+                "Address": "6710 W CALLE LEJOSPEORIA, AZ 85383",
+                "Students": "538",
+                "Free or Reduced Lunch": "33.5%",
+                "Expenses/Student": "$7,591",
+                "Support Services": "47%"
+            }
+        },
+        "Edkey - Sequoia School for the Deaf & Hard of Hearin": {
+            "Niche": "https://www.niche.com/k12/d/edkey-sequoia-school-for-the-deaf-and-hard-of-hearin-az/",
+            "Data": {
+                "Website": "https://sequoiadeafschool.org/",
+                "Phone": "(480) 461-3200",
+                "Address": "1460 S HORNEMESA, AZ 85204",
+                "Students": "89",
+                "Free or Reduced Lunch": "70.7%",
+                "Expenses/Student": "$42,966",
+                "Support Services": "47%"
+            }
+        },
+        "Fort Huachuca Accommodation School District": {
+            "Niche": "https://www.niche.com/k12/d/fort-huachuca-accommodation-school-district-az/",
+            "Data": {
+                "Website": "https://www.fhasd.org/",
+                "Phone": "(520) 458-5082",
+                "Address": "21110 HINES RDFORT HUACHUCA, AZ 85613",
+                "Students": "866",
+                "Free or Reduced Lunch": "17.8%",
+                "Expenses/Student": "$12,925",
+                "Support Services": "43%"
+            }
+        },
+        "Leman Academy of Excellence": {
+            "Niche": "https://www.niche.com/k12/d/leman-academy-of-excellence-az/",
+            "Data": {
+                "Website": "https://lemanacademy.com/",
+                "Phone": "(520) 499-1474",
+                "Address": "3300 E SUNRISE DR SUITE 150TUCSON, AZ 85718",
+                "Students": "5,664",
+                "Free or Reduced Lunch": "N/A",
+                "Expenses/Student": "$5,235",
+                "Support Services": "42%"
+            }
+        },
+        "Kyrene Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/kyrene-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.kyrene.org/",
+                "Phone": "(480) 541-1000",
+                "Address": "8700 S KYRENE RDTEMPE, AZ 85284",
+                "Students": "14,372",
+                "Free or Reduced Lunch": "36.2%",
+                "Expenses/Student": "$12,579",
+                "Support Services": "36%"
+            }
+        },
+        "Madison Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/madison-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.madisonaz.org/",
+                "Phone": "(602) 664-7900",
+                "Address": "5601 N 16TH STPHOENIX, AZ 85016",
+                "Students": "5,802",
+                "Free or Reduced Lunch": "30%",
+                "Expenses/Student": "$12,801",
+                "Support Services": "45%"
+            }
+        },
+        "Palominas Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/palominas-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.psd49.net/en-US",
+                "Phone": "(520) 366-6204",
+                "Address": "6849 HWY  92HEREFORD, AZ 85615",
+                "Students": "895",
+                "Free or Reduced Lunch": "53.2%",
+                "Expenses/Student": "$13,987",
+                "Support Services": "33%"
+            }
+        },
+        "Litchfield Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/litchfield-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.lesd79.org/",
+                "Phone": "(623) 535-6000",
+                "Address": "272 E SAGEBRUSH STLITCHFIELD PARK, AZ 85340",
+                "Students": "10,936",
+                "Free or Reduced Lunch": "36.9%",
+                "Expenses/Student": "$9,107",
+                "Support Services": "36%"
+            }
+        },
+        "Bowie Unified School District": {
+            "Niche": "https://www.niche.com/k12/d/bowie-unified-school-district-az/",
+            "Data": {
+                "Website": "https://www.bowieschools.org/",
+                "Phone": "(520) 847-2545",
+                "Address": "315 W 5TH STBOWIE, AZ 85605",
+                "Students": "59",
+                "Free or Reduced Lunch": "89.3%",
+                "Expenses/Student": "$27,729",
+                "Support Services": "54%"
+            }
+        },
+        "Liberty Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/liberty-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.liberty25.org/",
+                "Phone": "(623) 474-6600",
+                "Address": "19871 W FREMONT RDBUCKEYE, AZ 85326",
+                "Students": "4,250",
+                "Free or Reduced Lunch": "57%",
+                "Expenses/Student": "$7,418",
+                "Support Services": "37%"
+            }
+        },
+        "Laveen Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/laveen-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.laveenschools.org/",
+                "Phone": "(602) 237-9100",
+                "Address": "5001 W DOBBINS RDLAVEEN, AZ 85339",
+                "Students": "7,551",
+                "Free or Reduced Lunch": "38.1%",
+                "Expenses/Student": "$10,790",
+                "Support Services": "40%"
+            }
+        },
+        "Edkey - Pathfinder Academy": {
+            "Niche": "https://www.niche.com/k12/d/edkey-pathfinder-academy-az/",
+            "Data": {
+                "Website": "https://www.sequoiapathfinder.org/",
+                "Phone": "(480) 461-3200",
+                "Address": "1460 S HORNEMESA, AZ 85204",
+                "Students": "976",
+                "Free or Reduced Lunch": "19.8%",
+                "Expenses/Student": "$7,214",
+                "Support Services": "37%"
+            }
+        },
+        "Washington Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/washington-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.wesdschools.org/",
+                "Phone": "(602) 347-2600",
+                "Address": "4650 W SWEETWATER AVEGLENDALE, AZ 85304",
+                "Students": "19,796",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$12,273",
+                "Support Services": "37%"
+            }
+        },
+        "Mexicayotl Academy": {
+            "Niche": "https://www.niche.com/k12/d/mexicayotl-academy-az/",
+            "Data": {
+                "Website": "https://www.mexicayotlacademy.com/",
+                "Phone": "(520) 287-6790",
+                "Address": "850 N MORLEY AVENOGALES, AZ 85621",
+                "Students": "198",
+                "Free or Reduced Lunch": "86.3%",
+                "Expenses/Student": "$13,389",
+                "Support Services": "54%"
+            }
+        },
+        "Twenty First Century Charter School Bennett Academy": {
+            "Niche": "https://www.niche.com/k12/d/twenty-first-century-charter-school-bennett-academy-az/",
+            "Data": {
+                "Website": "https://bennettacademy.com/",
+                "Phone": "(602) 943-1317",
+                "Address": "2930 W BETHANY HOME RDPHOENIX, AZ 85017",
+                "Students": "192",
+                "Free or Reduced Lunch": "63.7%",
+                "Expenses/Student": "$9,766",
+                "Support Services": "48%"
+            }
+        },
+        "Crane Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/crane-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.craneschools.org/",
+                "Phone": "(928) 373-3400",
+                "Address": "4250 W 16TH STYUMA, AZ 85364",
+                "Students": "6,074",
+                "Free or Reduced Lunch": "87.9%",
+                "Expenses/Student": "$7,601",
+                "Support Services": "40%"
+            }
+        },
+        "Mohave Valley Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/mohave-valley-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.mvesd16.org/",
+                "Phone": "(928) 768-2507",
+                "Address": "8450 S OLIVE AVEMOHAVE VALLEY, AZ 86440",
+                "Students": "1,156",
+                "Free or Reduced Lunch": "0.5%",
+                "Expenses/Student": "$9,369",
+                "Support Services": "46%"
+            }
+        },
+        "Avondale Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/avondale-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.chooseaesd.org/",
+                "Phone": "(623) 772-5000",
+                "Address": "295 W WESTERN AVEAVONDALE, AZ 85323",
+                "Students": "5,799",
+                "Free or Reduced Lunch": "42.3%",
+                "Expenses/Student": "$10,021",
+                "Support Services": "41%"
+            }
+        },
+        "Pendergast Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/pendergast-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.pesd92.org/",
+                "Phone": "(623) 772-2200",
+                "Address": "3802 N 91ST AVEPHOENIX, AZ 85037",
+                "Students": "8,017",
+                "Free or Reduced Lunch": "84.4%",
+                "Expenses/Student": "$11,130",
+                "Support Services": "39%"
+            }
+        },
+        "Quartzsite Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/quartzsite-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.qsd4.org/",
+                "Phone": "(928) 923-7907",
+                "Address": "49241 EHRENBERG-PARKER HWYEHRENBERG, AZ 85334",
+                "Students": "149",
+                "Free or Reduced Lunch": "96.9%",
+                "Expenses/Student": "$24,235",
+                "Support Services": "48%"
+            }
+        },
+        "Tempe Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/tempe-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.tempeschools.org/home",
+                "Phone": "(480) 730-7100",
+                "Address": "3205 S RURAL RDTEMPE, AZ 85282",
+                "Students": "11,108",
+                "Free or Reduced Lunch": "73.7%",
+                "Expenses/Student": "$13,907",
+                "Support Services": "41%"
+            }
+        },
+        "Alhambra Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/alhambra-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.alhambraesd.org/",
+                "Phone": "(602) 336-2920",
+                "Address": "4510 N 37TH AVEPHOENIX, AZ 85019",
+                "Students": "10,256",
+                "Free or Reduced Lunch": "93%",
+                "Expenses/Student": "$12,974",
+                "Support Services": "36%"
+            }
+        },
+        "Somerton Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/somerton-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.ssd11.org/",
+                "Phone": "(928) 341-6000",
+                "Address": "343 N CARLISLE AVESOMERTON, AZ 85350",
+                "Students": "2,796",
+                "Free or Reduced Lunch": "99.5%",
+                "Expenses/Student": "$9,029",
+                "Support Services": "39%"
+            }
+        },
+        "Bullhead City School District": {
+            "Niche": "https://www.niche.com/k12/d/bullhead-city-school-district-az/",
+            "Data": {
+                "Website": "https://www.bcsd15.org/",
+                "Phone": "(928) 758-3961",
+                "Address": "1004 HANCOCK RDBULLHEAD CITY, AZ 86442",
+                "Students": "2,382",
+                "Free or Reduced Lunch": "99.2%",
+                "Expenses/Student": "$9,061",
+                "Support Services": "38%"
+            }
+        },
+        "Phoenix Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/phoenix-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.phxschools.org/",
+                "Phone": "(602) 257-3755",
+                "Address": "1817 N 7TH STPHOENIX, AZ 85006",
+                "Students": "5,415",
+                "Free or Reduced Lunch": "91.4%",
+                "Expenses/Student": "$16,020",
+                "Support Services": "42%"
+            }
+        },
+        "Osborn Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/osborn-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.osbornnet.org/",
+                "Phone": "(602) 707-2000",
+                "Address": "1226 W OSBORN RDPHOENIX, AZ 85013",
+                "Students": "2,651",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$18,015",
+                "Support Services": "42%"
+            }
+        },
+        "Casa Grande Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/casa-grande-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.cgesd.org/",
+                "Phone": "(520) 836-2111",
+                "Address": "220 W KORTSEN RDCASA GRANDE, AZ 85122",
+                "Students": "6,518",
+                "Free or Reduced Lunch": "53.8%",
+                "Expenses/Student": "$9,635",
+                "Support Services": "45%"
+            }
+        },
+        "Yuma Elementary School District ONE": {
+            "Niche": "https://www.niche.com/k12/d/yuma-elementary-school-district-one-az/",
+            "Data": {
+                "Website": "https://www.yuma.org/",
+                "Phone": "(928) 502-4300",
+                "Address": "450 W 6TH STYUMA, AZ 85364",
+                "Students": "8,772",
+                "Free or Reduced Lunch": "75.8%",
+                "Expenses/Student": "$9,587",
+                "Support Services": "42%"
+            }
+        },
+        "Buckeye Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/buckeye-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://besd33.org/",
+                "Phone": "(623) 925-3400",
+                "Address": "25555 W DURANGO STBUCKEYE, AZ 85326",
+                "Students": "5,723",
+                "Free or Reduced Lunch": "34.5%",
+                "Expenses/Student": "$9,164",
+                "Support Services": "40%"
+            }
+        },
+        "Liberty Traditional Charter School": {
+            "Niche": "https://www.niche.com/k12/d/liberty-traditional-charter-school-az/",
+            "Data": {
+                "Website": "https://ltsarizona.org/phoenix-charter-school/",
+                "Phone": "(602) 442-8791",
+                "Address": "4027 N 45TH AVEPHOENIX, AZ 85031",
+                "Students": "532",
+                "Free or Reduced Lunch": "89.3%",
+                "Expenses/Student": "$8,226",
+                "Support Services": "48%"
+            }
+        },
+        "Union Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/union-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.unionesd.org/",
+                "Phone": "(623) 478-5004",
+                "Address": "3834 S 91ST AVETOLLESON, AZ 85353",
+                "Students": "1,715",
+                "Free or Reduced Lunch": "99.5%",
+                "Expenses/Student": "$9,399",
+                "Support Services": "40%"
+            }
+        },
+        "Tolleson Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/tolleson-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.tollesonschools.com/",
+                "Phone": "(623) 533-3900",
+                "Address": "9401 W GARFIELD STTOLLESON, AZ 85353",
+                "Students": "2,867",
+                "Free or Reduced Lunch": "88%",
+                "Expenses/Student": "$12,833",
+                "Support Services": "38%"
+            }
+        },
+        "Fowler Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/fowler-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.fesd.org",
+                "Phone": "(623) 707-4500",
+                "Address": "1617 S 67TH AVEPHOENIX, AZ 85043",
+                "Students": "3,759",
+                "Free or Reduced Lunch": "41.6%",
+                "Expenses/Student": "$10,680",
+                "Support Services": "38%"
+            }
+        },
+        "Cartwright Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/cartwright-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.csd83.org/",
+                "Phone": "(623) 691-4000",
+                "Address": "5220 W INDIAN SCHOOL RDPHOENIX, AZ 85031",
+                "Students": "14,826",
+                "Free or Reduced Lunch": "99.6%",
+                "Expenses/Student": "$10,722",
+                "Support Services": "37%"
+            }
+        },
+        "Fit Kids - Champion Schools": {
+            "Niche": "https://www.niche.com/k12/d/fit-kids-champion-schools-az/",
+            "Data": {
+                "Website": "https://championschools.org/",
+                "Phone": "(602) 341-6527",
+                "Address": "7900 S JESSE OWENS PKWYPHOENIX, AZ 85042",
+                "Students": "1,381",
+                "Free or Reduced Lunch": "89.6%",
+                "Expenses/Student": "$9,322",
+                "Support Services": "50%"
+            }
+        },
+        "Gadsden Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/gadsden-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.gesd32.org/",
+                "Phone": "(928) 627-6540",
+                "Address": "1350 E CESAR CHAVEZ BLVDSAN LUIS, AZ 85349",
+                "Students": "5,049",
+                "Free or Reduced Lunch": "98.4%",
+                "Expenses/Student": "$8,462",
+                "Support Services": "41%"
+            }
+        },
+        "Altar Valley Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/altar-valley-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.altarvalleyschools.org/",
+                "Phone": "(520) 822-1484",
+                "Address": "10105 S SASABE RDTUCSON, AZ 85736",
+                "Students": "567",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$15,529",
+                "Support Services": "35%"
+            }
+        },
+        "Creighton School District": {
+            "Niche": "https://www.niche.com/k12/d/creighton-school-district-az/",
+            "Data": {
+                "Website": "https://www.creightonschools.org/",
+                "Phone": "(602) 381-6000",
+                "Address": "2702 E FLOWER STPHOENIX, AZ 85016",
+                "Students": "5,308",
+                "Free or Reduced Lunch": "83.8%",
+                "Expenses/Student": "$15,008",
+                "Support Services": "44%"
+            }
+        },
+        "Wilson Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/wilson-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.wsd.k12.az.us/",
+                "Phone": "(602) 681-2200",
+                "Address": "3025 E FILLMORE STPHOENIX, AZ 85008",
+                "Students": "1,068",
+                "Free or Reduced Lunch": "93.9%",
+                "Expenses/Student": "$13,230",
+                "Support Services": "39%"
+            }
+        },
+        "Glendale Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/glendale-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://portals.gesd40.org/",
+                "Phone": "(623) 237-7100",
+                "Address": "7301 N 58TH AVEGLENDALE, AZ 85301",
+                "Students": "9,915",
+                "Free or Reduced Lunch": "95.2%",
+                "Expenses/Student": "$10,956",
+                "Support Services": "41%"
+            }
+        },
+        "Littleton Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/littleton-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.littletonaz.org/",
+                "Phone": "(623) 478-5600",
+                "Address": "1600 S 107TH AVEAVONDALE, AZ 85323",
+                "Students": "5,685",
+                "Free or Reduced Lunch": "84.9%",
+                "Expenses/Student": "$10,675",
+                "Support Services": "38%"
+            }
+        },
+        "Academy of Math & Science": {
+            "Niche": "https://www.niche.com/k12/d/academy-of-math-and-science-az/",
+            "Data": {
+                "Website": "https://www.amsschools.org/",
+                "Phone": "(520) 293-2676",
+                "Address": "1557 W PRINCE RDTUCSON, AZ 85705",
+                "Students": "5,724",
+                "Free or Reduced Lunch": "92.3%",
+                "Expenses/Student": "$11,307",
+                "Support Services": "41%"
+            }
+        },
+        "Arizona Community Development Corporation": {
+            "Niche": "https://www.niche.com/k12/d/arizona-community-development-corporation-az/",
+            "Data": {
+                "Website": "N/A",
+                "Phone": "(520) 721-4205",
+                "Address": "5704 E GRANT RDTUCSON, AZ 85712",
+                "Students": "2,065",
+                "Free or Reduced Lunch": "70.7%",
+                "Expenses/Student": "$9,427",
+                "Support Services": "40%"
+            }
+        },
+        "Roosevelt Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/roosevelt-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.rsd66.org/",
+                "Phone": "(602) 243-4800",
+                "Address": "6000 S 7TH STPHOENIX, AZ 85042",
+                "Students": "7,333",
+                "Free or Reduced Lunch": "98.8%",
+                "Expenses/Student": "$14,850",
+                "Support Services": "45%"
+            }
+        },
+        "Eloy Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/eloy-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.eloyesd.org/",
+                "Phone": "(520) 466-2100",
+                "Address": "1011 N SUNSHINE BLVDELOY, AZ 85131",
+                "Students": "750",
+                "Free or Reduced Lunch": "56.7%",
+                "Expenses/Student": "$10,565",
+                "Support Services": "47%"
+            }
+        },
+        "Sacaton Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/sacaton-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.sacatonschools.org/",
+                "Phone": "(520) 562-8600",
+                "Address": "92 SKILL CENTER RDSACATON, AZ 85147",
+                "Students": "486",
+                "Free or Reduced Lunch": "58.1%",
+                "Expenses/Student": "$24,072",
+                "Support Services": "46%"
+            }
+        },
+        "Murphy Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/murphy-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.msdaz.org/",
+                "Phone": "(602) 353-5002",
+                "Address": "2615 W BUCKEYE RDPHOENIX, AZ 85009",
+                "Students": "1,278",
+                "Free or Reduced Lunch": "99.3%",
+                "Expenses/Student": "$11,940",
+                "Support Services": "41%"
+            }
+        },
+        "Vista College Preparatory": {
+            "Niche": "https://www.niche.com/k12/d/vista-college-preparatory-az/",
+            "Data": {
+                "Website": "https://www.vistacollegeprep.org/",
+                "Phone": "(602) 374-7159",
+                "Address": "812 S 6TH AVEPHOENIX, AZ 85003",
+                "Students": "1,689",
+                "Free or Reduced Lunch": "60.7%",
+                "Expenses/Student": "$5,806",
+                "Support Services": "54%"
+            }
+        },
+        "Balsz Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/balsz-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.balsz.org/",
+                "Phone": "(602) 629-6400",
+                "Address": "4825 E ROOSEVELT STPHOENIX, AZ 85008",
+                "Students": "2,278",
+                "Free or Reduced Lunch": "29.1%",
+                "Expenses/Student": "$18,772",
+                "Support Services": "42%"
+            }
+        },
+        "Isaac Elementary School District": {
+            "Niche": "https://www.niche.com/k12/d/isaac-elementary-school-district-az/",
+            "Data": {
+                "Website": "https://www.isaacschools.org/",
+                "Phone": "(602) 455-6700",
+                "Address": "3348 W MCDOWELL RDPHOENIX, AZ 85009",
+                "Students": "5,272",
+                "Free or Reduced Lunch": "99.8%",
+                "Expenses/Student": "$12,149",
+                "Support Services": "41%"
+            }
+        },
+        "Northeast Arizona Technological Institute of Vocational Education": {
+            "Niche": "https://www.niche.com/k12/d/northeast-arizona-technological-institute-of-vocational-education-az/",
+            "Data": {
+                "Website": "https://nativedistrict.org/",
+                "Phone": "(928) 697-2500",
+                "Address": "OFF HWY 163 6 MI EAST OF KAYKAYENTA, AZ 86033",
+                "Students": "39",
+                "Free or Reduced Lunch": "0%",
+                "Expenses/Student": "$37,256",
+                "Support Services": "70%"
+            }
+        },
+        "Arizona Autism Charter Schools": {
+            "Niche": "https://www.niche.com/k12/d/arizona-autism-charter-schools-az/",
+            "Data": {
+                "Website": "https://www.autismcharter.org/",
+                "Phone": "(602) 882-5544",
+                "Address": "4125 N 14TH STPHOENIX, AZ 85014",
+                "Students": "465",
+                "Free or Reduced Lunch": "74.8%",
+                "Expenses/Student": "$20,404",
+                "Support Services": "51%"
+            }
+        },
+        "Dishchii'bikoh Community School": {
+            "Niche": "https://www.niche.com/k12/d/dishchiibikoh-community-school-az/",
+            "Data": {
+                "Website": "https://www.dishchiibikoh.org/",
+                "Phone": "(928) 332-2444",
+                "Address": "211 S ELM CIRCLECIBECUE, AZ 85911",
+                "Students": "445",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "N/A",
+                "Support Services": "N/A"
+            }
+        },
+        "Rock Point Community School": {
+            "Niche": "https://www.niche.com/k12/d/rock-point-community-school-az/",
+            "Data": {
+                "Website": "https://www.rpcsaz.org/",
+                "Phone": "(928) 659-4221",
+                "Address": "HWY 191ROCK POINT, AZ 86545",
+                "Students": "286",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "N/A",
+                "Support Services": "N/A"
+            }
+        },
+        "Rough Rock Community School": {
+            "Niche": "https://www.niche.com/k12/d/rough-rock-community-school-az/",
+            "Data": {
+                "Website": "http://www.roughrock.k12.az.us/",
+                "Phone": "(928) 728-3705",
+                "Address": "NAVAJO RTE 8066 & COUNTY RD 573CHINLE, AZ 86503",
+                "Students": "166",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "N/A",
+                "Support Services": "N/A"
+            }
+        },
+        "Leupp School": {
+            "Niche": "https://www.niche.com/k12/d/leupp-school-az/",
+            "Data": {
+                "Website": "http://leuppschools.org/",
+                "Phone": "(928) 686-6211",
+                "Address": "HC 61 BOX DWINSLOW, AZ 86047",
+                "Students": "125",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "N/A",
+                "Support Services": "N/A"
+            }
+        },
+        "Graham County Special Services": {
+            "Niche": "https://www.niche.com/k12/d/graham-county-special-services-az/",
+            "Data": {
+                "Website": "https://www.graham.az.gov/203/About-Us",
+                "Phone": "(928) 485-2759",
+                "Address": "150 E 4TH SPIMA, AZ 85543",
+                "Students": "108",
+                "Free or Reduced Lunch": "28%",
+                "Expenses/Student": "N/A",
+                "Support Services": "64%"
+            }
+        },
+        "Southwest Technical Education District of Yuma": {
+            "Niche": "https://www.niche.com/k12/d/southwest-technical-education-district-of-yuma-az/",
+            "Data": {
+                "Website": "https://www.stedycte.org/",
+                "Phone": "(928) 366-5884",
+                "Address": "899 E PLAZA CIRCLEYUMA, AZ 85365",
+                "Students": "104",
+                "Free or Reduced Lunch": "0%",
+                "Expenses/Student": "$12,788",
+                "Support Services": "N/A"
+            }
+        },
+        "Pinnacle Education-Wmcb": {
+            "Niche": "https://www.niche.com/k12/d/pinnacle-education-wmcb-az/",
+            "Data": {
+                "Website": "http://tempeeast.pinnacleeducation.com/",
+                "Phone": "(480) 755-8222",
+                "Address": "810 S ALMA SCHOOL RD STE 2MESA, AZ 85210",
+                "Students": "84",
+                "Free or Reduced Lunch": "0%",
+                "Expenses/Student": "$6,226",
+                "Support Services": "43%"
+            }
+        },
+        "Yavapai Accommodation School District": {
+            "Niche": "https://www.niche.com/k12/d/yavapai-accommodation-school-district-az/",
+            "Data": {
+                "Website": "https://www.yavapaicountyhighschool.com/",
+                "Phone": "(928) 759-8126",
+                "Address": "2972 CENTERPOINTE EAST DRPRESCOTT, AZ 86301",
+                "Students": "71",
+                "Free or Reduced Lunch": "58.5%",
+                "Expenses/Student": "$19,972",
+                "Support Services": "52%"
+            }
+        },
+        "Young Public School District": {
+            "Niche": "https://www.niche.com/k12/d/young-public-school-district-az/",
+            "Data": {
+                "Website": "https://www.youngschool.org/",
+                "Phone": "(928) 462-3244",
+                "Address": "HWY 288/BAKER RANCH RDYOUNG, AZ 85554",
+                "Students": "54",
+                "Free or Reduced Lunch": "38.9%",
+                "Expenses/Student": "$24,185",
+                "Support Services": "40%"
+            }
+        },
+        "Pillar Charter School": {
+            "Niche": "https://www.niche.com/k12/d/pillar-charter-school-az/",
+            "Data": {
+                "Website": "N/A",
+                "Phone": "(888) 430-7701",
+                "Address": "8433 N BLACK CANYON HWY STE 16PHOENIX, AZ 85021",
+                "Students": "32",
+                "Free or Reduced Lunch": "7.8%",
+                "Expenses/Student": "$11,500",
+                "Support Services": "42%"
+            }
+        }
+    }
+}

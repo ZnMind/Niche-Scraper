@@ -1,0 +1,640 @@
+{
+    "Districts": {
+        "Skagway School District": {
+            "Niche": "https://www.niche.com/k12/d/skagway-school-district-ak/",
+            "Data": {
+                "Website": "https://www.skagwayschool.org/",
+                "Phone": "(907) 983-2960",
+                "Address": "1563 MAIN STSKAGWAY, AK 99840",
+                "Students": "142",
+                "Free or Reduced Lunch": "2.3%",
+                "Expenses/Student": "$23,873",
+                "Support Services": "32%"
+            }
+        },
+        "Unalaska City School District": {
+            "Niche": "https://www.niche.com/k12/d/unalaska-city-school-district-ak/",
+            "Data": {
+                "Website": "https://www.ucsd.net",
+                "Phone": "(907) 581-3151",
+                "Address": "55 E BROADWAY STUNALASKA, AK 99685",
+                "Students": "354",
+                "Free or Reduced Lunch": "20.4%",
+                "Expenses/Student": "$27,113",
+                "Support Services": "37%"
+            }
+        },
+        "Petersburg Borough School District": {
+            "Niche": "https://www.niche.com/k12/d/petersburg-borough-school-district-ak/",
+            "Data": {
+                "Website": "https://www.pcsd.us/",
+                "Phone": "(877) 526-7656",
+                "Address": "201 CHARLES W STPETERSBURG, AK 99833",
+                "Students": "431",
+                "Free or Reduced Lunch": "52%",
+                "Expenses/Student": "$26,622",
+                "Support Services": "39%"
+            }
+        },
+        "Valdez City School District": {
+            "Niche": "https://www.niche.com/k12/d/valdez-city-school-district-ak/",
+            "Data": {
+                "Website": "https://www.valdezcityschools.org/",
+                "Phone": "(907) 835-4357",
+                "Address": "1112 W KLUTINAVALDEZ, AK 99686",
+                "Students": "707",
+                "Free or Reduced Lunch": "28.3%",
+                "Expenses/Student": "$27,492",
+                "Support Services": "38%"
+            }
+        },
+        "Matanuska-Susitna Borough School District": {
+            "Niche": "https://www.niche.com/k12/d/matanuska-susitna-borough-school-district-ak/",
+            "Data": {
+                "Website": "https://www.matsuk12.us",
+                "Phone": "(907) 746-9200",
+                "Address": "501 N GULKANA STPALMER, AK 99645",
+                "Students": "19,319",
+                "Free or Reduced Lunch": "38.1%",
+                "Expenses/Student": "$15,374",
+                "Support Services": "43%"
+            }
+        },
+        "Haines Borough School District": {
+            "Niche": "https://www.niche.com/k12/d/haines-borough-school-district-ak/",
+            "Data": {
+                "Website": "https://www.hbsd.net/",
+                "Phone": "(907) 766-6725",
+                "Address": "604 HAINES HWYHAINES, AK 99827",
+                "Students": "250",
+                "Free or Reduced Lunch": "42.5%",
+                "Expenses/Student": "$24,708",
+                "Support Services": "36%"
+            }
+        },
+        "Anchorage School District": {
+            "Niche": "https://www.niche.com/k12/d/anchorage-school-district-ak/",
+            "Data": {
+                "Website": "https://www.asdk12.org/",
+                "Phone": "(907) 742-4000",
+                "Address": "5530 E NORTHERN LIGHTS BLVDANCHORAGE, AK 99504",
+                "Students": "43,054",
+                "Free or Reduced Lunch": "46.3%",
+                "Expenses/Student": "$17,814",
+                "Support Services": "40%"
+            }
+        },
+        "Juneau Borough School District": {
+            "Niche": "https://www.niche.com/k12/d/juneau-borough-school-district-ak/",
+            "Data": {
+                "Website": "https://www.juneauschools.org/",
+                "Phone": "(907) 523-1702",
+                "Address": "1208 GLACIER AVEJUNEAU, AK 99801",
+                "Students": "4,355",
+                "Free or Reduced Lunch": "27.6%",
+                "Expenses/Student": "$20,606",
+                "Support Services": "39%"
+            }
+        },
+        "Wrangell Public School District": {
+            "Niche": "https://www.niche.com/k12/d/wrangell-public-school-district-ak/",
+            "Data": {
+                "Website": "https://www.wpsd.us",
+                "Phone": "(907) 874-2347",
+                "Address": "350 BENNETT STWRANGELL, AK 99929",
+                "Students": "260",
+                "Free or Reduced Lunch": "3.3%",
+                "Expenses/Student": "$24,477",
+                "Support Services": "44%"
+            }
+        },
+        "Iditarod Area School District": {
+            "Niche": "https://www.niche.com/k12/d/iditarod-area-school-district-ak/",
+            "Data": {
+                "Website": "https://www.iditarodsd.org/",
+                "Phone": "(907) 574-0207",
+                "Address": "90 CHINANA AVEMCGRATH, AK 99627",
+                "Students": "286",
+                "Free or Reduced Lunch": "60.9%",
+                "Expenses/Student": "$33,357",
+                "Support Services": "57%"
+            }
+        },
+        "Yakutat School District": {
+            "Niche": "https://www.niche.com/k12/d/yakutat-school-district-ak/",
+            "Data": {
+                "Website": "https://yakutatschools.org",
+                "Phone": "(907) 784-3317",
+                "Address": "429 FOREST HWYYAKUTAT, AK 99689",
+                "Students": "96",
+                "Free or Reduced Lunch": "7.1%",
+                "Expenses/Student": "$23,719",
+                "Support Services": "46%"
+            }
+        },
+        "Hoonah City School District": {
+            "Niche": "https://www.niche.com/k12/d/hoonah-city-school-district-ak/",
+            "Data": {
+                "Website": "https://www.hoonahschools.org/",
+                "Phone": "(907) 945-3613",
+                "Address": "366 GARTEENI HWYHOONAH, AK 99829",
+                "Students": "123",
+                "Free or Reduced Lunch": "78.4%",
+                "Expenses/Student": "$33,098",
+                "Support Services": "34%"
+            }
+        },
+        "Galena City School District": {
+            "Niche": "https://www.niche.com/k12/d/galena-city-school-district-ak/",
+            "Data": {
+                "Website": "https://www.galenaalaska.org/",
+                "Phone": "(907) 656-1883",
+                "Address": "299 ANTOSKI AVEGALENA, AK 99741",
+                "Students": "7,552",
+                "Free or Reduced Lunch": "15.9%",
+                "Expenses/Student": "$5,096",
+                "Support Services": "45%"
+            }
+        },
+        "Chugach School District": {
+            "Niche": "https://www.niche.com/k12/d/chugach-school-district-ak/",
+            "Data": {
+                "Website": "https://www.chugachschooldistrict.com/",
+                "Phone": "(907) 522-7400",
+                "Address": "9312 VANGUARD DR STE 100ANCHORAGE, AK 99507",
+                "Students": "638",
+                "Free or Reduced Lunch": "2.9%",
+                "Expenses/Student": "$11,815",
+                "Support Services": "39%"
+            }
+        },
+        "Aleutians East Borough School District": {
+            "Niche": "https://www.niche.com/k12/d/aleutians-east-borough-school-district-ak/",
+            "Data": {
+                "Website": "https://www.aebsd.org/",
+                "Phone": "(907) 383-5222",
+                "Address": "100 MOSSBERRY LNSAND POINT, AK 99661",
+                "Students": "207",
+                "Free or Reduced Lunch": "5%",
+                "Expenses/Student": "$47,614",
+                "Support Services": "48%"
+            }
+        },
+        "Southeast Island School District": {
+            "Niche": "https://www.niche.com/k12/d/southeast-island-school-district-ak/",
+            "Data": {
+                "Website": "https://www.sisd.org/",
+                "Phone": "(907) 828-8254",
+                "Address": "1010 SANDY BEACH RDTHORNE BAY, AK 99919",
+                "Students": "155",
+                "Free or Reduced Lunch": "70.7%",
+                "Expenses/Student": "$54,735",
+                "Support Services": "51%"
+            }
+        },
+        "Kodiak Island Borough School District": {
+            "Niche": "https://www.niche.com/k12/d/kodiak-island-borough-school-district-ak/",
+            "Data": {
+                "Website": "https://www.kibsd.org",
+                "Phone": "(907) 486-7550",
+                "Address": "722 MILL BAY RDKODIAK, AK 99615",
+                "Students": "2,277",
+                "Free or Reduced Lunch": "49.2%",
+                "Expenses/Student": "$24,220",
+                "Support Services": "48%"
+            }
+        },
+        "Ketchikan Gateway Borough School District": {
+            "Niche": "https://www.niche.com/k12/d/ketchikan-gateway-borough-school-district-ak/",
+            "Data": {
+                "Website": "https://www.kgbsd.org",
+                "Phone": "(907) 247-2109",
+                "Address": "2610 FOURTH AVEKETCHIKAN, AK 99901",
+                "Students": "2,156",
+                "Free or Reduced Lunch": "40.4%",
+                "Expenses/Student": "$21,545",
+                "Support Services": "34%"
+            }
+        },
+        "Cordova City School District": {
+            "Niche": "https://www.niche.com/k12/d/cordova-city-school-district-ak/",
+            "Data": {
+                "Website": "https://www.cordovasd.org",
+                "Phone": "(907) 424-3265",
+                "Address": "675 SECOND STCORDOVA, AK 99574",
+                "Students": "322",
+                "Free or Reduced Lunch": "54.7%",
+                "Expenses/Student": "$23,022",
+                "Support Services": "41%"
+            }
+        },
+        "Kake City School District": {
+            "Niche": "https://www.niche.com/k12/d/kake-city-school-district-ak/",
+            "Data": {
+                "Website": "https://kakeschools.com/",
+                "Phone": "(907) 785-3741",
+                "Address": "175 LIBRARY PLKAKE, AK 99830",
+                "Students": "103",
+                "Free or Reduced Lunch": "94.8%",
+                "Expenses/Student": "$38,417",
+                "Support Services": "49%"
+            }
+        },
+        "Bristol Bay Borough School District": {
+            "Niche": "https://www.niche.com/k12/d/bristol-bay-borough-school-district-ak/",
+            "Data": {
+                "Website": "https://www.bbbsd.net/",
+                "Phone": "(907) 246-4225",
+                "Address": "# 2 SCHOOL RD NNAKNEK, AK 99633",
+                "Students": "113",
+                "Free or Reduced Lunch": "68.3%",
+                "Expenses/Student": "$43,106",
+                "Support Services": "59%"
+            }
+        },
+        "Denali Borough School District": {
+            "Niche": "https://www.niche.com/k12/d/denali-borough-school-district-ak/",
+            "Data": {
+                "Website": "https://www.dbsd.org/",
+                "Phone": "(907) 683-2278",
+                "Address": "1 SUNTRANA STHEALY, AK 99743",
+                "Students": "1,035",
+                "Free or Reduced Lunch": "1.4%",
+                "Expenses/Student": "$11,426",
+                "Support Services": "48%"
+            }
+        },
+        "Kenai Peninsula Borough School District": {
+            "Niche": "https://www.niche.com/k12/d/kenai-peninsula-borough-school-district-ak/",
+            "Data": {
+                "Website": "http://www.kpbsd.k12.ak.us",
+                "Phone": "(907) 714-8888",
+                "Address": "148 N BINKLEY STSOLDOTNA, AK 99669",
+                "Students": "8,423",
+                "Free or Reduced Lunch": "38.6%",
+                "Expenses/Student": "$19,404",
+                "Support Services": "40%"
+            }
+        },
+        "Delta-Greely School District": {
+            "Niche": "https://www.niche.com/k12/d/delta-greely-school-district-ak/",
+            "Data": {
+                "Website": "https://www.dgsd.us/",
+                "Phone": "(907) 895-4657",
+                "Address": "1664 N CLEARWATERDELTA JUNCTION, AK 99737",
+                "Students": "882",
+                "Free or Reduced Lunch": "39.6%",
+                "Expenses/Student": "$15,584",
+                "Support Services": "42%"
+            }
+        },
+        "Chatham School District": {
+            "Niche": "https://www.niche.com/k12/d/chatham-school-district-ak/",
+            "Data": {
+                "Website": "https://www.chathamsd.org/",
+                "Phone": "(907) 788-3302",
+                "Address": "500 BIG DOG SALMON WAYANGOON, AK 99820",
+                "Students": "139",
+                "Free or Reduced Lunch": "43.8%",
+                "Expenses/Student": "$39,144",
+                "Support Services": "45%"
+            }
+        },
+        "Lake & Peninsula Borough School District": {
+            "Niche": "https://www.niche.com/k12/d/lake-and-peninsula-borough-school-district-ak/",
+            "Data": {
+                "Website": "https://www.lpsd.com/",
+                "Phone": "(907) 246-4280",
+                "Address": "101 JENSEN DRKING SALMON, AK 99613",
+                "Students": "351",
+                "Free or Reduced Lunch": "67.2%",
+                "Expenses/Student": "$49,459",
+                "Support Services": "50%"
+            }
+        },
+        "Craig City School District": {
+            "Niche": "https://www.niche.com/k12/d/craig-city-school-district-ak/",
+            "Data": {
+                "Website": "https://www.ccsd.k12.ak.us/",
+                "Phone": "(907) 826-3274",
+                "Address": "100 SCHOOL RDCRAIG, AK 99921",
+                "Students": "705",
+                "Free or Reduced Lunch": "42.5%",
+                "Expenses/Student": "$11,553",
+                "Support Services": "50%"
+            }
+        },
+        "Klawock City School District": {
+            "Niche": "https://www.niche.com/k12/d/klawock-city-school-district-ak/",
+            "Data": {
+                "Website": "http://www.klawockschool.com",
+                "Phone": "(907) 755-2917",
+                "Address": "715 BAYVIEW BLVDKLAWOCK, AK 99925",
+                "Students": "120",
+                "Free or Reduced Lunch": "76.4%",
+                "Expenses/Student": "$35,908",
+                "Support Services": "33%"
+            }
+        },
+        "Sitka School District": {
+            "Niche": "https://www.niche.com/k12/d/sitka-school-district-ak/",
+            "Data": {
+                "Website": "https://www.sitkaschools.org/",
+                "Phone": "(907) 747-8622",
+                "Address": "300 KOSTROMETINOFF STSITKA, AK 99835",
+                "Students": "1,136",
+                "Free or Reduced Lunch": "39.7%",
+                "Expenses/Student": "$22,539",
+                "Support Services": "34%"
+            }
+        },
+        "Copper River School District": {
+            "Niche": "https://www.niche.com/k12/d/copper-river-school-district-ak/",
+            "Data": {
+                "Website": "https://www.crsd.us",
+                "Phone": "(907) 822-3234",
+                "Address": "1976 AURORA DRGLENNALLEN, AK 99588",
+                "Students": "431",
+                "Free or Reduced Lunch": "43%",
+                "Expenses/Student": "$20,930",
+                "Support Services": "46%"
+            }
+        },
+        "Fairbanks North Star Borough School District": {
+            "Niche": "https://www.niche.com/k12/d/fairbanks-north-star-borough-school-district-ak/",
+            "Data": {
+                "Website": "https://www.k12northstar.org",
+                "Phone": "(907) 452-2000",
+                "Address": "520 FIFTH AVEFAIRBANKS, AK 99701",
+                "Students": "12,331",
+                "Free or Reduced Lunch": "33.1%",
+                "Expenses/Student": "$19,424",
+                "Support Services": "42%"
+            }
+        },
+        "Dillingham City School District": {
+            "Niche": "https://www.niche.com/k12/d/dillingham-city-school-district-ak/",
+            "Data": {
+                "Website": "https://www.dlgsd.org",
+                "Phone": "(907) 842-5223",
+                "Address": "565 SEWARD STDILLINGHAM, AK 99576",
+                "Students": "426",
+                "Free or Reduced Lunch": "90.3%",
+                "Expenses/Student": "$30,246",
+                "Support Services": "44%"
+            }
+        },
+        "Nome Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/nome-public-schools-ak/",
+            "Data": {
+                "Website": "https://www.nomeschools.org/",
+                "Phone": "(907) 443-2231",
+                "Address": "MILE 35 NOME-TELLER HWYNOME, AK 99762",
+                "Students": "687",
+                "Free or Reduced Lunch": "89%",
+                "Expenses/Student": "$23,687",
+                "Support Services": "50%"
+            }
+        },
+        "Nenana City School District": {
+            "Niche": "https://www.niche.com/k12/d/nenana-city-school-district-ak/",
+            "Data": {
+                "Website": "https://www.nenanalynx.org",
+                "Phone": "(907) 832-5464",
+                "Address": "406 E 2ND STNENANA, AK 99760",
+                "Students": "1,701",
+                "Free or Reduced Lunch": "6.9%",
+                "Expenses/Student": "$6,940",
+                "Support Services": "45%"
+            }
+        },
+        "Yukon-Koyukuk School District": {
+            "Niche": "https://www.niche.com/k12/d/yukon-koyukuk-school-district-ak/",
+            "Data": {
+                "Website": "https://www.yksd.com",
+                "Phone": "(907) 374-9416",
+                "Address": "4762 OLD AIRPORT WAYFAIRBANKS, AK 99709",
+                "Students": "3,400",
+                "Free or Reduced Lunch": "15%",
+                "Expenses/Student": "$9,267",
+                "Support Services": "40%"
+            }
+        },
+        "Pribilof School District": {
+            "Niche": "https://www.niche.com/k12/d/pribilof-school-district-ak/",
+            "Data": {
+                "Website": "http://www.pribilofsd.org",
+                "Phone": "(907) 546-3327",
+                "Address": "930 TOLSTOI BLVDST. PAUL ISLAND, AK 99660",
+                "Students": "61",
+                "Free or Reduced Lunch": "4.5%",
+                "Expenses/Student": "$39,262",
+                "Support Services": "56%"
+            }
+        },
+        "Alaska Gateway School District": {
+            "Niche": "https://www.niche.com/k12/d/alaska-gateway-school-district-ak/",
+            "Data": {
+                "Website": "https://www.agsd.us",
+                "Phone": "(907) 883-5151",
+                "Address": "13135 ALASKA HWYTOK, AK 99780",
+                "Students": "403",
+                "Free or Reduced Lunch": "80.5%",
+                "Expenses/Student": "$38,022",
+                "Support Services": "49%"
+            }
+        },
+        "Hydaburg City School District": {
+            "Niche": "https://www.niche.com/k12/d/hydaburg-city-school-district-ak/",
+            "Data": {
+                "Website": "https://hydaburg.k12.ak.us/",
+                "Phone": "(907) 285-3491",
+                "Address": "100 TOTEM POLE LNHYDABURG, AK 99922",
+                "Students": "130",
+                "Free or Reduced Lunch": "89.5%",
+                "Expenses/Student": "$40,015",
+                "Support Services": "41%"
+            }
+        },
+        "Yukon Flats School District": {
+            "Niche": "https://www.niche.com/k12/d/yukon-flats-school-district-ak/",
+            "Data": {
+                "Website": "https://yfsd.org",
+                "Phone": "(907) 662-2515",
+                "Address": "123 HILL STFT. YUKON, AK 99740",
+                "Students": "213",
+                "Free or Reduced Lunch": "93.1%",
+                "Expenses/Student": "$50,681",
+                "Support Services": "56%"
+            }
+        },
+        "Bering Strait School District": {
+            "Niche": "https://www.niche.com/k12/d/bering-strait-school-district-ak/",
+            "Data": {
+                "Website": "https://www.bssd.org/",
+                "Phone": "(907) 624-3611",
+                "Address": "225 MAIN STUNALAKLEET, AK 99684",
+                "Students": "1,879",
+                "Free or Reduced Lunch": "87.7%",
+                "Expenses/Student": "$43,507",
+                "Support Services": "36%"
+            }
+        },
+        "Annette Island School District": {
+            "Niche": "https://www.niche.com/k12/d/annette-island-school-district-ak/",
+            "Data": {
+                "Website": "https://www.aisdk12.org/",
+                "Phone": "(907) 886-6332",
+                "Address": "89A 4TH AVEMETLAKATLA, AK 99926",
+                "Students": "318",
+                "Free or Reduced Lunch": "82.9%",
+                "Expenses/Student": "$31,642",
+                "Support Services": "41%"
+            }
+        },
+        "Kuspuk School District": {
+            "Niche": "https://www.niche.com/k12/d/kuspuk-school-district-ak/",
+            "Data": {
+                "Website": "https://www.kuspuk.org",
+                "Phone": "(907) 675-4250",
+                "Address": "100 BOUNDARY AVEANIAK, AK 99557",
+                "Students": "359",
+                "Free or Reduced Lunch": "77%",
+                "Expenses/Student": "$57,613",
+                "Support Services": "55%"
+            }
+        },
+        "Lower Kuskokwim School District": {
+            "Niche": "https://www.niche.com/k12/d/lower-kuskokwim-school-district-ak/",
+            "Data": {
+                "Website": "https://www.lksd.org/",
+                "Phone": "(907) 543-4912",
+                "Address": "1004 RON EDWARDS MEMORIAL DRBETHEL, AK 99559",
+                "Students": "3,960",
+                "Free or Reduced Lunch": "90.5%",
+                "Expenses/Student": "$45,955",
+                "Support Services": "56%"
+            }
+        },
+        "Saint Mary's School District": {
+            "Niche": "https://www.niche.com/k12/d/saint-marys-school-district-ak/",
+            "Data": {
+                "Website": "https://www.smasd.org",
+                "Phone": "(907) 438-2411",
+                "Address": "1 DIXON CIRCLESAINT MARY'S, AK 99658",
+                "Students": "210",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$45,862",
+                "Support Services": "41%"
+            }
+        },
+        "Southwest Region School District": {
+            "Niche": "https://www.niche.com/k12/d/southwest-region-school-district-ak/",
+            "Data": {
+                "Website": "https://www.swrsd.org",
+                "Phone": "(907) 842-5287",
+                "Address": "574 KENNY WREN RDDILLINGHAM, AK 99576",
+                "Students": "574",
+                "Free or Reduced Lunch": "99%",
+                "Expenses/Student": "$41,648",
+                "Support Services": "58%"
+            }
+        },
+        "Northwest Arctic Borough School District": {
+            "Niche": "https://www.niche.com/k12/d/northwest-arctic-borough-school-district-ak/",
+            "Data": {
+                "Website": "https://www.nwarctic.org",
+                "Phone": "(907) 442-1802",
+                "Address": "776 THIRD AVEKOTZEBUE, AK 99752",
+                "Students": "1,877",
+                "Free or Reduced Lunch": "99.6%",
+                "Expenses/Student": "$42,448",
+                "Support Services": "49%"
+            }
+        },
+        "North Slope Borough School District": {
+            "Niche": "https://www.niche.com/k12/d/north-slope-borough-school-district-ak/",
+            "Data": {
+                "Website": "https://www.nsbsd.org",
+                "Phone": "(907) 852-5311",
+                "Address": "829 AIVIK STUTQIAGVIK, AK 99723",
+                "Students": "2,058",
+                "Free or Reduced Lunch": "50.9%",
+                "Expenses/Student": "$37,661",
+                "Support Services": "53%"
+            }
+        },
+        "Lower Yukon School District": {
+            "Niche": "https://www.niche.com/k12/d/lower-yukon-school-district-ak/",
+            "Data": {
+                "Website": "https://lysd.org",
+                "Phone": "(907) 591-2411",
+                "Address": "100 AIRPORT RDMOUNTAIN VILLAGE, AK 99632",
+                "Students": "1,995",
+                "Free or Reduced Lunch": "99.5%",
+                "Expenses/Student": "$35,056",
+                "Support Services": "47%"
+            }
+        },
+        "Kashunamiut School District": {
+            "Niche": "https://www.niche.com/k12/d/kashunamiut-school-district-ak/",
+            "Data": {
+                "Website": "https://chevakschool.org",
+                "Phone": "(907) 858-7713",
+                "Address": "985 KSD WAYCHEVAK, AK 99563",
+                "Students": "326",
+                "Free or Reduced Lunch": "82.8%",
+                "Expenses/Student": "$30,319",
+                "Support Services": "39%"
+            }
+        },
+        "Yupiit School District": {
+            "Niche": "https://www.niche.com/k12/d/yupiit-school-district-ak/",
+            "Data": {
+                "Website": "https://www.yupiit.org/",
+                "Phone": "(907) 825-3600",
+                "Address": "1ST MAIN STAKIACHAK, AK 99551",
+                "Students": "445",
+                "Free or Reduced Lunch": "96.6%",
+                "Expenses/Student": "$39,627",
+                "Support Services": "53%"
+            }
+        },
+        "Tanana City School District": {
+            "Niche": "https://www.niche.com/k12/d/tanana-city-school-district-ak/",
+            "Data": {
+                "Website": "https://aktcsd.org",
+                "Phone": "(907) 366-7203",
+                "Address": "89 FRONT STTANANA, AK 99777",
+                "Students": "26",
+                "Free or Reduced Lunch": "8.3%",
+                "Expenses/Student": "$58,346",
+                "Support Services": "62%"
+            }
+        },
+        "Aleutian Region School District": {
+            "Niche": "https://www.niche.com/k12/d/aleutian-region-school-district-ak/",
+            "Data": {
+                "Website": "http://www.aleutregion.org",
+                "Phone": "(907) 277-2648",
+                "Address": "118 E INTERNATIONAL AIRPORT RDANCHORAGE, AK 99518",
+                "Students": "24",
+                "Free or Reduced Lunch": "24%",
+                "Expenses/Student": "$72,292",
+                "Support Services": "69%"
+            }
+        },
+        "Pelican City School District": {
+            "Niche": "https://www.niche.com/k12/d/pelican-city-school-district-ak/",
+            "Data": {
+                "Website": "https://pelicanschool.org/",
+                "Phone": "(907) 735-2236",
+                "Address": "14 CHUM WAYPELICAN, AK 99832",
+                "Students": "16",
+                "Free or Reduced Lunch": "30%",
+                "Expenses/Student": "$33,875",
+                "Support Services": "67%"
+            }
+        }
+    }
+}

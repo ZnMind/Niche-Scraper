@@ -1,0 +1,484 @@
+{
+    "Districts": {
+        "Barrington Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/barrington-public-schools-ri/",
+            "Data": {
+                "Website": "https://www.barringtonschools.org/",
+                "Phone": "(401) 245-5000",
+                "Address": "283 COUNTY RDBARRINGTON, RI 02806",
+                "Students": "3,377",
+                "Free or Reduced Lunch": "5.8%",
+                "Expenses/Student": "$16,951",
+                "Support Services": "34%"
+            }
+        },
+        "East Greenwich Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/east-greenwich-public-schools-ri/",
+            "Data": {
+                "Website": "https://www.egsd.net/",
+                "Phone": "(401) 398-1200",
+                "Address": "111 PEIRCE STEAST GREENWICH, RI 02818",
+                "Students": "2,552",
+                "Free or Reduced Lunch": "5.8%",
+                "Expenses/Student": "$17,418",
+                "Support Services": "38%"
+            }
+        },
+        "North Kingstown School District": {
+            "Niche": "https://www.niche.com/k12/d/north-kingstown-school-district-ri/",
+            "Data": {
+                "Website": "https://www.nksd.net/",
+                "Phone": "(401) 268-6403",
+                "Address": "100 ROMANO VINEYARD WAYNORTH KINGSTOWN, RI 02852",
+                "Students": "3,914",
+                "Free or Reduced Lunch": "21.4%",
+                "Expenses/Student": "$18,922",
+                "Support Services": "38%"
+            }
+        },
+        "Narragansett School System": {
+            "Niche": "https://www.niche.com/k12/d/narragansett-school-system-ri/",
+            "Data": {
+                "Website": "https://www.nssk12.org/",
+                "Phone": "(401) 792-9450",
+                "Address": "25 FIFTH AVENARRAGANSETT, RI 02882",
+                "Students": "1,206",
+                "Free or Reduced Lunch": "19.5%",
+                "Expenses/Student": "$26,849",
+                "Support Services": "44%"
+            }
+        },
+        "Foster-Glocester Regional School District": {
+            "Niche": "https://www.niche.com/k12/d/foster-glocester-regional-school-district-ri/",
+            "Data": {
+                "Website": "https://www.fg.k12.ri.us/",
+                "Phone": "(401) 710-7500",
+                "Address": "91 ANAN WADE RDGLOCESTER, RI 02857",
+                "Students": "1,396",
+                "Free or Reduced Lunch": "16.8%",
+                "Expenses/Student": "$19,107",
+                "Support Services": "41%"
+            }
+        },
+        "Portsmouth School District": {
+            "Niche": "https://www.niche.com/k12/d/portsmouth-school-district-ri/",
+            "Data": {
+                "Website": "https://www.portsmouthschoolsri.org/",
+                "Phone": "(401) 683-1039",
+                "Address": "29 MIDDLE RDPORTSMOUTH, RI 02871",
+                "Students": "2,247",
+                "Free or Reduced Lunch": "14.2%",
+                "Expenses/Student": "$19,698",
+                "Support Services": "42%"
+            }
+        },
+        "Exeter-West Greenwich Regional School District": {
+            "Niche": "https://www.niche.com/k12/d/exeter-west-greenwich-regional-school-district-ri/",
+            "Data": {
+                "Website": "https://www.ewgrsd.org/",
+                "Phone": "(401) 397-5125",
+                "Address": "940 NOOSENECK HILL RDWEST GREENWICH, RI 02817",
+                "Students": "1,572",
+                "Free or Reduced Lunch": "13.3%",
+                "Expenses/Student": "$22,340",
+                "Support Services": "37%"
+            }
+        },
+        "Cumberland School Department": {
+            "Niche": "https://www.niche.com/k12/d/cumberland-school-department-ri/",
+            "Data": {
+                "Website": "https://www.cumberlandschools.org/",
+                "Phone": "(401) 658-1600",
+                "Address": "2602 MENDON RDCUMBERLAND, RI 02864",
+                "Students": "4,724",
+                "Free or Reduced Lunch": "22.4%",
+                "Expenses/Student": "$15,631",
+                "Support Services": "35%"
+            }
+        },
+        "Smithfield Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/smithfield-public-schools-ri/",
+            "Data": {
+                "Website": "https://www.smithfield-ps.org/",
+                "Phone": "(401) 231-6606",
+                "Address": "49 FARNUM PIKESMITHFIELD, RI 02917",
+                "Students": "2,392",
+                "Free or Reduced Lunch": "14.2%",
+                "Expenses/Student": "$18,064",
+                "Support Services": "35%"
+            }
+        },
+        "Blackstone Valley Prep": {
+            "Niche": "https://www.niche.com/k12/d/blackstone-valley-prep-ri/",
+            "Data": {
+                "Website": "https://blackstonevalleyprep.org/",
+                "Phone": "(401) 335-3133",
+                "Address": "291 BROAD STCUMBERLAND, RI 02864",
+                "Students": "2,156",
+                "Free or Reduced Lunch": "69.5%",
+                "Expenses/Student": "$15,745",
+                "Support Services": "48%"
+            }
+        },
+        "Lincoln Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/lincoln-public-schools-ri/",
+            "Data": {
+                "Website": "https://www.lincolnps.org/",
+                "Phone": "(401) 721-3310",
+                "Address": "135 OLD RIVER RDLINCOLN, RI 02865",
+                "Students": "3,252",
+                "Free or Reduced Lunch": "25.2%",
+                "Expenses/Student": "$18,971",
+                "Support Services": "37%"
+            }
+        },
+        "North Smithfield School Department": {
+            "Niche": "https://www.niche.com/k12/d/north-smithfield-school-department-ri/",
+            "Data": {
+                "Website": "https://www.nsps.us/",
+                "Phone": "(401) 769-5492",
+                "Address": "1850 PROVIDENCE PIKENORTH SMITHFIELD, RI 02896",
+                "Students": "1,614",
+                "Free or Reduced Lunch": "17.3%",
+                "Expenses/Student": "$18,309",
+                "Support Services": "39%"
+            }
+        },
+        "Middletown Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/middletown-public-schools-ri/",
+            "Data": {
+                "Website": "https://www.mpsri.net/",
+                "Phone": "(401) 849-2122",
+                "Address": "26 OLIPHANT LNMIDDLETOWN, RI 02842",
+                "Students": "2,073",
+                "Free or Reduced Lunch": "32.6%",
+                "Expenses/Student": "$21,674",
+                "Support Services": "38%"
+            }
+        },
+        "Chariho Regional School District": {
+            "Niche": "https://www.niche.com/k12/d/chariho-regional-school-district-ri/",
+            "Data": {
+                "Website": "https://www.chariho.k12.ri.us/",
+                "Phone": "(401) 364-7575",
+                "Address": "455A SWITCH RDWOOD RIVER JUNCTION, RI 02894",
+                "Students": "3,200",
+                "Free or Reduced Lunch": "18.7%",
+                "Expenses/Student": "$19,521",
+                "Support Services": "39%"
+            }
+        },
+        "South Kingstown School District": {
+            "Niche": "https://www.niche.com/k12/d/south-kingstown-school-district-ri/",
+            "Data": {
+                "Website": "https://www.skschools.net/",
+                "Phone": "(401) 360-1300",
+                "Address": "307 CURTIS CORNER RDWAKEFIELD, RI 02879",
+                "Students": "2,608",
+                "Free or Reduced Lunch": "16.8%",
+                "Expenses/Student": "$24,377",
+                "Support Services": "38%"
+            }
+        },
+        "New Shoreham School District": {
+            "Niche": "https://www.niche.com/k12/d/new-shoreham-school-district-ri/",
+            "Data": {
+                "Website": "https://www.bischool.net/",
+                "Phone": "(401) 466-7727",
+                "Address": "15 HIGH STBLOCK ISLAND, RI 02807",
+                "Students": "129",
+                "Free or Reduced Lunch": "17.6%",
+                "Expenses/Student": "$44,147",
+                "Support Services": "36%"
+            }
+        },
+        "North Providence School Department": {
+            "Niche": "https://www.niche.com/k12/d/north-providence-school-department-ri/",
+            "Data": {
+                "Website": "http://nprovschools.org/",
+                "Phone": "(401) 233-1100",
+                "Address": "2240 MINERAL SPRING AVENORTH PROVIDENCE, RI 02911",
+                "Students": "3,464",
+                "Free or Reduced Lunch": "44.1%",
+                "Expenses/Student": "$18,865",
+                "Support Services": "32%"
+            }
+        },
+        "Scituate School Department": {
+            "Niche": "https://www.niche.com/k12/d/scituate-school-department-ri/",
+            "Data": {
+                "Website": "https://www.scituateschoolsri.net",
+                "Phone": "(401) 647-4100",
+                "Address": "197 DANIELSON PIKENORTH SCITUATE, RI 02857",
+                "Students": "1,196",
+                "Free or Reduced Lunch": "17.8%",
+                "Expenses/Student": "$22,575",
+                "Support Services": "36%"
+            }
+        },
+        "Cranston Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/cranston-public-schools-ri/",
+            "Data": {
+                "Website": "https://www.cpsed.net/",
+                "Phone": "(401) 270-8170",
+                "Address": "845 PARK AVECRANSTON, RI 02910",
+                "Students": "10,258",
+                "Free or Reduced Lunch": "37.2%",
+                "Expenses/Student": "$18,084",
+                "Support Services": "36%"
+            }
+        },
+        "Bristol Warren Regional School District": {
+            "Niche": "https://www.niche.com/k12/d/bristol-warren-regional-school-district-ri/",
+            "Data": {
+                "Website": "https://www.bwrsd.org/",
+                "Phone": "(401) 253-4000",
+                "Address": "235 HIGH STBRISTOL, RI 02809",
+                "Students": "2,941",
+                "Free or Reduced Lunch": "32.6%",
+                "Expenses/Student": "$20,225",
+                "Support Services": "40%"
+            }
+        },
+        "Coventry Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/coventry-public-schools-ri/",
+            "Data": {
+                "Website": "https://www.coventryschools.net/",
+                "Phone": "(401) 822-9400",
+                "Address": "1675 FLAT RIVER RDCOVENTRY, RI 02816",
+                "Students": "4,392",
+                "Free or Reduced Lunch": "32.8%",
+                "Expenses/Student": "$18,241",
+                "Support Services": "32%"
+            }
+        },
+        "Tiverton School District": {
+            "Niche": "https://www.niche.com/k12/d/tiverton-school-district-ri/",
+            "Data": {
+                "Website": "https://www.tivertonschools.org/",
+                "Phone": "(401) 624-8475",
+                "Address": "100 NORTH BRAYTON RD  REARTIVERTON, RI 02878",
+                "Students": "1,678",
+                "Free or Reduced Lunch": "31.5%",
+                "Expenses/Student": "$22,561",
+                "Support Services": "38%"
+            }
+        },
+        "Westerly Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/westerly-public-schools-ri/",
+            "Data": {
+                "Website": "https://www.westerly.k12.ri.us/",
+                "Phone": "(401) 315-1500",
+                "Address": "23 HIGHLAND AVEWESTERLY, RI 02891",
+                "Students": "2,378",
+                "Free or Reduced Lunch": "32%",
+                "Expenses/Student": "$26,292",
+                "Support Services": "42%"
+            }
+        },
+        "East Providence School District": {
+            "Niche": "https://www.niche.com/k12/d/east-providence-school-district-ri/",
+            "Data": {
+                "Website": "https://epschoolsri.org/",
+                "Phone": "(401) 383-2224",
+                "Address": "145 TAUNTON AVEEAST PROVIDENCE, RI 02914",
+                "Students": "5,053",
+                "Free or Reduced Lunch": "55.5%",
+                "Expenses/Student": "$19,706",
+                "Support Services": "39%"
+            }
+        },
+        "Achievement First Rhode Island": {
+            "Niche": "https://www.niche.com/k12/d/achievement-first-rhode-island-ri/",
+            "Data": {
+                "Website": "https://www.achievementfirst.org/schools/rhode-island-schools/",
+                "Phone": "(401) 497-4366",
+                "Address": "370 HARTFORD AVEPROVIDENCE, RI 02909",
+                "Students": "2,185",
+                "Free or Reduced Lunch": "79.1%",
+                "Expenses/Student": "$10,478",
+                "Support Services": "50%"
+            }
+        },
+        "Burrillville School District": {
+            "Niche": "https://www.niche.com/k12/d/burrillville-school-district-ri/",
+            "Data": {
+                "Website": "https://www.bsd-ri.net/",
+                "Phone": "(401) 568-1301",
+                "Address": "2300 BRONCO HWYHARRISVILLE, RI 02830",
+                "Students": "2,128",
+                "Free or Reduced Lunch": "33.6%",
+                "Expenses/Student": "$17,691",
+                "Support Services": "37%"
+            }
+        },
+        "West Warwick Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/west-warwick-public-schools-ri/",
+            "Data": {
+                "Website": "https://www.westwarwickpublicschools.com/",
+                "Phone": "(401) 821-1180",
+                "Address": "10 HARRIS AVEWEST WARWICK, RI 02893",
+                "Students": "3,562",
+                "Free or Reduced Lunch": "48.7%",
+                "Expenses/Student": "$19,179",
+                "Support Services": "35%"
+            }
+        },
+        "Johnston Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/johnston-public-schools-ri/",
+            "Data": {
+                "Website": "https://www.johnstonschools.org/",
+                "Phone": "(401) 233-1900",
+                "Address": "10 MEMORIAL AVEJOHNSTON, RI 02919",
+                "Students": "3,067",
+                "Free or Reduced Lunch": "47.4%",
+                "Expenses/Student": "$20,853",
+                "Support Services": "41%"
+            }
+        },
+        "Newport Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/newport-public-schools-ri/",
+            "Data": {
+                "Website": "https://www.npsri.net/",
+                "Phone": "(401) 847-2100",
+                "Address": "15 WICKHAM RDNEWPORT, RI 02840",
+                "Students": "1,975",
+                "Free or Reduced Lunch": "64.9%",
+                "Expenses/Student": "$24,165",
+                "Support Services": "36%"
+            }
+        },
+        "Warwick Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/warwick-public-schools-ri/",
+            "Data": {
+                "Website": "https://www.warwickschools.org/",
+                "Phone": "(401) 734-3100",
+                "Address": "69 DRAPER AVEWARWICK, RI 02889",
+                "Students": "8,168",
+                "Free or Reduced Lunch": "37.1%",
+                "Expenses/Student": "$22,548",
+                "Support Services": "38%"
+            }
+        },
+        "Paul Cuffee Charter School": {
+            "Niche": "https://www.niche.com/k12/d/paul-cuffee-charter-school-ri/",
+            "Data": {
+                "Website": "https://www.paulcuffee.org/",
+                "Phone": "(401) 453-2626",
+                "Address": "459 PROMENADE STPROVIDENCE, RI 02908",
+                "Students": "816",
+                "Free or Reduced Lunch": "61.5%",
+                "Expenses/Student": "$16,234",
+                "Support Services": "42%"
+            }
+        },
+        "Providence Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/providence-public-schools-ri/",
+            "Data": {
+                "Website": "https://www.providenceschools.org/",
+                "Phone": "(401) 456-9211",
+                "Address": "797 WESTMINSTER STPROVIDENCE, RI 02903",
+                "Students": "21,656",
+                "Free or Reduced Lunch": "86.8%",
+                "Expenses/Student": "$21,917",
+                "Support Services": "46%"
+            }
+        },
+        "Highlander Charter School District": {
+            "Niche": "https://www.niche.com/k12/d/highlander-charter-school-district-ri/",
+            "Data": {
+                "Website": "https://www.highlandercharter.org/",
+                "Phone": "(401) 277-2600",
+                "Address": "42 LEXINGTON AVEPROVIDENCE, RI 02907",
+                "Students": "617",
+                "Free or Reduced Lunch": "76.3%",
+                "Expenses/Student": "$15,867",
+                "Support Services": "50%"
+            }
+        },
+        "Pawtucket School District": {
+            "Niche": "https://www.niche.com/k12/d/pawtucket-school-district-ri/",
+            "Data": {
+                "Website": "https://www.psdri.net/",
+                "Phone": "(401) 729-6300",
+                "Address": "286 MAIN STPAWTUCKET, RI 02860",
+                "Students": "8,127",
+                "Free or Reduced Lunch": "69.7%",
+                "Expenses/Student": "$18,805",
+                "Support Services": "32%"
+            }
+        },
+        "Central Falls School District": {
+            "Niche": "https://www.niche.com/k12/d/central-falls-school-district-ri/",
+            "Data": {
+                "Website": "https://www.cfschools.net/",
+                "Phone": "(401) 727-7700",
+                "Address": "949 DEXTER STCENTRAL FALLS, RI 02863",
+                "Students": "2,701",
+                "Free or Reduced Lunch": "81.4%",
+                "Expenses/Student": "$19,664",
+                "Support Services": "39%"
+            }
+        },
+        "Beacon Charter School": {
+            "Niche": "https://www.niche.com/k12/d/beacon-charter-school-ri/",
+            "Data": {
+                "Website": "https://beaconart.org/",
+                "Phone": "(401) 671-6261",
+                "Address": "320 MAIN STWOONSOCKET, RI 02895",
+                "Students": "377",
+                "Free or Reduced Lunch": "49.8%",
+                "Expenses/Student": "$14,629",
+                "Support Services": "40%"
+            }
+        },
+        "Woonsocket Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/woonsocket-public-schools-ri/",
+            "Data": {
+                "Website": "https://woonsocketschools.com/",
+                "Phone": "(401) 767-4608",
+                "Address": "108 HIGH STWOONSOCKET, RI 02895",
+                "Students": "5,664",
+                "Free or Reduced Lunch": "73.2%",
+                "Expenses/Student": "$15,981",
+                "Support Services": "34%"
+            }
+        },
+        "Jamestown School Department": {
+            "Niche": "https://www.niche.com/k12/d/jamestown-school-department-ri/",
+            "Data": {
+                "Website": "http://jsd-ri.schoolloop.com/",
+                "Phone": "(401) 423-7020",
+                "Address": "76 MELROSE AVEJAMESTOWN, RI 02835",
+                "Students": "444",
+                "Free or Reduced Lunch": "9.8%",
+                "Expenses/Student": "$31,736",
+                "Support Services": "35%"
+            }
+        },
+        "Glocester School District": {
+            "Niche": "https://www.niche.com/k12/d/glocester-school-district-ri/",
+            "Data": {
+                "Website": "https://www.glocesterri.org/",
+                "Phone": "(401) 568-4160",
+                "Address": "1145 PUTNAM PIKE POBOX BCHEPACHET, RI 02814",
+                "Students": "537",
+                "Free or Reduced Lunch": "13.2%",
+                "Expenses/Student": "$18,654",
+                "Support Services": "37%"
+            }
+        },
+        "R.I. School for the Deaf": {
+            "Niche": "https://www.niche.com/k12/d/ri-school-for-the-deaf-ri/",
+            "Data": {
+                "Website": "https://rideaf.ri.gov/",
+                "Phone": "(401) 222-3525",
+                "Address": "ONE CORLISS PARKPROVIDENCE, RI 02908",
+                "Students": "82",
+                "Free or Reduced Lunch": "72.3%",
+                "Expenses/Student": "$95,305",
+                "Support Services": "60%"
+            }
+        }
+    }
+}

@@ -51,6 +51,18 @@ const configureProxy = async (ip) => {
     return proxyAgent;
 }
 
+// Was returning an array of objects [{},{}]
+// This func flattens those to just 1 object
+const flatten = (objArr) => {
+    let flattened = {};
+    objArr.forEach(x => {
+        Object.keys(x).forEach(y => {
+            flattened[y] = x[y];
+        });
+    });
+    return flattened;
+}
+
 // JSON objects are very large and sometimes get blocked midway.
 // Checks how many districts have been scraped and continues from that index.
 const getStateIndex = (state) => {
@@ -244,33 +256,6 @@ const getContact = async ($) => {
     return [matches, obj];
 }
 
-const states = () => {
-    return [
-        'Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California',
-        'Colorado', 'Connecticut', 'Delaware', 'Florida', 'Georgia',
-        'Hawaii', 'Idaho', 'Illinois', 'Indiana', 'Iowa', 'Kansas',
-        'Kentucky', 'Louisiana', 'Maine', 'Maryland', 'Massachusetts',
-        'Michigan', 'Minnesota', 'Mississippi', 'Missouri', 'Montana',
-        'Nebraska', 'Nevada', 'New Hampshire', 'New Jersey', 'New Mexico',
-        'New York', 'North Carolina', 'North Dakota', 'Ohio', 'Oklahoma',
-        'Oregon', 'Pennsylvania', 'Rhode Island', 'South Carolina', 'South Dakota',
-        'Tennessee', 'Texas', 'Utah', 'Vermont', 'Virginia', 'Washington',
-        'West Virginia', 'Wisconsin', 'Wyoming'
-    ];
-}
-
-// Was returning an array of objects [{},{}]
-// This func flattens those to just 1 object
-const flatten = (objArr) => {
-    let flattened = {};
-    objArr.forEach(x => {
-        Object.keys(x).forEach(y => {
-            flattened[y] = x[y];
-        });
-    });
-    return flattened;
-}
-
 // Endpoints
 app.get('/', (req, res) => {
     let ms = Date.now();
@@ -280,22 +265,10 @@ app.get('/', (req, res) => {
     res.json({ 'Your server is running': 'you better go catch it!', 'Date': date })
 })
 
-app.get('/test', async (req, res) => {
-    let url = 'https://www.niche.com/k12/search/best-school-districts/s/iowa/';
-    try {
-        /* let $ = await loadPage(url)
-        let pages = await getPages($);
-        console.log(pages);
-        res.json({ pages }) */
-        res.json({ status: "Done" });
-    } catch (err) {
-        console.log(err);
-    }
-})
-
 app.get('/links', async (req, res) => {
-    let district = 'iowa';
+    let district = 'texas';
     let url = `https://www.niche.com/k12/search/best-school-districts/s/${district}/`;
+    district = district.split('-').join('');
     try {
         let result = await scraper(url, district);
         let stringify = JSON.stringify(result);
@@ -305,22 +278,6 @@ app.get('/links', async (req, res) => {
             }
         });
         res.json(result);
-    } catch (err) {
-        console.log(err);
-    }
-})
-
-app.get('/one', async (req, res) => {
-    let url = 'https://www.niche.com/k12/d/success-academy-ut/';
-    //let url = 'https://ident.me/ip';
-    try {
-        //let host = "35.236.207.242";
-        //let port = "33333";
-
-        let page = await loadPage(url/* , proxyAgent */);
-        let result = await getContact(page);
-        console.log(result[1]);
-        res.json(result[1]);
     } catch (err) {
         console.log(err);
     }

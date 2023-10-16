@@ -1,0 +1,2164 @@
+{
+    "Districts": {
+        "Buford City Schools": {
+            "Niche": "https://www.niche.com/k12/d/buford-city-schools-ga/",
+            "Data": {
+                "Website": "https://www.bufordcityschools.org/",
+                "Phone": "(770) 945-5035",
+                "Address": "70 WILEY DR STE 200BUFORD, GA 30518",
+                "Students": "5,759",
+                "Free or Reduced Lunch": "40%",
+                "Expenses/Student": "$13,497",
+                "Support Services": "29%"
+            }
+        },
+        "Oconee County Schools": {
+            "Niche": "https://www.niche.com/k12/d/oconee-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.oconeeschools.org/",
+                "Phone": "(706) 769-5130",
+                "Address": "34 SCHOOL STWATKINSVILLE, GA 30677",
+                "Students": "8,423",
+                "Free or Reduced Lunch": "19.1%",
+                "Expenses/Student": "$10,892",
+                "Support Services": "30%"
+            }
+        },
+        "Forsyth County Schools": {
+            "Niche": "https://www.niche.com/k12/d/forsyth-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.forsyth.k12.ga.us/",
+                "Phone": "(770) 887-2461",
+                "Address": "1120 DAHLONEGA HWYCUMMING, GA 30040",
+                "Students": "52,757",
+                "Free or Reduced Lunch": "15.8%",
+                "Expenses/Student": "$13,160",
+                "Support Services": "27%"
+            }
+        },
+        "Bremen City Schools": {
+            "Niche": "https://www.niche.com/k12/d/bremen-city-schools-ga/",
+            "Data": {
+                "Website": "https://www.bremencs.com/",
+                "Phone": "(770) 537-5508",
+                "Address": "504 LAUREL STBREMEN, GA 30110",
+                "Students": "2,350",
+                "Free or Reduced Lunch": "22.3%",
+                "Expenses/Student": "$11,342",
+                "Support Services": "28%"
+            }
+        },
+        "City Schools of Decatur": {
+            "Niche": "https://www.niche.com/k12/d/city-schools-of-decatur-ga/",
+            "Data": {
+                "Website": "https://www.csdecatur.net/",
+                "Phone": "(404) 370-4400",
+                "Address": "758 SCOTT BLVDDECATUR, GA 30030",
+                "Students": "5,637",
+                "Free or Reduced Lunch": "13.3%",
+                "Expenses/Student": "$15,608",
+                "Support Services": "34%"
+            }
+        },
+        "Fayette County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/fayette-county-public-schools-ga/",
+            "Data": {
+                "Website": "https://www.fcboe.org/",
+                "Phone": "(770) 460-3535",
+                "Address": "210 STONEWALL AVE WESTFAYETTEVILLE, GA 30214",
+                "Students": "19,941",
+                "Free or Reduced Lunch": "25.2%",
+                "Expenses/Student": "$13,830",
+                "Support Services": "31%"
+            }
+        },
+        "Lowndes County Schools": {
+            "Niche": "https://www.niche.com/k12/d/lowndes-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.lowndes.k12.ga.us/",
+                "Phone": "(229) 245-2250",
+                "Address": "1592 NORMAN DRVALDOSTA, GA 31601",
+                "Students": "10,645",
+                "Free or Reduced Lunch": "52.5%",
+                "Expenses/Student": "$11,703",
+                "Support Services": "32%"
+            }
+        },
+        "Carrollton City Schools": {
+            "Niche": "https://www.niche.com/k12/d/carrollton-city-schools-ga/",
+            "Data": {
+                "Website": "https://www.carrolltoncityschools.net/",
+                "Phone": "(770) 832-9633",
+                "Address": "106 TROJAN DRCARROLLTON, GA 30117",
+                "Students": "5,528",
+                "Free or Reduced Lunch": "58.9%",
+                "Expenses/Student": "$11,015",
+                "Support Services": "32%"
+            }
+        },
+        "Jefferson City Schools": {
+            "Niche": "https://www.niche.com/k12/d/jefferson-city-schools-ga/",
+            "Data": {
+                "Website": "https://www.jeffcityschools.org/",
+                "Phone": "(706) 367-2880",
+                "Address": "575 WASHINGTON STJEFFERSON, GA 30549",
+                "Students": "4,109",
+                "Free or Reduced Lunch": "28.4%",
+                "Expenses/Student": "$10,120",
+                "Support Services": "25%"
+            }
+        },
+        "Calhoun City Schools": {
+            "Niche": "https://www.niche.com/k12/d/calhoun-city-schools-ga/",
+            "Data": {
+                "Website": "https://www.calhounschools.org/",
+                "Phone": "(706) 629-2900",
+                "Address": "380 BARRETT RDCALHOUN, GA 30701",
+                "Students": "4,175",
+                "Free or Reduced Lunch": "56.7%",
+                "Expenses/Student": "$10,223",
+                "Support Services": "33%"
+            }
+        },
+        "Morgan County Charter Schools": {
+            "Niche": "https://www.niche.com/k12/d/morgan-county-charter-schools-ga/",
+            "Data": {
+                "Website": "https://www.morgan.k12.ga.us/",
+                "Phone": "(706) 752-4600",
+                "Address": "1065 EAST AVEMADISON, GA 30650",
+                "Students": "3,380",
+                "Free or Reduced Lunch": "47.6%",
+                "Expenses/Student": "$16,222",
+                "Support Services": "33%"
+            }
+        },
+        "Camden County Schools": {
+            "Niche": "https://www.niche.com/k12/d/camden-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.camden.k12.ga.us/",
+                "Phone": "(912) 729-5687",
+                "Address": "311 SOUTH EAST STKINGSLAND, GA 31548",
+                "Students": "9,298",
+                "Free or Reduced Lunch": "46.9%",
+                "Expenses/Student": "$11,941",
+                "Support Services": "32%"
+            }
+        },
+        "Carroll County Schools": {
+            "Niche": "https://www.niche.com/k12/d/carroll-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.carrollcountyschools.com/",
+                "Phone": "(770) 832-3568",
+                "Address": "164 INDEPENDENCE DRCARROLLTON, GA 30116",
+                "Students": "15,345",
+                "Free or Reduced Lunch": "62%",
+                "Expenses/Student": "$11,201",
+                "Support Services": "31%"
+            }
+        },
+        "Monroe County Schools": {
+            "Niche": "https://www.niche.com/k12/d/monroe-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.monroe.k12.ga.us/",
+                "Phone": "(478) 994-2031",
+                "Address": "25 BROOKLYN AVEFORSYTH, GA 31029",
+                "Students": "4,305",
+                "Free or Reduced Lunch": "54.8%",
+                "Expenses/Student": "$12,707",
+                "Support Services": "36%"
+            }
+        },
+        "Commerce City Schools": {
+            "Niche": "https://www.niche.com/k12/d/commerce-city-schools-ga/",
+            "Data": {
+                "Website": "https://www.commercecityschools.org/",
+                "Phone": "(706) 335-5500",
+                "Address": "270 LAKEVIEW DRCOMMERCE, GA 30529",
+                "Students": "1,757",
+                "Free or Reduced Lunch": "65.5%",
+                "Expenses/Student": "$11,142",
+                "Support Services": "27%"
+            }
+        },
+        "Cartersville City Schools": {
+            "Niche": "https://www.niche.com/k12/d/cartersville-city-schools-ga/",
+            "Data": {
+                "Website": "https://www.cartersvilleschools.org/",
+                "Phone": "(770) 382-5880",
+                "Address": "15 NELSON STCARTERSVILLE, GA 30120",
+                "Students": "4,477",
+                "Free or Reduced Lunch": "55.2%",
+                "Expenses/Student": "$11,788",
+                "Support Services": "31%"
+            }
+        },
+        "Heard County Schools": {
+            "Niche": "https://www.niche.com/k12/d/heard-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.heard.k12.ga.us/",
+                "Phone": "(706) 675-3320",
+                "Address": "131 EAST COURT SQFRANKLIN, GA 30217",
+                "Students": "2,207",
+                "Free or Reduced Lunch": "67.3%",
+                "Expenses/Student": "$13,360",
+                "Support Services": "34%"
+            }
+        },
+        "Madison County Schools": {
+            "Niche": "https://www.niche.com/k12/d/madison-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.madison.k12.ga.us/",
+                "Phone": "(706) 795-2191",
+                "Address": "55 MARY ELLEN CTDANIELSVILLE, GA 30633",
+                "Students": "4,944",
+                "Free or Reduced Lunch": "62%",
+                "Expenses/Student": "$12,850",
+                "Support Services": "31%"
+            }
+        },
+        "Columbia County Schools": {
+            "Niche": "https://www.niche.com/k12/d/columbia-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.ccboe.net/",
+                "Phone": "(706) 541-0650",
+                "Address": "4781 HEREFORD FARM RDEVANS, GA 30809",
+                "Students": "28,683",
+                "Free or Reduced Lunch": "32.9%",
+                "Expenses/Student": "$10,623",
+                "Support Services": "30%"
+            }
+        },
+        "Bleckley County Schools": {
+            "Niche": "https://www.niche.com/k12/d/bleckley-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.bleckley.k12.ga.us/",
+                "Phone": "(478) 934-2821",
+                "Address": "909 NE DYKES STCOCHRAN, GA 31014",
+                "Students": "2,604",
+                "Free or Reduced Lunch": "72.8%",
+                "Expenses/Student": "$12,116",
+                "Support Services": "31%"
+            }
+        },
+        "Cobb County Schools": {
+            "Niche": "https://www.niche.com/k12/d/cobb-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.cobbk12.org/",
+                "Phone": "(770) 426-3300",
+                "Address": "514 GLOVER STMARIETTA, GA 30061",
+                "Students": "106,970",
+                "Free or Reduced Lunch": "44.4%",
+                "Expenses/Student": "$14,285",
+                "Support Services": "30%"
+            }
+        },
+        "Cherokee County Schools": {
+            "Niche": "https://www.niche.com/k12/d/cherokee-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.cherokee.k12.ga.us/",
+                "Phone": "(770) 479-1871",
+                "Address": "1205 BLUFFS PARKWAYCANTON, GA 30114",
+                "Students": "42,049",
+                "Free or Reduced Lunch": "30.4%",
+                "Expenses/Student": "$12,070",
+                "Support Services": "31%"
+            }
+        },
+        "Fulton County Schools": {
+            "Niche": "https://www.niche.com/k12/d/fulton-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.fultonschools.org/",
+                "Phone": "(470) 254-3600",
+                "Address": "6201 POWERS FERRY RD NWATLANTA, GA 30339",
+                "Students": "90,355",
+                "Free or Reduced Lunch": "46.8%",
+                "Expenses/Student": "$15,060",
+                "Support Services": "39%"
+            }
+        },
+        "White County Schools": {
+            "Niche": "https://www.niche.com/k12/d/white-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.white.k12.ga.us/",
+                "Phone": "(706) 865-2315",
+                "Address": "113 NORTH BROOKS STCLEVELAND, GA 30528",
+                "Students": "3,788",
+                "Free or Reduced Lunch": "54.2%",
+                "Expenses/Student": "$12,643",
+                "Support Services": "31%"
+            }
+        },
+        "Pierce County Schools": {
+            "Niche": "https://www.niche.com/k12/d/pierce-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.pierce.k12.ga.us/",
+                "Phone": "(912) 449-2044",
+                "Address": "834 EAST MAIN STBLACKSHEAR, GA 31516",
+                "Students": "3,566",
+                "Free or Reduced Lunch": "58.6%",
+                "Expenses/Student": "$13,119",
+                "Support Services": "33%"
+            }
+        },
+        "Houston County Schools": {
+            "Niche": "https://www.niche.com/k12/d/houston-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.hcbe.net/",
+                "Phone": "(478) 988-6200",
+                "Address": "1100 MAIN STPERRY, GA 31069",
+                "Students": "30,243",
+                "Free or Reduced Lunch": "60.4%",
+                "Expenses/Student": "$12,703",
+                "Support Services": "31%"
+            }
+        },
+        "Schley County Schools": {
+            "Niche": "https://www.niche.com/k12/d/schley-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.schleyk12.org/",
+                "Phone": "(229) 937-2405",
+                "Address": "401 PERRY DRELLAVILLE, GA 31806",
+                "Students": "1,262",
+                "Free or Reduced Lunch": "53.4%",
+                "Expenses/Student": "$11,036",
+                "Support Services": "31%"
+            }
+        },
+        "Union County Schools": {
+            "Niche": "https://www.niche.com/k12/d/union-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.ucschools.org/",
+                "Phone": "(706) 745-2322",
+                "Address": "10 HUGHES STBLAIRSVILLE, GA 30512",
+                "Students": "3,007",
+                "Free or Reduced Lunch": "56.5%",
+                "Expenses/Student": "$13,709",
+                "Support Services": "33%"
+            }
+        },
+        "Gwinnett County Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/gwinnett-county-public-schools-ga/",
+            "Data": {
+                "Website": "https://www.gcpsk12.org/",
+                "Phone": "(678) 301-6000",
+                "Address": "437 OLD PEACHTREE RD NW SUWANEE, GA 30024-2978",
+                "Students": "183,878",
+                "Free or Reduced Lunch": "54.6%",
+                "Expenses/Student": "$12,034",
+                "Support Services": "38%"
+            }
+        },
+        "Bryan County Schools": {
+            "Niche": "https://www.niche.com/k12/d/bryan-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.bryan.k12.ga.us",
+                "Phone": "(912) 851-4000",
+                "Address": "8810 US HWY 280 EASTBLACK CREEK, GA 31308",
+                "Students": "10,078",
+                "Free or Reduced Lunch": "36.2%",
+                "Expenses/Student": "$12,190",
+                "Support Services": "33%"
+            }
+        },
+        "Walton County Schools": {
+            "Niche": "https://www.niche.com/k12/d/walton-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.walton.k12.ga.us/",
+                "Phone": "(770) 266-4520",
+                "Address": "200 DOUBLE SPRINGS CHURCH RDMONROE, GA 30656",
+                "Students": "14,305",
+                "Free or Reduced Lunch": "48%",
+                "Expenses/Student": "$11,643",
+                "Support Services": "33%"
+            }
+        },
+        "Glynn County Schools": {
+            "Niche": "https://www.niche.com/k12/d/glynn-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.glynn.k12.ga.us/",
+                "Phone": "(912) 267-4100",
+                "Address": "1313 EGMONT STBRUNSWICK, GA 31520",
+                "Students": "12,820",
+                "Free or Reduced Lunch": "61.4%",
+                "Expenses/Student": "$13,699",
+                "Support Services": "31%"
+            }
+        },
+        "Lee County Schools": {
+            "Niche": "https://www.niche.com/k12/d/lee-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.lee.k12.ga.us/",
+                "Phone": "(229) 903-2100",
+                "Address": "126 STARKSVILLE AVENLEESBURG, GA 31763",
+                "Students": "6,310",
+                "Free or Reduced Lunch": "43.5%",
+                "Expenses/Student": "$10,387",
+                "Support Services": "34%"
+            }
+        },
+        "Trion City Schools": {
+            "Niche": "https://www.niche.com/k12/d/trion-city-schools-ga/",
+            "Data": {
+                "Website": "https://www.trionschools.org/",
+                "Phone": "(706) 734-2363",
+                "Address": "1255 PINE STTRION, GA 30753",
+                "Students": "1,348",
+                "Free or Reduced Lunch": "47.6%",
+                "Expenses/Student": "$11,217",
+                "Support Services": "35%"
+            }
+        },
+        "Coweta County Schools": {
+            "Niche": "https://www.niche.com/k12/d/coweta-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.cowetaschools.org/",
+                "Phone": "(770) 254-2801",
+                "Address": "237 JACKSON STNEWNAN, GA 30264",
+                "Students": "22,694",
+                "Free or Reduced Lunch": "41.3%",
+                "Expenses/Student": "$12,135",
+                "Support Services": "31%"
+            }
+        },
+        "Habersham County Schools": {
+            "Niche": "https://www.niche.com/k12/d/habersham-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.habershamschools.com/",
+                "Phone": "(706) 754-2118",
+                "Address": "132 WEST STANFORD MILL RDCLARKESVILLE, GA 30523",
+                "Students": "7,068",
+                "Free or Reduced Lunch": "62.7%",
+                "Expenses/Student": "$12,614",
+                "Support Services": "32%"
+            }
+        },
+        "Greene County School System": {
+            "Niche": "https://www.niche.com/k12/d/greene-county-school-system-ga/",
+            "Data": {
+                "Website": "https://www.greene.k12.ga.us",
+                "Phone": "(706) 453-7688",
+                "Address": "101 EAST THIRD STGREENSBORO, GA 30642",
+                "Students": "2,545",
+                "Free or Reduced Lunch": "96.3%",
+                "Expenses/Student": "$15,865",
+                "Support Services": "34%"
+            }
+        },
+        "Marietta City Schools": {
+            "Niche": "https://www.niche.com/k12/d/marietta-city-schools-ga/",
+            "Data": {
+                "Website": "https://www.marietta-city.org/",
+                "Phone": "(770) 422-3500",
+                "Address": "250 HOWARD STMARIETTA, GA 30060",
+                "Students": "8,690",
+                "Free or Reduced Lunch": "62.3%",
+                "Expenses/Student": "$17,479",
+                "Support Services": "32%"
+            }
+        },
+        "Marion County Schools": {
+            "Niche": "https://www.niche.com/k12/d/marion-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.marion.k12.ga.us/",
+                "Phone": "(229) 649-2234",
+                "Address": "1697 PINEVILLE RDBUENA VISTA, GA 31803",
+                "Students": "1,296",
+                "Free or Reduced Lunch": "91.5%",
+                "Expenses/Student": "$13,016",
+                "Support Services": "37%"
+            }
+        },
+        "Rabun County Schools": {
+            "Niche": "https://www.niche.com/k12/d/rabun-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.rabuncountyschools.org/",
+                "Phone": "(706) 746-5376",
+                "Address": "963 TIGER CONNECTOR RDTIGER, GA 30576",
+                "Students": "2,247",
+                "Free or Reduced Lunch": "66.5%",
+                "Expenses/Student": "$15,371",
+                "Support Services": "34%"
+            }
+        },
+        "Irwin County Schools": {
+            "Niche": "https://www.niche.com/k12/d/irwin-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.irwin.k12.ga.us/",
+                "Phone": "(229) 468-7485",
+                "Address": "210 APPLE STOCILLA, GA 31774",
+                "Students": "1,617",
+                "Free or Reduced Lunch": "81.9%",
+                "Expenses/Student": "$12,991",
+                "Support Services": "32%"
+            }
+        },
+        "Floyd County Schools": {
+            "Niche": "https://www.niche.com/k12/d/floyd-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.floydboe.net",
+                "Phone": "(706) 234-1031",
+                "Address": "600 RIVERSIDE PARKWAY NEROME, GA 30161",
+                "Students": "8,993",
+                "Free or Reduced Lunch": "42.8%",
+                "Expenses/Student": "$14,363",
+                "Support Services": "34%"
+            }
+        },
+        "Catoosa County Schools": {
+            "Niche": "https://www.niche.com/k12/d/catoosa-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.catoosa.k12.ga.us",
+                "Phone": "(706) 965-2297",
+                "Address": "307 CLEVELAND STRINGGOLD, GA 30736",
+                "Students": "10,613",
+                "Free or Reduced Lunch": "50%",
+                "Expenses/Student": "$12,455",
+                "Support Services": "33%"
+            }
+        },
+        "Harris County Schools": {
+            "Niche": "https://www.niche.com/k12/d/harris-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.harris.k12.ga.us/",
+                "Phone": "(706) 628-4206",
+                "Address": "132 BARNES MILL RDHAMILTON, GA 31811",
+                "Students": "5,489",
+                "Free or Reduced Lunch": "39%",
+                "Expenses/Student": "$12,060",
+                "Support Services": "36%"
+            }
+        },
+        "Rome City Schools": {
+            "Niche": "https://www.niche.com/k12/d/rome-city-schools-ga/",
+            "Data": {
+                "Website": "https://www.rcs.rome.ga.us/",
+                "Phone": "(706) 236-5050",
+                "Address": "508 EAST 2ND STROME, GA 30161",
+                "Students": "6,549",
+                "Free or Reduced Lunch": "82.9%",
+                "Expenses/Student": "$15,053",
+                "Support Services": "32%"
+            }
+        },
+        "Bartow County Schools": {
+            "Niche": "https://www.niche.com/k12/d/bartow-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.bartow.k12.ga.us",
+                "Phone": "(770) 606-5800",
+                "Address": "65 GILREATH RD NWCARTERSVILLE, GA 30120",
+                "Students": "13,607",
+                "Free or Reduced Lunch": "57.7%",
+                "Expenses/Student": "$11,857",
+                "Support Services": "31%"
+            }
+        },
+        "Fannin County Schools": {
+            "Niche": "https://www.niche.com/k12/d/fannin-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.fannin.k12.ga.us/",
+                "Phone": "(706) 632-3771",
+                "Address": "2290 EAST FIRST STBLUE RIDGE, GA 30513",
+                "Students": "2,819",
+                "Free or Reduced Lunch": "60.8%",
+                "Expenses/Student": "$15,180",
+                "Support Services": "37%"
+            }
+        },
+        "Whitfield County Schools": {
+            "Niche": "https://www.niche.com/k12/d/whitfield-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.wcsga.net/",
+                "Phone": "(706) 278-8070",
+                "Address": "1306 S THORNTON AVEDALTON, GA 30720",
+                "Students": "12,448",
+                "Free or Reduced Lunch": "72.1%",
+                "Expenses/Student": "$14,414",
+                "Support Services": "33%"
+            }
+        },
+        "Gordon County Schools": {
+            "Niche": "https://www.niche.com/k12/d/gordon-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.gcbe.org",
+                "Phone": "(706) 629-7366",
+                "Address": "205 WARRIOR PATHCALHOUN, GA 30701",
+                "Students": "6,418",
+                "Free or Reduced Lunch": "63.1%",
+                "Expenses/Student": "$12,183",
+                "Support Services": "34%"
+            }
+        },
+        "Ware County Schools": {
+            "Niche": "https://www.niche.com/k12/d/ware-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.ware.k12.ga.us",
+                "Phone": "(912) 283-8656",
+                "Address": "1301 BAILEY STWAYCROSS, GA 31501",
+                "Students": "6,025",
+                "Free or Reduced Lunch": "90.1%",
+                "Expenses/Student": "$13,304",
+                "Support Services": "33%"
+            }
+        },
+        "Dalton Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/dalton-public-schools-ga/",
+            "Data": {
+                "Website": "https://www.daltonpublicschools.com",
+                "Phone": "(706) 876-4000",
+                "Address": "300 WEST WAUGH STDALTON, GA 30722",
+                "Students": "7,717",
+                "Free or Reduced Lunch": "73.1%",
+                "Expenses/Student": "$17,539",
+                "Support Services": "29%"
+            }
+        },
+        "Effingham County Schools": {
+            "Niche": "https://www.niche.com/k12/d/effingham-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.effinghamschools.com/",
+                "Phone": "(912) 754-6491",
+                "Address": "405 NORTH ASH STSPRINGFIELD, GA 31329",
+                "Students": "13,585",
+                "Free or Reduced Lunch": "38.7%",
+                "Expenses/Student": "$10,773",
+                "Support Services": "31%"
+            }
+        },
+        "Hart County Schools": {
+            "Niche": "https://www.niche.com/k12/d/hart-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.hart.k12.ga.us/",
+                "Phone": "(706) 376-5141",
+                "Address": "284 CAMPBELL DRHARTWELL, GA 30643",
+                "Students": "3,623",
+                "Free or Reduced Lunch": "60.4%",
+                "Expenses/Student": "$12,720",
+                "Support Services": "34%"
+            }
+        },
+        "Hall County Schools": {
+            "Niche": "https://www.niche.com/k12/d/hall-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.hallco.org/web/",
+                "Phone": "(770) 534-1080",
+                "Address": "711 GREEN ST STE 100GAINESVILLE, GA 30505",
+                "Students": "27,105",
+                "Free or Reduced Lunch": "57.1%",
+                "Expenses/Student": "$11,753",
+                "Support Services": "32%"
+            }
+        },
+        "Appling County Schools": {
+            "Niche": "https://www.niche.com/k12/d/appling-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.appling.k12.ga.us/",
+                "Phone": "(912) 367-8600",
+                "Address": "249 BLACKSHEAR HWYBAXLEY, GA 31513",
+                "Students": "3,483",
+                "Free or Reduced Lunch": "73%",
+                "Expenses/Student": "$13,633",
+                "Support Services": "30%"
+            }
+        },
+        "Lumpkin County Schools": {
+            "Niche": "https://www.niche.com/k12/d/lumpkin-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.lumpkinschools.com",
+                "Phone": "(706) 864-3611",
+                "Address": "51 MOUNTAIN VIEW DRDAHLONEGA, GA 30533",
+                "Students": "3,750",
+                "Free or Reduced Lunch": "50.1%",
+                "Expenses/Student": "$12,493",
+                "Support Services": "35%"
+            }
+        },
+        "Toombs County Schools": {
+            "Niche": "https://www.niche.com/k12/d/toombs-county-schools-ga/",
+            "Data": {
+                "Website": "http://www.toombscountyschools.org",
+                "Phone": "(912) 526-3141",
+                "Address": "600 BULLDOG RD UNIT 1LYONS, GA 30436",
+                "Students": "2,955",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$12,780",
+                "Support Services": "29%"
+            }
+        },
+        "Towns County Schools": {
+            "Niche": "https://www.niche.com/k12/d/towns-county-schools-ga/",
+            "Data": {
+                "Website": "http://www.towns.k12.ga.us/",
+                "Phone": "(706) 896-2279",
+                "Address": "67 LAKEVIEW CIRCLE STE CHIAWASSEE, GA 30546",
+                "Students": "1,024",
+                "Free or Reduced Lunch": "54.6%",
+                "Expenses/Student": "$17,938",
+                "Support Services": "34%"
+            }
+        },
+        "Laurens County Schools": {
+            "Niche": "https://www.niche.com/k12/d/laurens-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.lcboe.net/",
+                "Phone": "(478) 272-4767",
+                "Address": "467 FIRETOWER RDDUBLIN, GA 31021",
+                "Students": "6,418",
+                "Free or Reduced Lunch": "72.5%",
+                "Expenses/Student": "$11,762",
+                "Support Services": "31%"
+            }
+        },
+        "Haralson County Schools": {
+            "Niche": "https://www.niche.com/k12/d/haralson-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.haralson.k12.ga.us/",
+                "Phone": "(770) 646-3882",
+                "Address": "10 VAN WERT STBUCHANAN, GA 30113",
+                "Students": "3,350",
+                "Free or Reduced Lunch": "53.2%",
+                "Expenses/Student": "$13,506",
+                "Support Services": "32%"
+            }
+        },
+        "Lincoln County Schools": {
+            "Niche": "https://www.niche.com/k12/d/lincoln-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.lincolncountyschools.org",
+                "Phone": "(706) 359-3742",
+                "Address": "423 METASVILLE RDLINCOLNTON, GA 30817",
+                "Students": "1,174",
+                "Free or Reduced Lunch": "64.9%",
+                "Expenses/Student": "$13,427",
+                "Support Services": "37%"
+            }
+        },
+        "Bulloch County Schools": {
+            "Niche": "https://www.niche.com/k12/d/bulloch-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.bulloch.k12.ga.us/",
+                "Phone": "(912) 764-6201",
+                "Address": "150 WILLIAMS RD STE ASTATESBORO, GA 30458",
+                "Students": "11,010",
+                "Free or Reduced Lunch": "62.3%",
+                "Expenses/Student": "$11,596",
+                "Support Services": "31%"
+            }
+        },
+        "Jackson County School System": {
+            "Niche": "https://www.niche.com/k12/d/jackson-county-school-system-ga/",
+            "Data": {
+                "Website": "https://www.jacksonschoolsga.org/",
+                "Phone": "(706) 367-5151",
+                "Address": "1660 WINDER HWYJEFFERSON, GA 30549",
+                "Students": "10,021",
+                "Free or Reduced Lunch": "49.5%",
+                "Expenses/Student": "$14,028",
+                "Support Services": "33%"
+            }
+        },
+        "Putnam County Schools": {
+            "Niche": "https://www.niche.com/k12/d/putnam-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.putnam.k12.ga.us/",
+                "Phone": "(706) 485-5381",
+                "Address": "158 OLD GLENWOOD SPRINGS RDEATONTON, GA 31024",
+                "Students": "2,968",
+                "Free or Reduced Lunch": "77.4%",
+                "Expenses/Student": "$14,055",
+                "Support Services": "36%"
+            }
+        },
+        "Screven County Schools": {
+            "Niche": "https://www.niche.com/k12/d/screven-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.screven.k12.ga.us",
+                "Phone": "(912) 451-2000",
+                "Address": "382 HALCYONDALE RDSYLVANIA, GA 30467",
+                "Students": "2,069",
+                "Free or Reduced Lunch": "79.2%",
+                "Expenses/Student": "$12,551",
+                "Support Services": "36%"
+            }
+        },
+        "Echols County Schools": {
+            "Niche": "https://www.niche.com/k12/d/echols-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.echols.k12.ga.us/",
+                "Phone": "(912) 559-5734",
+                "Address": "216 HWY 129 NORTHSTATENVILLE, GA 31648",
+                "Students": "874",
+                "Free or Reduced Lunch": "91.1%",
+                "Expenses/Student": "$11,545",
+                "Support Services": "34%"
+            }
+        },
+        "Barrow County Schools": {
+            "Niche": "https://www.niche.com/k12/d/barrow-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.barrow.k12.ga.us/",
+                "Phone": "(770) 867-4527",
+                "Address": "179 W ATHENS STWINDER, GA 30680",
+                "Students": "14,355",
+                "Free or Reduced Lunch": "57.8%",
+                "Expenses/Student": "$12,832",
+                "Support Services": "31%"
+            }
+        },
+        "Chickamauga City Schools": {
+            "Niche": "https://www.niche.com/k12/d/chickamauga-city-schools-ga/",
+            "Data": {
+                "Website": "https://www.chickamaugacityschools.org/",
+                "Phone": "(706) 382-3100",
+                "Address": "402 COVE RDCHICKAMAUGA, GA 30707",
+                "Students": "1,267",
+                "Free or Reduced Lunch": "22.4%",
+                "Expenses/Student": "$12,058",
+                "Support Services": "30%"
+            }
+        },
+        "Thomas County Schools": {
+            "Niche": "https://www.niche.com/k12/d/thomas-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.thomas.k12.ga.us/",
+                "Phone": "(229) 225-4380",
+                "Address": "11343 US HWY 319NTHOMASVILLE, GA 31757",
+                "Students": "5,782",
+                "Free or Reduced Lunch": "77.6%",
+                "Expenses/Student": "$13,262",
+                "Support Services": "34%"
+            }
+        },
+        "Wheeler County Schools": {
+            "Niche": "https://www.niche.com/k12/d/wheeler-county-schools-ga/",
+            "Data": {
+                "Website": "https://wheelercountyschools.org/",
+                "Phone": "(912) 568-7198",
+                "Address": "18 MCRAE ST ALAMO, GA 30411",
+                "Students": "889",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$15,342",
+                "Support Services": "37%"
+            }
+        },
+        "Vidalia City Schools": {
+            "Niche": "https://www.niche.com/k12/d/vidalia-city-schools-ga/",
+            "Data": {
+                "Website": "https://vidaliacity.schoolinsites.com/",
+                "Phone": "(912) 537-3088",
+                "Address": "301 ADAMS STVIDALIA, GA 30474",
+                "Students": "2,446",
+                "Free or Reduced Lunch": "90.4%",
+                "Expenses/Student": "$11,331",
+                "Support Services": "34%"
+            }
+        },
+        "Franklin County Schools": {
+            "Niche": "https://www.niche.com/k12/d/franklin-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.franklin.k12.ga.us/",
+                "Phone": "(706) 384-4554",
+                "Address": "280 BUSHA RDCARNESVILLE, GA 30521",
+                "Students": "3,626",
+                "Free or Reduced Lunch": "58.9%",
+                "Expenses/Student": "$13,844",
+                "Support Services": "33%"
+            }
+        },
+        "Berrien County Schools": {
+            "Niche": "https://www.niche.com/k12/d/berrien-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.berrienschools.org/",
+                "Phone": "(912) 686-2081",
+                "Address": "100 E SMITH AVENASHVILLE, GA 31639",
+                "Students": "2,995",
+                "Free or Reduced Lunch": "83.5%",
+                "Expenses/Student": "$11,005",
+                "Support Services": "29%"
+            }
+        },
+        "Paulding County Schools": {
+            "Niche": "https://www.niche.com/k12/d/paulding-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.paulding.k12.ga.us/",
+                "Phone": "(770) 443-8000",
+                "Address": "522 HARDEE STDALLAS, GA 30132",
+                "Students": "31,129",
+                "Free or Reduced Lunch": "41.4%",
+                "Expenses/Student": "$10,657",
+                "Support Services": "31%"
+            }
+        },
+        "Candler County Schools": {
+            "Niche": "https://www.niche.com/k12/d/candler-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.metter.org/",
+                "Phone": "(912) 685-5713",
+                "Address": "210 SOUTH COLLEGE STMETTER, GA 30439",
+                "Students": "2,186",
+                "Free or Reduced Lunch": "89.9%",
+                "Expenses/Student": "$11,825",
+                "Support Services": "30%"
+            }
+        },
+        "Atkinson County Schools": {
+            "Niche": "https://www.niche.com/k12/d/atkinson-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.atkinson.k12.ga.us/",
+                "Phone": "(912) 422-7373",
+                "Address": "506 EAST ROBERTS AVEPEARSON, GA 31642",
+                "Students": "1,610",
+                "Free or Reduced Lunch": "85.4%",
+                "Expenses/Student": "$12,726",
+                "Support Services": "32%"
+            }
+        },
+        "Coffee County Schools": {
+            "Niche": "https://www.niche.com/k12/d/coffee-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.coffee.k12.ga.us/",
+                "Phone": "(912) 384-2086",
+                "Address": "1311 S PETERSON AVEDOUGLAS, GA 31533",
+                "Students": "7,569",
+                "Free or Reduced Lunch": "83.9%",
+                "Expenses/Student": "$12,405",
+                "Support Services": "34%"
+            }
+        },
+        "Decatur County Schools": {
+            "Niche": "https://www.niche.com/k12/d/decatur-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.boe.dcboe.com/",
+                "Phone": "(229) 248-2200",
+                "Address": "100 SOUTH WEST STBAINBRIDGE, GA 39817",
+                "Students": "4,433",
+                "Free or Reduced Lunch": "94.7%",
+                "Expenses/Student": "$14,146",
+                "Support Services": "32%"
+            }
+        },
+        "Tift County Schools": {
+            "Niche": "https://www.niche.com/k12/d/tift-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.tiftschools.com",
+                "Phone": "(229) 386-6500",
+                "Address": "207 NORTH RIDGE AVETIFTON, GA 31794",
+                "Students": "7,623",
+                "Free or Reduced Lunch": "94.8%",
+                "Expenses/Student": "$11,807",
+                "Support Services": "29%"
+            }
+        },
+        "Douglas County School System": {
+            "Niche": "https://www.niche.com/k12/d/douglas-county-school-system-ga/",
+            "Data": {
+                "Website": "https://www.dcssga.org/",
+                "Phone": "(770) 920-4000",
+                "Address": "11490 VETERANS MEMORIAL HWYDOUGLASVILLE, GA 30134",
+                "Students": "25,890",
+                "Free or Reduced Lunch": "62.1%",
+                "Expenses/Student": "$11,965",
+                "Support Services": "33%"
+            }
+        },
+        "Lanier County Schools": {
+            "Niche": "https://www.niche.com/k12/d/lanier-county-schools-ga/",
+            "Data": {
+                "Website": "http://www.lanier.k12.ga.us",
+                "Phone": "(912) 482-3966",
+                "Address": "HWY 221 SOUTHLAKELAND, GA 31635",
+                "Students": "1,737",
+                "Free or Reduced Lunch": "95.7%",
+                "Expenses/Student": "$12,656",
+                "Support Services": "36%"
+            }
+        },
+        "Dawson County Schools": {
+            "Niche": "https://www.niche.com/k12/d/dawson-county-schools-ga/",
+            "Data": {
+                "Website": "https://dawsoncountyschools.org/",
+                "Phone": "(706) 265-3246",
+                "Address": "517 ALLEN STDAWSONVILLE, GA 30534",
+                "Students": "3,828",
+                "Free or Reduced Lunch": "45.5%",
+                "Expenses/Student": "$14,421",
+                "Support Services": "38%"
+            }
+        },
+        "Wayne County Schools": {
+            "Niche": "https://www.niche.com/k12/d/wayne-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.wayne.k12.ga.us/",
+                "Phone": "(912) 427-1000",
+                "Address": "710 W PINE ST JESUP, GA 31545",
+                "Students": "5,101",
+                "Free or Reduced Lunch": "76.5%",
+                "Expenses/Student": "$11,676",
+                "Support Services": "33%"
+            }
+        },
+        "Troup County Schools": {
+            "Niche": "https://www.niche.com/k12/d/troup-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.troup.org/",
+                "Phone": "(706) 812-7900",
+                "Address": "200 MOOTY BRIDGE RDLAGRANGE, GA 30240",
+                "Students": "12,139",
+                "Free or Reduced Lunch": "66.7%",
+                "Expenses/Student": "$13,330",
+                "Support Services": "38%"
+            }
+        },
+        "Long County Schools": {
+            "Niche": "https://www.niche.com/k12/d/long-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.longcountyps.com",
+                "Phone": "(912) 545-2367",
+                "Address": "468 S MCDONALD STLUDOWICI, GA 31316",
+                "Students": "4,099",
+                "Free or Reduced Lunch": "76.4%",
+                "Expenses/Student": "$9,494",
+                "Support Services": "32%"
+            }
+        },
+        "Jeff Davis County Schools": {
+            "Niche": "https://www.niche.com/k12/d/jeff-davis-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.jeff-davis.k12.ga.us/",
+                "Phone": "(912) 375-6700",
+                "Address": "44 CHARLES ROGERS BLVDHAZLEHURST, GA 31539",
+                "Students": "3,074",
+                "Free or Reduced Lunch": "85.7%",
+                "Expenses/Student": "$10,905",
+                "Support Services": "35%"
+            }
+        },
+        "Emanuel County Schools": {
+            "Niche": "https://www.niche.com/k12/d/emanuel-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.emanuel.k12.ga.us/",
+                "Phone": "(478) 237-6674",
+                "Address": "201 NORTH MAIN STSWAINSBORO, GA 30401",
+                "Students": "3,988",
+                "Free or Reduced Lunch": "88.7%",
+                "Expenses/Student": "$13,056",
+                "Support Services": "33%"
+            }
+        },
+        "Jasper County Schools": {
+            "Niche": "https://www.niche.com/k12/d/jasper-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.jasper.k12.ga.us/",
+                "Phone": "(706) 468-6350",
+                "Address": "1125A FRED SMITH STMONTICELLO, GA 31064",
+                "Students": "2,364",
+                "Free or Reduced Lunch": "67.7%",
+                "Expenses/Student": "$14,203",
+                "Support Services": "37%"
+            }
+        },
+        "Walker County Schools": {
+            "Niche": "https://www.niche.com/k12/d/walker-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.walkerschools.org/",
+                "Phone": "(706) 638-1240",
+                "Address": "201 SOUTH DUKE STLAFAYETTE, GA 30728",
+                "Students": "8,366",
+                "Free or Reduced Lunch": "70.6%",
+                "Expenses/Student": "$14,077",
+                "Support Services": "31%"
+            }
+        },
+        "Jones County Schools": {
+            "Niche": "https://www.niche.com/k12/d/jones-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.jones.k12.ga.us/",
+                "Phone": "(478) 986-6580",
+                "Address": "125 STEWART AVEGRAY, GA 31032",
+                "Students": "5,121",
+                "Free or Reduced Lunch": "50.4%",
+                "Expenses/Student": "$12,004",
+                "Support Services": "32%"
+            }
+        },
+        "Oglethorpe County Schools": {
+            "Niche": "https://www.niche.com/k12/d/oglethorpe-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.oglethorpe.k12.ga.us",
+                "Phone": "(706) 743-8128",
+                "Address": "735 ATHENS RDLEXINGTON, GA 30648",
+                "Students": "2,179",
+                "Free or Reduced Lunch": "60.8%",
+                "Expenses/Student": "$12,024",
+                "Support Services": "33%"
+            }
+        },
+        "Chattahoochee County Schools": {
+            "Niche": "https://www.niche.com/k12/d/chattahoochee-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.chattahoochee.k12.ga.us",
+                "Phone": "(706) 989-3774",
+                "Address": "326 BROAD STCUSSETA, GA 31805",
+                "Students": "1,045",
+                "Free or Reduced Lunch": "76.3%",
+                "Expenses/Student": "$14,816",
+                "Support Services": "46%"
+            }
+        },
+        "Thomasville City Schools": {
+            "Niche": "https://www.niche.com/k12/d/thomasville-city-schools-ga/",
+            "Data": {
+                "Website": "https://www.tcitys.org",
+                "Phone": "(229) 225-2600",
+                "Address": "915 E JACKSON STTHOMASVILLE, GA 31792",
+                "Students": "2,788",
+                "Free or Reduced Lunch": "79.5%",
+                "Expenses/Student": "$13,030",
+                "Support Services": "37%"
+            }
+        },
+        "Colquitt County Schools": {
+            "Niche": "https://www.niche.com/k12/d/colquitt-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.colquitt.k12.ga.us/",
+                "Phone": "(229) 890-6200",
+                "Address": "710 28TH AVE SEMOULTRIE, GA 31768",
+                "Students": "8,997",
+                "Free or Reduced Lunch": "94.9%",
+                "Expenses/Student": "$12,173",
+                "Support Services": "33%"
+            }
+        },
+        "Clarke County Schools": {
+            "Niche": "https://www.niche.com/k12/d/clarke-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.clarke.k12.ga.us/",
+                "Phone": "(706) 546-7721",
+                "Address": "595 PRINCE AVEATHENS, GA 30601",
+                "Students": "12,556",
+                "Free or Reduced Lunch": "92.1%",
+                "Expenses/Student": "$16,714",
+                "Support Services": "35%"
+            }
+        },
+        "Stephens County Schools": {
+            "Niche": "https://www.niche.com/k12/d/stephens-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.stephens.k12.ga.us/",
+                "Phone": "(706) 886-9415",
+                "Address": "HWY 106 SOUTHTOCCOA, GA 30577",
+                "Students": "3,835",
+                "Free or Reduced Lunch": "71.8%",
+                "Expenses/Student": "$13,186",
+                "Support Services": "31%"
+            }
+        },
+        "Savannah-Chatham County Public School System": {
+            "Niche": "https://www.niche.com/k12/d/savannah-chatham-county-public-school-system-ga/",
+            "Data": {
+                "Website": "https://spwww.sccpss.com/Pages/default.aspx",
+                "Phone": "(912) 395-5600",
+                "Address": "208 BULL STSAVANNAH, GA 31401",
+                "Students": "35,925",
+                "Free or Reduced Lunch": "64%",
+                "Expenses/Student": "$15,012",
+                "Support Services": "36%"
+            }
+        },
+        "Bacon County Schools": {
+            "Niche": "https://www.niche.com/k12/d/bacon-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.bcraiders.com/",
+                "Phone": "(912) 632-7363",
+                "Address": "601 NORTH PIERCE STALMA, GA 31510",
+                "Students": "2,119",
+                "Free or Reduced Lunch": "73.9%",
+                "Expenses/Student": "$12,032",
+                "Support Services": "34%"
+            }
+        },
+        "Jenkins County Schools": {
+            "Niche": "https://www.niche.com/k12/d/jenkins-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.jchs.com/",
+                "Phone": "(478) 982-6000",
+                "Address": "527 BARNEY AVEMILLEN, GA 30442",
+                "Students": "1,166",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$13,112",
+                "Support Services": "35%"
+            }
+        },
+        "Montgomery County Schools": {
+            "Niche": "https://www.niche.com/k12/d/montgomery-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.montgomery.k12.ga.us/",
+                "Phone": "(912) 583-2740",
+                "Address": "305 SOUTH RICHARDSON STMT. VERNON, GA 30445",
+                "Students": "943",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$12,920",
+                "Support Services": "38%"
+            }
+        },
+        "Atlanta Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/atlanta-public-schools-ga/",
+            "Data": {
+                "Website": "https://www.atlantapublicschools.us/",
+                "Phone": "(404) 802-3500",
+                "Address": "210 PRYOR RDATLANTA, GA 30335",
+                "Students": "49,994",
+                "Free or Reduced Lunch": "76.6%",
+                "Expenses/Student": "$20,655",
+                "Support Services": "42%"
+            }
+        },
+        "Social Circle City Schools": {
+            "Niche": "https://www.niche.com/k12/d/social-circle-city-schools-ga/",
+            "Data": {
+                "Website": "https://www.socialcircleschools.com",
+                "Phone": "(770) 464-2731",
+                "Address": "240-B WEST HIGHTOWER TRAILSOCIAL CIRCLE, GA 30025",
+                "Students": "1,942",
+                "Free or Reduced Lunch": "44.6%",
+                "Expenses/Student": "$11,319",
+                "Support Services": "35%"
+            }
+        },
+        "Seminole County Schools": {
+            "Niche": "https://www.niche.com/k12/d/seminole-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.seminole.k12.ga.us/",
+                "Phone": "(229) 524-2433",
+                "Address": "800 SOUTH WOOLFORK AVEDONALSONVILLE, GA 39845",
+                "Students": "1,320",
+                "Free or Reduced Lunch": "92.6%",
+                "Expenses/Student": "$14,267",
+                "Support Services": "34%"
+            }
+        },
+        "Muscogee County Schools": {
+            "Niche": "https://www.niche.com/k12/d/muscogee-county-schools-ga/",
+            "Data": {
+                "Website": "https://muscogee.k12.ga.us/",
+                "Phone": "(706) 748-2000",
+                "Address": "1200 BRADLEY DRCOLUMBUS, GA 31901",
+                "Students": "30,085",
+                "Free or Reduced Lunch": "79.3%",
+                "Expenses/Student": "$12,420",
+                "Support Services": "35%"
+            }
+        },
+        "Pulaski County Schools": {
+            "Niche": "https://www.niche.com/k12/d/pulaski-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.pulaski.k12.ga.us",
+                "Phone": "(478) 783-7200",
+                "Address": "206 MCCORMICK AVEHAWKINSVILLE, GA 31036",
+                "Students": "1,234",
+                "Free or Reduced Lunch": "91.6%",
+                "Expenses/Student": "$12,980",
+                "Support Services": "37%"
+            }
+        },
+        "Dade County Schools": {
+            "Niche": "https://www.niche.com/k12/d/dade-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.dadecountyschools.org/",
+                "Phone": "(706) 657-4361",
+                "Address": "52 TRADITION LNTRENTON, GA 30752",
+                "Students": "2,025",
+                "Free or Reduced Lunch": "58.7%",
+                "Expenses/Student": "$12,902",
+                "Support Services": "30%"
+            }
+        },
+        "Gainesville City Schools": {
+            "Niche": "https://www.niche.com/k12/d/gainesville-city-schools-ga/",
+            "Data": {
+                "Website": "https://www.gcssk12.net/",
+                "Phone": "(770) 536-5275",
+                "Address": "508 OAK ST NWGAINESVILLE, GA 30501",
+                "Students": "7,799",
+                "Free or Reduced Lunch": "76.5%",
+                "Expenses/Student": "$12,044",
+                "Support Services": "31%"
+            }
+        },
+        "Henry County Schools": {
+            "Niche": "https://www.niche.com/k12/d/henry-county-schools-ga/",
+            "Data": {
+                "Website": "https://schoolwires.henry.k12.ga.us/",
+                "Phone": "(770) 957-6601",
+                "Address": "396 TOMLINSON STMCDONOUGH, GA 30253",
+                "Students": "42,792",
+                "Free or Reduced Lunch": "50.1%",
+                "Expenses/Student": "$12,419",
+                "Support Services": "32%"
+            }
+        },
+        "Pike County Schools": {
+            "Niche": "https://www.niche.com/k12/d/pike-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.pike.k12.ga.us/",
+                "Phone": "(770) 567-8489",
+                "Address": "115 WEST JACKSON STZEBULON, GA 30295",
+                "Students": "3,498",
+                "Free or Reduced Lunch": "43.6%",
+                "Expenses/Student": "$10,395",
+                "Support Services": "37%"
+            }
+        },
+        "Brantley County Schools": {
+            "Niche": "https://www.niche.com/k12/d/brantley-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.brantley.k12.ga.us/",
+                "Phone": "(912) 462-6176",
+                "Address": "122 SCHOOL CIRCLENAHUNTA, GA 31553",
+                "Students": "3,381",
+                "Free or Reduced Lunch": "82.7%",
+                "Expenses/Student": "$12,451",
+                "Support Services": "34%"
+            }
+        },
+        "Charlton County Schools": {
+            "Niche": "https://www.niche.com/k12/d/charlton-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.charlton.k12.ga.us/",
+                "Phone": "(912) 496-2596",
+                "Address": "37 TOUCHDOWN LNFOLKSTON, GA 31537",
+                "Students": "1,679",
+                "Free or Reduced Lunch": "76.1%",
+                "Expenses/Student": "$11,904",
+                "Support Services": "37%"
+            }
+        },
+        "Cook County Schools": {
+            "Niche": "https://www.niche.com/k12/d/cook-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.cook.k12.ga.us/",
+                "Phone": "(229) 896-2294",
+                "Address": "1109 N PARRISH AVEADEL, GA 31620",
+                "Students": "3,089",
+                "Free or Reduced Lunch": "81.5%",
+                "Expenses/Student": "$13,471",
+                "Support Services": "33%"
+            }
+        },
+        "Dodge County Schools": {
+            "Niche": "https://www.niche.com/k12/d/dodge-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.dodge.k12.ga.us/",
+                "Phone": "(478) 374-3783",
+                "Address": "700 COLLEGE STEASTMAN, GA 31023",
+                "Students": "2,861",
+                "Free or Reduced Lunch": "83.4%",
+                "Expenses/Student": "$12,177",
+                "Support Services": "30%"
+            }
+        },
+        "Wilcox County Schools": {
+            "Niche": "https://www.niche.com/k12/d/wilcox-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.wilcox.k12.ga.us/",
+                "Phone": "(912) 467-2141",
+                "Address": "103 NORTH BROAD STABBEVILLE, GA 31001",
+                "Students": "1,199",
+                "Free or Reduced Lunch": "95%",
+                "Expenses/Student": "$13,045",
+                "Support Services": "37%"
+            }
+        },
+        "Pickens County Schools": {
+            "Niche": "https://www.niche.com/k12/d/pickens-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.pickens.k12.ga.us/",
+                "Phone": "(706) 253-1700",
+                "Address": "159 STEGALL DRJASPER, GA 30143",
+                "Students": "4,120",
+                "Free or Reduced Lunch": "52.5%",
+                "Expenses/Student": "$17,417",
+                "Support Services": "38%"
+            }
+        },
+        "Glascock County Schools": {
+            "Niche": "https://www.niche.com/k12/d/glascock-county-schools-ga/",
+            "Data": {
+                "Website": "https://gccs-charters-ca.schoolloop.com/",
+                "Phone": "(706) 598-2291",
+                "Address": "738 RAILROAD AVEGIBSON, GA 30810",
+                "Students": "585",
+                "Free or Reduced Lunch": "60.4%",
+                "Expenses/Student": "$13,145",
+                "Support Services": "42%"
+            }
+        },
+        "Gilmer County Schools": {
+            "Niche": "https://www.niche.com/k12/d/gilmer-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.gilmerschools.com/",
+                "Phone": "(706) 276-5000",
+                "Address": "497 BOBCAT TRAILELLIJAY, GA 30540",
+                "Students": "4,130",
+                "Free or Reduced Lunch": "66.5%",
+                "Expenses/Student": "$13,104",
+                "Support Services": "34%"
+            }
+        },
+        "Wilkes County Schools": {
+            "Niche": "https://www.niche.com/k12/d/wilkes-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.wilkes.k12.ga.us/",
+                "Phone": "(706) 678-2718",
+                "Address": "313-A NORTH ALEXANDER AVEWASHINGTON, GA 30673",
+                "Students": "1,322",
+                "Free or Reduced Lunch": "93.8%",
+                "Expenses/Student": "$14,641",
+                "Support Services": "37%"
+            }
+        },
+        "Clinch County Schools": {
+            "Niche": "https://www.niche.com/k12/d/clinch-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.clinchcounty.com/",
+                "Phone": "(912) 487-5321",
+                "Address": "119 S COLLEGE STHOMERVILLE, GA 31634",
+                "Students": "1,254",
+                "Free or Reduced Lunch": "85.4%",
+                "Expenses/Student": "$13,010",
+                "Support Services": "35%"
+            }
+        },
+        "Chattooga County Schools": {
+            "Niche": "https://www.niche.com/k12/d/chattooga-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.chattooga.k12.ga.us/",
+                "Phone": "(706) 857-3447",
+                "Address": "33 MIDDLE SCHOOL RDSUMMERVILLE, GA 30747",
+                "Students": "2,537",
+                "Free or Reduced Lunch": "76.2%",
+                "Expenses/Student": "$12,855",
+                "Support Services": "34%"
+            }
+        },
+        "Lamar County Schools": {
+            "Niche": "https://www.niche.com/k12/d/lamar-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.lamar.k12.ga.us/",
+                "Phone": "(770) 358-5891",
+                "Address": "#3 TROJAN WAYBARNESVILLE, GA 30204",
+                "Students": "2,773",
+                "Free or Reduced Lunch": "69.7%",
+                "Expenses/Student": "$12,115",
+                "Support Services": "36%"
+            }
+        },
+        "Polk County Schools": {
+            "Niche": "https://www.niche.com/k12/d/polk-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.polk.k12.ga.us/",
+                "Phone": "(770) 748-3821",
+                "Address": "612 SOUTH COLLEGE STCEDARTOWN, GA 30125",
+                "Students": "7,854",
+                "Free or Reduced Lunch": "83.1%",
+                "Expenses/Student": "$11,972",
+                "Support Services": "27%"
+            }
+        },
+        "Butts County Schools": {
+            "Niche": "https://www.niche.com/k12/d/butts-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.bcssk12.org/",
+                "Phone": "(770) 504-2300",
+                "Address": "181 N MULBERRY STJACKSON, GA 30233",
+                "Students": "3,519",
+                "Free or Reduced Lunch": "86.9%",
+                "Expenses/Student": "$11,762",
+                "Support Services": "36%"
+            }
+        },
+        "Murray County Schools": {
+            "Niche": "https://www.niche.com/k12/d/murray-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.murray.k12.ga.us/",
+                "Phone": "(706) 695-4531",
+                "Address": "715 CHESTNUT STCHATSWORTH, GA 30705",
+                "Students": "6,874",
+                "Free or Reduced Lunch": "77.7%",
+                "Expenses/Student": "$11,308",
+                "Support Services": "32%"
+            }
+        },
+        "Webster County Schools": {
+            "Niche": "https://www.niche.com/k12/d/webster-county-schools-ga/",
+            "Data": {
+                "Website": "http://www.websterbobcats.org",
+                "Phone": "(229) 828-3315",
+                "Address": "HWY 280 EASTPRESTON, GA 31824",
+                "Students": "254",
+                "Free or Reduced Lunch": "75.5%",
+                "Expenses/Student": "$18,083",
+                "Support Services": "34%"
+            }
+        },
+        "Valdosta City Schools": {
+            "Niche": "https://www.niche.com/k12/d/valdosta-city-schools-ga/",
+            "Data": {
+                "Website": "https://www.gocats.org/",
+                "Phone": "(912) 333-8500",
+                "Address": "1204 WILLIAMS STVALDOSTA, GA 31601",
+                "Students": "8,294",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$11,684",
+                "Support Services": "35%"
+            }
+        },
+        "Elbert County Schools": {
+            "Niche": "https://www.niche.com/k12/d/elbert-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.elbert.k12.ga.us",
+                "Phone": "(706) 213-4000",
+                "Address": "50 LAUREL DRELBERTON, GA 30635",
+                "Students": "3,030",
+                "Free or Reduced Lunch": "83.8%",
+                "Expenses/Student": "$12,091",
+                "Support Services": "37%"
+            }
+        },
+        "Telfair County Schools": {
+            "Niche": "https://www.niche.com/k12/d/telfair-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.telfairschools.org",
+                "Phone": "(229) 868-5661",
+                "Address": "910 W HUCKABEE STMCRAE, GA 31055",
+                "Students": "1,606",
+                "Free or Reduced Lunch": "93.8%",
+                "Expenses/Student": "$17,232",
+                "Support Services": "30%"
+            }
+        },
+        "Johnson County Schools": {
+            "Niche": "https://www.niche.com/k12/d/johnson-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.johnson.k12.ga.us/",
+                "Phone": "(478) 864-3302",
+                "Address": "325 LEE STWRIGHTSVILLE, GA 31096",
+                "Students": "1,020",
+                "Free or Reduced Lunch": "90.1%",
+                "Expenses/Student": "$13,260",
+                "Support Services": "36%"
+            }
+        },
+        "Miller County Schools": {
+            "Niche": "https://www.niche.com/k12/d/miller-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.miller.k12.ga.us/",
+                "Phone": "(229) 758-5592",
+                "Address": "111 NORTH FIRST STCOLQUITT, GA 39837",
+                "Students": "740",
+                "Free or Reduced Lunch": "90.2%",
+                "Expenses/Student": "$15,947",
+                "Support Services": "40%"
+            }
+        },
+        "Grady County Schools": {
+            "Niche": "https://www.niche.com/k12/d/grady-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.grady.k12.ga.us/",
+                "Phone": "(229) 377-3701",
+                "Address": "122 NOTH BROAD STCAIRO, GA 39828",
+                "Students": "4,484",
+                "Free or Reduced Lunch": "90.2%",
+                "Expenses/Student": "$13,997",
+                "Support Services": "31%"
+            }
+        },
+        "Liberty County Schools": {
+            "Niche": "https://www.niche.com/k12/d/liberty-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.liberty.k12.ga.us/",
+                "Phone": "(912) 876-2161",
+                "Address": "200 BRADWELL STHINESVILLE, GA 31313",
+                "Students": "10,418",
+                "Free or Reduced Lunch": "66.7%",
+                "Expenses/Student": "$12,189",
+                "Support Services": "34%"
+            }
+        },
+        "Thomaston-Upson County Schools": {
+            "Niche": "https://www.niche.com/k12/d/thomaston-upson-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.upson.k12.ga.us/",
+                "Phone": "(706) 647-9621",
+                "Address": "205 CIVIC CENTER DRTHOMASTON, GA 30286",
+                "Students": "4,049",
+                "Free or Reduced Lunch": "81.6%",
+                "Expenses/Student": "$12,006",
+                "Support Services": "35%"
+            }
+        },
+        "Treutlen County Schools": {
+            "Niche": "https://www.niche.com/k12/d/treutlen-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.treutlen.k12.ga.us/",
+                "Phone": "(912) 529-4228",
+                "Address": "202 THIRD STSOPERTON, GA 30457",
+                "Students": "1,066",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$12,497",
+                "Support Services": "31%"
+            }
+        },
+        "Warren County Schools": {
+            "Niche": "https://www.niche.com/k12/d/warren-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.warren.k12.ga.us/",
+                "Phone": "(706) 465-3383",
+                "Address": "107 ACADEMY STWARRENTON, GA 30828",
+                "Students": "622",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$18,486",
+                "Support Services": "42%"
+            }
+        },
+        "Washington County Schools": {
+            "Niche": "https://www.niche.com/k12/d/washington-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.washingtoncountyschoolsga.org/",
+                "Phone": "(912) 552-3981",
+                "Address": "501 INDUSTRIAL DRSANDERSVILLE, GA 31082",
+                "Students": "2,941",
+                "Free or Reduced Lunch": "82.4%",
+                "Expenses/Student": "$12,176",
+                "Support Services": "38%"
+            }
+        },
+        "Tattnall County Schools": {
+            "Niche": "https://www.niche.com/k12/d/tattnall-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.tattnallschools.org/",
+                "Phone": "(912) 557-4726",
+                "Address": "147 BRAZELL STREIDSVILLE, GA 30453",
+                "Students": "3,604",
+                "Free or Reduced Lunch": "88.7%",
+                "Expenses/Student": "$11,852",
+                "Support Services": "32%"
+            }
+        },
+        "Banks County Schools": {
+            "Niche": "https://www.niche.com/k12/d/banks-county-schools-ga/",
+            "Data": {
+                "Website": "http://www.banks.k12.ga.us",
+                "Phone": "(706) 677-2224",
+                "Address": "102 HWY 51 SOUTHHOMER, GA 30547",
+                "Students": "2,813",
+                "Free or Reduced Lunch": "60.7%",
+                "Expenses/Student": "$12,467",
+                "Support Services": "31%"
+            }
+        },
+        "Evans County Schools": {
+            "Niche": "https://www.niche.com/k12/d/evans-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.evans.k12.ga.us",
+                "Phone": "(912) 739-3544",
+                "Address": "613 WEST MAIN STCLAXTON, GA 30417",
+                "Students": "1,826",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$15,941",
+                "Support Services": "42%"
+            }
+        },
+        "Newton County Schools": {
+            "Niche": "https://www.niche.com/k12/d/newton-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.newtoncountyschools.org/",
+                "Phone": "(770) 787-1330",
+                "Address": "3187 NEWTON DR NECOVINGTON, GA 30014",
+                "Students": "18,785",
+                "Free or Reduced Lunch": "69.2%",
+                "Expenses/Student": "$12,667",
+                "Support Services": "32%"
+            }
+        },
+        "Rockdale County Schools": {
+            "Niche": "https://www.niche.com/k12/d/rockdale-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.rockdaleschools.org/",
+                "Phone": "(770) 483-4713",
+                "Address": "954 NORTH MAIN STCONYERS, GA 30012",
+                "Students": "15,601",
+                "Free or Reduced Lunch": "70.6%",
+                "Expenses/Student": "$14,041",
+                "Support Services": "34%"
+            }
+        },
+        "Peach County Schools": {
+            "Niche": "https://www.niche.com/k12/d/peach-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.peachschools.org/",
+                "Phone": "(478) 825-5933",
+                "Address": "900 CAMPUS DRFORT VALLEY, GA 31030",
+                "Students": "3,754",
+                "Free or Reduced Lunch": "87.5%",
+                "Expenses/Student": "$13,485",
+                "Support Services": "38%"
+            }
+        },
+        "Dekalb County Schools": {
+            "Niche": "https://www.niche.com/k12/d/dekalb-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.dekalbschoolsga.org/",
+                "Phone": "(678) 676-1200",
+                "Address": "3770 N DECATUR RDDECATUR, GA 30032",
+                "Students": "93,473",
+                "Free or Reduced Lunch": "71.5%",
+                "Expenses/Student": "$15,146",
+                "Support Services": "33%"
+            }
+        },
+        "Sumter County Schools": {
+            "Niche": "https://www.niche.com/k12/d/sumter-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.sumterschools.org/",
+                "Phone": "(229) 931-8500",
+                "Address": "100 LEARNING LNAMERICUS, GA 31719",
+                "Students": "3,620",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$20,807",
+                "Support Services": "35%"
+            }
+        },
+        "Early County Schools": {
+            "Niche": "https://www.niche.com/k12/d/early-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.early.k12.ga.us",
+                "Phone": "(229) 723-4337",
+                "Address": "11927 COLUMBIA STBLAKELY, GA 39823",
+                "Students": "1,709",
+                "Free or Reduced Lunch": "96.3%",
+                "Expenses/Student": "$15,948",
+                "Support Services": "34%"
+            }
+        },
+        "Burke County Schools": {
+            "Niche": "https://www.niche.com/k12/d/burke-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.burke.k12.ga.us/",
+                "Phone": "(706) 554-5101",
+                "Address": "789 PERIMETER RDWAYNESBORO, GA 30830",
+                "Students": "4,098",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$16,763",
+                "Support Services": "38%"
+            }
+        },
+        "Crisp County Schools": {
+            "Niche": "https://www.niche.com/k12/d/crisp-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.crispschools.org/",
+                "Phone": "(229) 276-3400",
+                "Address": "201 7TH ST SOUTHCORDELE, GA 31015",
+                "Students": "3,687",
+                "Free or Reduced Lunch": "97.6%",
+                "Expenses/Student": "$19,230",
+                "Support Services": "36%"
+            }
+        },
+        "Pelham City Schools": {
+            "Niche": "https://www.niche.com/k12/d/pelham-city-schools-ga/",
+            "Data": {
+                "Website": "https://www.pelham-city.k12.ga.us",
+                "Phone": "(229) 294-8715",
+                "Address": "188 WEST RAILROAD ST SOUTHPELHAM, GA 31779",
+                "Students": "1,387",
+                "Free or Reduced Lunch": "99.5%",
+                "Expenses/Student": "$15,219",
+                "Support Services": "33%"
+            }
+        },
+        "Stewart County Schools": {
+            "Niche": "https://www.niche.com/k12/d/stewart-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.stewart.k12.ga.us/",
+                "Phone": "(229) 838-4329",
+                "Address": "OLD EUFAULA HWYLUMPKIN, GA 31815",
+                "Students": "416",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$21,404",
+                "Support Services": "44%"
+            }
+        },
+        "Worth County Schools": {
+            "Niche": "https://www.niche.com/k12/d/worth-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.worthschools.net",
+                "Phone": "(229) 776-8600",
+                "Address": "504 EAST PRICE STSYLVESTER, GA 31791",
+                "Students": "3,081",
+                "Free or Reduced Lunch": "92.6%",
+                "Expenses/Student": "$11,505",
+                "Support Services": "36%"
+            }
+        },
+        "McIntosh County Schools": {
+            "Niche": "https://www.niche.com/k12/d/mcintosh-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.mcintosh.k12.ga.us/",
+                "Phone": "(912) 437-6645",
+                "Address": "200 PINE STDARIEN, GA 31305",
+                "Students": "1,263",
+                "Free or Reduced Lunch": "80.8%",
+                "Expenses/Student": "$14,122",
+                "Support Services": "42%"
+            }
+        },
+        "Baldwin County Schools": {
+            "Niche": "https://www.niche.com/k12/d/baldwin-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.baldwincountyschoolsga.org/",
+                "Phone": "(478) 453-4176",
+                "Address": "110 N ABC STMILLEDGEVILLE, GA 31061",
+                "Students": "4,856",
+                "Free or Reduced Lunch": "83.2%",
+                "Expenses/Student": "$14,735",
+                "Support Services": "36%"
+            }
+        },
+        "Taylor County Schools": {
+            "Niche": "https://www.niche.com/k12/d/taylor-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.taylorcountyschools.org/",
+                "Phone": "(478) 862-5224",
+                "Address": "23 MULBERRY ST BUTLER, GA 31006",
+                "Students": "1,268",
+                "Free or Reduced Lunch": "72.8%",
+                "Expenses/Student": "$15,191",
+                "Support Services": "34%"
+            }
+        },
+        "Griffin-Spalding County School System": {
+            "Niche": "https://www.niche.com/k12/d/griffin-spalding-county-school-system-ga/",
+            "Data": {
+                "Website": "https://www.spalding.k12.ga.us/",
+                "Phone": "(770) 229-3700",
+                "Address": "216 SOUTH SIXTH STGRIFFIN, GA 30224",
+                "Students": "9,540",
+                "Free or Reduced Lunch": "75.3%",
+                "Expenses/Student": "$13,527",
+                "Support Services": "37%"
+            }
+        },
+        "Dublin City Schools": {
+            "Niche": "https://www.niche.com/k12/d/dublin-city-schools-ga/",
+            "Data": {
+                "Website": "https://www.dublincityschools.us/",
+                "Phone": "(478) 272-3440",
+                "Address": "207 SHAMROCK DRDUBLIN, GA 31021",
+                "Students": "2,336",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$12,638",
+                "Support Services": "42%"
+            }
+        },
+        "Terrell County Schools": {
+            "Niche": "https://www.niche.com/k12/d/terrell-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.terrell.k12.ga.us/",
+                "Phone": "(229) 995-4425",
+                "Address": "955 FORRESTER DR SEDAWSON, GA 31742",
+                "Students": "1,044",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$16,064",
+                "Support Services": "43%"
+            }
+        },
+        "Taliaferro County Schools": {
+            "Niche": "https://www.niche.com/k12/d/taliaferro-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.taliaferro.k12.ga.us/",
+                "Phone": "(706) 456-2575",
+                "Address": "557 BROAD STCRAWFORDVILLE, GA 30631",
+                "Students": "176",
+                "Free or Reduced Lunch": "97.4%",
+                "Expenses/Student": "$30,352",
+                "Support Services": "49%"
+            }
+        },
+        "Dougherty County Schools": {
+            "Niche": "https://www.niche.com/k12/d/dougherty-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.docoschools.org/",
+                "Phone": "(229) 431-1285",
+                "Address": "200 PINE AVEALBANY, GA 31701",
+                "Students": "13,049",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$14,825",
+                "Support Services": "42%"
+            }
+        },
+        "Turner County Schools": {
+            "Niche": "https://www.niche.com/k12/d/turner-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.turner.k12.ga.us/",
+                "Phone": "(229) 567-3338",
+                "Address": "423 N CLEVELAND STASHBURN, GA 31714",
+                "Students": "1,156",
+                "Free or Reduced Lunch": "94.5%",
+                "Expenses/Student": "$14,424",
+                "Support Services": "42%"
+            }
+        },
+        "Brooks County Schools": {
+            "Niche": "https://www.niche.com/k12/d/brooks-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.brooks.k12.ga.us/",
+                "Phone": "(229) 263-7531",
+                "Address": "704 N TALLOKAS RDQUITMAN, GA 31643",
+                "Students": "2,114",
+                "Free or Reduced Lunch": "95.8%",
+                "Expenses/Student": "$15,055",
+                "Support Services": "43%"
+            }
+        },
+        "Richmond County Schools": {
+            "Niche": "https://www.niche.com/k12/d/richmond-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.rcboe.org/",
+                "Phone": "(706) 826-1000",
+                "Address": "864 BROAD STAUGUSTA, GA 30901",
+                "Students": "29,470",
+                "Free or Reduced Lunch": "96.7%",
+                "Expenses/Student": "$13,102",
+                "Support Services": "37%"
+            }
+        },
+        "McDuffie County Schools": {
+            "Niche": "https://www.niche.com/k12/d/mcduffie-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.mcduffie.k12.ga.us",
+                "Phone": "(706) 986-4000",
+                "Address": "716 N LEE STTHOMSON, GA 30824",
+                "Students": "3,334",
+                "Free or Reduced Lunch": "74.9%",
+                "Expenses/Student": "$12,816",
+                "Support Services": "36%"
+            }
+        },
+        "Calhoun County Schools": {
+            "Niche": "https://www.niche.com/k12/d/calhoun-county-schools-ga/",
+            "Data": {
+                "Website": "https://al01901382.schoolwires.net/",
+                "Phone": "(229) 849-2765",
+                "Address": "10877 DICKEY STMORGAN, GA 39866",
+                "Students": "470",
+                "Free or Reduced Lunch": "98.8%",
+                "Expenses/Student": "$46,700",
+                "Support Services": "51%"
+            }
+        },
+        "Clayton County Schools": {
+            "Niche": "https://www.niche.com/k12/d/clayton-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.clayton.k12.ga.us/",
+                "Phone": "(770) 473-2700",
+                "Address": "1058 FIFTH AVEJONESBORO, GA 30236",
+                "Students": "52,335",
+                "Free or Reduced Lunch": "99.5%",
+                "Expenses/Student": "$12,353",
+                "Support Services": "34%"
+            }
+        },
+        "Bibb County Schools": {
+            "Niche": "https://www.niche.com/k12/d/bibb-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.bcsdk12.net/",
+                "Phone": "(478) 765-8711",
+                "Address": "484 MULBERRY STMACON, GA 31201",
+                "Students": "21,159",
+                "Free or Reduced Lunch": "98.8%",
+                "Expenses/Student": "$15,586",
+                "Support Services": "37%"
+            }
+        },
+        "Wilkinson County Schools": {
+            "Niche": "https://www.niche.com/k12/d/wilkinson-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.wilkinson.k12.ga.us/",
+                "Phone": "(478) 946-5521",
+                "Address": "197 WEST MAIN STIRWINTON, GA 31042",
+                "Students": "1,120",
+                "Free or Reduced Lunch": "93.6%",
+                "Expenses/Student": "$15,333",
+                "Support Services": "44%"
+            }
+        },
+        "Meriwether County School System": {
+            "Niche": "https://www.niche.com/k12/d/meriwether-county-school-system-ga/",
+            "Data": {
+                "Website": "https://www.mcssga.org/",
+                "Phone": "(706) 441-0601",
+                "Address": "2100 GASTON STGREENVILLE, GA 30222",
+                "Students": "2,369",
+                "Free or Reduced Lunch": "91.7%",
+                "Expenses/Student": "$13,666",
+                "Support Services": "41%"
+            }
+        },
+        "Ben Hill County Schools": {
+            "Niche": "https://www.niche.com/k12/d/ben-hill-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.ben-hill.k12.ga.us",
+                "Phone": "(912) 426-5500",
+                "Address": "509 WEST PALM STFITZGERALD, GA 31750",
+                "Students": "3,066",
+                "Free or Reduced Lunch": "98.5%",
+                "Expenses/Student": "$13,205",
+                "Support Services": "30%"
+            }
+        },
+        "Mitchell County Schools": {
+            "Niche": "https://www.niche.com/k12/d/mitchell-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.mitchell.k12.ga.us",
+                "Phone": "(229) 321-7002",
+                "Address": "108 SOUTH HARNEY STCAMILLA, GA 31730",
+                "Students": "1,250",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$21,089",
+                "Support Services": "39%"
+            }
+        },
+        "Jefferson County Schools": {
+            "Niche": "https://www.niche.com/k12/d/jefferson-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.jefferson.k12.ga.us/Page/1",
+                "Phone": "(478) 625-7626",
+                "Address": "1001 PEACHTREE STLOUISVILLE, GA 30434",
+                "Students": "2,149",
+                "Free or Reduced Lunch": "97.5%",
+                "Expenses/Student": "$16,676",
+                "Support Services": "35%"
+            }
+        },
+        "Baker County Schools": {
+            "Niche": "https://www.niche.com/k12/d/baker-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.baker.k12.ga.us/",
+                "Phone": "(229) 734-5346",
+                "Address": "400 HILLCREST DRNEWTON, GA 31770",
+                "Students": "305",
+                "Free or Reduced Lunch": "93.4%",
+                "Expenses/Student": "$18,577",
+                "Support Services": "43%"
+            }
+        },
+        "Hancock County Schools": {
+            "Niche": "https://www.niche.com/k12/d/hancock-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.hancock.k12.ga.us/",
+                "Phone": "(706) 444-5775",
+                "Address": "10571 HWY 15 NORTHSPARTA, GA 31087",
+                "Students": "726",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$22,028",
+                "Support Services": "49%"
+            }
+        },
+        "Quitman County Schools": {
+            "Niche": "https://www.niche.com/k12/d/quitman-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.quitman.k12.ga.us",
+                "Phone": "(229) 334-4298",
+                "Address": "215 KAIGLER RDGEORGETOWN, GA 39854",
+                "Students": "267",
+                "Free or Reduced Lunch": "99.7%",
+                "Expenses/Student": "$22,513",
+                "Support Services": "48%"
+            }
+        },
+        "Randolph County Schools": {
+            "Niche": "https://www.niche.com/k12/d/randolph-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.sowegak12.org/home",
+                "Phone": "(229) 732-3601",
+                "Address": "1208 ANDREW STCUTHBERT, GA 39840",
+                "Students": "715",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$18,024",
+                "Support Services": "48%"
+            }
+        },
+        "Talbot County Schools": {
+            "Niche": "https://www.niche.com/k12/d/talbot-county-schools-ga/",
+            "Data": {
+                "Website": "http://www.talbot.k12.ga.us/",
+                "Phone": "(706) 665-8528",
+                "Address": "405 TYLER STTALBOTTON, GA 31827",
+                "Students": "417",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$24,899",
+                "Support Services": "41%"
+            }
+        },
+        "Crawford County Schools": {
+            "Niche": "https://www.niche.com/k12/d/crawford-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.crawfordschools.org/",
+                "Phone": "(478) 836-3131",
+                "Address": "348 CRUSSELLE STROBERTA, GA 31078",
+                "Students": "1,612",
+                "Free or Reduced Lunch": "94.1%",
+                "Expenses/Student": "$12,433",
+                "Support Services": "34%"
+            }
+        },
+        "Twiggs County Schools": {
+            "Niche": "https://www.niche.com/k12/d/twiggs-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.twiggs.k12.ga.us/",
+                "Phone": "(478) 945-3127",
+                "Address": "952 MAIN STJEFFERSONVILLE, GA 31044",
+                "Students": "717",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$16,285",
+                "Support Services": "49%"
+            }
+        },
+        "Macon County Schools": {
+            "Niche": "https://www.niche.com/k12/d/macon-county-schools-ga/",
+            "Data": {
+                "Website": "https://macon.k12.ga.us/",
+                "Phone": "(478) 472-8188",
+                "Address": "HWY 49OGLETHORPE, GA 31068",
+                "Students": "1,155",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$15,845",
+                "Support Services": "46%"
+            }
+        },
+        "Dooly County Schools": {
+            "Niche": "https://www.niche.com/k12/d/dooly-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.dooly.k12.ga.us/",
+                "Phone": "(229) 268-4761",
+                "Address": "202 COTTON STVIENNA, GA 31092",
+                "Students": "1,126",
+                "Free or Reduced Lunch": "64.8%",
+                "Expenses/Student": "$14,506",
+                "Support Services": "38%"
+            }
+        },
+        "Clay County Schools": {
+            "Niche": "https://www.niche.com/k12/d/clay-county-schools-ga/",
+            "Data": {
+                "Website": "https://www.clay.k12.ga.us/",
+                "Phone": "(229) 768-2232",
+                "Address": "111 COMMERCE STFORT GAINES, GA 39851",
+                "Students": "201",
+                "Free or Reduced Lunch": "94.7%",
+                "Expenses/Student": "$25,816",
+                "Support Services": "49%"
+            }
+        }
+    }
+}

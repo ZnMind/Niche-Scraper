@@ -1,0 +1,1648 @@
+{
+    "Districts": {
+        "Westport School District": {
+            "Niche": "https://www.niche.com/k12/d/westport-school-district-ct/",
+            "Data": {
+                "Website": "https://www.westportps.org/",
+                "Phone": "(203) 341-1025",
+                "Address": "110 MYRTLE AVEWESTPORT, CT 06880",
+                "Students": "5,303",
+                "Free or Reduced Lunch": "3.8%",
+                "Expenses/Student": "$26,565",
+                "Support Services": "37%"
+            }
+        },
+        "New Canaan Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/new-canaan-public-schools-ct/",
+            "Data": {
+                "Website": "https://www.ncps-k12.org/",
+                "Phone": "(203) 594-4000",
+                "Address": "220 ELM STNEW CANAAN, CT 06840",
+                "Students": "4,175",
+                "Free or Reduced Lunch": "0%",
+                "Expenses/Student": "$26,238",
+                "Support Services": "39%"
+            }
+        },
+        "Wilton Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/wilton-public-schools-ct/",
+            "Data": {
+                "Website": "https://www.wiltonps.org/",
+                "Phone": "(203) 762-3381",
+                "Address": "395 DANBURY RDWILTON, CT 06897",
+                "Students": "3,734",
+                "Free or Reduced Lunch": "1.7%",
+                "Expenses/Student": "$27,027",
+                "Support Services": "42%"
+            }
+        },
+        "Darien School District": {
+            "Niche": "https://www.niche.com/k12/d/darien-school-district-ct/",
+            "Data": {
+                "Website": "https://www.darienps.org/",
+                "Phone": "(203) 656-7400",
+                "Address": "2 RENSHAW RDDARIEN, CT 06820",
+                "Students": "4,724",
+                "Free or Reduced Lunch": "2.2%",
+                "Expenses/Student": "$25,866",
+                "Support Services": "39%"
+            }
+        },
+        "Greenwich Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/greenwich-public-schools-ct/",
+            "Data": {
+                "Website": "https://www.greenwichschools.org/",
+                "Phone": "(203) 625-7400",
+                "Address": "290 GREENWICH AVEGREENWICH, CT 06830",
+                "Students": "8,605",
+                "Free or Reduced Lunch": "14.8%",
+                "Expenses/Student": "$30,482",
+                "Support Services": "28%"
+            }
+        },
+        "Ridgefield School District": {
+            "Niche": "https://www.niche.com/k12/d/ridgefield-school-district-ct/",
+            "Data": {
+                "Website": "https://www.ridgefield.org/",
+                "Phone": "(203) 894-5550",
+                "Address": "90 EAST RIDGE RDRIDGEFIELD, CT 06877",
+                "Students": "4,549",
+                "Free or Reduced Lunch": "2.2%",
+                "Expenses/Student": "$26,089",
+                "Support Services": "36%"
+            }
+        },
+        "Glastonbury Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/glastonbury-public-schools-ct/",
+            "Data": {
+                "Website": "https://www.glastonburyus.org/",
+                "Phone": "(860) 652-7951",
+                "Address": "628 HEBRON AVEGLASTONBURY, CT 06033",
+                "Students": "5,677",
+                "Free or Reduced Lunch": "9.9%",
+                "Expenses/Student": "$23,394",
+                "Support Services": "36%"
+            }
+        },
+        "Madison Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/madison-public-schools-ct/",
+            "Data": {
+                "Website": "https://www.madison.k12.ct.us/",
+                "Phone": "(203) 245-6300",
+                "Address": "10 CAMPUS DRMADISON, CT 06443",
+                "Students": "2,437",
+                "Free or Reduced Lunch": "4.6%",
+                "Expenses/Student": "$27,344",
+                "Support Services": "39%"
+            }
+        },
+        "Farmington School District": {
+            "Niche": "https://www.niche.com/k12/d/farmington-school-district-ct/",
+            "Data": {
+                "Website": "https://www.fpsct.org/",
+                "Phone": "(860) 673-8270",
+                "Address": "ONE MONTEITH DRFARMINGTON, CT 06032",
+                "Students": "4,100",
+                "Free or Reduced Lunch": "10.5%",
+                "Expenses/Student": "$21,959",
+                "Support Services": "37%"
+            }
+        },
+        "Avon School District": {
+            "Niche": "https://www.niche.com/k12/d/avon-school-district-ct/",
+            "Data": {
+                "Website": "https://www.avon.k12.ct.us/",
+                "Phone": "(860) 404-4700",
+                "Address": "34 SIMSBURY RDAVON, CT 06001",
+                "Students": "3,107",
+                "Free or Reduced Lunch": "6.1%",
+                "Expenses/Student": "$22,577",
+                "Support Services": "33%"
+            }
+        },
+        "Cheshire Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/cheshire-public-schools-ct/",
+            "Data": {
+                "Website": "https://www.cheshire.k12.ct.us/",
+                "Phone": "(203) 250-2400",
+                "Address": "29 MAIN STCHESHIRE, CT 06410",
+                "Students": "4,184",
+                "Free or Reduced Lunch": "8.6%",
+                "Expenses/Student": "$21,215",
+                "Support Services": "35%"
+            }
+        },
+        "Amity Regional School District No. 5": {
+            "Niche": "https://www.niche.com/k12/d/amity-regional-school-district-no-5-ct/",
+            "Data": {
+                "Website": "https://www.amityregion5.org/",
+                "Phone": "(203) 397-4811",
+                "Address": "25 NEWTON RDWOODBRIDGE, CT 06525",
+                "Students": "2,124",
+                "Free or Reduced Lunch": "5.4%",
+                "Expenses/Student": "$24,195",
+                "Support Services": "43%"
+            }
+        },
+        "West Hartford School District": {
+            "Niche": "https://www.niche.com/k12/d/west-hartford-school-district-ct/",
+            "Data": {
+                "Website": "https://www.whps.org/",
+                "Phone": "(860) 561-6600",
+                "Address": "50 SOUTH MAIN STWEST HARTFORD, CT 06107",
+                "Students": "9,098",
+                "Free or Reduced Lunch": "21%",
+                "Expenses/Student": "$23,751",
+                "Support Services": "38%"
+            }
+        },
+        "East Lyme School District": {
+            "Niche": "https://www.niche.com/k12/d/east-lyme-school-district-ct/",
+            "Data": {
+                "Website": "https://www.eastlymeschools.org/",
+                "Phone": "(860) 739-3966",
+                "Address": "165 BOSTON POST RDEAST LYME, CT 06333",
+                "Students": "2,638",
+                "Free or Reduced Lunch": "15.8%",
+                "Expenses/Student": "$26,405",
+                "Support Services": "37%"
+            }
+        },
+        "Weston School District": {
+            "Niche": "https://www.niche.com/k12/d/weston-school-district-ct/",
+            "Data": {
+                "Website": "https://westonps.org/",
+                "Phone": "(203) 221-6550",
+                "Address": "24 SCHOOL RDWESTON, CT 06883",
+                "Students": "2,226",
+                "Free or Reduced Lunch": "2.2%",
+                "Expenses/Student": "$28,399",
+                "Support Services": "41%"
+            }
+        },
+        "Fairfield School District": {
+            "Niche": "https://www.niche.com/k12/d/fairfield-school-district-ct/",
+            "Data": {
+                "Website": "https://fairfieldschools.org/",
+                "Phone": "(203) 255-8371",
+                "Address": "501 KINGS HWY EASTFAIRFIELD, CT 06825",
+                "Students": "9,297",
+                "Free or Reduced Lunch": "9.9%",
+                "Expenses/Student": "$24,147",
+                "Support Services": "37%"
+            }
+        },
+        "Simsbury School District": {
+            "Niche": "https://www.niche.com/k12/d/simsbury-school-district-ct/",
+            "Data": {
+                "Website": "https://www.simsbury.k12.ct.us/",
+                "Phone": "(860) 651-3361",
+                "Address": "933 HOPMEADOW STSIMSBURY, CT 06070",
+                "Students": "4,065",
+                "Free or Reduced Lunch": "9.7%",
+                "Expenses/Student": "$26,095",
+                "Support Services": "36%"
+            }
+        },
+        "Newtown School District": {
+            "Niche": "https://www.niche.com/k12/d/newtown-school-district-ct/",
+            "Data": {
+                "Website": "https://www.newtown.k12.ct.us/",
+                "Phone": "(203) 426-7620",
+                "Address": "3 PRIMROSE STNEWTOWN, CT 06470",
+                "Students": "4,030",
+                "Free or Reduced Lunch": "8.5%",
+                "Expenses/Student": "$24,580",
+                "Support Services": "43%"
+            }
+        },
+        "Guilford Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/guilford-public-schools-ct/",
+            "Data": {
+                "Website": "https://www.guilfordschools.org/",
+                "Phone": "(203) 453-8200",
+                "Address": "55 PARK STGUILFORD, CT 06437",
+                "Students": "3,106",
+                "Free or Reduced Lunch": "8.9%",
+                "Expenses/Student": "$25,052",
+                "Support Services": "38%"
+            }
+        },
+        "Regional School District No. 12": {
+            "Niche": "https://www.niche.com/k12/d/regional-school-district-no-12-ct/",
+            "Data": {
+                "Website": "https://www.region-12.org/",
+                "Phone": "(860) 868-6100",
+                "Address": "11A SCHOOL STWASHINGTON DEPOT, CT 06794",
+                "Students": "762",
+                "Free or Reduced Lunch": "9.1%",
+                "Expenses/Student": "$54,306",
+                "Support Services": "51%"
+            }
+        },
+        "Trumbull Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/trumbull-public-schools-ct/",
+            "Data": {
+                "Website": "https://www.trumbullps.org/",
+                "Phone": "(203) 452-4301",
+                "Address": "6254 MAIN STTRUMBULL, CT 06611",
+                "Students": "6,868",
+                "Free or Reduced Lunch": "9.6%",
+                "Expenses/Student": "$20,911",
+                "Support Services": "42%"
+            }
+        },
+        "Monroe School District": {
+            "Niche": "https://www.niche.com/k12/d/monroe-school-district-ct/",
+            "Data": {
+                "Website": "https://www.monroeps.org/",
+                "Phone": "(203) 452-2860",
+                "Address": "375 MONROE TURNPIKEMONROE, CT 06468",
+                "Students": "3,332",
+                "Free or Reduced Lunch": "8.3%",
+                "Expenses/Student": "$20,693",
+                "Support Services": "38%"
+            }
+        },
+        "Learn": {
+            "Niche": "https://www.niche.com/k12/d/learn-ct/",
+            "Data": {
+                "Website": "https://www.learn.k12.ct.us/",
+                "Phone": "(860) 434-4800",
+                "Address": "44 HATCHETTS HILL RDOLD LYME, CT 06371",
+                "Students": "1,412",
+                "Free or Reduced Lunch": "50%",
+                "Expenses/Student": "$25,294",
+                "Support Services": "27%"
+            }
+        },
+        "South Windsor School District": {
+            "Niche": "https://www.niche.com/k12/d/south-windsor-school-district-ct/",
+            "Data": {
+                "Website": "https://www.southwindsorschools.org/",
+                "Phone": "(860) 291-1200",
+                "Address": "1737 MAIN STSOUTH WINDSOR, CT 06074",
+                "Students": "4,753",
+                "Free or Reduced Lunch": "12.9%",
+                "Expenses/Student": "$30,136",
+                "Support Services": "37%"
+            }
+        },
+        "Regional School District No. 8": {
+            "Niche": "https://www.niche.com/k12/d/regional-school-district-no-8-ct/",
+            "Data": {
+                "Website": "https://reg8.ss19.sharpschool.com/",
+                "Phone": "(860) 228-2115",
+                "Address": "85 WALL STHEBRON, CT 06248",
+                "Students": "1,198",
+                "Free or Reduced Lunch": "8.6%",
+                "Expenses/Student": "$27,026",
+                "Support Services": "41%"
+            }
+        },
+        "Rocky Hill School District": {
+            "Niche": "https://www.niche.com/k12/d/rocky-hill-school-district-ct/",
+            "Data": {
+                "Website": "https://www.rockyhillps.com/",
+                "Phone": "(860) 258-7701",
+                "Address": "761 OLD MAIN STROCKY HILL, CT 06067",
+                "Students": "2,532",
+                "Free or Reduced Lunch": "15.4%",
+                "Expenses/Student": "$24,590",
+                "Support Services": "35%"
+            }
+        },
+        "Norwich Free Academy": {
+            "Niche": "https://www.niche.com/k12/d/norwich-free-academy-ct/",
+            "Data": {
+                "Website": "https://www.nfaschool.org/",
+                "Phone": "(860) 887-2505",
+                "Address": "305 BROADWAYNORWICH, CT 06360",
+                "Students": "2,078",
+                "Free or Reduced Lunch": "48%",
+                "Expenses/Student": "$0",
+                "Support Services": "0%"
+            }
+        },
+        "Canton School District": {
+            "Niche": "https://www.niche.com/k12/d/canton-school-district-ct/",
+            "Data": {
+                "Website": "https://cantonschools.org/",
+                "Phone": "(860) 693-7704",
+                "Address": "4 MARKET STCOLLINSVILLE, CT 06022",
+                "Students": "1,494",
+                "Free or Reduced Lunch": "10.5%",
+                "Expenses/Student": "$22,161",
+                "Support Services": "43%"
+            }
+        },
+        "Milford School District": {
+            "Niche": "https://www.niche.com/k12/d/milford-school-district-ct/",
+            "Data": {
+                "Website": "https://www.milforded.org/",
+                "Phone": "(203) 783-3402",
+                "Address": "70 WEST RIVER STMILFORD, CT 06460",
+                "Students": "5,364",
+                "Free or Reduced Lunch": "19.5%",
+                "Expenses/Student": "$26,530",
+                "Support Services": "30%"
+            }
+        },
+        "Lyme-Old Lyme Schools": {
+            "Niche": "https://www.niche.com/k12/d/lyme-old-lyme-schools-ct/",
+            "Data": {
+                "Website": "https://www.region18.org/",
+                "Phone": "(860) 434-7238",
+                "Address": "49 LYME STOLD LYME, CT 06371",
+                "Students": "1,296",
+                "Free or Reduced Lunch": "8.8%",
+                "Expenses/Student": "$27,337",
+                "Support Services": "44%"
+            }
+        },
+        "The Gilbert School": {
+            "Niche": "https://www.niche.com/k12/d/the-gilbert-school-ct/",
+            "Data": {
+                "Website": "https://www.gilbertschool.org/",
+                "Phone": "(860) 379-6163",
+                "Address": "200 WILLIAMS AVEWINSTED, CT 06098",
+                "Students": "438",
+                "Free or Reduced Lunch": "38.6%",
+                "Expenses/Student": "N/A",
+                "Support Services": "0%"
+            }
+        },
+        "Pomperaug Regional School District No. 15": {
+            "Niche": "https://www.niche.com/k12/d/pomperaug-regional-school-district-no-15-ct/",
+            "Data": {
+                "Website": "https://www.region15.org/",
+                "Phone": "(203) 758-8259",
+                "Address": "286 WHITTEMORE RDMIDDLEBURY, CT 06762",
+                "Students": "3,516",
+                "Free or Reduced Lunch": "6.9%",
+                "Expenses/Student": "$24,050",
+                "Support Services": "40%"
+            }
+        },
+        "Granby School District": {
+            "Niche": "https://www.niche.com/k12/d/granby-school-district-ct/",
+            "Data": {
+                "Website": "https://www.granby.k12.ct.us/",
+                "Phone": "(860) 844-5250",
+                "Address": "15-B NORTH GRANBY RDGRANBY, CT 06035",
+                "Students": "1,753",
+                "Free or Reduced Lunch": "9.6%",
+                "Expenses/Student": "$21,324",
+                "Support Services": "38%"
+            }
+        },
+        "Northwestern Regional School District No. 7": {
+            "Niche": "https://www.niche.com/k12/d/northwestern-regional-school-district-no-7-ct/",
+            "Data": {
+                "Website": "https://www.nwr7.com/",
+                "Phone": "(860) 379-1084",
+                "Address": "100 BATTISTONI DRWINSTED, CT 06098",
+                "Students": "907",
+                "Free or Reduced Lunch": "8.8%",
+                "Expenses/Student": "$26,601",
+                "Support Services": "37%"
+            }
+        },
+        "Berlin School District": {
+            "Niche": "https://www.niche.com/k12/d/berlin-school-district-ct/",
+            "Data": {
+                "Website": "https://www.berlinschools.org/",
+                "Phone": "(860) 828-6581",
+                "Address": "238 KENSINGTON RDBERLIN, CT 06037",
+                "Students": "2,642",
+                "Free or Reduced Lunch": "14.5%",
+                "Expenses/Student": "$23,604",
+                "Support Services": "35%"
+            }
+        },
+        "Suffield School District": {
+            "Niche": "https://www.niche.com/k12/d/suffield-school-district-ct/",
+            "Data": {
+                "Website": "https://www.suffield.org/",
+                "Phone": "(860) 668-3800",
+                "Address": "350 MOUNTAIN RDSUFFIELD, CT 06078",
+                "Students": "2,031",
+                "Free or Reduced Lunch": "11.4%",
+                "Expenses/Student": "$22,034",
+                "Support Services": "33%"
+            }
+        },
+        "Wolcott School District": {
+            "Niche": "https://www.niche.com/k12/d/wolcott-school-district-ct/",
+            "Data": {
+                "Website": "https://www.wolcottps.org/",
+                "Phone": "(203) 879-8183",
+                "Address": "1488 WOODTICK RDWOLCOTT, CT 06716",
+                "Students": "2,153",
+                "Free or Reduced Lunch": "21.5%",
+                "Expenses/Student": "$20,210",
+                "Support Services": "34%"
+            }
+        },
+        "Waterford School District": {
+            "Niche": "https://www.niche.com/k12/d/waterford-school-district-ct/",
+            "Data": {
+                "Website": "https://www.waterfordschools.org/",
+                "Phone": "(860) 444-5801",
+                "Address": "15 ROPE FERRY RDWATERFORD, CT 06385",
+                "Students": "2,324",
+                "Free or Reduced Lunch": "20.2%",
+                "Expenses/Student": "$26,834",
+                "Support Services": "34%"
+            }
+        },
+        "Old Saybrook School District": {
+            "Niche": "https://www.niche.com/k12/d/old-saybrook-school-district-ct/",
+            "Data": {
+                "Website": "https://www.oldsaybrookschools.org/",
+                "Phone": "(860) 395-3157",
+                "Address": "50 SHEFFIELD STOLD SAYBROOK, CT 06475",
+                "Students": "1,085",
+                "Free or Reduced Lunch": "18.7%",
+                "Expenses/Student": "$28,215",
+                "Support Services": "38%"
+            }
+        },
+        "Regional School District No. 17": {
+            "Niche": "https://www.niche.com/k12/d/regional-school-district-no-17-ct/",
+            "Data": {
+                "Website": "https://www.rsd17.org/",
+                "Phone": "(860) 345-4534",
+                "Address": "57 LITTLE CITY RDHIGGANUM, CT 06441",
+                "Students": "1,772",
+                "Free or Reduced Lunch": "8.3%",
+                "Expenses/Student": "$26,427",
+                "Support Services": "42%"
+            }
+        },
+        "Brookfield School District": {
+            "Niche": "https://www.niche.com/k12/d/brookfield-school-district-ct/",
+            "Data": {
+                "Website": "https://www.brookfield.k12.ct.us/",
+                "Phone": "(203) 775-7700",
+                "Address": "100 POCONO RDBROOKFIELD, CT 06804",
+                "Students": "2,588",
+                "Free or Reduced Lunch": "9.7%",
+                "Expenses/Student": "$21,519",
+                "Support Services": "38%"
+            }
+        },
+        "Stonington School District": {
+            "Niche": "https://www.niche.com/k12/d/stonington-school-district-ct/",
+            "Data": {
+                "Website": "https://www.stoningtonschools.org/",
+                "Phone": "(860) 572-0506",
+                "Address": "40 FIELD STPAWCATUCK, CT 06379",
+                "Students": "1,806",
+                "Free or Reduced Lunch": "17.2%",
+                "Expenses/Student": "$29,323",
+                "Support Services": "40%"
+            }
+        },
+        "Coventry School District": {
+            "Niche": "https://www.niche.com/k12/d/coventry-school-district-ct/",
+            "Data": {
+                "Website": "https://www.coventrypublicschools.org/",
+                "Phone": "(860) 742-7317",
+                "Address": "1700 MAIN STCOVENTRY, CT 06238",
+                "Students": "1,655",
+                "Free or Reduced Lunch": "20%",
+                "Expenses/Student": "$20,647",
+                "Support Services": "35%"
+            }
+        },
+        "Regional School District No. 16": {
+            "Niche": "https://www.niche.com/k12/d/regional-school-district-no-16-ct/",
+            "Data": {
+                "Website": "https://www.region16ct.org/",
+                "Phone": "(203) 758-6671",
+                "Address": "30 COER RDPROSPECT, CT 06712",
+                "Students": "1,964",
+                "Free or Reduced Lunch": "14.3%",
+                "Expenses/Student": "$22,622",
+                "Support Services": "41%"
+            }
+        },
+        "North Haven School District": {
+            "Niche": "https://www.niche.com/k12/d/north-haven-school-district-ct/",
+            "Data": {
+                "Website": "https://www.north-haven.k12.ct.us/",
+                "Phone": "(203) 239-2581",
+                "Address": "5 LINSLEY STNORTH HAVEN, CT 06473",
+                "Students": "3,145",
+                "Free or Reduced Lunch": "13.9%",
+                "Expenses/Student": "$22,023",
+                "Support Services": "40%"
+            }
+        },
+        "North Stonington School District": {
+            "Niche": "https://www.niche.com/k12/d/north-stonington-school-district-ct/",
+            "Data": {
+                "Website": "https://www.northstonington.k12.ct.us/",
+                "Phone": "(860) 535-2800",
+                "Address": "298 NORWICH/WESTERLY RDNORTH STONINGTON, CT 06359",
+                "Students": "767",
+                "Free or Reduced Lunch": "13.3%",
+                "Expenses/Student": "$37,735",
+                "Support Services": "36%"
+            }
+        },
+        "Clinton School District": {
+            "Niche": "https://www.niche.com/k12/d/clinton-school-district-ct/",
+            "Data": {
+                "Website": "https://www.clintonpublic.net/",
+                "Phone": "(860) 664-6500",
+                "Address": "137 B GLENWOOD RDCLINTON, CT 06413",
+                "Students": "1,542",
+                "Free or Reduced Lunch": "23.7%",
+                "Expenses/Student": "$25,908",
+                "Support Services": "37%"
+            }
+        },
+        "Norwalk School District": {
+            "Niche": "https://www.niche.com/k12/d/norwalk-school-district-ct/",
+            "Data": {
+                "Website": "https://norwalkps.org/",
+                "Phone": "(203) 854-4000",
+                "Address": "125 EAST AVENORWALK, CT 06852",
+                "Students": "11,405",
+                "Free or Reduced Lunch": "51.8%",
+                "Expenses/Student": "$24,707",
+                "Support Services": "32%"
+            }
+        },
+        "Litchfield Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/litchfield-public-schools-ct/",
+            "Data": {
+                "Website": "https://www.litchfieldschools.org/",
+                "Phone": "(860) 567-7500",
+                "Address": "35 PLUMB HILL RDLITCHFIELD, CT 06759",
+                "Students": "834",
+                "Free or Reduced Lunch": "14.9%",
+                "Expenses/Student": "$27,800",
+                "Support Services": "43%"
+            }
+        },
+        "Windsor School District": {
+            "Niche": "https://www.niche.com/k12/d/windsor-school-district-ct/",
+            "Data": {
+                "Website": "https://www.windsorct.org/",
+                "Phone": "(860) 687-2000",
+                "Address": "601 MATIANUCK AVEWINDSOR, CT 06095",
+                "Students": "3,244",
+                "Free or Reduced Lunch": "31.3%",
+                "Expenses/Student": "$26,365",
+                "Support Services": "46%"
+            }
+        },
+        "Bristol School District": {
+            "Niche": "https://www.niche.com/k12/d/bristol-school-district-ct/",
+            "Data": {
+                "Website": "https://www.bristol.k12.ct.us/",
+                "Phone": "(860) 584-7000",
+                "Address": "29 CHURCH STBRISTOL, CT 06011",
+                "Students": "7,642",
+                "Free or Reduced Lunch": "45.5%",
+                "Expenses/Student": "$21,061",
+                "Support Services": "44%"
+            }
+        },
+        "Groton School District": {
+            "Niche": "https://www.niche.com/k12/d/groton-school-district-ct/",
+            "Data": {
+                "Website": "https://www.grotonschools.org/",
+                "Phone": "(860) 572-2100",
+                "Address": "1300 FLANDERS RDMYSTIC, CT 06355",
+                "Students": "4,086",
+                "Free or Reduced Lunch": "45%",
+                "Expenses/Student": "$28,142",
+                "Support Services": "40%"
+            }
+        },
+        "Plainville School District": {
+            "Niche": "https://www.niche.com/k12/d/plainville-school-district-ct/",
+            "Data": {
+                "Website": "https://www.plainvilleschools.org/",
+                "Phone": "(860) 793-3200",
+                "Address": "1 CENTRAL SQPLAINVILLE, CT 06062",
+                "Students": "2,274",
+                "Free or Reduced Lunch": "31.2%",
+                "Expenses/Student": "$24,434",
+                "Support Services": "36%"
+            }
+        },
+        "Westbrook School District": {
+            "Niche": "https://www.niche.com/k12/d/westbrook-school-district-ct/",
+            "Data": {
+                "Website": "https://www.westbrookctschools.org/",
+                "Phone": "(860) 399-6432",
+                "Address": "158 MCVEAGH RDWESTBROOK, CT 06498",
+                "Students": "628",
+                "Free or Reduced Lunch": "18.4%",
+                "Expenses/Student": "$34,519",
+                "Support Services": "27%"
+            }
+        },
+        "Southington School District": {
+            "Niche": "https://www.niche.com/k12/d/southington-school-district-ct/",
+            "Data": {
+                "Website": "https://www.southingtonschools.org/",
+                "Phone": "(860) 628-3202",
+                "Address": "200 NORTH MAIN STSOUTHINGTON, CT 06489",
+                "Students": "6,227",
+                "Free or Reduced Lunch": "14.8%",
+                "Expenses/Student": "$19,675",
+                "Support Services": "33%"
+            }
+        },
+        "Bethel School District": {
+            "Niche": "https://www.niche.com/k12/d/bethel-school-district-ct/",
+            "Data": {
+                "Website": "https://www.bethel.k12.ct.us/",
+                "Phone": "(203) 794-8601",
+                "Address": "ONE SCHOOL STBETHEL, CT 06801",
+                "Students": "3,149",
+                "Free or Reduced Lunch": "20.2%",
+                "Expenses/Student": "$23,201",
+                "Support Services": "38%"
+            }
+        },
+        "Newington School District": {
+            "Niche": "https://www.niche.com/k12/d/newington-school-district-ct/",
+            "Data": {
+                "Website": "https://www.npsct.org/",
+                "Phone": "(860) 667-2000",
+                "Address": "131 CEDAR STNEWINGTON, CT 06111",
+                "Students": "3,900",
+                "Free or Reduced Lunch": "21.8%",
+                "Expenses/Student": "$23,061",
+                "Support Services": "34%"
+            }
+        },
+        "Tolland School District": {
+            "Niche": "https://www.niche.com/k12/d/tolland-school-district-ct/",
+            "Data": {
+                "Website": "https://www.tolland.k12.ct.us/",
+                "Phone": "(860) 870-6850",
+                "Address": "51 TOLLAND GRNTOLLAND, CT 06084",
+                "Students": "2,214",
+                "Free or Reduced Lunch": "7.7%",
+                "Expenses/Student": "$29,207",
+                "Support Services": "35%"
+            }
+        },
+        "Regional School District No. 10": {
+            "Niche": "https://www.niche.com/k12/d/regional-school-district-no-10-ct/",
+            "Data": {
+                "Website": "https://www.region10ct.org/",
+                "Phone": "(860) 673-2538",
+                "Address": "24 LYON RDBURLINGTON, CT 06013",
+                "Students": "2,153",
+                "Free or Reduced Lunch": "5.1%",
+                "Expenses/Student": "$21,680",
+                "Support Services": "38%"
+            }
+        },
+        "Regional School District No. 4": {
+            "Niche": "https://www.niche.com/k12/d/regional-school-district-no-4-ct/",
+            "Data": {
+                "Website": "https://www.reg4.k12.ct.us/",
+                "Phone": "(860) 526-2417",
+                "Address": "1 WINTHROP RDDEEP RIVER, CT 06417",
+                "Students": "804",
+                "Free or Reduced Lunch": "11.7%",
+                "Expenses/Student": "$27,327",
+                "Support Services": "47%"
+            }
+        },
+        "Wethersfield School District": {
+            "Niche": "https://www.niche.com/k12/d/wethersfield-school-district-ct/",
+            "Data": {
+                "Website": "https://wps.wethersfield.me/",
+                "Phone": "(860) 571-8110",
+                "Address": "127 HARTFORD AVEWETHERSFIELD, CT 06109",
+                "Students": "3,592",
+                "Free or Reduced Lunch": "19.9%",
+                "Expenses/Student": "$21,700",
+                "Support Services": "35%"
+            }
+        },
+        "East Granby School District": {
+            "Niche": "https://www.niche.com/k12/d/east-granby-school-district-ct/",
+            "Data": {
+                "Website": "https://www.eastgranby.k12.ct.us/",
+                "Phone": "(860) 653-6486",
+                "Address": "33 TURKEY HILLS RDEAST GRANBY, CT 06026",
+                "Students": "818",
+                "Free or Reduced Lunch": "14.4%",
+                "Expenses/Student": "$26,263",
+                "Support Services": "37%"
+            }
+        },
+        "Regional School District No. 6": {
+            "Niche": "https://www.niche.com/k12/d/regional-school-district-no-6-ct/",
+            "Data": {
+                "Website": "https://www.rsd6.org/",
+                "Phone": "(860) 567-7400",
+                "Address": "35 WAMOGO RDLITCHFIELD, CT 06759",
+                "Students": "882",
+                "Free or Reduced Lunch": "11.2%",
+                "Expenses/Student": "$25,679",
+                "Support Services": "53%"
+            }
+        },
+        "Branford School District": {
+            "Niche": "https://www.niche.com/k12/d/branford-school-district-ct/",
+            "Data": {
+                "Website": "https://www.branford.k12.ct.us/",
+                "Phone": "(203) 488-7276",
+                "Address": "1111 MAIN STBRANFORD, CT 06405",
+                "Students": "2,617",
+                "Free or Reduced Lunch": "26.7%",
+                "Expenses/Student": "$38,659",
+                "Support Services": "39%"
+            }
+        },
+        "Lebanon School District": {
+            "Niche": "https://www.niche.com/k12/d/lebanon-school-district-ct/",
+            "Data": {
+                "Website": "https://www.lebanonct.org",
+                "Phone": "(860) 642-7795",
+                "Address": "891 EXETER RDLEBANON, CT 06249",
+                "Students": "922",
+                "Free or Reduced Lunch": "19.2%",
+                "Expenses/Student": "$25,920",
+                "Support Services": "40%"
+            }
+        },
+        "Cromwell School District": {
+            "Niche": "https://www.niche.com/k12/d/cromwell-school-district-ct/",
+            "Data": {
+                "Website": "https://www.cromwell.k12.ct.us/",
+                "Phone": "(860) 632-4830",
+                "Address": "9 CAPTAIN JAMES MANN MEMORIAL DRCROMWELL, CT 06416",
+                "Students": "1,932",
+                "Free or Reduced Lunch": "21.3%",
+                "Expenses/Student": "$19,957",
+                "Support Services": "37%"
+            }
+        },
+        "Portland School District": {
+            "Niche": "https://www.niche.com/k12/d/portland-school-district-ct/",
+            "Data": {
+                "Website": "https://www.portlandctschools.org/",
+                "Phone": "(860) 342-6790",
+                "Address": "33 EAST MAIN STPORTLAND, CT 06480",
+                "Students": "1,231",
+                "Free or Reduced Lunch": "20.8%",
+                "Expenses/Student": "$22,185",
+                "Support Services": "41%"
+            }
+        },
+        "Stamford School District": {
+            "Niche": "https://www.niche.com/k12/d/stamford-school-district-ct/",
+            "Data": {
+                "Website": "https://www.stamfordpublicschools.org/",
+                "Phone": "(203) 977-4543",
+                "Address": "888 WASHINGTO BLVDSTAMFORD, CT 06901",
+                "Students": "15,962",
+                "Free or Reduced Lunch": "52.5%",
+                "Expenses/Student": "$24,261",
+                "Support Services": "36%"
+            }
+        },
+        "Ellington Public Schools": {
+            "Niche": "https://www.niche.com/k12/d/ellington-public-schools-ct/",
+            "Data": {
+                "Website": "https://www.ellingtonpublicschools.org/",
+                "Phone": "(860) 896-2300",
+                "Address": "47 MAIN STELLINGTON, CT 06029",
+                "Students": "2,618",
+                "Free or Reduced Lunch": "10.3%",
+                "Expenses/Student": "$18,883",
+                "Support Services": "38%"
+            }
+        },
+        "East Hampton School District": {
+            "Niche": "https://www.niche.com/k12/d/east-hampton-school-district-ct/",
+            "Data": {
+                "Website": "https://www.easthamptonps.org/",
+                "Phone": "(860) 365-4000",
+                "Address": "1 COMMUNITY DR STE 1EAST HAMPTON, CT 06424",
+                "Students": "1,779",
+                "Free or Reduced Lunch": "12.9%",
+                "Expenses/Student": "$21,623",
+                "Support Services": "33%"
+            }
+        },
+        "Ledyard School District": {
+            "Niche": "https://www.niche.com/k12/d/ledyard-school-district-ct/",
+            "Data": {
+                "Website": "https://www.ledyard.net/",
+                "Phone": "(860) 464-9255",
+                "Address": "4 BLONDER BLVDLEDYARD, CT 06339",
+                "Students": "2,435",
+                "Free or Reduced Lunch": "22.7%",
+                "Expenses/Student": "$19,329",
+                "Support Services": "45%"
+            }
+        },
+        "New Fairfield School District": {
+            "Niche": "https://www.niche.com/k12/d/new-fairfield-school-district-ct/",
+            "Data": {
+                "Website": "https://www.newfairfieldschools.org/",
+                "Phone": "(203) 312-5770",
+                "Address": "3 BRUSH HILL RDNEW FAIRFIELD, CT 06812",
+                "Students": "2,119",
+                "Free or Reduced Lunch": "8%",
+                "Expenses/Student": "$23,988",
+                "Support Services": "36%"
+            }
+        },
+        "Eastern Connecticut Regional": {
+            "Niche": "https://www.niche.com/k12/d/eastern-connecticut-regional-ct/",
+            "Data": {
+                "Website": "https://www.eastconn.org/",
+                "Phone": "(860) 455-0707",
+                "Address": "376 HARTFORD TURNPIKEHAMPTON, CT 06247",
+                "Students": "414",
+                "Free or Reduced Lunch": "39.2%",
+                "Expenses/Student": "$48,783",
+                "Support Services": "24%"
+            }
+        },
+        "Shelton School District": {
+            "Niche": "https://www.niche.com/k12/d/shelton-school-district-ct/",
+            "Data": {
+                "Website": "http://www.sheltonpublicschools.org/",
+                "Phone": "(203) 924-1023",
+                "Address": "124 MEADOW STSHELTON, CT 06484",
+                "Students": "4,403",
+                "Free or Reduced Lunch": "21.5%",
+                "Expenses/Student": "$20,617",
+                "Support Services": "39%"
+            }
+        },
+        "East Haddam School District": {
+            "Niche": "https://www.niche.com/k12/d/east-haddam-school-district-ct/",
+            "Data": {
+                "Website": "https://easthaddam.ss9.sharpschool.com/",
+                "Phone": "(860) 873-5090",
+                "Address": "1 PLAIN ROADSMOODUS, CT 06469",
+                "Students": "968",
+                "Free or Reduced Lunch": "15.5%",
+                "Expenses/Student": "$26,156",
+                "Support Services": "39%"
+            }
+        },
+        "Wallingford School District": {
+            "Niche": "https://www.niche.com/k12/d/wallingford-school-district-ct/",
+            "Data": {
+                "Website": "https://www.wallingford.k12.ct.us/",
+                "Phone": "(203) 949-6500",
+                "Address": "100 SOUTH TURNPIKE RDWALLINGFORD, CT 06492",
+                "Students": "5,304",
+                "Free or Reduced Lunch": "22%",
+                "Expenses/Student": "$24,569",
+                "Support Services": "37%"
+            }
+        },
+        "Colchester School District": {
+            "Niche": "https://www.niche.com/k12/d/colchester-school-district-ct/",
+            "Data": {
+                "Website": "https://www.colchesterct.org/",
+                "Phone": "(860) 537-7267",
+                "Address": "127 NORWICH AVECOLCHESTER, CT 06415",
+                "Students": "2,216",
+                "Free or Reduced Lunch": "17.5%",
+                "Expenses/Student": "$23,486",
+                "Support Services": "38%"
+            }
+        },
+        "Capitol Region Education Coun": {
+            "Niche": "https://www.niche.com/k12/d/capitol-region-education-coun-ct/",
+            "Data": {
+                "Website": "https://www.crec.org/",
+                "Phone": "(860) 524-4063",
+                "Address": "111 CHARTER OAK AVEHARTFORD, CT 06106",
+                "Students": "8,724",
+                "Free or Reduced Lunch": "52.5%",
+                "Expenses/Student": "$29,122",
+                "Support Services": "52%"
+            }
+        },
+        "Regional School District No. 14": {
+            "Niche": "https://www.niche.com/k12/d/regional-school-district-no-14-ct/",
+            "Data": {
+                "Website": "https://www.ctreg14.org/",
+                "Phone": "(203) 263-4339",
+                "Address": "5 MINORTOWN RDWOODBURY, CT 06798",
+                "Students": "1,588",
+                "Free or Reduced Lunch": "13.2%",
+                "Expenses/Student": "$34,298",
+                "Support Services": "43%"
+            }
+        },
+        "New Milford School District": {
+            "Niche": "https://www.niche.com/k12/d/new-milford-school-district-ct/",
+            "Data": {
+                "Website": "https://www.newmilfordps.org/",
+                "Phone": "(860) 355-8406",
+                "Address": "50 EAST STNEW MILFORD, CT 06776",
+                "Students": "3,677",
+                "Free or Reduced Lunch": "22.8%",
+                "Expenses/Student": "$20,742",
+                "Support Services": "36%"
+            }
+        },
+        "East Hartford School District": {
+            "Niche": "https://www.niche.com/k12/d/east-hartford-school-district-ct/",
+            "Data": {
+                "Website": "https://www.easthartford.org/",
+                "Phone": "(860) 622-5100",
+                "Address": "1110 MAIN STEAST HARTFORD, CT 06108",
+                "Students": "6,297",
+                "Free or Reduced Lunch": "58.9%",
+                "Expenses/Student": "$23,534",
+                "Support Services": "38%"
+            }
+        },
+        "Regional School District No. 13": {
+            "Niche": "https://www.niche.com/k12/d/regional-school-district-no-13-ct/",
+            "Data": {
+                "Website": "https://www.rsd13ct.org/",
+                "Phone": "(860) 349-7200",
+                "Address": "135-A PICKETT LNDURHAM, CT 06422",
+                "Students": "1,363",
+                "Free or Reduced Lunch": "9%",
+                "Expenses/Student": "$30,128",
+                "Support Services": "42%"
+            }
+        },
+        "Oxford School District": {
+            "Niche": "https://www.niche.com/k12/d/oxford-school-district-ct/",
+            "Data": {
+                "Website": "https://www.oxfordpublicschools.org/",
+                "Phone": "(203) 888-7754",
+                "Address": "462 OXFORD RDOXFORD, CT 06478",
+                "Students": "1,693",
+                "Free or Reduced Lunch": "8.8%",
+                "Expenses/Student": "$40,389",
+                "Support Services": "37%"
+            }
+        },
+        "Bolton School District": {
+            "Niche": "https://www.niche.com/k12/d/bolton-school-district-ct/",
+            "Data": {
+                "Website": "https://bolton.ss5.sharpschool.com/",
+                "Phone": "(860) 643-1569",
+                "Address": "72 BRANDY STBOLTON, CT 06043",
+                "Students": "746",
+                "Free or Reduced Lunch": "14.5%",
+                "Expenses/Student": "$24,070",
+                "Support Services": "40%"
+            }
+        },
+        "Middletown School District": {
+            "Niche": "https://www.niche.com/k12/d/middletown-school-district-ct/",
+            "Data": {
+                "Website": "https://www.middletownschools.org/",
+                "Phone": "(860) 638-1401",
+                "Address": "311 HUNTING HILL AVEMIDDLETOWN, CT 06457",
+                "Students": "4,387",
+                "Free or Reduced Lunch": "45.6%",
+                "Expenses/Student": "$29,635",
+                "Support Services": "44%"
+            }
+        },
+        "Manchester School District": {
+            "Niche": "https://www.niche.com/k12/d/manchester-school-district-ct/",
+            "Data": {
+                "Website": "https://www.mpspride.org/",
+                "Phone": "(860) 647-3441",
+                "Address": "45 NORTH SCHOOL STMANCHESTER, CT 06042",
+                "Students": "6,154",
+                "Free or Reduced Lunch": "51.7%",
+                "Expenses/Student": "$26,618",
+                "Support Services": "40%"
+            }
+        },
+        "Meriden School District": {
+            "Niche": "https://www.niche.com/k12/d/meriden-school-district-ct/",
+            "Data": {
+                "Website": "https://www.meridenk12.org/",
+                "Phone": "(203) 630-4171",
+                "Address": "22 LIBERTY STMERIDEN, CT 06450",
+                "Students": "8,471",
+                "Free or Reduced Lunch": "71%",
+                "Expenses/Student": "$18,777",
+                "Support Services": "43%"
+            }
+        },
+        "Hamden School District": {
+            "Niche": "https://www.niche.com/k12/d/hamden-school-district-ct/",
+            "Data": {
+                "Website": "https://www.hamden.org/",
+                "Phone": "(203) 407-2000",
+                "Address": "60 PUTNAM AVEHAMDEN, CT 06517",
+                "Students": "5,385",
+                "Free or Reduced Lunch": "42.1%",
+                "Expenses/Student": "$28,140",
+                "Support Services": "27%"
+            }
+        },
+        "Enfield School District": {
+            "Niche": "https://www.niche.com/k12/d/enfield-school-district-ct/",
+            "Data": {
+                "Website": "https://www.enfieldschools.org/",
+                "Phone": "(860) 253-6500",
+                "Address": "1010 ENFIELD STENFIELD, CT 06082",
+                "Students": "4,870",
+                "Free or Reduced Lunch": "39.7%",
+                "Expenses/Student": "$22,294",
+                "Support Services": "31%"
+            }
+        },
+        "Seymour School District": {
+            "Niche": "https://www.niche.com/k12/d/seymour-school-district-ct/",
+            "Data": {
+                "Website": "https://www.seymourschools.org/",
+                "Phone": "(203) 888-4564",
+                "Address": "98 BANK STSEYMOUR, CT 06483",
+                "Students": "2,058",
+                "Free or Reduced Lunch": "26.2%",
+                "Expenses/Student": "$20,689",
+                "Support Services": "37%"
+            }
+        },
+        "Naugatuck School District": {
+            "Niche": "https://www.niche.com/k12/d/naugatuck-school-district-ct/",
+            "Data": {
+                "Website": "https://www.naugatuck.k12.ct.us/",
+                "Phone": "(203) 720-5265",
+                "Address": "497 RUBBER AVENAUGATUCK, CT 06770",
+                "Students": "4,295",
+                "Free or Reduced Lunch": "49.8%",
+                "Expenses/Student": "$20,511",
+                "Support Services": "42%"
+            }
+        },
+        "Somers School District": {
+            "Niche": "https://www.niche.com/k12/d/somers-school-district-ct/",
+            "Data": {
+                "Website": "https://www.somers.k12.ct.us/",
+                "Phone": "(860) 749-2270",
+                "Address": "1 VISION BLVDSOMERS, CT 06071",
+                "Students": "1,339",
+                "Free or Reduced Lunch": "4.9%",
+                "Expenses/Student": "$23,860",
+                "Support Services": "35%"
+            }
+        },
+        "Stratford School District": {
+            "Niche": "https://www.niche.com/k12/d/stratford-school-district-ct/",
+            "Data": {
+                "Website": "https://www.stratfordk12.org/",
+                "Phone": "(203) 385-4210",
+                "Address": "1000 EAST BROADWAYSTRATFORD, CT 06615",
+                "Students": "6,780",
+                "Free or Reduced Lunch": "45.6%",
+                "Expenses/Student": "$26,092",
+                "Support Services": "38%"
+            }
+        },
+        "Vernon School District": {
+            "Niche": "https://www.niche.com/k12/d/vernon-school-district-ct/",
+            "Data": {
+                "Website": "https://www.vernonpublicschools.org/",
+                "Phone": "(860) 870-6000",
+                "Address": "30 PARK STVERNON, CT 06066",
+                "Students": "3,169",
+                "Free or Reduced Lunch": "44.5%",
+                "Expenses/Student": "$21,942",
+                "Support Services": "46%"
+            }
+        },
+        "West Haven School District": {
+            "Niche": "https://www.niche.com/k12/d/west-haven-school-district-ct/",
+            "Data": {
+                "Website": "https://www.whschools.org/",
+                "Phone": "(203) 937-4300",
+                "Address": "355 MAIN STWEST HAVEN, CT 06516",
+                "Students": "5,756",
+                "Free or Reduced Lunch": "66.2%",
+                "Expenses/Student": "$25,724",
+                "Support Services": "25%"
+            }
+        },
+        "Montville School District": {
+            "Niche": "https://www.niche.com/k12/d/montville-school-district-ct/",
+            "Data": {
+                "Website": "https://www.montvilleschools.org/",
+                "Phone": "(860) 848-1228",
+                "Address": "800 OLD COLCHESTER RDOAKDALE, CT 06370",
+                "Students": "1,977",
+                "Free or Reduced Lunch": "38.8%",
+                "Expenses/Student": "$23,634",
+                "Support Services": "34%"
+            }
+        },
+        "Cooperative Educational Servi": {
+            "Niche": "https://www.niche.com/k12/d/cooperative-educational-servi-ct/",
+            "Data": {
+                "Website": "https://www.ces.k12.ct.us/",
+                "Phone": "(203) 365-8803",
+                "Address": "40 LINDEMAN DRTRUMBULL, CT 06611",
+                "Students": "828",
+                "Free or Reduced Lunch": "37.1%",
+                "Expenses/Student": "$40,310",
+                "Support Services": "19%"
+            }
+        },
+        "Putnam School District": {
+            "Niche": "https://www.niche.com/k12/d/putnam-school-district-ct/",
+            "Data": {
+                "Website": "https://www.putnamschoolsct.org/",
+                "Phone": "(860) 963-6900",
+                "Address": "152 WOODSTOCK AVEPUTNAM, CT 06260",
+                "Students": "1,126",
+                "Free or Reduced Lunch": "58.6%",
+                "Expenses/Student": "$22,915",
+                "Support Services": "41%"
+            }
+        },
+        "Thomaston School District": {
+            "Niche": "https://www.niche.com/k12/d/thomaston-school-district-ct/",
+            "Data": {
+                "Website": "https://www.thomastonschools.org/",
+                "Phone": "(860) 283-3053",
+                "Address": "185 BRANCH RDTHOMASTON, CT 06787",
+                "Students": "839",
+                "Free or Reduced Lunch": "24.7%",
+                "Expenses/Student": "$22,465",
+                "Support Services": "37%"
+            }
+        },
+        "Watertown School District": {
+            "Niche": "https://www.niche.com/k12/d/watertown-school-district-ct/",
+            "Data": {
+                "Website": "https://www.watertownps.org/",
+                "Phone": "(860) 945-4800",
+                "Address": "61 ECHO LAKE RDWATERTOWN, CT 06795",
+                "Students": "2,579",
+                "Free or Reduced Lunch": "25.7%",
+                "Expenses/Student": "$21,874",
+                "Support Services": "34%"
+            }
+        },
+        "Danbury School District": {
+            "Niche": "https://www.niche.com/k12/d/danbury-school-district-ct/",
+            "Data": {
+                "Website": "https://www.danbury.k12.ct.us/",
+                "Phone": "(203) 797-4701",
+                "Address": "63 BEAVER BROOK RDDANBURY, CT 06810",
+                "Students": "11,825",
+                "Free or Reduced Lunch": "54.5%",
+                "Expenses/Student": "$16,123",
+                "Support Services": "43%"
+            }
+        },
+        "North Branford School District": {
+            "Niche": "https://www.niche.com/k12/d/north-branford-school-district-ct/",
+            "Data": {
+                "Website": "https://www.northbranfordschools.org/",
+                "Phone": "(203) 484-1440",
+                "Address": "1332 MIDDLETOWN AVENORTHFORD, CT 06472",
+                "Students": "1,576",
+                "Free or Reduced Lunch": "18.6%",
+                "Expenses/Student": "$24,970",
+                "Support Services": "42%"
+            }
+        },
+        "Griswold School District": {
+            "Niche": "https://www.niche.com/k12/d/griswold-school-district-ct/",
+            "Data": {
+                "Website": "https://www.griswold.k12.ct.us/",
+                "Phone": "(860) 376-7600",
+                "Address": "211 SLATER AVEGRISWOLD, CT 06351",
+                "Students": "1,712",
+                "Free or Reduced Lunch": "37.9%",
+                "Expenses/Student": "$20,425",
+                "Support Services": "32%"
+            }
+        },
+        "Plymouth School District": {
+            "Niche": "https://www.niche.com/k12/d/plymouth-school-district-ct/",
+            "Data": {
+                "Website": "https://www.plymouth.k12.ct.us/",
+                "Phone": "(860) 314-8005",
+                "Address": "27 N HARWINTON AVETERRYVILLE, CT 06786",
+                "Students": "1,298",
+                "Free or Reduced Lunch": "32.9%",
+                "Expenses/Student": "$23,198",
+                "Support Services": "42%"
+            }
+        },
+        "Killingly School District": {
+            "Niche": "https://www.niche.com/k12/d/killingly-school-district-ct/",
+            "Data": {
+                "Website": "https://www.killinglyschools.org/",
+                "Phone": "(860) 779-6600",
+                "Address": "79 WESTFIELD AVEDANIELSON, CT 06239",
+                "Students": "2,361",
+                "Free or Reduced Lunch": "42.4%",
+                "Expenses/Student": "$24,181",
+                "Support Services": "42%"
+            }
+        },
+        "Windsor Locks School District": {
+            "Niche": "https://www.niche.com/k12/d/windsor-locks-school-district-ct/",
+            "Data": {
+                "Website": "https://www.wlps.org/",
+                "Phone": "(860) 292-5000",
+                "Address": "58 SOUTH ELM STWINDSOR LOCKS, CT 06096",
+                "Students": "1,510",
+                "Free or Reduced Lunch": "44.7%",
+                "Expenses/Student": "$28,056",
+                "Support Services": "33%"
+            }
+        },
+        "East Haven School District": {
+            "Niche": "https://www.niche.com/k12/d/east-haven-school-district-ct/",
+            "Data": {
+                "Website": "https://www.east-haven.k12.ct.us/",
+                "Phone": "(203) 468-3261",
+                "Address": "35 WHEELBARROW LNEAST HAVEN, CT 06513",
+                "Students": "2,838",
+                "Free or Reduced Lunch": "50.7%",
+                "Expenses/Student": "$22,310",
+                "Support Services": "39%"
+            }
+        },
+        "New Haven School District": {
+            "Niche": "https://www.niche.com/k12/d/new-haven-school-district-ct/",
+            "Data": {
+                "Website": "https://www.nhps.net/schools",
+                "Phone": "(475) 220-1000",
+                "Address": "54 MEADOW STNEW HAVEN, CT 06519",
+                "Students": "19,216",
+                "Free or Reduced Lunch": "51.6%",
+                "Expenses/Student": "$23,419",
+                "Support Services": "32%"
+            }
+        },
+        "Hartford School District": {
+            "Niche": "https://www.niche.com/k12/d/hartford-school-district-ct/",
+            "Data": {
+                "Website": "https://www.hartfordschools.org/",
+                "Phone": "(860) 695-8000",
+                "Address": "300 WETHERSFIELD AVEHARTFORD, CT 06114",
+                "Students": "16,634",
+                "Free or Reduced Lunch": "70.9%",
+                "Expenses/Student": "$35,971",
+                "Support Services": "42%"
+            }
+        },
+        "Stafford School District": {
+            "Niche": "https://www.niche.com/k12/d/stafford-school-district-ct/",
+            "Data": {
+                "Website": "https://www.stafford.k12.ct.us/",
+                "Phone": "(860) 684-2208",
+                "Address": "16 LEVINTHAL RUNSTAFFORD SPRINGS, CT 06076",
+                "Students": "1,375",
+                "Free or Reduced Lunch": "36.8%",
+                "Expenses/Student": "$25,223",
+                "Support Services": "50%"
+            }
+        },
+        "Plainfield School District": {
+            "Niche": "https://www.niche.com/k12/d/plainfield-school-district-ct/",
+            "Data": {
+                "Website": "https://www.plainfieldschools.org/",
+                "Phone": "(860) 564-6403",
+                "Address": "651 NORWICH RDPLAINFIELD, CT 06374",
+                "Students": "1,976",
+                "Free or Reduced Lunch": "49.1%",
+                "Expenses/Student": "$21,947",
+                "Support Services": "42%"
+            }
+        },
+        "Torrington School District": {
+            "Niche": "https://www.niche.com/k12/d/torrington-school-district-ct/",
+            "Data": {
+                "Website": "https://www.torrington.org/",
+                "Phone": "(860) 489-2327",
+                "Address": "355 MIGEON AVETORRINGTON, CT 06790",
+                "Students": "3,825",
+                "Free or Reduced Lunch": "53.1%",
+                "Expenses/Student": "$23,976",
+                "Support Services": "37%"
+            }
+        },
+        "East Windsor School District": {
+            "Niche": "https://www.niche.com/k12/d/east-windsor-school-district-ct/",
+            "Data": {
+                "Website": "https://www.eastwindsork12.org/",
+                "Phone": "(860) 623-3346",
+                "Address": "70 SOUTH MAIN STEAST WINDSOR, CT 06088",
+                "Students": "1,029",
+                "Free or Reduced Lunch": "44.8%",
+                "Expenses/Student": "$28,793",
+                "Support Services": "32%"
+            }
+        },
+        "New London School District": {
+            "Niche": "https://www.niche.com/k12/d/new-london-school-district-ct/",
+            "Data": {
+                "Website": "https://www.newlondon.org/",
+                "Phone": "(860) 447-6000",
+                "Address": "134 WILLIAMS STNEW LONDON, CT 06320",
+                "Students": "3,086",
+                "Free or Reduced Lunch": "84.8%",
+                "Expenses/Student": "$28,372",
+                "Support Services": "44%"
+            }
+        },
+        "Derby School District": {
+            "Niche": "https://www.niche.com/k12/d/derby-school-district-ct/",
+            "Data": {
+                "Website": "https://www.derbypride.org/",
+                "Phone": "(203) 736-5027",
+                "Address": "35 FIFTH STDERBY, CT 06418",
+                "Students": "1,279",
+                "Free or Reduced Lunch": "62%",
+                "Expenses/Student": "$23,973",
+                "Support Services": "35%"
+            }
+        },
+        "Ansonia School District": {
+            "Niche": "https://www.niche.com/k12/d/ansonia-school-district-ct/",
+            "Data": {
+                "Website": "https://www.ansonia.org/",
+                "Phone": "(203) 736-5095",
+                "Address": "42 GROVE STANSONIA, CT 06401",
+                "Students": "2,247",
+                "Free or Reduced Lunch": "68%",
+                "Expenses/Student": "$20,367",
+                "Support Services": "31%"
+            }
+        },
+        "Waterbury School District": {
+            "Niche": "https://www.niche.com/k12/d/waterbury-school-district-ct/",
+            "Data": {
+                "Website": "http://www.waterbury.k12.ct.us/",
+                "Phone": "(203) 574-8004",
+                "Address": "236 GRAND STWATERBURY, CT 06702",
+                "Students": "18,610",
+                "Free or Reduced Lunch": "68.2%",
+                "Expenses/Student": "$18,861",
+                "Support Services": "31%"
+            }
+        },
+        "Windham School District": {
+            "Niche": "https://www.niche.com/k12/d/windham-school-district-ct/",
+            "Data": {
+                "Website": "https://www.windhamps.org/",
+                "Phone": "(860) 465-2310",
+                "Address": "355 HIGH ST - UNIT BWILLIMANTIC, CT 06226",
+                "Students": "3,194",
+                "Free or Reduced Lunch": "82.4%",
+                "Expenses/Student": "$23,890",
+                "Support Services": "44%"
+            }
+        },
+        "New Britain School District": {
+            "Niche": "https://www.niche.com/k12/d/new-britain-school-district-ct/",
+            "Data": {
+                "Website": "https://www.csdnb.org/",
+                "Phone": "(860) 827-2200",
+                "Address": "272 MAIN STNEW BRITAIN, CT 06050",
+                "Students": "9,679",
+                "Free or Reduced Lunch": "75%",
+                "Expenses/Student": "$21,393",
+                "Support Services": "32%"
+            }
+        },
+        "Bridgeport School District": {
+            "Niche": "https://www.niche.com/k12/d/bridgeport-school-district-ct/",
+            "Data": {
+                "Website": "https://www.bridgeportedu.net/BPS",
+                "Phone": "(203) 275-1037",
+                "Address": "45 LYON TERRACEBRIDGEPORT, CT 06604",
+                "Students": "19,085",
+                "Free or Reduced Lunch": "50.9%",
+                "Expenses/Student": "$20,048",
+                "Support Services": "38%"
+            }
+        },
+        "Bloomfield School District": {
+            "Niche": "https://www.niche.com/k12/d/bloomfield-school-district-ct/",
+            "Data": {
+                "Website": "https://www.bloomfieldschools.org/",
+                "Phone": "(860) 769-4200",
+                "Address": "1133 BLUE HILLS AVEBLOOMFIELD, CT 06002",
+                "Students": "2,018",
+                "Free or Reduced Lunch": "49.4%",
+                "Expenses/Student": "$31,983",
+                "Support Services": "41%"
+            }
+        },
+        "Thompson School District": {
+            "Niche": "https://www.niche.com/k12/d/thompson-school-district-ct/",
+            "Data": {
+                "Website": "https://www.thompsonk12.org/",
+                "Phone": "(860) 923-9581",
+                "Address": "785 RIVERSIDE DRNORTH GROSVENOR DALE, CT 06255",
+                "Students": "937",
+                "Free or Reduced Lunch": "36.3%",
+                "Expenses/Student": "$25,687",
+                "Support Services": "50%"
+            }
+        },
+        "Redding School District": {
+            "Niche": "https://www.niche.com/k12/d/redding-school-district-ct/",
+            "Data": {
+                "Website": "https://www.er9.org/",
+                "Phone": "(203) 261-2513",
+                "Address": "654 MOREHOUSE RDEASTON, CT 06612",
+                "Students": "827",
+                "Free or Reduced Lunch": "2.8%",
+                "Expenses/Student": "$31,937",
+                "Support Services": "27%"
+            }
+        },
+        "Mansfield School District": {
+            "Niche": "https://www.niche.com/k12/d/mansfield-school-district-ct/",
+            "Data": {
+                "Website": "https://www.mansfieldct.gov/153/School-District",
+                "Phone": "(860) 429-3350",
+                "Address": "4 SOUTH EAGLEVILLE RDSTORRS, CT 06268",
+                "Students": "996",
+                "Free or Reduced Lunch": "24.6%",
+                "Expenses/Student": "$30,099",
+                "Support Services": "34%"
+            }
+        },
+        "Orange School District": {
+            "Niche": "https://www.niche.com/k12/d/orange-school-district-ct/",
+            "Data": {
+                "Website": "https://www.oess.org/",
+                "Phone": "(203) 891-8020",
+                "Address": "637 ORANGE CENTER RDORANGE, CT 06477",
+                "Students": "1,256",
+                "Free or Reduced Lunch": "5.4%",
+                "Expenses/Student": "$20,912",
+                "Support Services": "42%"
+            }
+        },
+        "Hebron School District": {
+            "Niche": "https://www.niche.com/k12/d/hebron-school-district-ct/",
+            "Data": {
+                "Website": "https://www.hebron.k12.ct.us/",
+                "Phone": "(860) 228-2577",
+                "Address": "580 GILEAD STHEBRON, CT 06248",
+                "Students": "679",
+                "Free or Reduced Lunch": "11.1%",
+                "Expenses/Student": "$21,563",
+                "Support Services": "38%"
+            }
+        },
+        "New Hartford School District": {
+            "Niche": "https://www.niche.com/k12/d/new-hartford-school-district-ct/",
+            "Data": {
+                "Website": "https://www.newhtfd.org/newhtfd",
+                "Phone": "(860) 379-8546",
+                "Address": "530 MAIN STNEW HARTFORD, CT 06057",
+                "Students": "428",
+                "Free or Reduced Lunch": "11.1%",
+                "Expenses/Student": "$23,304",
+                "Support Services": "31%"
+            }
+        },
+        "Winchester School District": {
+            "Niche": "https://www.niche.com/k12/d/winchester-school-district-ct/",
+            "Data": {
+                "Website": "https://www.winchesterschools.org/",
+                "Phone": "(860) 379-0706",
+                "Address": "338 MAIN STWINSTED, CT 06098",
+                "Students": "559",
+                "Free or Reduced Lunch": "57.6%",
+                "Expenses/Student": "$46,034",
+                "Support Services": "41%"
+            }
+        },
+        "Preston School District": {
+            "Niche": "https://www.niche.com/k12/d/preston-school-district-ct/",
+            "Data": {
+                "Website": "https://www.prestonschools.org/",
+                "Phone": "(860) 889-6098",
+                "Address": "325 SHETUCKET TURNPIKEPRESTON, CT 06365",
+                "Students": "423",
+                "Free or Reduced Lunch": "25.6%",
+                "Expenses/Student": "$32,487",
+                "Support Services": "41%"
+            }
+        },
+        "Easton School District": {
+            "Niche": "https://www.niche.com/k12/d/easton-school-district-ct/",
+            "Data": {
+                "Website": "https://www.er9.org/",
+                "Phone": "(203) 261-2513",
+                "Address": "654 MOREHOUSE RDEASTON, CT 06612",
+                "Students": "893",
+                "Free or Reduced Lunch": "3.7%",
+                "Expenses/Student": "$22,253",
+                "Support Services": "28%"
+            }
+        },
+        "Woodstock School District": {
+            "Niche": "https://www.niche.com/k12/d/woodstock-school-district-ct/",
+            "Data": {
+                "Website": "https://www.woodstockschools.net/",
+                "Phone": "(860) 928-7453",
+                "Address": "147 A ROUTE 169WOODSTOCK, CT 06281",
+                "Students": "790",
+                "Free or Reduced Lunch": "12.9%",
+                "Expenses/Student": "$28,563",
+                "Support Services": "41%"
+            }
+        },
+        "Willington School District": {
+            "Niche": "https://www.niche.com/k12/d/willington-school-district-ct/",
+            "Data": {
+                "Website": "https://willingtonpublicschools.org/",
+                "Phone": "(860) 487-3130",
+                "Address": "40A OLD FARMS RDWILLINGTON, CT 06279",
+                "Students": "385",
+                "Free or Reduced Lunch": "23%",
+                "Expenses/Student": "$27,392",
+                "Support Services": "37%"
+            }
+        },
+        "Brooklyn School District": {
+            "Niche": "https://www.niche.com/k12/d/brooklyn-school-district-ct/",
+            "Data": {
+                "Website": "https://www.brooklynschools.org/",
+                "Phone": "(860) 774-9732",
+                "Address": "119 GORMAN RDBROOKLYN, CT 06234",
+                "Students": "865",
+                "Free or Reduced Lunch": "31.8%",
+                "Expenses/Student": "$25,987",
+                "Support Services": "32%"
+            }
+        },
+        "Canterbury School District": {
+            "Niche": "https://www.niche.com/k12/d/canterbury-school-district-ct/",
+            "Data": {
+                "Website": "https://www.canterburypublicschools.org/",
+                "Phone": "(860) 546-6950",
+                "Address": "45 WESTMINSTER RDCANTERBURY, CT 06331",
+                "Students": "461",
+                "Free or Reduced Lunch": "24.2%",
+                "Expenses/Student": "$29,941",
+                "Support Services": "36%"
+            }
+        },
+        "Connecticut Technical High School": {
+            "Niche": "https://www.niche.com/k12/d/connecticut-technical-high-school-ct/",
+            "Data": {
+                "Website": "https://www.cttech.org/",
+                "Phone": "(860) 807-2200",
+                "Address": "39 WOODLAND STHARTFORD, CT 06105",
+                "Students": "11,474",
+                "Free or Reduced Lunch": "42.6%",
+                "Expenses/Student": "N/A",
+                "Support Services": "N/A"
+            }
+        },
+        "Area Cooperative Educational": {
+            "Niche": "https://www.niche.com/k12/d/area-cooperative-educational-ct/",
+            "Data": {
+                "Website": "https://www.aces.org/",
+                "Phone": "(203) 498-6817",
+                "Address": "350 STATE STNORTH HAVEN, CT 06473",
+                "Students": "1,819",
+                "Free or Reduced Lunch": "56.2%",
+                "Expenses/Student": "$48,307",
+                "Support Services": "48%"
+            }
+        },
+        "Norwich Public Schools District": {
+            "Niche": "https://www.niche.com/k12/d/norwich-public-schools-district-ct/",
+            "Data": {
+                "Website": "https://www.norwichpublicschools.org/",
+                "Phone": "(860) 823-4200",
+                "Address": "90 TOWN STNORWICH, CT 06360",
+                "Students": "3,219",
+                "Free or Reduced Lunch": "76.7%",
+                "Expenses/Student": "$34,564",
+                "Support Services": "33%"
+            }
+        }
+    }
+}

@@ -1,0 +1,1912 @@
+{
+    "Districts": {
+        "South Central School District": {
+            "Niche": "https://www.niche.com/k12/d/south-central-school-district-sd/",
+            "Data": {
+                "Website": "https://www.southcentral.k12.sd.us/",
+                "Phone": "(605) 654-2314",
+                "Address": "401 BIRDSELL STBONESTEEL, SD 57317",
+                "Students": "75",
+                "Free or Reduced Lunch": "63.2%",
+                "Expenses/Student": "$21,747",
+                "Support Services": "49%"
+            }
+        },
+        "Brandon Valley School District": {
+            "Niche": "https://www.niche.com/k12/d/brandon-valley-school-district-sd/",
+            "Data": {
+                "Website": "https://brandonvalley.k12.sd.us/district/home.htm",
+                "Phone": "(605) 582-2049",
+                "Address": "300 S SPLITROCK BLVDBRANDON, SD 57005",
+                "Students": "4,901",
+                "Free or Reduced Lunch": "17.5%",
+                "Expenses/Student": "$9,276",
+                "Support Services": "33%"
+            }
+        },
+        "Big Stone City School District": {
+            "Niche": "https://www.niche.com/k12/d/big-stone-city-school-district-sd/",
+            "Data": {
+                "Website": "http://bigstonecitylions.weebly.com/",
+                "Phone": "(605) 862-8108",
+                "Address": "655 WALNUT STBIG STONE CITY, SD 57216",
+                "Students": "93",
+                "Free or Reduced Lunch": "59.8%",
+                "Expenses/Student": "$20,699",
+                "Support Services": "36%"
+            }
+        },
+        "Warner School District": {
+            "Niche": "https://www.niche.com/k12/d/warner-school-district-sd/",
+            "Data": {
+                "Website": "https://www.warner.k12.sd.us/",
+                "Phone": "(605) 225-6397",
+                "Address": "110 1ST AVE SWWARNER, SD 57479",
+                "Students": "315",
+                "Free or Reduced Lunch": "13.2%",
+                "Expenses/Student": "$11,581",
+                "Support Services": "35%"
+            }
+        },
+        "Timber Lake School District": {
+            "Niche": "https://www.niche.com/k12/d/timber-lake-school-district-sd/",
+            "Data": {
+                "Website": "https://www.timberlakeschool.org/",
+                "Phone": "(605) 865-3654",
+                "Address": "500 MAIN STTIMBER LAKE, SD 57656",
+                "Students": "351",
+                "Free or Reduced Lunch": "40.4%",
+                "Expenses/Student": "$17,131",
+                "Support Services": "36%"
+            }
+        },
+        "Dakota Valley School District": {
+            "Niche": "https://www.niche.com/k12/d/dakota-valley-school-district-sd/",
+            "Data": {
+                "Website": "https://www.dvschools.com/",
+                "Phone": "(605) 422-3800",
+                "Address": "1150 NORTHSHORE DRNORTH SIOUX CITY, SD 57049",
+                "Students": "1,373",
+                "Free or Reduced Lunch": "16.8%",
+                "Expenses/Student": "$10,286",
+                "Support Services": "36%"
+            }
+        },
+        "Mitchell School District": {
+            "Niche": "https://www.niche.com/k12/d/mitchell-school-district-sd/",
+            "Data": {
+                "Website": "https://www.mitchell.k12.sd.us/",
+                "Phone": "(605) 995-3010",
+                "Address": "800 W 10TH AVEMITCHELL, SD 57301",
+                "Students": "2,729",
+                "Free or Reduced Lunch": "35%",
+                "Expenses/Student": "$10,128",
+                "Support Services": "30%"
+            }
+        },
+        "Parkston School District": {
+            "Niche": "https://www.niche.com/k12/d/parkston-school-district-sd/",
+            "Data": {
+                "Website": "https://www.parkston.k12.sd.us/",
+                "Phone": "(605) 928-3368",
+                "Address": "102C S CHAPMAN DRPARKSTON, SD 57366",
+                "Students": "549",
+                "Free or Reduced Lunch": "30.7%",
+                "Expenses/Student": "$11,062",
+                "Support Services": "31%"
+            }
+        },
+        "Dell Rapids School District": {
+            "Niche": "https://www.niche.com/k12/d/dell-rapids-school-district-sd/",
+            "Data": {
+                "Website": "https://www.dr-k12.org/",
+                "Phone": "(605) 428-5473",
+                "Address": "1216 N GARFIELD AVEDELL RAPIDS, SD 57022",
+                "Students": "985",
+                "Free or Reduced Lunch": "18.7%",
+                "Expenses/Student": "$12,470",
+                "Support Services": "37%"
+            }
+        },
+        "Platte-Geddes School District": {
+            "Niche": "https://www.niche.com/k12/d/platte-geddes-school-district-sd/",
+            "Data": {
+                "Website": "https://www.platte-geddes.k12.sd.us/",
+                "Phone": "(605) 337-3391",
+                "Address": "400 ILLINOIS AVEPLATTE, SD 57369",
+                "Students": "499",
+                "Free or Reduced Lunch": "28.2%",
+                "Expenses/Student": "$11,078",
+                "Support Services": "32%"
+            }
+        },
+        "Sioux Falls School District": {
+            "Niche": "https://www.niche.com/k12/d/sioux-falls-school-district-sd/",
+            "Data": {
+                "Website": "https://www.sf.k12.sd.us/",
+                "Phone": "(605) 367-7900",
+                "Address": "201 E 38TH STSIOUX FALLS, SD 57105",
+                "Students": "24,957",
+                "Free or Reduced Lunch": "42.4%",
+                "Expenses/Student": "$12,922",
+                "Support Services": "32%"
+            }
+        },
+        "Oldham-Ramona School District": {
+            "Niche": "https://www.niche.com/k12/d/oldham-ramona-school-district-sd/",
+            "Data": {
+                "Website": "https://oldhamramona.k12.sd.us/",
+                "Phone": "(605) 482-8244",
+                "Address": "220 W 2ND STRAMONA, SD 57054",
+                "Students": "158",
+                "Free or Reduced Lunch": "44.3%",
+                "Expenses/Student": "$15,759",
+                "Support Services": "36%"
+            }
+        },
+        "Hill City School District": {
+            "Niche": "https://www.niche.com/k12/d/hill-city-school-district-sd/",
+            "Data": {
+                "Website": "https://www.hillcity.k12.sd.us/",
+                "Phone": "(605) 574-3030",
+                "Address": "488 MAIN STHILL CITY, SD 57745",
+                "Students": "502",
+                "Free or Reduced Lunch": "40.6%",
+                "Expenses/Student": "$11,273",
+                "Support Services": "43%"
+            }
+        },
+        "Faulkton Area School District": {
+            "Niche": "https://www.niche.com/k12/d/faulkton-area-school-district-sd/",
+            "Data": {
+                "Website": "https://www.faulkton.k12.sd.us/",
+                "Phone": "(605) 598-6266",
+                "Address": "1114 COURT STFAULKTON, SD 57438",
+                "Students": "383",
+                "Free or Reduced Lunch": "30%",
+                "Expenses/Student": "$29,687",
+                "Support Services": "35%"
+            }
+        },
+        "Mount Vernon School District": {
+            "Niche": "https://www.niche.com/k12/d/mount-vernon-school-district-sd/",
+            "Data": {
+                "Website": "https://www.mtvernon.k12.sd.us",
+                "Phone": "(605) 236-5237",
+                "Address": "500 N MAINMOUNT VERNON, SD 57363",
+                "Students": "271",
+                "Free or Reduced Lunch": "38.2%",
+                "Expenses/Student": "$11,889",
+                "Support Services": "35%"
+            }
+        },
+        "Harrisburg School District": {
+            "Niche": "https://www.niche.com/k12/d/harrisburg-school-district-sd/",
+            "Data": {
+                "Website": "https://www.harrisburgdistrict41-2.org/",
+                "Phone": "(605) 743-2567",
+                "Address": "200 WILLOW STHARRISBURG, SD 57032",
+                "Students": "5,737",
+                "Free or Reduced Lunch": "12.6%",
+                "Expenses/Student": "$13,785",
+                "Support Services": "31%"
+            }
+        },
+        "Eureka School District": {
+            "Niche": "https://www.niche.com/k12/d/eureka-school-district-sd/",
+            "Data": {
+                "Website": "https://www.eureka.k12.sd.us/",
+                "Phone": "(605) 284-2875",
+                "Address": "805 10TH STEUREKA, SD 57437",
+                "Students": "165",
+                "Free or Reduced Lunch": "34.6%",
+                "Expenses/Student": "$16,376",
+                "Support Services": "36%"
+            }
+        },
+        "Ethan School District": {
+            "Niche": "https://www.niche.com/k12/d/ethan-school-district-sd/",
+            "Data": {
+                "Website": "https://ethan.k12.sd.us",
+                "Phone": "(605) 227-4211",
+                "Address": "320 S 2ND STETHAN, SD 57334",
+                "Students": "291",
+                "Free or Reduced Lunch": "30.8%",
+                "Expenses/Student": "$11,045",
+                "Support Services": "35%"
+            }
+        },
+        "Canistota School District": {
+            "Niche": "https://www.niche.com/k12/d/canistota-school-district-sd/",
+            "Data": {
+                "Website": "https://www.canistota.k12.sd.us",
+                "Phone": "(605) 296-3458",
+                "Address": "341 MAIN STCANISTOTA, SD 57012",
+                "Students": "264",
+                "Free or Reduced Lunch": "28.9%",
+                "Expenses/Student": "$10,989",
+                "Support Services": "38%"
+            }
+        },
+        "Mobridge-Pollock School District": {
+            "Niche": "https://www.niche.com/k12/d/mobridge-pollock-school-district-sd/",
+            "Data": {
+                "Website": "https://www.mobridge-pollock.k12.sd.us/",
+                "Phone": "(605) 845-9204",
+                "Address": "1107 1ST AVE EMOBRIDGE, SD 57601",
+                "Students": "621",
+                "Free or Reduced Lunch": "45.3%",
+                "Expenses/Student": "$10,853",
+                "Support Services": "34%"
+            }
+        },
+        "Stickney-Corsica School District": {
+            "Niche": "https://www.niche.com/k12/d/stickney-corsica-school-district-sd/",
+            "Data": {
+                "Website": "https://corsica-stickney.k12.sd.us/",
+                "Phone": "(605) 946-5475",
+                "Address": "120 S NAPOLEON AVECORSICA, SD 57328",
+                "Students": "290",
+                "Free or Reduced Lunch": "27.3%",
+                "Expenses/Student": "$11,093",
+                "Support Services": "42%"
+            }
+        },
+        "Northwestern Area School District": {
+            "Niche": "https://www.niche.com/k12/d/northwestern-area-school-district-sd/",
+            "Data": {
+                "Website": "https://www.northwestern.k12.sd.us/",
+                "Phone": "(605) 887-3467",
+                "Address": "221 3RD STMELLETTE, SD 57461",
+                "Students": "320",
+                "Free or Reduced Lunch": "30.1%",
+                "Expenses/Student": "$10,166",
+                "Support Services": "37%"
+            }
+        },
+        "Ipswich Public School District 22-6": {
+            "Niche": "https://www.niche.com/k12/d/ipswich-public-school-district-22-6-sd/",
+            "Data": {
+                "Website": "https://www.ipswich.k12.sd.us/",
+                "Phone": "(605) 426-6561",
+                "Address": "211 5TH STIPSWICH, SD 57451",
+                "Students": "449",
+                "Free or Reduced Lunch": "34.9%",
+                "Expenses/Student": "$11,109",
+                "Support Services": "35%"
+            }
+        },
+        "Frederick Area School District": {
+            "Niche": "https://www.niche.com/k12/d/frederick-area-school-district-sd/",
+            "Data": {
+                "Website": "https://www.frederickarea.k12.sd.us/",
+                "Phone": "(605) 329-2145",
+                "Address": "202 E MAIN STFREDERICK, SD 57441",
+                "Students": "174",
+                "Free or Reduced Lunch": "32.9%",
+                "Expenses/Student": "$14,011",
+                "Support Services": "41%"
+            }
+        },
+        "Arlington School District": {
+            "Niche": "https://www.niche.com/k12/d/arlington-school-district-sd/",
+            "Data": {
+                "Website": "https://www.arlington.k12.sd.us",
+                "Phone": "(605) 983-5597",
+                "Address": "306 S MAIN STARLINGTON, SD 57212",
+                "Students": "300",
+                "Free or Reduced Lunch": "19.5%",
+                "Expenses/Student": "$12,703",
+                "Support Services": "36%"
+            }
+        },
+        "Herreid School District": {
+            "Niche": "https://www.niche.com/k12/d/herreid-school-district-sd/",
+            "Data": {
+                "Website": "https://herreid.k12.sd.us",
+                "Phone": "(605) 437-2263",
+                "Address": "302 MAIN ST NHERREID, SD 57632",
+                "Students": "125",
+                "Free or Reduced Lunch": "25.6%",
+                "Expenses/Student": "$16,144",
+                "Support Services": "36%"
+            }
+        },
+        "Bridgewater-Emery School District": {
+            "Niche": "https://www.niche.com/k12/d/bridgewater-emery-school-district-sd/",
+            "Data": {
+                "Website": "https://www.bridgewater-emery.com/",
+                "Phone": "(605) 729-2541",
+                "Address": "510 N MAINBRIDGEWATER, SD 57319",
+                "Students": "339",
+                "Free or Reduced Lunch": "31.6%",
+                "Expenses/Student": "$13,094",
+                "Support Services": "35%"
+            }
+        },
+        "Madison Central School District": {
+            "Niche": "https://www.niche.com/k12/d/madison-central-school-district-sd/",
+            "Data": {
+                "Website": "https://www.madison.k12.sd.us/",
+                "Phone": "(605) 256-7700",
+                "Address": "800 NE 9TH STMADISON, SD 57042",
+                "Students": "1,139",
+                "Free or Reduced Lunch": "27.9%",
+                "Expenses/Student": "$10,709",
+                "Support Services": "35%"
+            }
+        },
+        "Sanborn Central School District": {
+            "Niche": "https://www.niche.com/k12/d/sanborn-central-school-district-sd/",
+            "Data": {
+                "Website": "https://www.sanborncentral.com",
+                "Phone": "(605) 495-4183",
+                "Address": "40405 SD HWY 34FORESTBURG, SD 57314",
+                "Students": "219",
+                "Free or Reduced Lunch": "30.8%",
+                "Expenses/Student": "$12,146",
+                "Support Services": "33%"
+            }
+        },
+        "Agar-Blunt-Onida School District": {
+            "Niche": "https://www.niche.com/k12/d/agar-blunt-onida-school-district-sd/",
+            "Data": {
+                "Website": "https://www.abo.k12.sd.us/",
+                "Phone": "(605) 258-2618",
+                "Address": "500 8TH STONIDA, SD 57564",
+                "Students": "237",
+                "Free or Reduced Lunch": "26.4%",
+                "Expenses/Student": "$20,945",
+                "Support Services": "37%"
+            }
+        },
+        "Lake Preston School District": {
+            "Niche": "https://www.niche.com/k12/d/lake-preston-school-district-sd/",
+            "Data": {
+                "Website": "https://www.lakepreston.k12.sd.us",
+                "Phone": "(605) 847-4455",
+                "Address": "300 1ST ST NELAKE PRESTON, SD 57249",
+                "Students": "185",
+                "Free or Reduced Lunch": "36.6%",
+                "Expenses/Student": "$16,081",
+                "Support Services": "43%"
+            }
+        },
+        "Kadoka Area School District": {
+            "Niche": "https://www.niche.com/k12/d/kadoka-area-school-district-sd/",
+            "Data": {
+                "Website": "https://www.kadoka.k12.sd.us",
+                "Phone": "(605) 837-2175",
+                "Address": "800 BAYBERRY STKADOKA, SD 57543",
+                "Students": "341",
+                "Free or Reduced Lunch": "46%",
+                "Expenses/Student": "$15,642",
+                "Support Services": "39%"
+            }
+        },
+        "Jones County Schools": {
+            "Niche": "https://www.niche.com/k12/d/jones-county-schools-sd/",
+            "Data": {
+                "Website": "https://www.jonesco.k12.sd.us/",
+                "Phone": "(605) 669-2297",
+                "Address": "404 JACKSON AVEMURDO, SD 57559",
+                "Students": "187",
+                "Free or Reduced Lunch": "47.3%",
+                "Expenses/Student": "$19,529",
+                "Support Services": "37%"
+            }
+        },
+        "Hamlin School District": {
+            "Niche": "https://www.niche.com/k12/d/hamlin-school-district-sd/",
+            "Data": {
+                "Website": "https://hamlinchargers.com/",
+                "Phone": "(605) 783-3631",
+                "Address": "44577 188TH STHAYTI, SD 57241",
+                "Students": "884",
+                "Free or Reduced Lunch": "42.8%",
+                "Expenses/Student": "$11,195",
+                "Support Services": "34%"
+            }
+        },
+        "Tea Area School District": {
+            "Niche": "https://www.niche.com/k12/d/tea-area-school-district-sd/",
+            "Data": {
+                "Website": "https://www.teaarea.k12.sd.us/",
+                "Phone": "(605) 498-2700",
+                "Address": "131 N POPLARTEA, SD 57064",
+                "Students": "2,243",
+                "Free or Reduced Lunch": "18.1%",
+                "Expenses/Student": "$10,863",
+                "Support Services": "37%"
+            }
+        },
+        "Watertown School District": {
+            "Niche": "https://www.niche.com/k12/d/watertown-school-district-sd/",
+            "Data": {
+                "Website": "https://www.watertown.k12.sd.us/",
+                "Phone": "(605) 882-6312",
+                "Address": "200 NE 9TH STWATERTOWN, SD 57201",
+                "Students": "3,930",
+                "Free or Reduced Lunch": "34.2%",
+                "Expenses/Student": "$10,004",
+                "Support Services": "33%"
+            }
+        },
+        "Spearfish School District": {
+            "Niche": "https://www.niche.com/k12/d/spearfish-school-district-sd/",
+            "Data": {
+                "Website": "https://www.spearfish.k12.sd.us/",
+                "Phone": "(605) 717-1229",
+                "Address": "525 E ILLINOIS STSPEARFISH, SD 57783",
+                "Students": "2,398",
+                "Free or Reduced Lunch": "26.2%",
+                "Expenses/Student": "$8,929",
+                "Support Services": "29%"
+            }
+        },
+        "Pierre School District": {
+            "Niche": "https://www.niche.com/k12/d/pierre-school-district-sd/",
+            "Data": {
+                "Website": "https://pierre.k12.sd.us/",
+                "Phone": "(605) 773-7300",
+                "Address": "211 S POPLAR AVEPIERRE, SD 57501",
+                "Students": "2,802",
+                "Free or Reduced Lunch": "28.1%",
+                "Expenses/Student": "$9,104",
+                "Support Services": "33%"
+            }
+        },
+        "Gettysburg School District": {
+            "Niche": "https://www.niche.com/k12/d/gettysburg-school-district-sd/",
+            "Data": {
+                "Website": "https://www.gettysburg.k12.sd.us/",
+                "Phone": "(605) 765-2438",
+                "Address": "100 E KING AVEGETTYSBURG, SD 57442",
+                "Students": "228",
+                "Free or Reduced Lunch": "29.5%",
+                "Expenses/Student": "$14,000",
+                "Support Services": "37%"
+            }
+        },
+        "Burke School District": {
+            "Niche": "https://www.niche.com/k12/d/burke-school-district-sd/",
+            "Data": {
+                "Website": "https://www.burke.k12.sd.us/",
+                "Phone": "(605) 775-2644",
+                "Address": "900 WASHINGTON STBURKE, SD 57523",
+                "Students": "235",
+                "Free or Reduced Lunch": "42.9%",
+                "Expenses/Student": "$42,345",
+                "Support Services": "39%"
+            }
+        },
+        "Aberdeen School District": {
+            "Niche": "https://www.niche.com/k12/d/aberdeen-school-district-sd/",
+            "Data": {
+                "Website": "https://www.aberdeen.k12.sd.us/",
+                "Phone": "(605) 725-7111",
+                "Address": "1224 3RD ST SABERDEEN, SD 57401",
+                "Students": "4,419",
+                "Free or Reduced Lunch": "33.1%",
+                "Expenses/Student": "$10,330",
+                "Support Services": "32%"
+            }
+        },
+        "Chamberlain School District": {
+            "Niche": "https://www.niche.com/k12/d/chamberlain-school-district-sd/",
+            "Data": {
+                "Website": "https://www.chamberlain.k12.sd.us/",
+                "Phone": "(605) 234-4477",
+                "Address": "1000 SORENSEN DRCHAMBERLAIN, SD 57325",
+                "Students": "868",
+                "Free or Reduced Lunch": "44.3%",
+                "Expenses/Student": "$13,624",
+                "Support Services": "34%"
+            }
+        },
+        "Hoven School District 53-2": {
+            "Niche": "https://www.niche.com/k12/d/hoven-school-district-53-2-sd/",
+            "Data": {
+                "Website": "https://www.hoven.k12.sd.us/",
+                "Phone": "(605) 948-2252",
+                "Address": "98 5TH AVE WESTHOVEN, SD 57450",
+                "Students": "110",
+                "Free or Reduced Lunch": "36.8%",
+                "Expenses/Student": "$22,655",
+                "Support Services": "28%"
+            }
+        },
+        "Lennox School District": {
+            "Niche": "https://www.niche.com/k12/d/lennox-school-district-sd/",
+            "Data": {
+                "Website": "https://www.lennox.k12.sd.us/",
+                "Phone": "(605) 647-2203",
+                "Address": "305 WEST 5TH AVELENNOX, SD 57039",
+                "Students": "1,204",
+                "Free or Reduced Lunch": "12.5%",
+                "Expenses/Student": "$13,829",
+                "Support Services": "37%"
+            }
+        },
+        "Elk Point-Jefferson School District": {
+            "Niche": "https://www.niche.com/k12/d/elk-point-jefferson-school-district-sd/",
+            "Data": {
+                "Website": "https://www.epj.k12.sd.us/",
+                "Phone": "(605) 356-5951",
+                "Address": "402 S DOUGLAS STELK POINT, SD 57025",
+                "Students": "693",
+                "Free or Reduced Lunch": "22.9%",
+                "Expenses/Student": "$11,166",
+                "Support Services": "36%"
+            }
+        },
+        "Sioux Valley School District": {
+            "Niche": "https://www.niche.com/k12/d/sioux-valley-school-district-sd/",
+            "Data": {
+                "Website": "https://www.svs.k12.sd.us/",
+                "Phone": "(605) 627-5657",
+                "Address": "200 HANSINA AVEVOLGA, SD 57071",
+                "Students": "693",
+                "Free or Reduced Lunch": "20.8%",
+                "Expenses/Student": "$9,470",
+                "Support Services": "36%"
+            }
+        },
+        "Lyman School District": {
+            "Niche": "https://www.niche.com/k12/d/lyman-school-district-sd/",
+            "Data": {
+                "Website": "https://www.lyman.k12.sd.us",
+                "Phone": "(605) 895-2579",
+                "Address": "201 S BIRCH AVEPRESHO, SD 57568",
+                "Students": "367",
+                "Free or Reduced Lunch": "49.1%",
+                "Expenses/Student": "$28,992",
+                "Support Services": "42%"
+            }
+        },
+        "Hanson School District": {
+            "Niche": "https://www.niche.com/k12/d/hanson-school-district-sd/",
+            "Data": {
+                "Website": "https://www.hanson.k12.sd.us",
+                "Phone": "(605) 239-4387",
+                "Address": "230 6TH STALEXANDRIA, SD 57311",
+                "Students": "399",
+                "Free or Reduced Lunch": "21.5%",
+                "Expenses/Student": "$10,449",
+                "Support Services": "35%"
+            }
+        },
+        "Tri-Valley School District": {
+            "Niche": "https://www.niche.com/k12/d/tri-valley-school-district-sd/",
+            "Data": {
+                "Website": "https://www.tri-valley.k12.sd.us/",
+                "Phone": "(605) 446-3538",
+                "Address": "46450 252ND STCOLTON, SD 57018",
+                "Students": "972",
+                "Free or Reduced Lunch": "23.9%",
+                "Expenses/Student": "$10,003",
+                "Support Services": "39%"
+            }
+        },
+        "Howard School District": {
+            "Niche": "https://www.niche.com/k12/d/howard-school-district-sd/",
+            "Data": {
+                "Website": "https://www.howard.k12.sd.us/",
+                "Phone": "(605) 772-4443",
+                "Address": "201 N MINNIE ST HOWARD SD 57349HOWARD, SD 57349",
+                "Students": "348",
+                "Free or Reduced Lunch": "25.6%",
+                "Expenses/Student": "$14,555",
+                "Support Services": "37%"
+            }
+        },
+        "Bowdle School District": {
+            "Niche": "https://www.niche.com/k12/d/bowdle-school-district-sd/",
+            "Data": {
+                "Website": "https://www.bowdle.k12.sd.us/",
+                "Phone": "(605) 285-6272",
+                "Address": "3083 2ND AVEBOWDLE, SD 57428",
+                "Students": "121",
+                "Free or Reduced Lunch": "23.7%",
+                "Expenses/Student": "$14,967",
+                "Support Services": "35%"
+            }
+        },
+        "Gregory School District": {
+            "Niche": "https://www.niche.com/k12/d/gregory-school-district-sd/",
+            "Data": {
+                "Website": "https://gregory.k12.sd.us/",
+                "Phone": "(605) 835-9651",
+                "Address": "505 LOGANGREGORY, SD 57533",
+                "Students": "427",
+                "Free or Reduced Lunch": "49.6%",
+                "Expenses/Student": "$9,602",
+                "Support Services": "29%"
+            }
+        },
+        "Brookings School District": {
+            "Niche": "https://www.niche.com/k12/d/brookings-school-district-sd/",
+            "Data": {
+                "Website": "https://www.brookings.k12.sd.us/",
+                "Phone": "(605) 696-4700",
+                "Address": "2130 8TH ST SBROOKINGS, SD 57006",
+                "Students": "3,398",
+                "Free or Reduced Lunch": "24.5%",
+                "Expenses/Student": "$14,878",
+                "Support Services": "31%"
+            }
+        },
+        "Plankinton School District": {
+            "Niche": "https://www.niche.com/k12/d/plankinton-school-district-sd/",
+            "Data": {
+                "Website": "https://www.plankinton.k12.sd.us/",
+                "Phone": "(605) 942-7743",
+                "Address": "404 E DAVENPORT STPLANKINTON, SD 57368",
+                "Students": "306",
+                "Free or Reduced Lunch": "34%",
+                "Expenses/Student": "$15,461",
+                "Support Services": "26%"
+            }
+        },
+        "Winner School District": {
+            "Niche": "https://www.niche.com/k12/d/winner-school-district-sd/",
+            "Data": {
+                "Website": "https://www.winner.k12.sd.us",
+                "Phone": "(605) 842-8101",
+                "Address": "431 E 7TH STWINNER, SD 57580",
+                "Students": "772",
+                "Free or Reduced Lunch": "45.5%",
+                "Expenses/Student": "$10,034",
+                "Support Services": "37%"
+            }
+        },
+        "Kimball School District": {
+            "Niche": "https://www.niche.com/k12/d/kimball-school-district-sd/",
+            "Data": {
+                "Website": "https://kimball.k12.sd.us/",
+                "Phone": "(605) 778-6232",
+                "Address": "300 S EAST STKIMBALL, SD 57355",
+                "Students": "337",
+                "Free or Reduced Lunch": "44.2%",
+                "Expenses/Student": "$11,193",
+                "Support Services": "33%"
+            }
+        },
+        "Edmunds Central School District": {
+            "Niche": "https://www.niche.com/k12/d/edmunds-central-school-district-sd/",
+            "Data": {
+                "Website": "https://www.echs.k12.sd.us/",
+                "Phone": "(605) 287-4251",
+                "Address": "105 1ST AVEROSCOE, SD 57471",
+                "Students": "138",
+                "Free or Reduced Lunch": "25.5%",
+                "Expenses/Student": "$21,326",
+                "Support Services": "38%"
+            }
+        },
+        "Wall School District": {
+            "Niche": "https://www.niche.com/k12/d/wall-school-district-sd/",
+            "Data": {
+                "Website": "https://wall.k12.sd.us",
+                "Phone": "(605) 279-2156",
+                "Address": "401 S BLVD WWALL, SD 57790",
+                "Students": "269",
+                "Free or Reduced Lunch": "29.8%",
+                "Expenses/Student": "$12,978",
+                "Support Services": "37%"
+            }
+        },
+        "Baltic School District": {
+            "Niche": "https://www.niche.com/k12/d/baltic-school-district-sd/",
+            "Data": {
+                "Website": "https://www.balticschool.org",
+                "Phone": "(605) 529-5464",
+                "Address": "1 BULLDOG AVEBALTIC, SD 57003",
+                "Students": "600",
+                "Free or Reduced Lunch": "18.3%",
+                "Expenses/Student": "$8,965",
+                "Support Services": "34%"
+            }
+        },
+        "Doland School District": {
+            "Niche": "https://www.niche.com/k12/d/doland-school-district-sd/",
+            "Data": {
+                "Website": "https://dolandschool.com",
+                "Phone": "(605) 635-6302",
+                "Address": "405 N HUMPHREY DRDOLAND, SD 57436",
+                "Students": "159",
+                "Free or Reduced Lunch": "47.1%",
+                "Expenses/Student": "$32,855",
+                "Support Services": "33%"
+            }
+        },
+        "Highmore-Harrold School District": {
+            "Niche": "https://www.niche.com/k12/d/highmore-harrold-school-district-sd/",
+            "Data": {
+                "Website": "https://www.highmore-harrold.k12.sd.us",
+                "Phone": "(605) 852-2275",
+                "Address": "415 IOWA AVE SHIGHMORE, SD 57345",
+                "Students": "241",
+                "Free or Reduced Lunch": "29.5%",
+                "Expenses/Student": "$14,241",
+                "Support Services": "41%"
+            }
+        },
+        "Haakon School District": {
+            "Niche": "https://www.niche.com/k12/d/haakon-school-district-sd/",
+            "Data": {
+                "Website": "https://philip.k12.sd.us/",
+                "Phone": "(605) 859-2679",
+                "Address": "330 SCOTTIE AVEPHILIP, SD 57567",
+                "Students": "309",
+                "Free or Reduced Lunch": "25.4%",
+                "Expenses/Student": "$12,197",
+                "Support Services": "40%"
+            }
+        },
+        "Webster Area School District": {
+            "Niche": "https://www.niche.com/k12/d/webster-area-school-district-sd/",
+            "Data": {
+                "Website": "https://www.webster.k12.sd.us",
+                "Phone": "(605) 345-3548",
+                "Address": "102 E 9TH AVEWEBSTER, SD 57274",
+                "Students": "552",
+                "Free or Reduced Lunch": "23.6%",
+                "Expenses/Student": "$10,366",
+                "Support Services": "40%"
+            }
+        },
+        "Avon School District": {
+            "Niche": "https://www.niche.com/k12/d/avon-school-district-sd/",
+            "Data": {
+                "Website": "https://www.avon.k12.sd.us/",
+                "Phone": "(605) 286-3291",
+                "Address": "210 PINE STAVON, SD 57315",
+                "Students": "239",
+                "Free or Reduced Lunch": "34.7%",
+                "Expenses/Student": "$13,385",
+                "Support Services": "37%"
+            }
+        },
+        "Belle Fourche School District": {
+            "Niche": "https://www.niche.com/k12/d/belle-fourche-school-district-sd/",
+            "Data": {
+                "Website": "https://www.bellefourcheschools.org",
+                "Phone": "(605) 723-3355",
+                "Address": "2305 13TH AVEBELLE FOURCHE, SD 57717",
+                "Students": "1,350",
+                "Free or Reduced Lunch": "45.4%",
+                "Expenses/Student": "$10,167",
+                "Support Services": "34%"
+            }
+        },
+        "Freeman School District": {
+            "Niche": "https://www.niche.com/k12/d/freeman-school-district-sd/",
+            "Data": {
+                "Website": "https://www.freeman.k12.sd.us",
+                "Phone": "(605) 925-4214",
+                "Address": "1001 S WIPF STFREEMAN, SD 57029",
+                "Students": "382",
+                "Free or Reduced Lunch": "21.5%",
+                "Expenses/Student": "$12,770",
+                "Support Services": "36%"
+            }
+        },
+        "Yankton School District": {
+            "Niche": "https://www.niche.com/k12/d/yankton-school-district-sd/",
+            "Data": {
+                "Website": "https://www.ysd.k12.sd.us",
+                "Phone": "(605) 665-3998",
+                "Address": "2410 WEST CITY LIMITS RDYANKTON, SD 57078",
+                "Students": "3,006",
+                "Free or Reduced Lunch": "33.8%",
+                "Expenses/Student": "$9,468",
+                "Support Services": "34%"
+            }
+        },
+        "Groton Area School District": {
+            "Niche": "https://www.niche.com/k12/d/groton-area-school-district-sd/",
+            "Data": {
+                "Website": "https://www.grotonarea.com",
+                "Phone": "(605) 397-2351",
+                "Address": "502 NORTH 2ND STGROTON, SD 57445",
+                "Students": "599",
+                "Free or Reduced Lunch": "17.1%",
+                "Expenses/Student": "$11,598",
+                "Support Services": "38%"
+            }
+        },
+        "Centerville School District": {
+            "Niche": "https://www.niche.com/k12/d/centerville-school-district-sd/",
+            "Data": {
+                "Website": "https://www.centerville.k12.sd.us/",
+                "Phone": "(605) 563-2291",
+                "Address": "610 LINCOLN STCENTERVILLE, SD 57014",
+                "Students": "290",
+                "Free or Reduced Lunch": "35.6%",
+                "Expenses/Student": "$11,248",
+                "Support Services": "39%"
+            }
+        },
+        "Hitchcock Tulare School District": {
+            "Niche": "https://www.niche.com/k12/d/hitchcock-tulare-school-district-sd/",
+            "Data": {
+                "Website": "https://www.hitchcock-tulare.k12.sd.us/",
+                "Phone": "(605) 266-2151",
+                "Address": "401 4TH AVETULARE, SD 57476",
+                "Students": "250",
+                "Free or Reduced Lunch": "18.2%",
+                "Expenses/Student": "$13,244",
+                "Support Services": "34%"
+            }
+        },
+        "Parker School District": {
+            "Niche": "https://www.niche.com/k12/d/parker-school-district-sd/",
+            "Data": {
+                "Website": "https://www.parker.k12.sd.us",
+                "Phone": "(605) 297-3456",
+                "Address": "335 W 1ST STPARKER, SD 57053",
+                "Students": "484",
+                "Free or Reduced Lunch": "23.5%",
+                "Expenses/Student": "$9,463",
+                "Support Services": "36%"
+            }
+        },
+        "Deubrook Area Schools": {
+            "Niche": "https://www.niche.com/k12/d/deubrook-area-schools-sd/",
+            "Data": {
+                "Website": "https://www.deubrook.com/",
+                "Phone": "(605) 629-1100",
+                "Address": "100 SCHOOL AVEWHITE, SD 57276",
+                "Students": "416",
+                "Free or Reduced Lunch": "24.5%",
+                "Expenses/Student": "$12,591",
+                "Support Services": "36%"
+            }
+        },
+        "Britton-Hecla School District": {
+            "Niche": "https://www.niche.com/k12/d/britton-hecla-school-district-sd/",
+            "Data": {
+                "Website": "https://www.britton.k12.sd.us",
+                "Phone": "(605) 448-2234",
+                "Address": "759 5TH STBRITTON, SD 57430",
+                "Students": "453",
+                "Free or Reduced Lunch": "39%",
+                "Expenses/Student": "$11,898",
+                "Support Services": "37%"
+            }
+        },
+        "Leola School District": {
+            "Niche": "https://www.niche.com/k12/d/leola-school-district-sd/",
+            "Data": {
+                "Website": "https://www.leola.k12.sd.us/",
+                "Phone": "(605) 439-3477",
+                "Address": "820 LEOLA AVELEOLA, SD 57456",
+                "Students": "222",
+                "Free or Reduced Lunch": "61.6%",
+                "Expenses/Student": "$15,144",
+                "Support Services": "31%"
+            }
+        },
+        "Wolsey Wessington School District": {
+            "Niche": "https://www.niche.com/k12/d/wolsey-wessington-school-district-sd/",
+            "Data": {
+                "Website": "https://www.wolsey-wessington.k12.sd.us",
+                "Phone": "(605) 883-4221",
+                "Address": "375 ASH ST SEWOLSEY, SD 57384",
+                "Students": "363",
+                "Free or Reduced Lunch": "33.7%",
+                "Expenses/Student": "$12,727",
+                "Support Services": "44%"
+            }
+        },
+        "Alcester-Hudson School District": {
+            "Niche": "https://www.niche.com/k12/d/alcester-hudson-school-district-sd/",
+            "Data": {
+                "Website": "https://www.alcester-hudson.k12.sd.us",
+                "Phone": "(605) 934-1890",
+                "Address": "409 E 6TH STALCESTER, SD 57001",
+                "Students": "354",
+                "Free or Reduced Lunch": "29.3%",
+                "Expenses/Student": "$13,802",
+                "Support Services": "36%"
+            }
+        },
+        "Clark School District": {
+            "Niche": "https://www.niche.com/k12/d/clark-school-district-sd/",
+            "Data": {
+                "Website": "http://www.clarkschooldistrict.org/",
+                "Phone": "(605) 532-3603",
+                "Address": "220 N CLINTON STCLARK, SD 57225",
+                "Students": "480",
+                "Free or Reduced Lunch": "42.5%",
+                "Expenses/Student": "$10,771",
+                "Support Services": "33%"
+            }
+        },
+        "West Central School District": {
+            "Niche": "https://www.niche.com/k12/d/west-central-school-district-sd/",
+            "Data": {
+                "Website": "https://www.westcentral49-7.com/",
+                "Phone": "(605) 528-3217",
+                "Address": "705 E 2ND STHARTFORD, SD 57033",
+                "Students": "1,429",
+                "Free or Reduced Lunch": "16.2%",
+                "Expenses/Student": "$9,746",
+                "Support Services": "39%"
+            }
+        },
+        "Garretson School District": {
+            "Niche": "https://www.niche.com/k12/d/garretson-school-district-sd/",
+            "Data": {
+                "Website": "https://www.garretson.k12.sd.us/",
+                "Phone": "(605) 594-3451",
+                "Address": "505 2ND STGARRETSON, SD 57030",
+                "Students": "494",
+                "Free or Reduced Lunch": "13.8%",
+                "Expenses/Student": "$15,421",
+                "Support Services": "38%"
+            }
+        },
+        "Estelline School District": {
+            "Niche": "https://www.niche.com/k12/d/estelline-school-district-sd/",
+            "Data": {
+                "Website": "https://www.estelline.k12.sd.us",
+                "Phone": "(605) 873-2201",
+                "Address": "708 DAVIS AVEESTELLINE, SD 57234",
+                "Students": "281",
+                "Free or Reduced Lunch": "33.2%",
+                "Expenses/Student": "$13,370",
+                "Support Services": "42%"
+            }
+        },
+        "Vermillion School District": {
+            "Niche": "https://www.niche.com/k12/d/vermillion-school-district-sd/",
+            "Data": {
+                "Website": "https://vermillion.k12.sd.us",
+                "Phone": "(605) 677-7000",
+                "Address": "1001 E MAIN STVERMILLION, SD 57069",
+                "Students": "1,391",
+                "Free or Reduced Lunch": "32.8%",
+                "Expenses/Student": "$9,477",
+                "Support Services": "37%"
+            }
+        },
+        "Lemmon School District": {
+            "Niche": "https://www.niche.com/k12/d/lemmon-school-district-sd/",
+            "Data": {
+                "Website": "https://lemmon.k12.sd.us",
+                "Phone": "(605) 374-3762",
+                "Address": "314 8TH ST WESTLEMMON, SD 57638",
+                "Students": "272",
+                "Free or Reduced Lunch": "31.1%",
+                "Expenses/Student": "$14,040",
+                "Support Services": "40%"
+            }
+        },
+        "Langford Area School District": {
+            "Niche": "https://www.niche.com/k12/d/langford-area-school-district-sd/",
+            "Data": {
+                "Website": "https://www.langford.k12.sd.us/",
+                "Phone": "(605) 493-6454",
+                "Address": "206 CHESTNUT STLANGFORD, SD 57454",
+                "Students": "241",
+                "Free or Reduced Lunch": "46.3%",
+                "Expenses/Student": "$12,631",
+                "Support Services": "34%"
+            }
+        },
+        "Wagner Community School District": {
+            "Niche": "https://www.niche.com/k12/d/wagner-community-school-district-sd/",
+            "Data": {
+                "Website": "https://www.wagner.k12.sd.us/",
+                "Phone": "(605) 384-3677",
+                "Address": "101 WALNUT AVE SWWAGNER, SD 57380",
+                "Students": "915",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$15,699",
+                "Support Services": "33%"
+            }
+        },
+        "Harding County School District": {
+            "Niche": "https://www.niche.com/k12/d/harding-county-school-district-sd/",
+            "Data": {
+                "Website": "https://hardingcounty.k12.sd.us",
+                "Phone": "(605) 375-3241",
+                "Address": "12474 TIPPERARY STBUFFALO, SD 57720",
+                "Students": "211",
+                "Free or Reduced Lunch": "17.3%",
+                "Expenses/Student": "$18,062",
+                "Support Services": "41%"
+            }
+        },
+        "Huron School District": {
+            "Niche": "https://www.niche.com/k12/d/huron-school-district-sd/",
+            "Data": {
+                "Website": "https://www.huron.k12.sd.us/",
+                "Phone": "(605) 353-6994",
+                "Address": "150 5TH ST SWHURON, SD 57350",
+                "Students": "2,849",
+                "Free or Reduced Lunch": "56.8%",
+                "Expenses/Student": "$12,232",
+                "Support Services": "34%"
+            }
+        },
+        "Rutland School District": {
+            "Niche": "https://www.niche.com/k12/d/rutland-school-district-sd/",
+            "Data": {
+                "Website": "https://www.rutland.k12.sd.us/",
+                "Phone": "(605) 586-4352",
+                "Address": "102 SCHOOL STRUTLAND, SD 57057",
+                "Students": "196",
+                "Free or Reduced Lunch": "40.5%",
+                "Expenses/Student": "$11,556",
+                "Support Services": "37%"
+            }
+        },
+        "Miller School District": {
+            "Niche": "https://www.niche.com/k12/d/miller-school-district-sd/",
+            "Data": {
+                "Website": "https://www.miller.k12.sd.us/",
+                "Phone": "(605) 853-2614",
+                "Address": "623 E 4TH STMILLER, SD 57362",
+                "Students": "447",
+                "Free or Reduced Lunch": "19.8%",
+                "Expenses/Student": "$13,333",
+                "Support Services": "37%"
+            }
+        },
+        "Rapid City Area School District": {
+            "Niche": "https://www.niche.com/k12/d/rapid-city-area-school-district-sd/",
+            "Data": {
+                "Website": "https://rcas.org/",
+                "Phone": "(605) 394-4031",
+                "Address": "625 9TH STRAPID CITY, SD 57701",
+                "Students": "12,847",
+                "Free or Reduced Lunch": "42.7%",
+                "Expenses/Student": "$10,987",
+                "Support Services": "38%"
+            }
+        },
+        "Armour School District": {
+            "Niche": "https://www.niche.com/k12/d/armour-school-district-sd/",
+            "Data": {
+                "Website": "https://www.armour.k12.sd.us/",
+                "Phone": "(605) 724-2698",
+                "Address": "604 3RD STARMOUR, SD 57313",
+                "Students": "212",
+                "Free or Reduced Lunch": "22.5%",
+                "Expenses/Student": "$13,542",
+                "Support Services": "35%"
+            }
+        },
+        "Stanley County School District": {
+            "Niche": "https://www.niche.com/k12/d/stanley-county-school-district-sd/",
+            "Data": {
+                "Website": "https://www.stanleycounty.k12.sd.us/",
+                "Phone": "(605) 223-7741",
+                "Address": "112 S 1ST AVEFORT PIERRE, SD 57532",
+                "Students": "416",
+                "Free or Reduced Lunch": "30.3%",
+                "Expenses/Student": "$12,637",
+                "Support Services": "36%"
+            }
+        },
+        "Bon Homme School District": {
+            "Niche": "https://www.niche.com/k12/d/bon-homme-school-district-sd/",
+            "Data": {
+                "Website": "https://www.bonhomme.k12.sd.us/",
+                "Phone": "(605) 589-3388",
+                "Address": "1404 FIR STTYNDALL, SD 57066",
+                "Students": "575",
+                "Free or Reduced Lunch": "32.9%",
+                "Expenses/Student": "$10,428",
+                "Support Services": "39%"
+            }
+        },
+        "Montrose School District": {
+            "Niche": "https://www.niche.com/k12/d/montrose-school-district-sd/",
+            "Data": {
+                "Website": "https://www.montrose.k12.sd.us/",
+                "Phone": "(605) 363-5025",
+                "Address": "309 S CHURCH AVEMONTROSE, SD 57048",
+                "Students": "256",
+                "Free or Reduced Lunch": "22.5%",
+                "Expenses/Student": "$11,957",
+                "Support Services": "40%"
+            }
+        },
+        "Flandreau School District": {
+            "Niche": "https://www.niche.com/k12/d/flandreau-school-district-sd/",
+            "Data": {
+                "Website": "https://www.flandreau.k12.sd.us/",
+                "Phone": "(605) 997-3263",
+                "Address": "600 W COMMUNITY DRFLANDREAU, SD 57028",
+                "Students": "720",
+                "Free or Reduced Lunch": "46.7%",
+                "Expenses/Student": "$10,803",
+                "Support Services": "39%"
+            }
+        },
+        "Douglas School District": {
+            "Niche": "https://www.niche.com/k12/d/douglas-school-district-sd/",
+            "Data": {
+                "Website": "https://www.dsdk12.net/",
+                "Phone": "(605) 923-0000",
+                "Address": "400 PATRIOT DRBOX ELDER, SD 57719",
+                "Students": "2,804",
+                "Free or Reduced Lunch": "30.5%",
+                "Expenses/Student": "$9,898",
+                "Support Services": "34%"
+            }
+        },
+        "Selby Area Schools": {
+            "Niche": "https://www.niche.com/k12/d/selby-area-schools-sd/",
+            "Data": {
+                "Website": "https://www.selby.k12.sd.us/",
+                "Phone": "(605) 649-7818",
+                "Address": "108 E DAKOTA STSELBY, SD 57472",
+                "Students": "178",
+                "Free or Reduced Lunch": "21.6%",
+                "Expenses/Student": "$16,393",
+                "Support Services": "41%"
+            }
+        },
+        "Waubay School District": {
+            "Niche": "https://www.niche.com/k12/d/waubay-school-district-sd/",
+            "Data": {
+                "Website": "https://www.waubay.k12.sd.us/",
+                "Phone": "(605) 947-4529",
+                "Address": "202 W SCHOOL RDWAUBAY, SD 57273",
+                "Students": "180",
+                "Free or Reduced Lunch": "66.5%",
+                "Expenses/Student": "$15,239",
+                "Support Services": "36%"
+            }
+        },
+        "Colome Consolidated School District": {
+            "Niche": "https://www.niche.com/k12/d/colome-consolidated-school-district-sd/",
+            "Data": {
+                "Website": "https://colome.k12.sd.us",
+                "Phone": "(605) 842-1624",
+                "Address": "105 CARR STCOLOME, SD 57528",
+                "Students": "202",
+                "Free or Reduced Lunch": "51.9%",
+                "Expenses/Student": "$13,847",
+                "Support Services": "40%"
+            }
+        },
+        "Sisseton School District": {
+            "Niche": "https://www.niche.com/k12/d/sisseton-school-district-sd/",
+            "Data": {
+                "Website": "https://www.sisseton.k12.sd.us/",
+                "Phone": "(605) 698-7613",
+                "Address": "516 8TH AVE WSISSETON, SD 57262",
+                "Students": "950",
+                "Free or Reduced Lunch": "63.1%",
+                "Expenses/Student": "$15,792",
+                "Support Services": "41%"
+            }
+        },
+        "McIntosh School District": {
+            "Niche": "https://www.niche.com/k12/d/mcintosh-school-district-sd/",
+            "Data": {
+                "Website": "https://mcintosh.k12.sd.us/",
+                "Phone": "(605) 273-4227",
+                "Address": "511 MAIN STMCINTOSH, SD 57641",
+                "Students": "160",
+                "Free or Reduced Lunch": "95.2%",
+                "Expenses/Student": "$24,825",
+                "Support Services": "40%"
+            }
+        },
+        "Colman-Egan School District": {
+            "Niche": "https://www.niche.com/k12/d/colman-egan-school-district-sd/",
+            "Data": {
+                "Website": "https://www.colman-egan.k12.sd.us/",
+                "Phone": "(605) 534-3534",
+                "Address": "200 S LOBAN AVECOLMAN, SD 57017",
+                "Students": "282",
+                "Free or Reduced Lunch": "26.3%",
+                "Expenses/Student": "$12,475",
+                "Support Services": "40%"
+            }
+        },
+        "Bison School District": {
+            "Niche": "https://www.niche.com/k12/d/bison-school-district-sd/",
+            "Data": {
+                "Website": "https://bisonsd.rst7.rschooltoday.com/",
+                "Phone": "(605) 244-5271",
+                "Address": "200 E CARR STBISON, SD 57620",
+                "Students": "137",
+                "Free or Reduced Lunch": "37.6%",
+                "Expenses/Student": "$18,066",
+                "Support Services": "37%"
+            }
+        },
+        "DeSmet School District": {
+            "Niche": "https://www.niche.com/k12/d/desmet-school-district-sd/",
+            "Data": {
+                "Website": "https://desmet.k12.sd.us/",
+                "Phone": "(605) 854-3963",
+                "Address": "405 SW 3RD ST SWDE SMET, SD 57231",
+                "Students": "312",
+                "Free or Reduced Lunch": "25.4%",
+                "Expenses/Student": "$13,494",
+                "Support Services": "35%"
+            }
+        },
+        "Irene-Wakonda School District": {
+            "Niche": "https://www.niche.com/k12/d/irene-wakonda-school-district-sd/",
+            "Data": {
+                "Website": "https://www.irene-wakonda.k12.sd.us/",
+                "Phone": "(605) 263-3311",
+                "Address": "130 E STATE STIRENE, SD 57037",
+                "Students": "320",
+                "Free or Reduced Lunch": "37.2%",
+                "Expenses/Student": "$15,013",
+                "Support Services": "38%"
+            }
+        },
+        "Milbank School District": {
+            "Niche": "https://www.niche.com/k12/d/milbank-school-district-sd/",
+            "Data": {
+                "Website": "https://www.milbankschooldistrict.com",
+                "Phone": "(605) 432-5579",
+                "Address": "1001 E PARK AVEMILBANK, SD 57252",
+                "Students": "1,000",
+                "Free or Reduced Lunch": "28.8%",
+                "Expenses/Student": "$25,132",
+                "Support Services": "36%"
+            }
+        },
+        "Canton School District": {
+            "Niche": "https://www.niche.com/k12/d/canton-school-district-sd/",
+            "Data": {
+                "Website": "http://www.cantonsdk12.org/district41-1/",
+                "Phone": "(605) 764-2706",
+                "Address": "800 N MAIN STCANTON, SD 57013",
+                "Students": "876",
+                "Free or Reduced Lunch": "27.2%",
+                "Expenses/Student": "$10,844",
+                "Support Services": "36%"
+            }
+        },
+        "Castlewood School District": {
+            "Niche": "https://www.niche.com/k12/d/castlewood-school-district-sd/",
+            "Data": {
+                "Website": "https://www.castlewood.k12.sd.us",
+                "Phone": "(605) 793-2497",
+                "Address": "310 E HARRY STCASTLEWOOD, SD 57223",
+                "Students": "347",
+                "Free or Reduced Lunch": "20.3%",
+                "Expenses/Student": "$9,121",
+                "Support Services": "41%"
+            }
+        },
+        "Menno School District": {
+            "Niche": "https://www.niche.com/k12/d/menno-school-district-sd/",
+            "Data": {
+                "Website": "https://www.menno.k12.sd.us/",
+                "Phone": "(605) 387-5161",
+                "Address": "410 5TH STMENNO, SD 57045",
+                "Students": "285",
+                "Free or Reduced Lunch": "50.7%",
+                "Expenses/Student": "$15,951",
+                "Support Services": "37%"
+            }
+        },
+        "Edgemont School District": {
+            "Niche": "https://www.niche.com/k12/d/edgemont-school-district-sd/",
+            "Data": {
+                "Website": "https://www.edgemont.k12.sd.us/",
+                "Phone": "(605) 662-7254",
+                "Address": "715 MOGUL WAYEDGEMONT, SD 57735",
+                "Students": "159",
+                "Free or Reduced Lunch": "52.8%",
+                "Expenses/Student": "$14,780",
+                "Support Services": "38%"
+            }
+        },
+        "Florence School District": {
+            "Niche": "https://www.niche.com/k12/d/florence-school-district-sd/",
+            "Data": {
+                "Website": "https://www.florence.k12.sd.us/",
+                "Phone": "(605) 758-2412",
+                "Address": "515 MAIN AVEFLORENCE, SD 57235",
+                "Students": "307",
+                "Free or Reduced Lunch": "44.2%",
+                "Expenses/Student": "$10,205",
+                "Support Services": "39%"
+            }
+        },
+        "Wessington Springs School District": {
+            "Niche": "https://www.niche.com/k12/d/wessington-springs-school-district-sd/",
+            "Data": {
+                "Website": "https://www.wessingtonsprings.k12.sd.us/",
+                "Phone": "(605) 539-9391",
+                "Address": "302 DAKOTA AVE NWESSINGTON SPRINGS, SD 57382",
+                "Students": "398",
+                "Free or Reduced Lunch": "25.4%",
+                "Expenses/Student": "$10,078",
+                "Support Services": "37%"
+            }
+        },
+        "Rosholt School District": {
+            "Niche": "https://www.niche.com/k12/d/rosholt-school-district-sd/",
+            "Data": {
+                "Website": "https://www.rosholt.k12.sd.us/",
+                "Phone": "(605) 537-4283",
+                "Address": "202 FINLEY AVEROSHOLT, SD 57260",
+                "Students": "242",
+                "Free or Reduced Lunch": "38%",
+                "Expenses/Student": "$12,252",
+                "Support Services": "35%"
+            }
+        },
+        "Faith School District": {
+            "Niche": "https://www.niche.com/k12/d/faith-school-district-sd/",
+            "Data": {
+                "Website": "https://faith.k12.sd.us/",
+                "Phone": "(605) 967-2152",
+                "Address": "206 W 5TH STFAITH, SD 57626",
+                "Students": "168",
+                "Free or Reduced Lunch": "32.4%",
+                "Expenses/Student": "$13,113",
+                "Support Services": "43%"
+            }
+        },
+        "Marion School District": {
+            "Niche": "https://www.niche.com/k12/d/marion-school-district-sd/",
+            "Data": {
+                "Website": "https://www.marion.k12.sd.us/",
+                "Phone": "(605) 648-3615",
+                "Address": "100 S CEDAR STMARION, SD 57043",
+                "Students": "204",
+                "Free or Reduced Lunch": "42.9%",
+                "Expenses/Student": "$15,235",
+                "Support Services": "38%"
+            }
+        },
+        "Meade School District": {
+            "Niche": "https://www.niche.com/k12/d/meade-school-district-sd/",
+            "Data": {
+                "Website": "https://www.meade.k12.sd.us/",
+                "Phone": "(605) 347-2523",
+                "Address": "1230 DOUGLAS STSTURGIS, SD 57785",
+                "Students": "3,093",
+                "Free or Reduced Lunch": "34.8%",
+                "Expenses/Student": "$9,287",
+                "Support Services": "35%"
+            }
+        },
+        "Deuel School District": {
+            "Niche": "https://www.niche.com/k12/d/deuel-school-district-sd/",
+            "Data": {
+                "Website": "https://www.deuel.k12.sd.us",
+                "Phone": "(605) 874-2161",
+                "Address": "410 5TH ST WCLEAR LAKE, SD 57226",
+                "Students": "558",
+                "Free or Reduced Lunch": "30.9%",
+                "Expenses/Student": "$9,683",
+                "Support Services": "38%"
+            }
+        },
+        "Woonsocket School District": {
+            "Niche": "https://www.niche.com/k12/d/woonsocket-school-district-sd/",
+            "Data": {
+                "Website": "https://www.woonsocket.k12.sd.us",
+                "Phone": "(605) 796-4431",
+                "Address": "101 N 2ND AVEWOONSOCKET, SD 57385",
+                "Students": "282",
+                "Free or Reduced Lunch": "43%",
+                "Expenses/Student": "$9,819",
+                "Support Services": "37%"
+            }
+        },
+        "Tripp-Delmont School District": {
+            "Niche": "https://www.niche.com/k12/d/tripp-delmont-school-district-sd/",
+            "Data": {
+                "Website": "https://www.tridel.k12.sd.us",
+                "Phone": "(605) 935-6766",
+                "Address": "105 S SLOANTRIPP, SD 57376",
+                "Students": "161",
+                "Free or Reduced Lunch": "48.4%",
+                "Expenses/Student": "$17,379",
+                "Support Services": "32%"
+            }
+        },
+        "Custer School District": {
+            "Niche": "https://www.niche.com/k12/d/custer-school-district-sd/",
+            "Data": {
+                "Website": "https://www.csd.k12.sd.us",
+                "Phone": "(605) 673-3154",
+                "Address": "527 MONTGOMERY STCUSTER, SD 57730",
+                "Students": "922",
+                "Free or Reduced Lunch": "35.7%",
+                "Expenses/Student": "$13,626",
+                "Support Services": "38%"
+            }
+        },
+        "Summit School District": {
+            "Niche": "https://www.niche.com/k12/d/summit-school-district-sd/",
+            "Data": {
+                "Website": "https://www.summit.k12.sd.us",
+                "Phone": "(605) 398-6211",
+                "Address": "400 W SHERMAN AVESUMMIT, SD 57266",
+                "Students": "177",
+                "Free or Reduced Lunch": "58%",
+                "Expenses/Student": "$13,226",
+                "Support Services": "38%"
+            }
+        },
+        "Newell School District": {
+            "Niche": "https://www.niche.com/k12/d/newell-school-district-sd/",
+            "Data": {
+                "Website": "https://www.newell.k12.sd.us/",
+                "Phone": "(605) 456-2393",
+                "Address": "501 DARTMOUTH AVENEWELL, SD 57760",
+                "Students": "269",
+                "Free or Reduced Lunch": "50.3%",
+                "Expenses/Student": "$13,178",
+                "Support Services": "42%"
+            }
+        },
+        "Elkton School District": {
+            "Niche": "https://www.niche.com/k12/d/elkton-school-district-sd/",
+            "Data": {
+                "Website": "https://www.elkton.k12.sd.us/",
+                "Phone": "(605) 542-2541",
+                "Address": "508 S BUFFALO STELKTON, SD 57026",
+                "Students": "430",
+                "Free or Reduced Lunch": "27.7%",
+                "Expenses/Student": "$10,874",
+                "Support Services": "37%"
+            }
+        },
+        "Lead-Deadwood School District": {
+            "Niche": "https://www.niche.com/k12/d/lead-deadwood-school-district-sd/",
+            "Data": {
+                "Website": "https://www.lead-deadwood.k12.sd.us/",
+                "Phone": "(605) 717-3890",
+                "Address": "320 S MAIN STLEAD, SD 57754",
+                "Students": "699",
+                "Free or Reduced Lunch": "50.7%",
+                "Expenses/Student": "$20,127",
+                "Support Services": "44%"
+            }
+        },
+        "Redfield School District": {
+            "Niche": "https://www.niche.com/k12/d/redfield-school-district-sd/",
+            "Data": {
+                "Website": "https://www.redfield.k12.sd.us",
+                "Phone": "(605) 472-4520",
+                "Address": "111 EAST 6TH AVEREDFIELD, SD 57469",
+                "Students": "596",
+                "Free or Reduced Lunch": "30.6%",
+                "Expenses/Student": "$17,087",
+                "Support Services": "34%"
+            }
+        },
+        "Gayville-Volin School District": {
+            "Niche": "https://www.niche.com/k12/d/gayville-volin-school-district-sd/",
+            "Data": {
+                "Website": "https://www.gayvillevolin.k12.sd.us/",
+                "Phone": "(605) 267-4476",
+                "Address": "100 KINGSBURY STGAYVILLE, SD 57031",
+                "Students": "302",
+                "Free or Reduced Lunch": "39.2%",
+                "Expenses/Student": "$11,308",
+                "Support Services": "39%"
+            }
+        },
+        "White River School District": {
+            "Niche": "https://www.niche.com/k12/d/white-river-school-district-sd/",
+            "Data": {
+                "Website": "https://www.whiteriver.k12.sd.us/",
+                "Phone": "(605) 259-3311",
+                "Address": "501 E 3RD STWHITE RIVER, SD 57579",
+                "Students": "383",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$16,029",
+                "Support Services": "37%"
+            }
+        },
+        "Beresford School District": {
+            "Niche": "https://www.niche.com/k12/d/beresford-school-district-sd/",
+            "Data": {
+                "Website": "https://www.beresford.k12.sd.us/",
+                "Phone": "(605) 763-4293",
+                "Address": "301 WEST MAPLE STBERESFORD, SD 57004",
+                "Students": "715",
+                "Free or Reduced Lunch": "22.2%",
+                "Expenses/Student": "$9,855",
+                "Support Services": "35%"
+            }
+        },
+        "Andes Central School District": {
+            "Niche": "https://www.niche.com/k12/d/andes-central-school-district-sd/",
+            "Data": {
+                "Website": "https://www.andescentral.k12.sd.us/",
+                "Phone": "(605) 487-7671",
+                "Address": "1001 HIGH STLAKE ANDES, SD 57356",
+                "Students": "348",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$20,204",
+                "Support Services": "46%"
+            }
+        },
+        "Wilmot School District": {
+            "Niche": "https://www.niche.com/k12/d/wilmot-school-district-sd/",
+            "Data": {
+                "Website": "https://www.wilmot.k12.sd.us/",
+                "Phone": "(605) 938-4647",
+                "Address": "800 ORDWAY STWILMOT, SD 57279",
+                "Students": "233",
+                "Free or Reduced Lunch": "49.1%",
+                "Expenses/Student": "$12,451",
+                "Support Services": "44%"
+            }
+        },
+        "Chester Area School District": {
+            "Niche": "https://www.niche.com/k12/d/chester-area-school-district-sd/",
+            "Data": {
+                "Website": "https://chester.k12.sd.us",
+                "Phone": "(605) 489-2411",
+                "Address": "102 2ND AVECHESTER, SD 57016",
+                "Students": "567",
+                "Free or Reduced Lunch": "14.6%",
+                "Expenses/Student": "$9,790",
+                "Support Services": "36%"
+            }
+        },
+        "McCook Central School District": {
+            "Niche": "https://www.niche.com/k12/d/mccook-central-school-district-sd/",
+            "Data": {
+                "Website": "https://www.mccookcentral.k12.sd.us",
+                "Phone": "(605) 425-2264",
+                "Address": "200 E ESSEX AVESALEM, SD 57058",
+                "Students": "444",
+                "Free or Reduced Lunch": "23.4%",
+                "Expenses/Student": "$11,356",
+                "Support Services": "36%"
+            }
+        },
+        "Bennett County School District": {
+            "Niche": "https://www.niche.com/k12/d/bennett-county-school-district-sd/",
+            "Data": {
+                "Website": "https://www.bennettco.k12.sd.us",
+                "Phone": "(605) 685-6112",
+                "Address": "403 1ST AVEMARTIN, SD 57551",
+                "Students": "522",
+                "Free or Reduced Lunch": "70.2%",
+                "Expenses/Student": "$16,831",
+                "Support Services": "37%"
+            }
+        },
+        "Viborg-Hurley School District": {
+            "Niche": "https://www.niche.com/k12/d/viborg-hurley-school-district-sd/",
+            "Data": {
+                "Website": "https://www.viborg-hurley.k12.sd.us",
+                "Phone": "(605) 766-5418",
+                "Address": "203 W PARK AVEVIBORG, SD 57070",
+                "Students": "407",
+                "Free or Reduced Lunch": "34.2%",
+                "Expenses/Student": "$10,813",
+                "Support Services": "44%"
+            }
+        },
+        "New Underwood School District": {
+            "Niche": "https://www.niche.com/k12/d/new-underwood-school-district-sd/",
+            "Data": {
+                "Website": "https://www.newunderwood.k12.sd.us",
+                "Phone": "(605) 754-6485",
+                "Address": "300 E ASH STNEW UNDERWOOD, SD 57761",
+                "Students": "287",
+                "Free or Reduced Lunch": "30.9%",
+                "Expenses/Student": "$8,157",
+                "Support Services": "42%"
+            }
+        },
+        "White Lake School District": {
+            "Niche": "https://www.niche.com/k12/d/white-lake-school-district-sd/",
+            "Data": {
+                "Website": "https://whitelake.k12.sd.us",
+                "Phone": "(605) 249-2251",
+                "Address": "410 EAST 4TH  STWHITE LAKE, SD 57383",
+                "Students": "141",
+                "Free or Reduced Lunch": "48.3%",
+                "Expenses/Student": "$16,603",
+                "Support Services": "38%"
+            }
+        },
+        "Waverly School District": {
+            "Niche": "https://www.niche.com/k12/d/waverly-school-district-sd/",
+            "Data": {
+                "Website": "https://www.waverly.k12.sd.us/",
+                "Phone": "(605) 886-9174",
+                "Address": "319 MARY PLWAVERLY, SD 57201",
+                "Students": "267",
+                "Free or Reduced Lunch": "34.5%",
+                "Expenses/Student": "$12,846",
+                "Support Services": "36%"
+            }
+        },
+        "Henry School District": {
+            "Niche": "https://www.niche.com/k12/d/henry-school-district-sd/",
+            "Data": {
+                "Website": "https://www.henry.k12.sd.us/",
+                "Phone": "(605) 532-5364",
+                "Address": "111 N CEDAR STHENRY, SD 57243",
+                "Students": "187",
+                "Free or Reduced Lunch": "47.3%",
+                "Expenses/Student": "$14,615",
+                "Support Services": "41%"
+            }
+        },
+        "Scotland School District": {
+            "Niche": "https://www.niche.com/k12/d/scotland-school-district-sd/",
+            "Data": {
+                "Website": "https://www.scotland.k12.sd.us/",
+                "Phone": "(605) 583-2717",
+                "Address": "711 4TH STSCOTLAND, SD 57059",
+                "Students": "281",
+                "Free or Reduced Lunch": "33%",
+                "Expenses/Student": "$12,416",
+                "Support Services": "35%"
+            }
+        },
+        "Hot Springs School District": {
+            "Niche": "https://www.niche.com/k12/d/hot-springs-school-district-sd/",
+            "Data": {
+                "Website": "https://www.hssd.k12.sd.us",
+                "Phone": "(605) 745-4159",
+                "Address": "1747 LINCOLN AVEHOT SPRINGS, SD 57747",
+                "Students": "780",
+                "Free or Reduced Lunch": "39.8%",
+                "Expenses/Student": "$9,450",
+                "Support Services": "36%"
+            }
+        },
+        "Willow Lake School District": {
+            "Niche": "https://www.niche.com/k12/d/willow-lake-school-district-sd/",
+            "Data": {
+                "Website": "https://www.willowlake.k12.sd.us",
+                "Phone": "(605) 625-5945",
+                "Address": "400 GARFIELD AVEWILLOW LAKE, SD 57278",
+                "Students": "307",
+                "Free or Reduced Lunch": "28.4%",
+                "Expenses/Student": "$11,003",
+                "Support Services": "35%"
+            }
+        },
+        "Dupree School District": {
+            "Niche": "https://www.niche.com/k12/d/dupree-school-district-sd/",
+            "Data": {
+                "Website": "https://www.dupree.k12.sd.us",
+                "Phone": "(605) 365-5140",
+                "Address": "127 B STDUPREE, SD 57623",
+                "Students": "391",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$17,624",
+                "Support Services": "37%"
+            }
+        },
+        "Iroquois School District": {
+            "Niche": "https://www.niche.com/k12/d/iroquois-school-district-sd/",
+            "Data": {
+                "Website": "https://www.iroquois.k12.sd.us",
+                "Phone": "(605) 546-2210",
+                "Address": "111 E WASHITA STIROQUOIS, SD 57353",
+                "Students": "230",
+                "Free or Reduced Lunch": "44.4%",
+                "Expenses/Student": "$14,478",
+                "Support Services": "34%"
+            }
+        },
+        "Todd County School District": {
+            "Niche": "https://www.niche.com/k12/d/todd-county-school-district-sd/",
+            "Data": {
+                "Website": "https://www.tcsdk12.org/",
+                "Phone": "(605) 856-3501",
+                "Address": "110 E DENVER DRMISSION, SD 57555",
+                "Students": "2,000",
+                "Free or Reduced Lunch": "99.9%",
+                "Expenses/Student": "$15,358",
+                "Support Services": "42%"
+            }
+        },
+        "Oelrichs School District": {
+            "Niche": "https://www.niche.com/k12/d/oelrichs-school-district-sd/",
+            "Data": {
+                "Website": "https://oelrichs.k12.sd.us/default.aspx",
+                "Phone": "(605) 535-2631",
+                "Address": "214 WEST 7TH STOELRICHS, SD 57763",
+                "Students": "141",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$20,234",
+                "Support Services": "44%"
+            }
+        },
+        "Smee School District": {
+            "Niche": "https://www.niche.com/k12/d/smee-school-district-sd/",
+            "Data": {
+                "Website": "https://www.smee.k12.sd.us",
+                "Phone": "(605) 845-3040",
+                "Address": "12250 SD HWY 1806WAKPALA, SD 57658",
+                "Students": "174",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$26,092",
+                "Support Services": "45%"
+            }
+        },
+        "McLaughlin School District": {
+            "Niche": "https://www.niche.com/k12/d/mclaughlin-school-district-sd/",
+            "Data": {
+                "Website": "https://www.mclaughlin.k12.sd.us/",
+                "Phone": "(605) 823-4484",
+                "Address": "601 S MAIN STMCLAUGHLIN, SD 57642",
+                "Students": "434",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "$22,813",
+                "Support Services": "45%"
+            }
+        },
+        "Oglala Lakota County School District": {
+            "Niche": "https://www.niche.com/k12/d/oglala-lakota-county-school-district-sd/",
+            "Data": {
+                "Website": "https://www.olcsd.com/",
+                "Phone": "(605) 288-1921",
+                "Address": "206 SCHOOL STBATESLAND, SD 57716",
+                "Students": "1,840",
+                "Free or Reduced Lunch": "99.8%",
+                "Expenses/Student": "$17,326",
+                "Support Services": "43%"
+            }
+        },
+        "Eagle Butte School District": {
+            "Niche": "https://www.niche.com/k12/d/eagle-butte-school-district-sd/",
+            "Data": {
+                "Website": "https://www.ohitika.com/",
+                "Phone": "(605) 964-4911",
+                "Address": "24 WEST PRAIRIE RDEAGLE BUTTE, SD 57625",
+                "Students": "345",
+                "Free or Reduced Lunch": "96.9%",
+                "Expenses/Student": "$25,606",
+                "Support Services": "36%"
+            }
+        },
+        "Cheyenne-Eagle Butte School": {
+            "Niche": "https://www.niche.com/k12/d/cheyenne-eagle-butte-school-sd/",
+            "Data": {
+                "Website": "https://www.ohitika.com/",
+                "Phone": "(605) 964-8777",
+                "Address": "2004 E STEAGLE BUTTE, SD 57625",
+                "Students": "654",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "N/A",
+                "Support Services": "N/A"
+            }
+        },
+        "Little Wound School": {
+            "Niche": "https://www.niche.com/k12/d/little-wound-school-sd/",
+            "Data": {
+                "Website": "https://www.littlewound.us/",
+                "Phone": "(605) 455-6150",
+                "Address": "1 MAIN STKYLE, SD 57752",
+                "Students": "562",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "N/A",
+                "Support Services": "N/A"
+            }
+        },
+        "Tiospa Zina Tribal School": {
+            "Niche": "https://www.niche.com/k12/d/tiospa-zina-tribal-school-sd/",
+            "Data": {
+                "Website": "https://www.tzts.us/",
+                "Phone": "(605) 698-3953",
+                "Address": "#2 TZ DRAGENCY VILLAGE, SD 57262",
+                "Students": "501",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "N/A",
+                "Support Services": "N/A"
+            }
+        },
+        "St. Francis Indian School": {
+            "Niche": "https://www.niche.com/k12/d/st-francis-indian-school-sd/",
+            "Data": {
+                "Website": "https://www.sfisk12.org/",
+                "Phone": "(605) 747-2298",
+                "Address": "502 E WARRIOR DRST. FRANCIS, SD 57572",
+                "Students": "482",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "N/A",
+                "Support Services": "N/A"
+            }
+        },
+        "Pine Ridge School": {
+            "Niche": "https://www.niche.com/k12/d/pine-ridge-school-sd/",
+            "Data": {
+                "Website": "https://prs.bie.edu/",
+                "Phone": "(605) 867-5198",
+                "Address": "101 THORPE CIRCLEPINE RIDGE, SD 57770",
+                "Students": "432",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "N/A",
+                "Support Services": "N/A"
+            }
+        },
+        "Lower Brule Day School": {
+            "Niche": "https://www.niche.com/k12/d/lower-brule-day-school-sd/",
+            "Data": {
+                "Website": "https://www.lowerbruleschools.org/",
+                "Phone": "(605) 473-5382",
+                "Address": "227 BIA #10LOWER BRULE, SD 57548",
+                "Students": "274",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "N/A",
+                "Support Services": "N/A"
+            }
+        },
+        "Marty Indian School": {
+            "Niche": "https://www.niche.com/k12/d/marty-indian-school-sd/",
+            "Data": {
+                "Website": "https://www.martyindian.k12.sd.us/",
+                "Phone": "(605) 384-2212",
+                "Address": "100 SOUTH MAINMARTY, SD 57361",
+                "Students": "206",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "N/A",
+                "Support Services": "N/A"
+            }
+        },
+        "Tiospaye Topa School": {
+            "Niche": "https://www.niche.com/k12/d/tiospaye-topa-school-sd/",
+            "Data": {
+                "Website": "https://www.tiospayetopa.org/",
+                "Phone": "(605) 733-2290",
+                "Address": "15618 1ST AVELAPLANT, SD 57652",
+                "Students": "134",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "N/A",
+                "Support Services": "N/A"
+            }
+        },
+        "Takini School": {
+            "Niche": "https://www.niche.com/k12/d/takini-school-sd/",
+            "Data": {
+                "Website": "https://www.takiniskyhawks.com/",
+                "Phone": "(605) 538-4399",
+                "Address": "HWY 34 EAST CHERRY CREEK RDHOWES, SD 57748",
+                "Students": "129",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "N/A",
+                "Support Services": "N/A"
+            }
+        },
+        "Crazy Horse School": {
+            "Niche": "https://www.niche.com/k12/d/crazy-horse-school-sd/",
+            "Data": {
+                "Website": "https://www.crazyhorse.k12.sd.us/",
+                "Phone": "(605) 462-6792",
+                "Address": "245 CRAZY HORSE SCHOOL DRWANBLEE, SD 57577",
+                "Students": "115",
+                "Free or Reduced Lunch": "100%",
+                "Expenses/Student": "N/A",
+                "Support Services": "N/A"
+            }
+        },
+        "School District School for the Blind & Visually Impaired": {
+            "Niche": "https://www.niche.com/k12/d/school-district-school-for-the-blind-and-visually-impaired-sd/",
+            "Data": {
+                "Website": "https://sdsbvi.org/Foundation/Contact",
+                "Phone": "(605) 626-2580",
+                "Address": "605 14TH AVE SEABERDEEN, SD 57401",
+                "Students": "22",
+                "Free or Reduced Lunch": "16.7%",
+                "Expenses/Student": "N/A",
+                "Support Services": "N/A"
+            }
+        }
+    }
+}
